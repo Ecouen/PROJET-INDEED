@@ -1,0 +1,10 @@
+body{
+   margin: 0;
+   padding: 0;
+}
+header{
+    padding-left: 10px;
+}
+.nav-pills{
+    padding-left: 55%;
+}

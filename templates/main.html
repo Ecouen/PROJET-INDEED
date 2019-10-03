@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Python's dashboard</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename ='css/bootstrap.min.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename ='css/style.css') }}">
+    <link rel="shortcut icon" href="{{ url_for('static', filename ='favicon.ico') }}">
+</head>
+<body>
+
+<header>
+  <nav class="navbar navbar-expand-lg navbar-light">
+  <a class="navbar-brand" href="/" style="color: black;"> <img src="{{ url_for('static', filename ='images/logo_stats.png') }}" alt=""> PROJECT INDEED</a>
+  <ul class="nav nav-pills">
+      <li class="nav-item">
+        <a class="nav-link active" href="#">Home</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Link</a>
+      </li>
+    </ul>
+
+  <div class="dropdown">
+    <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+      Les graphs
+    </button>
+    <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+      <a class="dropdown-item" href="#">1er graph</a>
+      <a class="dropdown-item" href="#">2nd graph</a>
+      <a class="dropdown-item" href="#">3eme graph</a>
+    </div>
+</div>
+  </nav>
+
+
+  
+</header>
+
+<body>
+  <script
+  src="http://code.jquery.com/jquery-3.4.1.js"
+  integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU="
+  crossorigin="anonymous"></script>
+	<script type="text/javascript" src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
+</body>
+
+<p>Hey there ! Voici notre Dashboard Flask !</p> 
+
+
+
+</body>
+</html>
+
