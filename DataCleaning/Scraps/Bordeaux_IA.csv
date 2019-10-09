@@ -1,0 +1,1103 @@
+,id,meta1,meta2,titre_poste,entreprise,localisation,contrat,salaire,date_publication,keyword_metier,keyword_localisation,description
+0,https://www.indeed.fr/emplois?q=Intelligence%20Artificielle&l=Bordeaux&radius=100&limit=100&sort=date&vjk=5056f20b05ce2291,"Ingénieur Informatique R&D Machine Learning expérimenté
+weenove - Bordeaux (33)","['Bordeaux (33)', 'CDI']",Ingénieur Informatique R&D Machine Learning expérimenté,weenove,- Bordeaux (33),CDI,null,"il y a 1 jour
+Signaler cette offre d'emploi",Intelligence Artificielle,Bordeaux,"Au sein de l’équipe de développement, vous participerez à l’étude et au développement de nouvelles fonctionnalités innovantes à forte valeur ajoutée pour notre logiciel Biwee :
+Développement dans le domaine du machine learning
+Utilisation ou construction d’algorithmes prédictifs et de corrélations automatiques de jeux de données
+Veille sur les dernières technologies en IA et Machine learning
+Profil
+De formation Ingénieur Informatique ou universitaire, vous justifiez d'une expérience professionnelle de 5 ans minimum.
+
+Savoir-faire nécessaires :
+Connaissances avancées en Machine Learning
+Maitrise du C#
+Maitrise de Microsoft Azure serait un plus
+Savoir-être souhaités :
+Sens de l’organisation et de l’autonomie
+Curieux et passionné par les technologies d’IA et de machine learning
+Sens pédagogique
+Capacité à travailler en équipe
+
+Rémunération : Selon profil et expérience.
+
+Mots clés associés : C#, Intelligence Artificielle, Big Data, Machine learning, IA, apprentissage machine, algorithme évolutionnaire, business intelligence"
+1,https://www.indeed.fr/emplois?q=Intelligence%20Artificielle&l=Bordeaux&radius=100&limit=100&sort=date&vjk=9c8768c005df0707,"Stage - Implémentation et évaluation d'algorithmes ML / IA sur CPU/GPU
+Thales Group1,225 avis - Bordeaux (33)","['Bordeaux (33)', 'Stage']",Stage - Implémentation et évaluation d'algorithmes ML / IA sur CPU/GPU,Thales Group,- Bordeaux (33),Stage,null,"Thales - il y a 5 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Intelligence Artificielle,Bordeaux,"QUI SOMMES-NOUS ?
+L’activité avionique rassemble 10 000 collaborateurs qui œuvrent à fournir des équipements et des systèmes de pointe pour toute la chaîne de l’aéronautique civile et militaire.
+Sur le Campus Thales Bordeaux, nous concevons, développons et livrons des systèmes, des équipements et des services pour assurer la réussite des missions aéroportées de nos clients, dans les domaines du transport, de la surveillance et du combat.
+Le Centre de Compétence Plateforme recherche un/une stagiaire Ingénieur Développeur H/F
+QUI ETES-VOUS ?
+Vous êtes de niveau BAC+5 ?
+Un Stage/projet significatif sur du traitement du signal voire machine learning est nécessaire ?
+Les compétences primordiales pour effectuer ce stages sont :
+Langages de programmation : C/C++/Python
+OS : Linux
+Algorithmie TS/TI, connaissances en réseaux de neurones
+Utilisation des APIs OpenMP/CUDA/OpenCL
+OS : Des connaissances en OS temps réel et développement de drivers
+Utilisation d'Open CV ainsi que l’utilisation de Pytorch, Tensorflow, ou scikit-learn
+Compétences en algorithmie de machine learning autre que les réseaux de neurones
+C++11/14/17 seraient un plus ?
+Vous avez un bon niveau d’anglais ?
+Ce descriptif vous correspond , alors n’hésitez plus et rejoignez-nous !
+CE QUE NOUS POUVONS ACCOMPLIR ENSEMBLE :
+Les algorithmes d'IA/ML, et plus particulièrement de réseaux de neurones (CNN/DNN) peuvent améliorer les performances du traitement du signal des systèmes Radar : nouvelles fonctionnalités, calibration automatique, meilleures détections, etc.
+Ces algorithmes exploitent l'architecture parallèle des CPU multicoeurs et des GPU.
+Le centre de compétences plateforme souhaite évaluer les performances de ces algorithmes pour aborder au mieux leur embarquabilité dans des systèmes HPEC temps réel dur afin de proposer des solutions adaptées en termes de matériel et de logiciel.
+En nous rejoignant, vous vous verrez confier les missions suivantes :
+Etat de l'art des algorithmes IA/ML, ainsi que des API et bibliothèques associés.
+portage du driver AMD ROCM sur carte d'évaluation NXP LX2160, ainsi que des bibliothèques armnn, MiOpen, et tvm
+collaboration avec les équipes algorithmie pour la définition d'algorithmes ML/IA (Machine Learning/ Intelligence Artificielle)
+Implémentation de ces algorithmes avec les API/bibliothèques retenus
+Caractérisation des performances d'inférence de ces algorithmes sur GPU AMD et CPU LX2160: charge CPU/GPU, quantité mémoire, latence
+Innovation, passion, ambition : rejoignez Thales et créez le monde de demain, dès aujourd’hui.
+Innovation, passion, ambition : rejoignez Thales et créez le monde de demain, dès aujourd’hui."
+2,https://www.indeed.fr/emplois?q=Intelligence%20Artificielle&l=Bordeaux&radius=100&limit=100&sort=date&vjk=e1e26cea06a0c803,"H/F Neuroscientifique expérimenté/e
+LUCINE - Bordeaux (33)","['Bordeaux (33)', 'CDI', '30 000 € - 45 000 € par an']",H/F Neuroscientifique expérimenté/e,LUCINE,- Bordeaux (33),CDI,30 000 € - 45 000 € par an,"il y a 8 jours
+Signaler cette offre d'emploi",Intelligence Artificielle,Bordeaux,"Qui sommes-nous ? Lucine est une startup pluridisciplinaire aux croisées du monde de la science et de l’innovation technologique.
+Notre challenge ? Offrir de nouveaux horizons aux soignants et aux patients douloureux grâce aux thérapies du numérique. Nous transformons le secteur de la santé, en proposant un système combinant une intelligence artificielle pour analyser,diagnostiquer et soulager la douleur.
+Missions
+Au sein du pôle sciences composé d’une équipe pluridisciplinaire et sous la direction de notre directrice Sciences vous devrez :
+Concevoir, planifier et mettre en place les études scientifiques en lien avec les besoins de l’entreprise (Etat de l’art, hypothèses, gestion du cadre clinique et analyse des résultats)
+Rédiger les articles scientifiques ainsi que la documentation interne à l’entreprise
+Analyser des hypothèses de stimulations non invasifs capables d’agir sur les mécanismes de la douleur
+Proposer des expérimentations sur volontaires sains d’induction de douleur
+Participer aux réunions d’équipes et à la bonne communication des données scientifiques
+Vous pouvez également être amené(e) à participer à la formation interne des équipes suivant les domaines de compétences.
+Profil recherché
+Brillant chercheur en neurosciences fondamentales et cliniques, vous justifiez d’une expérience réussie sur la douleur et l’analgésie.
+Vous maîtrisez l’utilisation et/ou la lecture de résultats issus de techniques non-invasives de mesures (VRC, EDA, pupillométrie, EEG, IRMf, TEP…)
+Organisé(e) et méthodique vous savez également vulgariser votre discours
+Vous maitrisez la recherche fondamentale et la recherche clinique
+Vous savez analyser la recherche préclinique
+Pour aller plus loin :
+Vous possédez une expérience du modèle translationnel
+Vous êtes à l’aise avec les essais de clinique de Phase trois (comparé au Placebo ou médicament de référence).
+Vous maîtrisez les protocoles sur animaux
+Informations supplémentaires
+Rémunération : suivant profil
+Poste en CDI à pourvoir dès que possible
+Type d'emploi : CDI
+Salaire : 30 000,00€ à 45 000,00€ /an
+Expérience:
+h/f neuroscientifique expérimentée) ou similaire: 5 ans (Souhaité)"
+3,https://www.indeed.fr/emplois?q=Intelligence%20Artificielle&l=Bordeaux&radius=100&limit=100&sort=date&vjk=ffd625c21e55596d,"Chef de Projet I.A. Homme – Machine (F/H)
+IRT Saint Exupéry - Bordeaux (33)","['Bordeaux (33)', 'CDI']",Chef de Projet I.A. Homme – Machine (F/H),IRT Saint Exupéry,- Bordeaux (33),CDI,null,"il y a 11 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Intelligence Artificielle,Bordeaux,"Département: Systèmes Intelligents et Communicants
+N+1 : Responsable de pôle
+Lieu : Bordeaux
+L’Institut de Recherche Technologique Antoine de Saint Exupéry, vise à renforcer la compétitivité de la recherche et de l’industrie en Occitanie, Nouvelle Aquitaine et Provence-Alpes-Côte d’Azur dans les secteurs de l’aéronautique, du spatial, et des systèmes embarqués.
+Financé à 50% par le secteur public et à 50% par le secteur privé, il réunit les grands industriels de la région des secteurs concernés, les établissements publics et leurs laboratoires pour travailler dans trois domaines technologiques stratégiques : matériaux multifonctionnels haute performance, aéronef plus électrique, systèmes embarqués.
+Les avancées récentes des méthodes d’Intelligence Artificielle permette de produire des solutions matures pour la resolution de certains problèmes, mais leur intégration dans des systèmes complexes et/ou critiques nécessitera une interface avec l’humain. Le Projet PEPhITE, qui entre dans le cadre des activités du pôle Intelligent Systems & Applications, est un projet ayant pour objectif le développement d’une plateforme innovante d’évaluation de la collaboration homme – machine appliquée au domaine de la défense, dans un premier temps. Pour cela, des méthodes basées sur de l’intelligence artificielle et la cognition seront développées.
+Nous recherchons donc, pour le site bordelais de l’IRT Saint Exupéry, notre futur(e) Chef de projet afin de piloter le montage d’une plateforme d’évaluation de la collaboration entre l’homme et la machine dans le domaine de la défense et en collaboration avec les acteurs locaux du domaine (Thales Avionics, Dassault Systems, ENSC).
+Missions :
+Nous recherchons un(e) chef de projet qui traitera en partie les aspects relationnels et contractuels mais surtout les aspects opérationnels de montage de la plateforme d’évaluation des interactions entre l’homme et la machine.
+Pour cela le/la chef de projet s’appuiera sur les responsables de lot, les experts du domaine, les partenaires académiques mais il devra également identifier des technologies prometteuses pour les proposer au projet et aux membres.
+Le/la chef de projet aura en charge l’orientation et le pilotage technique, la coordination des différents lots, il/elle sera garant(e) de l’excellence technique du projet, il/elle validera les livrables techniques (notes, revues, publications).
+Il/elle devra également garantir la cohérence des activités techniques du projet avec la feuille de route du domaine, définir/participer aux conférences et congrès stratégiques, contribuer à la veille technologique (benchmarking, brevets,…) et contribuer aux collaborations techniques entre domaines IRT.
+Gestion de projets : livrables, respect des engagements financiers, propriété intellectuelle, gestion des réunions de travail, engagement calendaire, reporting, communication, interactions avec autres projets du domaine, etc..
+Gestion de la collaboration entre membres du projet : intégration des besoins des différents partenaires dans le but de répondre aux livrables du projet.
+Gestion de la mise en place de la plateforme : en collaboration avec les différents acteurs, définir et mettre en place les éléments nécessaires à la bonne avancée de la plateforme collaborative.
+Profil recherché :
+Diplômé d’école d’ingénieur ou titulaire d’un Doctorat dans le domaine des sciences cognitives, de l’informatique ou de l’intelligence artificielle. Vous disposez d’une solide expérience dans le pilotage de projet en lien avec la recherche technologique sur les interactions homme machine, des technologies du digital, ou plus largement sur de l’IA.
+Compétences et connaissances requises:
+Connaissance des systèmes d’analyses mutli-paramètres
+Architecture et développement logiciel (C++ de préférence)
+Conduite de projets de R&D autour des technologies du digital
+Supervision de la veille technologique et scientifique
+Connaissance des éléments du domaine Intelligence Artificielle et des Sciences Cognitives
+Aptitudes requises:
+Capacité à gérer un projet de R&D
+Capacité à piloté des équipes sur plusieurs sites
+Ecoute (relation client) / relationnel
+Capacité de synthèse
+Leadership / négociation
+Si cette offre vous intéresse, merci d’adresser votre dossier de candidature (LM+CV) à recrutement@irt-saintexupery.com sous la référence : 19DI-SIC-PEP-01"
+4,https://www.indeed.fr/emplois?q=Intelligence%20Artificielle&l=Bordeaux&radius=100&limit=100&sort=date&vjk=99b234ac57590773,"Programmeur Gameplay
+Asobo Studio - Bordeaux (33)","['Bordeaux (33)', 'CDD']",Programmeur Gameplay,Asobo Studio,- Bordeaux (33),CDD,null,"emploi.afjv.com - il y a 18 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Intelligence Artificielle,Bordeaux,"Position Duties
+Au sein d'une équipe d'une quinzaine de programmeurs, vous développerez des contenus dédiés au jeu et pourrez intervenir dans la programmation des éléments suivants :
+Déplacements d'éléments du jeu, de la physique des objets et calcul de trajectoires
+Lecture et traitement des inputs
+Caméra contextuellement aux interactions
+Animations
+Comportement d'IA de personnages ou d'éléments de jeu
+Règles de jeux et systèmes de communication entre personnages / éléments de jeu
+Programmation et/ou intégration de l'interface utilisateurs et menus.
+Effets sonores et de particules.
+Intégration de la couche réseau dans le jeu : missions, interactions, gestion des données réseaux
+Partage sur les réseaux sociaux, leaderboards
+Candidate Profile
+Connaissance approfondie du C++
+Expérience approfondie en dynamique dans le jeu vidéo.
+Expérience des nouvelles méthodes de contrôle.
+Expérience dans l'utilisation des moteurs de physique.
+Expérience en path finding et en intelligence artificielle.
+Expérience en développement de jeux multjoueurs
+Expérience dans la programmation réseau (jeu vidéo de préférence)
+Expérience dans l'analyse/ traitement d'image
+Connaissance des outils de tuning sur console (PIX,GPAD).
+Connaissance des SDK Xone et/ou PS4
+Additional Information
+Intégrer l'équipe, c'est aussi bénéficier de notre politique sociale.
+
+Citons par exemple :
+Notre Qualité de vie (Nouveaux locaux, espace cafeteria pour déjeuner, région Sud Ouest accueillante)
+Nos Avantages au quotidien (Tickets restaurant, subvention transport en commun, service d'aide au logement...)
+Nos Compléments de rémunération (Mutuelle prise en charge à 100%, chèques cadeaux pour Noël, chèques vacances, CESU, prime annuelle, participation aux bénéfices...)"
+5,https://www.indeed.fr/emplois?q=Intelligence%20Artificielle&l=Bordeaux&radius=100&limit=100&sort=date&vjk=907690dd555aafba,"Stage Caractérisation des propriétés spatio-temporelles du fouillis de mer (H/F)
+Thales Group1,225 avis - Bordeaux (33)","['Bordeaux (33)', 'Stage']",Stage Caractérisation des propriétés spatio-temporelles du fouillis de mer (H/F),Thales Group,- Bordeaux (33),Stage,null,"Thales - il y a 19 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Intelligence Artificielle,Bordeaux,"QUI SOMMES-NOUS ?
+L’activité Systèmes de missions de défense fournit des équipements, des solutions et des services liés aux systèmes de combat électroniques, de surveillance et de reconnaissance, de combat naval, de surface et de lutte sous la mer.
+Sur le Campus Thales Bordeaux, nous concevons, développons et livrons des systèmes, des équipements et des services pour assurer la réussite des missions aéroportées de nos clients, dans les domaines du transport, de la surveillance et du combat.
+QUI ÊTES-VOUS?
+Vous vous préparez à devenir Ingénieur en Électronique ou Informatique ?
+La rigueur, le gout du travail accompli, un bon relationnel sont des qualités qui vous caractérisent ?
+Vous êtes familier du logiciel Matlab?
+Vos compétences en traitement du signal et algorithmie sont des compétences indispensables ?
+Vous êtes autonome et Force de propositions
+Cette description vous ressemble alors venez nous rejoindre.
+QUE POUVONS-NOUS FAIRE ENSEMBLE?
+Au sein de la Direction Technique vous intègrerez le service d’étude amont d’algorithmes radar.
+Le stage proposé s'inscrit dans les activités du service algorithmes et traitements de la direction technique de Thales DMS. Ce service, localisé sur le campus de Thales Mérignac, est formé d'une équipe d'une dizaine de personnes travaillant principalement dans le domaine des radars de surveillance maritime.
+Un de nos objectifs est d'ouvrir de nouvelles voies technologiques (intelligence artificielle, nouvelles approches algorithmiques, nouveaux capteurs...) au profit de ce domaine. Le stage proposé vise à poser certaines bases pour le futur développement de traitements exploitant les potentialités des antennes actives à balayage électronique.
+La détection radar dans un environnement maritime est rendue difficile par la nature très fluctuante du fouillis de mer qui génère de nombreux parasites potentiels. Pour améliorer les performances il est nécessaire de prendre en compte un maximum de connaissances sur la structure de ce fouillis. Grâce aux nouvelles antennes à balayage électronique il va être possible d’exploiter les propriétés spatio-temporelles du fouillis de mer. Afin de préparer cette nouvelle génération de traitements, le stage vise à bien caractériser les propriétés spatio-temporelles du fouillis à partir de données réelles et à évaluer au premier ordre les performances de détection atteignables par des méthodes spatio-temporelles.
+Les activités associées sont :
+Etat de l’art sur les propriétés du fouillis de mer, et sur les méthodes de détection spatio-temporelles.
+Analyse de données réelles. Définition des métriques d’analyses et applications à des données acquises dans différents contextes.
+Analyse de l’impact de la structure du fouillis sur les performances de différents types de traitements.
+Evaluation de la performance atteignable pour un traitement adapté.
+Innovation, passion, ambition : rejoignez Thales et créez le monde de demain, dès aujourd’hui."
+6,https://www.indeed.fr/emplois?q=Intelligence%20Artificielle&l=Bordeaux&radius=100&limit=100&sort=date&vjk=149d8221f6b92b56,"Lead développeur back end H/F
+LUCINE - Bordeaux (33)","['Bordeaux (33)', 'CDI', '30 000 € - 45 000 € par an']",Lead développeur back end H/F,LUCINE,- Bordeaux (33),CDI,30 000 € - 45 000 € par an,"il y a 15 jours
+Signaler cette offre d'emploi",Intelligence Artificielle,Bordeaux,"Qui sommes-nous ? Lucine est une startup pluridisciplinaire aux croisées du monde de la science et de l’innovation technologique.
+Notre challenge ? Offrir de nouveaux horizons aux soignants et aux patients douloureux grâce aux thérapies du numérique. Nous transformons le secteur de la santé, en proposant un système combinant une intelligence artificielle pour analyser et diagnostiquer la douleur et les réalités alternatives pour la soulager.
+Quelles seront vos missions ?
+Accompagné·e du responsable technique et en collaboration avec l’équipe vous serez amené·e à travailler sur :
+Une API REST en C# (.Net core) au service d’un grand nombre de produits.
+La mise en place d’un état d’esprit et d’outils orientés DevOps.
+La communication entre de multiples services ayant des finalités différentes.
+L’accompagnement des développeurs juniors.
+La réflexion sur l’architecture du système dans son ensemble.
+Pratiques internes : Agile (Scrum, Kanban), Game design, TDD, Layered Architecture, Git.
+Quelles compétences recherchons-nous ?
+Vous disposez d’un minimum de 3 années d’expériences sur :
+Maîtrise d’au moins un langage orienté objet (C# serait un plus).
+Expérience avec un framework d’API (ASP.Net Core Web API serait un plus).
+Connaissance des bases de données NoSQL orientées documents (MongoDb serait un plus).
+Maîtrise de Git ou d’un autre système de Source Control.
+Avec quels profils aimons-nous travailler ?
+Facultés d’analyse, de conception et de modélisation.
+Leadership, travail en équipe, créativité, ouverture d’esprit, rigueur et ingéniosité.
+Être à l’affût des technologies émergentes.
+Goût de l’aventure, du risque et avoir le désir de sortir des sentiers battus.
+Sensible aux valeurs de l’agilité : code review, pair programming, intégration continue.
+Vous souhaitez vous investir au sein d’une entreprise qui rend le monde meilleur et relever de nouveaux challenges techniques ? Ce poste est fait pour vous !
+Informations supplémentaires
+Rémunération : suivant profil
+Poste en CDI à pourvoir dès que possible
+Localisation : Bordeaux
+Type d'emploi : CDI
+Salaire : 30 000,00€ à 45 000,00€ /an
+Expérience:
+lead développeur back end h/f ou similaire: 3 ans (Souhaité)"
+7,https://www.indeed.fr/emplois?q=Intelligence%20Artificielle&l=Bordeaux&radius=100&limit=100&sort=date&vjk=d2b9c5f7f760edfe,"Directeur de Projet IT Senior F/H
+ARKEUP3 avis - La Réunion (47)","['La Réunion (47)', 'Temps plein, CDI']",Directeur de Projet IT Senior F/H,ARKEUP,- La Réunion (47),"Temps plein, CDI",null,"il y a 16 jours
+Signaler cette offre d'emploi",Intelligence Artificielle,Bordeaux,"Arkeup ouvre un nouveau centre de Direction Opérationnelle à la Réunion !
+Plusieurs opportunités s'ouvrent maintenant aux locaux chez ARKEUP REUNION, des postes avec des responsabilités larges et des perspectives d'évolutions intéressantes !
+Arkeup c'est ...
+Plus de 500 ingénieurs passionnés basés à Paris, Madagascar et récemment à la Réunion
+Plus de 50 technologies maîtrisées pour répondre efficacement aux besoins spécifiques de nos clients
+Plus de 500 projets réalisés depuis notre création : Web, Mobile, Objets Connectés (IoT), Machine Learning, Big Data, intelligence artificielle, etc.
+Quand on parle d'Arkeup, on traduit Innovation !
+Vos missions :
+Assurer le delivery des projets et développements pour les clients d’ARKEUP REUNION, ainsi que pour d’autres clients hors zone. Il garantira l’atteinte des engagements de délai et de qualité
+Encadrer les équipes locales et de piloter les équipes délocalisées à Madagascar ou Paris
+Participer aux activités d’avant-vente avec le directeur commercial d’ARKEUP REUNION
+Gérer la relation technico-commerciale avec les clients d’ARKEUP REUNION
+Participer au recrutement des collaborateurs
+Assurer la montée en compétences des collaborateurs d’ARKEUP REUNION
+Réaliser un compte rendu régulier de son activité à son responsable
+Contribuer à la définition de la stratégie de développement d’ARKEUP REUNION
+Profil :
+De formation Bac +5 en Ingénierie et de Système d'Information, vous disposez d'une expérience confirmée (10 ans d'exp) dans un poste équivalent dans le secteur du numérique, acquise à la fois au sein d’une ESN et d’un client final.
+Compétences:
+Maitrise large des principaux outils de développements du marché
+Maitrise complète des méthodologies de projet / Développement agile / Maintenance applicative
+Expérience dans la transformation numérique
+Connaissance ODOO appréciée
+Capacité et envie d’acquérir de nouvelles compétences
+Compétences complémentaires :
+Efficace, Autonome et pro actif
+Organisé et rigoureux
+Curieux et intéressé par la relation client
+Ayant le sens du service client
+Capacité à travailler en équipe, bon relationnel
+Bonne maitrise du français, en particulier à l’écrit
+Connaissance appréciée de l'anglais
+Vous êtes motivé(e) pour avoir plus d’informations ? Alors CONTACTEZ-NOUS !!
+Vous êtes déjà ultra motivé(e), envoyez-nous votre CV !
+Arkeup est située en plein centre de Paris. Pour en savoir plus sur Arkeup www.arkeup.com
+Type d'emploi : Temps plein, CDI
+Salaire : 60,00€ à 80,00€ /mois
+Expérience:
+Chef de Projets Informatiques: 10 ans (Souhaité)
+Langue:
+créole (Requis)"
+8,https://www.indeed.fr/emplois?q=Intelligence%20Artificielle&l=Bordeaux&radius=100&limit=100&sort=date&vjk=6d09f67fd5931cf6,"H/F Devops/ Futur DSI
+LUCINE - Bordeaux (33)","['Bordeaux (33)', 'CDI', '30 000 € - 48 000 € par an']",H/F Devops/ Futur DSI,LUCINE,- Bordeaux (33),CDI,30 000 € - 48 000 € par an,"il y a 26 jours
+Signaler cette offre d'emploi",Intelligence Artificielle,Bordeaux,"Qui sommes-nous ? Lucine est une startup pluridisciplinaire aux croisées du monde des thérapies numériques et de la science.
+Notre challenge ? Offrir de nouveaux horizons aux soignants et aux patients douloureux grâce aux thérapies du numérique. Nous transformons le secteur de la santé, en proposant un système combinant une intelligence artificielle pour analyser et diagnostiquer la douleur et les réalités alternatives pour la soulager.
+Missions
+En tant que seul représentant de notre DSI vous assurez un rôle clef à la fois stratégique et opérationnel. Dans ce contexte, vous devrez :
+Être l’acteur du changement en implémentant une démarche Devops
+Maintenir, optimiser et faire évoluer l’intégralité de notre réseau interne (infrastructure réseau et exploitation système) mais également nos applications hébergées
+Elaborer la stratégie et la politique informatique de notre société en lien avec nos différents corps de métiers
+Faire évoluer cette stratégie pour accompagner notre croissance
+Assurer la continuité des services offerts par l'entreprise et leur monitoring automatisé.
+Assurer une veille technologique sur les innovations et les évolutions de notre secteur d’activité afin d’éclairer les décisions stratégiques de notre direction en matière de système d’information
+Assurer le lien avec nos prestataires externes
+Gérer notre parc informatique et mobile (téléphonie, achat, licences…)
+Profil recherché
+Brillant profil, vous justifiez d’au moins 5 ans sur un poste de DevOps ou d'administrateur réseaux. Vos différentes expériences vous ont néanmoins permis d’acquérir une vision globale du fonctionnement d’une DSI.
+Rigoureux et autonome, vous ne vous contentez pas de l’existant.
+Vous promouvez la philosophie DevOps et maîtrisez certains outils nécessaires à sa mise en œuvre.
+Vous avez une expérience réussie dans l’assistance utilisateur
+Vous maîtrisez VMWare/ESXI
+Vous souhaitez vous investir au sein d’une entreprise qui rend le monde meilleur et relever de nouveaux challenges techniques ? Ce poste est fait pour vous !
+Informations supplémentaires
+Rémunération : suivant profil
+Poste en CDI à pourvoir dès que possible sur Bordeaux
+Type d'emploi : CDI
+Salaire : 30 000,00€ à 48 000,00€ /an
+Expérience:
+administrateur réseaux ou Devops: 5 ans (Souhaité)"
+9,https://www.indeed.fr/emplois?q=Intelligence%20Artificielle&l=Bordeaux&radius=100&limit=100&sort=date&vjk=1a0b89f92056a79b,"Ingénieur développement logiciel (H/F)
+Thales Group1,225 avis - Bordeaux (33)",['Bordeaux (33)'],Ingénieur développement logiciel (H/F),Thales Group,- Bordeaux (33),null,null,"Thales - il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Intelligence Artificielle,Bordeaux,"QUI SOMMES-NOUS ?
+L’activité avionique rassemble 10 000 collaborateurs qui œuvrent à fournir des équipements et des systèmes de pointe pour toute la chaîne de l’aéronautique civile et militaire.
+Sur le Campus Thales Bordeaux, nous concevons, développons et livrons des systèmes, des équipements et des services pour assurer la réussite des missions aéroportées de nos clients, dans les domaines du transport, de la surveillance et du combat.
+Le centre de compétence Digitalisation et Missions recherche un/une Ingénieur(e) Développement logiciel embarqué (H/F), en CDI à Bordeaux.
+QUI ETES-VOUS ?
+Vous justifiez d’une première expérience significative en développement de logiciel temps réel ?
+Vous possédez de très bonnes connaissances sur les environnements de développement logiciel (DOORS, Clearcase, JIRA,…..) et les nouvelles technologies (wiki, salle de réunion virtuelle…) ?
+Rigueur, Polyvalence, Adaptabilité et Spontanéité sont des atouts que l’on vous reconnaît ?
+Dôté(e) d’un excellent relationnel, vous êtes flexible et avez une capacité d’écoute ?
+Vous pratiquez l’anglais couramment ?
+Vous maîtrisez l’anglais et l’espagnol à l’oral et à l’écrit ?
+Des connaissances en cyber-sécurité et intelligence artificielle dans les systèmes embarqués seront un plus apprécié.
+CE QUE NOUS POUVONS ACCOMPLIR ENSEMBLE :
+Envie d’apporter votre contribution à une équipe d’ingénieurs aéronautiques passionnés, envie de les aider à relever des challenges techniques et de provoquer une saine émulation dans leur quotidien, nous vous attendons !
+Nous recrutons un(une) ingénieur(e) développement logiciel embarqué sur aéronef de combat pour renforcer son équipe de support client sur la base d'essais d'Istres.
+Vous avez des expériences réussies dans le domaine des développements dans les mondes Unix et Windows et à ce titre, vous connaissez/maîtrisez les incontournables du métier (spécifications, langage C++, Java, Python, Shell, gestion de configuration, … ) mais pas seulement …
+Vous êtes un contributeur actif aux valeurs humaines ancrées dans l'ADN de l'entreprise dans un souci de qualité de vie au travail et de cohésion (convivialité et communication d’équipe, respect des femmes et des hommes et de l’environnement, équilibre vie professionnelle/vie privée, collaboration…).
+Nous attachons également beaucoup d'importance aux compétences et à la passion du métier. Votre goût du travail en équipe, votre curiosité et votre adaptabilité sont autant de qualités que nous valorisons au quotidien.
+Vous ne maîtrisez pas complètement le domaine aéronautique mais ne vous inquiétez pas vous avez toute votre place au sein des équipes pour apporter votre rigueur et votre sens de l’organisation et nous saurons vous accueillir dans une équipe intégrée multidisciplinaire.
+Ainsi, dans un contexte de développement de nouveaux standards avions, vous contribuez activement, sur des fonctions critiques de la mission avion, à l’analyse des évolutions ainsi qu'à leurs implémentations logicielles sur des plateformes existantes. Vous assurez également les activités d'architecture et de développement des logiciels embarqués. Vous serez aussi un maillon essentiel dans la réussite de nos projet, dans la transformation de nos pratiques et de nos modes de fonctionnement.
+Besoin de le voir pour le croire ? Osez
+Innovation, passion, ambition : rejoignez Thales et créez le monde de demain, dès aujourd’hui."
+10,https://www.indeed.fr/emplois?q=Intelligence%20Artificielle&l=Bordeaux&radius=100&limit=100&sort=date&vjk=b01a6bded8e2989f,"Développeur Senior .NET
+Inside Group - Bordeaux (33)
+A répondu à 75 % ou plus des candidatures sur les 30 derniers jours, généralement en 2 jours.","['Bordeaux (33)', 'Temps plein, CDI', '36 000 € - 40 000 € par an']",Développeur Senior .NET,Inside Group,- Bordeaux (33),"Temps plein, CDI",36 000 € - 40 000 € par an,"il y a 30+ jours
+Signaler cette offre d'emploi",Intelligence Artificielle,Bordeaux,"Présenté sous l’acronyme ESN (Entreprise de Services Numériques), Inside Group est résolument décalée puisqu’elle se définit avant tout comme une Entreprise Sérieusement Novatrice avec 3 expertises clés : les infrastructures, l’applicatif et le conseil.
+Inside rime avec organisation collaborative et agile, proximité avec ses 350 Insiders présents à Toulouse, Paris, Bordeaux, Lyon, Pau et Nantes … Tous les ingrédients sont réunis pour une aventure professionnelle unique et enrichissante !
+L’agence bordelaise est une communauté de 30 passionnés et d’experts en informatique qui souhaitent apprendre et partager.
+Nous recherchons notre futur Lead .NET pour rejoindre notre pôle interne nommé « Digital Hub ».
+« Digital Hub » est l’offre dédiée aux métiers de la transformation digitale d’Inside qui est en plein boom : développement Web et Mobile, Intelligence Artificielle, UX, Agilité, DevOps…
+4 bonnes raisons de rejoindre Inside Group et Digital Hub :
+Intègre un pôle de compétences innovant qui se développe à toute à allure où les opportunités sont nombreuses !
+Evolue avec des formations régulières grâce à une politique RH valorisant le développement et la montée en compétences de ses Insiders. Deviens acteur de ton parcours pro !
+Vis une expérience humaine enrichissante où l’échange, la convivialité et l’esprit d’équipe rythment le quotidien !
+Votre quotidien en tant que Lead .NET :
+Vous rejoindrez le pôle interne composé de 7 personnes curieuses et autonomes sur le projet Newrest.
+Le client Newrest est basé à Toulouse pour son activité de restauration à bord des avions et des trains.
+Avec la confiance du client, c’est un projet qui grossit vite !
+Au quotidien, vous :
+Développerez l’ERP pour Newrest
+Participerez aux réflexions d’architecture applicative
+Assurerez un rôle de mentor technique des développeurs / développeuses (savoir-faire technique et méthodologique)
+Nous attendons que vous preniez des initiatives et que vous soyez force de proposition, tout en ayant un esprit d’équipe avec une appétence certaine à la transmission de connaissances.
+Notre stack technique :
+Technologies maîtrisées : Visual Studio, C#, .NET Framework, .NET Core, ASP Web API, ASP .NET MVC, SQL Server, IIS, Windows Server, VSTS, Git
+Technologies complémentaires : Angular 2+, VueJS, Docker
+Ce que nous attendons de vous :
+Vous disposez de 5 ans ou plus d’expérience en .NET et avez participé à la conception et au déploiement de produit à l’architecture complexe
+Vous aimez transmettre votre savoir et savez mentorer des développeurs / développeuses plus jeunes
+Ce que vous trouverez chez Inside :
+Une équipe avec laquelle collaborer en toute transparence
+Un environnement de travail technophile et stimulant (meet-up, afterwork technique, communautés techniques etc.)
+Des méthodes de management qui encouragent l’autonomie
+Une ambiance agréable et des locaux en plein cœur de Bordeaux
+Déroulement des entretiens :
+Rencontre avec Clémentine (Commerciale) et Roxane (RH)
+Echange technique avec Paul (Chef de projet et ancien développeur)
+Rencontre avec Grégory (Directeur d’Agence)
+La proposition finale !
+Type d'emploi : Temps plein, CDI
+Salaire : 36 000,00€ à 40 000,00€ /an
+Expérience:
+développeur senior .net ou similaire: 5 ans (Souhaité)"
+11,https://www.indeed.fr/emplois?q=Intelligence%20Artificielle&l=Bordeaux&radius=100&limit=100&sort=date&vjk=1ae1ef8141e20bab,"Ingénieur systèmes et Intelligence Artificielle F/H
+DGA ESSAIS DE MISSILES - Biscarrosse (40)","['Biscarrosse (40)', 'CDI']",Ingénieur systèmes et Intelligence Artificielle F/H,DGA ESSAIS DE MISSILES,- Biscarrosse (40),CDI,null,"Apec.fr - il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Intelligence Artificielle,Bordeaux,"Ingénieur systèmes, expert en analyse numérique et Intelligence Artificielle pour l’ingénierie de dispositif d’essais en vol de missiles (Expert IA et SdF)
+
+Au sein de
+
+DGA Essais de missiles, site Landes à Biscarrosse
+
+, vous serez intégré dans une équipe technique en charge d’ingénierie d’essais, méthodes, études (faisabilité d’essais, SdF, modélisation, architecture…), formation, définition, retour d’expérience relatifs à des dispositifs d’essais en vol de missile, et plus particulièrement à des dispositifs de sauvegarde en vol (méthode de neutralisation en vol d’un engin).
+
+L’arrivée de missiles de nouvelles générations hyper-véloces impose de redéfinir les concepts d’ingénierie de préparation et de réalisation des essais en vol de missiles.
+
+Pour cela, vous aurez en charge, en tant qu’expert analyse numérique et IA, de proposer et de développer de nouvelles méthodes et outils concernant les fonctions de traitement des mesures (fusion de données multi-senseurs), de sauvegarde en vol, de faisabilité, de préparation et de conduite des essais.
+
+Vous serez force de proposition en utilisant des concepts innovants pouvant être basés sur de l’intelligence artificielle, de la gestion bigdata…
+
+Les exigences de sauvegarde étant prépondérantes pour dimensionner un dispositif d’essai, vous maitriserez les impacts sur la sureté de fonctionnement et le temps réel pour permettre la mise en place de dispositif plus agiles et optimisés.
+
+Des compétences en développement de systèmes ou de logiciels, et notamment en algorithmie dans un environnement temps réel seront appréciées.
+
+En fonction des problématiques abordées, ce poste est principalement en relation avec les ingénieurs sauvegarde et SdF du service, des directeurs d’essais (responsables techniques des essais), des ingénieurs essais de différents départements (radar, calcul, cible…), des chefs de projet, du service informatique et des industriels de l’armement.
+
+La prise de fonction de ce poste fera l’objet d’une formation interne pour prendre connaissance de l’ensemble des spécificités des méthodes et moyens liés aux essais de missiles.
+
+Ce poste est localisé sur Biscarrosse mais il couvrira aussi les activités d’essais en vol de l’Ile du Levant en Méditerranée avec des déplacements sur celle-ci.
+
+Profil recherché Formation　:
+doctorat ou BAC+5,
+
+axé analyse numérique, intelligence artificielle, traitement du signal, modélisation système, mathématiques appliquées, algorithmie, science de la décision, physique appliquée
+
+Très bonne aptitude au travail en équipe, autonomie, rigueur, imagination, capacité d’adaptation, capacité de rédaction et d’analyse, motivation pour la défense nationale.
+
+Capacité à être habilité « Secret défense »
+Entreprise La direction générale de l’armement (DGA) a pour mission d’équiper les forces armées, de préparer le futur des systèmes de défense et de promouvoir les exportations d’armement La direction générale de l’armement (DGA) a pour mission d’équiper les forces armées, de préparer le futur des systèmes de défense et de promouvoir les exportations d’armement
+
+DGA Essais de missiles réalise des essais de systèmes complexes à base de missiles pour la défense française : missiles stratégiques, tactiques, torpilles et munitions dans les domaines aérien, terrestre, marin et sous-marin. Depuis plus de 50 ans, implantés sur les sites principaux de Biscarrosse, de Saint Médard-en-Jalles, de Toulon et de l’île du Levant, DGA Essais de missiles emploie près de 1 000 spécialistes. Son expertise se retrouve durant toutes les phases du cycle de vie de ces programmes (de la faisabilité à la fin de vie).
+
+Disposant d’installations uniques en Europe, le centre assure également l’entraînement des forces en réalité augmentée et enrichie, au plus proche du contexte opérationnel.
+
+Ces missions s’effectuent dans des conditions assurant la sécurité absolue des personnes, des biens et de l’environnement."
+12,https://www.indeed.fr/emplois?q=Intelligence%20Artificielle&l=Bordeaux&radius=100&limit=100&sort=date&vjk=bfb3ec05d31824a1,"Ingénieur chef de projet AMOA F/H
+Astek (espace REGUS) - Bordeaux (33)","['Bordeaux (33)', 'CDI']",Ingénieur chef de projet AMOA F/H,Astek (espace REGUS),- Bordeaux (33),CDI,null,"Apec.fr - il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Intelligence Artificielle,Bordeaux,"Si vous souhaitez devenir une référence en pilotage de projet IT dans une entreprise en forte croissance alors je vous propose de rejoindre l’équipe d’Astek Bordeaux.
+
+Vous piloterez un portefeuille de clients dans leur développement digital en menant des projets de grandes envergures (migration cloud, plateforme web, app mobile, Iot, Intelligence artificielle).
+
+Description du poste :
+Définir, mettre en œuvre et conduire les projets de développement digital avec une approche user centric
+Planifier et suivre les charges du projet en mode Agile
+Piloter et animer l’équipe de dév
+Mener les projets dans le respect des coûts, délais, de la qualité des livrables et de la satisfaction clients.
+Accompagner le client pendant la phase de recette
+Profil recherché Vous êtes diplômé(e) d’une école d’ingénieur et avez une première expérience significative en gestion de projets et souhaitez valoriser votre expertise dans un environnement stimulant et de booster votre carrière ? Alors rejoignez-nous !
+Entreprise Groupe français indépendant de Conseil en Technologies, Astek accompagne, en France et à l'international, les grands comptes industriels, télécoms et tertiaires dans leur stratégie d'Innovation, de R&D et de transformation digitale.
+
+Le Groupe fédère 2 800 collaborateurs, dont 90% d'ingénieurs de haut niveau, sur des projets à forte valeur ajoutée autour des 4 métiers d’Astek : Transformation Digitale, Télécoms & Infrastructures, Systèmes Intelligents et Ingénierie Produit & Process Industriels.
+
+Astek apparaît aujourd'hui comme le vecteur de solutions audacieuses et le catalyseur des changements technologiques en plaçant l’innovation et l’humain au centre de ses actions. Pour plus d’informations sur le groupe et nos métiers : www.groupeastek.com"
+13,https://www.indeed.fr/emplois?q=Intelligence%20Artificielle&l=Bordeaux&radius=100&limit=100&sort=date&vjk=c500a7f4c8220df1,"Ingénieur QA (senior) – Web & Mobile H/F
+EXTERNATIC4 avis - Bordeaux (33)","['Bordeaux (33)', 'CDI', '40 000 € - 50 000 € par an']",Ingénieur QA (senior) – Web & Mobile H/F,EXTERNATIC,- Bordeaux (33),CDI,40 000 € - 50 000 € par an,"il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Intelligence Artificielle,Bordeaux,"DESCRIPTION DE L'OFFRE
+Externatic, le hub d’opportunités web, mobile, informatique et électronique dans l’ouest.
+Cabinet de recrutement des métiers du numérique, nous vous accompagnons dans votre recherche de postes UNIQUEMENT chez des clients finaux (startup, éditeur, DSI, agences digitales, etc) : exit les SSII !
+Car ce ne sont pas les opportunités qui manquent, nous vous aidons dans la sélection de l’entreprise qui vous correspond le mieux en termes de projet et de valeurs !
+Nous accompagnons aujourd’hui le développement de l’entreprise MirambeauAppCare – et son produit phare, DiabiLive.
+Startup française de la E-Santé fondée en 2017, primée d’abord par le prix du Président de la République du concours Lépine International PARIS 2016 puis par le prix Innovation Awards du CES de Las Vegas en 2018, MirambeauAppCare édite DiabiLive, solution innovante de suivi des patients diabétiques s’adressant à la fois aux professionnels de santé, aux patients et à leurs aidants.
+Certifiée dispositif médical de classe 2B marqué CE, DiabiLive transforme le quotidien des patients diabétiques grâce à l’adaptation automatisée et multifactorielle de leur protocole thérapeutique : relevés glycémiques, activité sportive, nutrition, état d’esprit, et bien d’autres. Grâce à la vision globale de ses créateurs, DiabiLive embarque dans son modèle les nouveaux usages de télésurveillance, de télé-expertise, de télémédecine qui élargissent l’accès aux soins au profit d’un plus grand nombre de patients, en dépassant les frontières des déserts médicaux et des zones défavorisées. A ce titre, DiabiLive est une réponse innovante et internationale - aux valeurs humanistes - aux enjeux globaux de Population Health Management.
+Après une première phase de validation de son MVP, MirambeauAppCare accélère son développement et entame une phase d’industrialisation de sa plateforme autour des axes suivants : intégration de nouvelles pathologies chroniques, mise à disposition de nouveaux modules applicatifs transverses et création de sa Data Platform. Dans ce cadre et dans un contexte de R&D à la pointe de la technologie (Cloud, IoT, BigData, intelligence artificielle, Blockchain), MirambeauAppCare renforce ses équipes et recherche un Ingénieur QA (senior) - Web & Mobile H/F.
+
+Au sein d’une équipe dédiée, vous intervenez sur les phases de tests, automatisation et conformité des applications, et assurez la validation et la non-régression des livraisons de correctifs, d’évolutions et de modules applicatifs conformément aux exigences du Produit.
+En tant qu’ingénieur QA, vous travaillerez en étroite collaboration avec l’équipe de développement, l’équipe Produits et toutes parties prenantes du logiciel testé, dans un mode d’organisation agile et dans un contexte réglementaire très fort (certificationn Dispositif Médical de classe 2).
+Vous aurez notamment en charge :
+L’élaboration de la stratégie de test en collaboration avec l’équipe de développement et les PO
+La mise en place, l’exécution et la maintenance des campagnes de tests
+La rédaction des critères d’acceptation à partir des spécifications fonctionnelles
+La rédaction des scénarios de tests de validation
+La rédaction de rapports des campagnes de tests
+La participation à la mise en place des tests automatisés pour les applications web et mobiles
+L’exécution de tests d’internationalisation
+La rédaction des documentations techniques liées aux activités de test
+La participation active à l’amélioration du système de management de la qualité
+Votre fonction vous amènera à être force de proposition dans l’amélioration des processus QA de l’entreprise.
+Stack/ environnement technologique :
+Une architecture en micro-services
+Une stack moderne :
+Ruby On Rails côté back (mais aussi à venir NodeJS, Java, Scala, Python), swagger, OpenAPI
+Angular 4 et RxJS côté front (on aimerait bien un peu de React.JS ou de VueJS à l’avenir?) – NgRx / Redux ou mobx
+BDD PostgreSQL
+Mobile natif : Swift et Kotlin
+Une usine d'intégration continue complète (GitLab, Fabric, Jira, Heroku, RoolBar, Status Cake) // Des déploiements (de plus en plus) réguliers
+Un fort attachement à la qualité du code (TDD, Code metrics, Review...)
+Des approches de conception et développement agile (Story Mapping, Kanban, Design Sprint)
+Les « + » du poste :
+Des produits ultra-innovants, une startup dédiée au monde de la E-santé, de la télémédecine / télé-expertise, orientée « Homme » et centrée sur le patient.
+Un contexte de développement international et une vision globale
+Challenge « from scratch »: contribuez au développement du produit et de la marque, dès son lancement
+Une rémunération attractive : autour de 40 à 50 K€/ an, selon votre parcours et vos compétences
+PROFIL REQUIS
+Issue(e) d’une formation supérieure idéalement cursus Ingénieur(e) / Bac+5, vous justifiez au minimum de 5 années d’expériences sur des fonctions similaires.
+Curieux(se), autonome, vous êtes passionné(e) par la qualité logicielle et la satisfaction client.
+
+Idéalement, vous avez connaissance de la méthodologie Agile, de l'outil de gestion de projet JIRA et d'un outil de test management.
+
+
+La rigueur, l'esprit d'analyse, et l'esprit d'équipe sont des qualités qui vous définissent et vous assureront un succès à ce poste.
+Dans un contexte de développement international, vous êtes à l’aise quand vous devez vous exprimer à l’oral en anglais. Vous êtes par ailleurs parfaitement à l’aise à l’écrit avec l’anglais technique."
+14,https://www.indeed.fr/emplois?q=Intelligence%20Artificielle&l=Bordeaux&radius=100&limit=100&sort=date&vjk=0c53f90c8fdbf55d,"Ingénieur DEVOPS Cloud H/F
+EXTERNATIC4 avis - Bordeaux (33)","['Bordeaux (33)', 'CDI', '45 000 € - 60 000 € par an']",Ingénieur DEVOPS Cloud H/F,EXTERNATIC,- Bordeaux (33),CDI,45 000 € - 60 000 € par an,"il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Intelligence Artificielle,Bordeaux,"DESCRIPTION DE L'OFFRE
+Externatic, le hub d’opportunités web, mobile, informatique et électronique dans l’ouest.
+Cabinet de recrutement des métiers du numérique, nous vous accompagnons dans votre recherche de postes UNIQUEMENT chez des clients finaux (startup, éditeur, DSI, agences digitales, etc) : exit les SSII !
+Car ce ne sont pas les opportunités qui manquent, nous vous aidons dans la sélection de l’entreprise qui vous correspond le mieux en termes de projet et de valeurs !
+Nous accompagnons aujourd’hui le développement de l’entreprise MirambeauAppCare – et son produit phare, DiabiLive.
+Startup française de la E-Santé fondée en 2017, primée d’abord par le prix du Président de la République du concours Lépine International PARIS 2016 puis par le prix Innovation Awards du CES de Las Vegas en 2018, MirambeauAppCare édite DiabiLive, solution innovante de suivi des patients diabétiques s’adressant à la fois aux professionnels de santé, aux patients et à leurs aidants.
+Certifiée dispositif médical de classe 2B marqué CE, DiabiLive transforme le quotidien des patients diabétiques grâce à l’adaptation automatisée et multifactorielle de leur protocole thérapeutique : relevés glycémiques, activité sportive, nutrition, état d’esprit, et bien d’autres. Grâce à la vision globale de ses créateurs, DiabiLive embarque dans son modèle les nouveaux usages de télésurveillance, de télé-expertise, de télémédecine qui élargissent l’accès aux soins au profit d’un plus grand nombre de patients, en dépassant les frontières des déserts médicaux et des zones défavorisées. A ce titre, DiabiLive est une réponse innovante et internationale - aux valeurs humanistes - aux enjeux globaux de Population Health Management.
+Après une première phase de validation de son MVP, MirambeauAppCare accélère son développement et entame une phase d’industrialisation de sa plateforme autour des axes suivants : intégration de nouvelles pathologies chroniques, mise à disposition de nouveaux modules applicatifs transverses et création de sa Data Platform. Dans ce cadre et dans un contexte de R&D à la pointe de la technologie (Cloud, IoT, BigData, intelligence artificielle, Blockchain), MirambeauAppCare renforce ses équipes et recherche un Ingénieur DEVOPS Cloud H/F .
+Votre rôle principal est la recherche de la concertation entre les enjeux des activités de BUILD et ceux du RUN : vous êtes capable d’identifier des solutions pour le bien commun et vous les mettez en œuvre au sein des deux mondes afin de favoriser la cohésion d’équipe et la performance technique.
+Sous la responsabilité du Directeur R&D, et en étroite collaboration avec d’une part l’équipe Innovation et avec un architecte technique, vous aurez notamment en charge :
+L'élaboration, du déploiement et de l'exploitation des logiciels, ainsi que de l'administration de la stack.
+Votre expertise vous amène à demeurer dans une démarche permanente d’automatisation et d’industrialisation, pour gagner en performance dans la chaîne de CI/CD
+Vous recherchez les outils les plus adaptés aux problématiques qui vont sont confiées : Containerisation, Déploiement Continu,
+Vous êtes sensible aux problématiques de sécurisation de l’usine logicielle.
+Vous bâtissez des chaînes de CI/CD rapides et fluides qui permettent aux équipes de délivrer de la valeur en continu.
+Le suivi du bon déroulement des opérations de déploiement vers les environnements d’intégration, de pré-production et de production et plus globalement, du RUN (avec l’hébergeur Cloud)
+Vous déployez les outils de supervision et de monitoring des environnements
+Force de proposition, vous souhaitez transmettre et partager vos connaissances avec d’autres développeurs.
+Environnement technologique : Docker, Kubernetes, Minikube, Rancher, Git, Gitlab, GitOps, Cloud AWS / GCP, Prometheus, Grafana, Elastic/Kibana, Harbor, Anchore, shell, python, architectures de chiffrement
+Les « + » du poste :
+Des produits ultra-innovants, une startup dédiée au monde de la E-santé, de la télémédecine / télé-expertise, orientée « Homme » et centrée sur le patient.
+Un contexte de développement international et une vision globale
+Challenge « from scratch »: contribuez au développement du produit et de la marque, dès son lancement
+Une rémunération attractive : estimée à 45 à 60K€ / an, selon votre parcours et vos compétences
+PROFIL REQUIS
+Titulaire d’un diplôme d’ingénieur / Master’s degree (Bac+5), vous justifiez au minimum de 5 années d’expériences sur des postes de développeur puis d’infrastructure.
+Vous êtes emprunt du mouvement DevOps, dans lequel vous baignez dans votre poste actuel, et vous saurez convaincre « naturellement » les équipes de son intérêt.
+Vous avez une bonne connaissance des technologies Cloud, AWS ou GCP
+Au-delà de vos compétences, vous êtes de nature pragmatique, et êtes un excellent communiquant. Autonome, votre rigueur est perceptible à la seule vision des process que vous mettez en place.
+Dans un contexte de développement international, vous êtes à l’aise quand vous devez vous exprimer à l’oral en anglais. Vous êtes par ailleurs parfaitement à l’aise à l’écrit avec l’anglais technique"
+15,https://www.indeed.fr/emplois?q=Intelligence%20Artificielle&l=Bordeaux&radius=100&limit=100&sort=date&vjk=6905ee250819a45c,"Développeur (senior) Front end Web H/F
+EXTERNATIC4 avis - Bordeaux (33)","['Bordeaux (33)', 'CDI', '40 000 € - 50 000 € par an']",Développeur (senior) Front end Web H/F,EXTERNATIC,- Bordeaux (33),CDI,40 000 € - 50 000 € par an,"il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Intelligence Artificielle,Bordeaux,"DESCRIPTION DE L'OFFRE
+Externatic, le hub d’opportunités web, mobile, informatique et électronique dans l’ouest.
+Cabinet de recrutement des métiers du numérique, nous vous accompagnons dans votre recherche de postes UNIQUEMENT chez des clients finaux (startup, éditeur, DSI, agences digitales, etc) : exit les SSII !
+Car ce ne sont pas les opportunités qui manquent, nous vous aidons dans la sélection de l’entreprise qui vous correspond le mieux en termes de projet et de valeurs !
+Nous accompagnons aujourd’hui le développement de l’entreprise MirambeauAppCare – et son produit phare, DiabiLive.
+Startup française de la E-Santé fondée en 2017, primée d’abord par le prix du Président de la République du concours Lépine International PARIS 2016 puis par le prix Innovation Awards du CES de Las Vegas en 2018, MirambeauAppCare édite DiabiLive, solution innovante de suivi des patients diabétiques s’adressant à la fois aux professionnels de santé, aux patients et à leurs aidants.
+Certifiée dispositif médical de classe 2B marqué CE, DiabiLive transforme le quotidien des patients diabétiques grâce à l’adaptation automatisée et multifactorielle de leur protocole thérapeutique : relevés glycémiques, activité sportive, nutrition, état d’esprit, et bien d’autres. Grâce à la vision globale de ses créateurs, DiabiLive embarque dans son modèle les nouveaux usages de télésurveillance, de télé-expertise, de télémédecine qui élargissent l’accès aux soins au profit d’un plus grand nombre de patients, en dépassant les frontières des déserts médicaux et des zones défavorisées. A ce titre, DiabiLive est une réponse innovante et internationale - aux valeurs humanistes - aux enjeux globaux de Population Health Management.
+Après une première phase de validation de son MVP, MirambeauAppCare accélère son développement et entame une phase d’industrialisation de sa plateforme autour des axes suivants : intégration de nouvelles pathologies chroniques, mise à disposition de nouveaux modules applicatifs transverses et création de sa Data Platform. Dans ce cadre et dans un contexte de R&D à la pointe de la technologie (Cloud, IoT, BigData, intelligence artificielle, Blockchain), MirambeauAppCare renforce ses équipes et recherche un Développeur Front End Senior H/F.
+MISSIONS PRINCIPALES :
+En tant que Développeur Front End, vous assurez un rôle clé dans le développement de nouvelles fonctionnalités de la plate-forme en technologies Javascript modernes (Angular, React, VueJS), tout en assurant la maintenance corrective du code existant.
+Vous rejoindrez une équipe de développement agile d’une quinzaine de personnes, organisée en pôles Backend, Frontend Web, et Mobile.
+Vos missions :
+Vous serez en charge du développement et de la maintenance de modules applicatifs côté Frontend Web, aujourd’hui en Angular 7
+Vous participez aux phases de conception fonctionnelle et technique du produit,
+Vous optimisez les fonctionnalités existantes, leur ergonomie, les performances et la qualité du code
+Idéalement, votre sensibilité UI/UX surgit à ce moment là J
+Vous prenez en charge des revues de code des autres développeurs (Peer Reviews)
+Vous rédigez les documentations techniques de la Web
+Vous pratiquez une veille régulière et partagez vos découvertes avec l'équipe
+Stack/ environnement technologique :
+Une architecture micro-services
+Une stack moderne :
+Ruby On Rails côté back (mais aussi à venir NodeJS, Java, Scala, Python), Swagger, OpenAPI
+Docker, Kubernetes
+BDD PostgreSQL
+Cloud AWS / GCP
+Angular / ngRx côté Frontend web
+Swift et Kotlin côté Mobile
+Une usine logicielle complète avec intégration continue et déploiement continu (GitLab, Fabric, Jira, Heroku, RoolBar, Status Cake)
+Un fort attachement à la qualité du code (TDD, Code metrics, Review...)
+Des approches de conception et développement agiles (Story Mapping, Kanban, Design Sprint)
+Les « + » du poste :
+Des produits ultra-innovants, une startup dédiée au monde de la E-santé, de la télémédecine / télé-expertise, orientée « Homme » et centrée sur le patient.
+Un contexte de développement international et une vision globale
+Challenge « from scratch »: contribuez au développement du produit et de la marque, dès son lancement
+Une rémunération attractive : autour de 40 à 50 K€/ an, selon votre parcours et vos compétences
+PROFIL REQUIS
+Titulaire d’un diplôme d’ingénieur / Master’s degree (Bac+5), vous justifiez au minimum de 5 années d’expériences sur du développement front end web.
+Actuellement, le front end est en Angular 7. Vous avez de solides compétences en environnement Javascript / Typescript, et maitrisez au moins un des frameworks phares du moment : React ou Vue.JS en plus d’Angular.
+Une appétence UX serait appréciable J
+Vous avez d’excellentes connaissances des technologies web modernes, Bootstrap 4, WebPack, Ngrx, Karma / Jasmine.
+Vous êtes familier avec l’état de l’art du développement que vous saurez transmettre à vos collègues.
+Vous disposez d’une large culture autour des nouvelles technologies, et êtes (très) orienté qualité. Vous avez envie de travailler au sein d’une équipe qui grandit, et êtes en ce sens adaptable.
+Dans un contexte de développement international, vous êtes à l’aise quand vous devez vous exprimer à l’oral en anglais. Vous êtes par ailleurs parfaitement à l’aise à l’écrit avec l’anglais technique."
+16,https://www.indeed.fr/emplois?q=Intelligence%20Artificielle&l=Bordeaux&radius=100&limit=100&sort=date&vjk=23b981a4b9e91641,"Alternance Ingénieur R&D Machine Learning
+Weenove - Bordeaux (33)","['Bordeaux (33)', 'Apprentissage']",Alternance Ingénieur R&D Machine Learning,Weenove,- Bordeaux (33),Apprentissage,null,"il y a 30+ jours
+Signaler cette offre d'emploi",Intelligence Artificielle,Bordeaux,"L’entreprise
+Weenove est une jeune startup dynamique basée dans le quartier des Chartrons à Bordeaux. Elle édite le logiciel Biwee qui permet aux entreprises de s’orienter au cœur de la « Data Jungle ». Nous évoluons dans le domaine de la Business Intelligence qui est un marché en pleine explosion.
+Biwee permet aux entreprises de se connecter en temps réel à leurs données afin d’établir des tableaux de bord interactifs, dynamiques et simples pour prendre les bonnes décisions au bon moment. Nous attachons beaucoup d’importance à l’élaboration de logiciels simples d’utilisation avec des interfaces modernes et réactives.
+Vous intégrerez une équipe jeune et dynamique d’une dizaine de personnes.
+Vos missions
+Au sein de l’équipe de développement, vous participerez à l’étude et au développement de nouvelles fonctionnalités innovantes à forte valeur ajoutée pour notre logiciel Biwee :
+Développement dans le domaine du machine learning
+Utilisation ou construction d’algorithmes prédictifs et de corrélations automatiques de jeux de données
+Veille sur les dernières technologies en IA et Machine learning
+Savoir-faire souhaités :
+Machine Learning
+C#
+Python
+Maitrise de Microsoft Azure serait un plus
+Sens de l’organisation et de l’autonomie
+Curieux et passionné par les technologies d’IA et de machine learning
+Capacité à travailler en équipe
+Mots clés associés : C#, Intelligence Artificielle, Big Data, Machine learning, ML, IA, apprentissage machine, business intelligence
+Type d'emploi : Apprentissage
+Formation:
+Bac +2 (BTS, DUT, DEUG) (Requis)"
+17,https://www.indeed.fr/emplois?q=Intelligence%20Artificielle&l=Bordeaux&radius=100&limit=100&sort=date&vjk=84ea726742d503fd,"Product owner / Chef de Produit senior H/F
+EXTERNATIC4 avis - Bordeaux (33)","['Bordeaux (33)', 'CDI', '50 000 € - 60 000 € par an']",Product owner / Chef de Produit senior H/F,EXTERNATIC,- Bordeaux (33),CDI,50 000 € - 60 000 € par an,"il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Intelligence Artificielle,Bordeaux,"DESCRIPTION DE L'OFFRE
+Externatic, le hub d’opportunités web, mobile, informatique et électronique dans l’ouest.
+Cabinet de recrutement des métiers du numérique, nous vous accompagnons dans votre recherche de postes UNIQUEMENT chez des clients finaux (startup, éditeur, DSI, agences digitales, etc) : exit les SSII !
+Car ce ne sont pas les opportunités qui manquent, nous vous aidons dans la sélection de l’entreprise qui vous correspond le mieux en termes de projet et de valeurs !
+Nous accompagnons aujourd’hui le développement de l’entreprise MirambeauAppCare – et son produit phare, DiabiLive.
+Startup française de la E-Santé fondée en 2017, primée d’abord par le prix du Président de la République du concours Lépine International PARIS 2016 puis par le prix Innovation Awards du CES de Las Vegas en 2018, MirambeauAppCare édite DiabiLive, solution innovante de suivi des patients diabétiques s’adressant à la fois aux professionnels de santé, aux patients et à leurs aidants.
+Certifiée dispositif médical de classe 2B marqué CE, DiabiLive transforme le quotidien des patients diabétiques grâce à l’adaptation automatisée et multifactorielle de leur protocole thérapeutique : relevés glycémiques, activité sportive, nutrition, état d’esprit, et bien d’autres. Grâce à la vision globale de ses créateurs, DiabiLive embarque dans son modèle les nouveaux usages de télésurveillance, de télé-expertise, de télémédecine qui élargissent l’accès aux soins au profit d’un plus grand nombre de patients, en dépassant les frontières des déserts médicaux et des zones défavorisées. A ce titre, DiabiLive est une réponse innovante et internationale - aux valeurs humanistes - aux enjeux globaux de Population Health Management.
+Après une première phase de validation de son MVP, MirambeauAppCare accélère son développement et entame une phase d’industrialisation de sa plateforme autour des axes suivants : intégration de nouvelles pathologies chroniques, mise à disposition de nouveaux modules applicatifs transverses et création de sa Data Platform. Dans ce cadre et dans un contexte de R&D à la pointe de la technologie (Cloud, IoT, BigData, intelligence artificielle, Blockchain), MirambeauAppCare renforce ses équipes et recherche un Product Owner / Responsable Produit H/F.
+Au sein de l’équipe Innovation Produits, vous avez la responsabilité de la définition et de la conception fonctionnelle d’un ou plusieurs modules applicatifs d’un produit, dans une logique internationale. Vous analysez les usages et les besoins des utilisateurs sur le terrain, que vous confrontez au marché et à la concurrence pour créer de la valeur et faire évoluer votre produit dans une démarche de différenciation par l’innovation.
+Vous définissez la roadmap de votre produit et suivez sa réalisation par l’équipe R&D. Vous accompagnez le lancement et la diffusion du produit en contribuant activement à la création des outils de déploiement, en collaboration avec l’équipe UX/UI : tutoriels, supports marketing produit, démonstrations, ....
+Sous la responsabilité du Directeur de l’Innovation, et en collaboration étroite avec les équipes UX/UI, R&D, Sales et avec la Direction, vous aurez notamment en charge :
+Le cadrage, l’analyse et le recueil des besoins métiers
+L’étude des opportunités Produit sur les domaines suivants : objets connectés (glucomètres, pompes à insuline, …), data, télémédecine, …
+La définition de la roadmap produit et sa mise en œuvre
+L’organisation et l’animation des ateliers de conception
+La rédaction des exigences sous la forme de Users Stories et/ou de spécifications fonctionnelles, en vous assurant de leur bonne compréhension par l’ensemble des parties prenantes (notamment l’équipe de développement
+La priorisation et le suivi du Backlog
+La planification et la gestion des releases du produit en partenariat avec le suivi technique fourni par l’équipe R&D
+L’animation des ateliers de conception Produit avec les équipes UX/UI et R&D
+La participation aux tests utilisateurs et l’analyse des améliorations à apporter
+La participation aux « rituels agiles » avec l’équipe R&D
+La réalisation des documentations fonctionnelles du produit : manuel utilisateur, tutoriels, etc
+L’animation de démonstrations du produit, la rédaction des textes entrant dans la Fiche Produit, plaquettes, et autres supports digitaux de déploiement et de marketing du produit
+L’étude d’opportunités de partenariats à l’échelle nationale et internationale : services de diabétologies, groupes de patients, autres acteurs industriels, …
+La contribution au système de management de la qualité et aux exigences de conformité aux certifications acquises ou à acquérir ; la participation active aux audits de certifications
+Dans un environnement fortement contraint par les aspects règlementaires (données de santé, certifications), vous êtes force de proposition et au fait des évolutions de la réglementation que vous suivez régulièrement.
+Véritable œil de lynx de l’entreprise, vous passez une part significative de votre temps avec les utilisateurs (professionnels de santé, patients, aidants). En veille permanente, vous êtes à l’affut des innovations du monde de la E-Santé, vous participez aux événements majeurs : conférences, manifestations en ce sens.
+Les « + » du poste :
+Des produits ultra-innovants, une startup dédiée au monde de la E-santé, de la télémédecine / télé-expertise, orientée « Homme » et centrée sur le patient.
+Un contexte de développement international et une vision globale
+Challenge « from scratch »: contribuez au développement du produit et de la marque, dès son lancement
+Une rémunération attractive : estimée à 50 à 60K€ / an, selon votre parcours et vos compétences
+
+PROFIL REQUIS
+Issu(e) d’une formation supérieure de type Bac+5 au minimum, vous justifiez idéalement d’un parcours de 5 à 10 années d’expériences chez un éditeur de logiciels E-Santé en tant que chef de produit ou product owner , ou bien vous êtes issu(e) du « métier » (professionnel de santé titulaire d’un DU spécialisé par exemple …). Très bon communiquant, vous êtes à l’aise en tant que représentant des utilisateurs. Une connaissance des acteurs de la E-santé, voire une connaissance métier d’une pathologie comme le diabète, serait un atout certain à votre candidature, mais n’est toutefois pas absolument indispensable.
+Vous détenez en outre :
+Une forte capacité d’écoute
+Un bon esprit de synthèse
+Un excellent esprit d’équipe
+La faculté de définir fonctionnellement un produit
+La capacité de prendre des décisions et de les assumer
+Et idéalement, une bonne connaissance du domaine métier
+Votre parcours fait de vous une personne orientée valeurs et usages. Vous aimez donner du sens à ce que vous entreprenez. Méthodique, vous avez le souci du détail et un œil avisé. Toujours attentif aux tendances du marché, vous montrez (pourquoi pas) des talents pour le marketing stratégique.
+Dans un contexte de développement international, vous êtes à l’aise quand vous devez vous exprimer à l’oral en anglais."
+18,https://www.indeed.fr/emplois?q=Intelligence%20Artificielle&l=Bordeaux&radius=100&limit=100&sort=date&vjk=fa9e50fef791456c,"Chef de projet technique senior H/F
+EXTERNATIC4 avis - Bordeaux (33)","['Bordeaux (33)', 'CDI', '65 000 € par an']",Chef de projet technique senior H/F,EXTERNATIC,- Bordeaux (33),CDI,65 000 € par an,"il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Intelligence Artificielle,Bordeaux,"DESCRIPTION DE L'OFFRE
+Externatic, le hub d’opportunités web, mobile, informatique et électronique dans l’ouest!
+Cabinet de recrutement des métiers du numérique, nous vous accompagnons dans votre recherche de postes UNIQUEMENT chez des clients finaux (startup, éditeur, DSI, agences digitales, etc) : exit les SSII !
+Car ce ne sont pas les opportunités qui manquent, nous vous aidons dans la sélection de l’entreprise qui vous correspond le mieux en termes de projet et de valeurs !
+Nous accompagnons aujourd’hui le développement de l’entreprise MirambeauAppCare – et son produit phare, DiabiLive.
+Startup française de la E-Santé fondée en 2017, primée d’abord par le prix du Président de la République du concours Lépine International PARIS 2016 puis par le prix Innovation Awards du CES de Las Vegas en 2018, MirambeauAppCare édite DiabiLive, solution innovante de suivi des patients diabétiques s’adressant à la fois aux professionnels de santé, aux patients et à leurs aidants.
+Certifiée dispositif médical de classe 2B marqué CE, DiabiLive transforme le quotidien des patients diabétiques grâce à l’adaptation automatisée et multifactorielle de leur protocole thérapeutique : relevés glycémiques, activité sportive, nutrition, état d’esprit, et bien d’autres. Grâce à la vision globale de ses créateurs, DiabiLive embarque dans son modèle les nouveaux usages de télésurveillance, de télé-expertise, de télémédecine qui élargissent l’accès aux soins au profit d’un plus grand nombre de patients, en dépassant les frontières des déserts médicaux et des zones défavorisées. A ce titre, DiabiLive est une réponse innovante et internationale - aux valeurs humanistes - aux enjeux globaux de Population Health Management.
+Après une première phase de validation de son MVP, MirambeauAppCare accélère son développement et entame une phase d’industrialisation de sa plateforme autour des axes suivants : intégration de nouvelles pathologies chroniques, mise à disposition de nouveaux modules applicatifs transverses et création de sa Data Platform. Dans ce cadre et dans un contexte de R&D à la pointe de la technologie (Cloud, IoT, BigData, intelligence artificielle, Blockchain), MirambeauAppCare renforce ses équipes et recherche un Chef de projet Technique Senior H/F .
+Grâce à votre bagage technique avancé et vos précédentes expériences en tant qu’ingénieur de conception et de développement, vous aurez en charge la supervision de la réalisation de modules applicatifs web et mobiles (suivi d’avancement des projets, gestion des releases).
+Rompu aux méthodes agiles, Scrum, Kanban, vous agissez en tant que facilitateur technique des équipes de développement. « Au service » de vos équipes, vous les aidez à avancer de manière autonome et recherchez ensemble l’amélioration continue et la performance.
+Sous la responsabilité du Directeur R&D, et en étroite collaboration avec l’équipe Innovation Produit et avec un architecte technique, vous aurez notamment en charge :
+L’Analyse et la déclinaison des objectifs du produit : découpage en tâches, dépendances. gestion de l’équipe, affectations des tâches et des responsabilités, analyse des risques - analyse de la performance - Estimation de temps et de coûts, coordination technique
+La conception technique du produit, en collaboration avec l’architecte
+La rédaction des spécifications techniques
+Le suivi d’avancement et le reporting des sprints de réalisation
+L’analyse et le suivi de la correction des anomalies en phase de production et de maintenance
+Vous coordonnez les activités de tests logiciels : tests unitaires, tests d’intégration, tests end-to-end avec le responsable Tests et automatisation
+La contribution à la démarche d’amélioration continue des process, outils et méthodes agiles
+La coordination de la rédaction de l’ensemble des documentations techniques
+La contribution et le support aux audits de certification et à l’évolution du système de management de la qualité
+Les « + » du poste :
+Des produits ultra-innovants, une startup dédiée au monde de la E-santé, de la télémédecine / télé-expertise, orientée « Homme » et centrée sur le patient.
+Un contexte de développement international et une vision globale
+Challenge « from scratch »: contribuez au développement du produit et de la marque, dès son lancement
+Une rémunération attractive : autour de 65K€ / an, selon votre parcours et vos compétences
+PROFIL REQUIS
+Titulaire d’un diplôme d’ingénieur / Master’s degree (Bac+5), vous justifiez au minimum de 10 années d’expériences sur des postes techniques à dominante web et ou mobile (idéalement chez un éditeur de logiciels), dont au moins 3 ans passés au poste de chef de projet technique.
+Vous disposez d’un excellent background technique et d’une large culture des nouvelles technologies et du développement Web et Mobile. Vous êtes très orienté qualité et êtes force de proposition dans une démarche Craftsmanship
+Vous êtes notamment familier avec Git et les workflows usuels de développement, vous maîtrisez Jira et possédez une excellente culture des méthodologies Agiles : Scrum, Kanban, et leurs rituels associés (sprint review, sprint retrospective, backlog grooming, …)
+Dans un contexte de développement international, vous êtes à l’aise quand vous devez vous exprimer à l’oral en anglais. Vous êtes par ailleurs parfaitement à l’aise à l’écrit avec l’anglais technique."
+19,https://www.indeed.fr/emplois?q=Intelligence%20Artificielle&l=Bordeaux&radius=100&limit=100&sort=date&vjk=47c71dfe417409c8,"Architecte Logiciel Cloud / Data H/F
+EXTERNATIC4 avis - Bordeaux (33)","['Bordeaux (33)', 'CDI', '70 000 € - 80 000 € par an']",Architecte Logiciel Cloud / Data H/F,EXTERNATIC,- Bordeaux (33),CDI,70 000 € - 80 000 € par an,"il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Intelligence Artificielle,Bordeaux,"DESCRIPTION DE L'OFFRE
+Externatic, le hub d’opportunités web, mobile, informatique et électronique dans l’ouest!
+Cabinet de recrutement des métiers du numérique, nous vous accompagnons dans votre recherche de postes UNIQUEMENT chez des clients finaux (startup, éditeur, DSI, agences digitales, etc) : exit les SSII !
+Car ce ne sont pas les opportunités qui manquent, nous vous aidons dans la sélection de l’entreprise qui vous correspond le mieux en termes de projet et de valeurs !
+Nous accompagnons aujourd’hui le développement de l’entreprise MirambeauAppCare – et son produit phare, DiabiLive.
+Startup française de la E-Santé fondée en 2017, primée d’abord par le prix du Président de la République du concours Lépine International PARIS 2016 puis par le prix Innovation Awards du CES de Las Vegas en 2018, MirambeauAppCare édite DiabiLive, solution innovante de suivi des patients diabétiques s’adressant à la fois aux professionnels de santé, aux patients et à leurs aidants.
+Certifiée dispositif médical de classe 2B marqué CE, DiabiLive transforme le quotidien des patients diabétiques grâce à l’adaptation automatisée et multifactorielle de leur protocole thérapeutique : relevés glycémiques, activité sportive, nutrition, état d’esprit, et bien d’autres. Grâce à la vision globale de ses créateurs, DiabiLive embarque dans son modèle les nouveaux usages de télésurveillance, de télé-expertise, de télémédecine qui élargissent l’accès aux soins au profit d’un plus grand nombre de patients, en dépassant les frontières des déserts médicaux et des zones défavorisées. A ce titre, DiabiLive est une réponse innovante et internationale - aux valeurs humanistes - aux enjeux globaux de Population Health Management.
+Après une première phase de validation de son MVP, MirambeauAppCare accélère son développement et entame une phase d’industrialisation de sa plateforme autour des axes suivants : intégration de nouvelles pathologies chroniques, mise à disposition de nouveaux modules applicatifs transverses et création de sa Data Platform. Dans ce cadre et dans un contexte de R&D à la pointe de la technologie (Cloud, IoT, BigData, intelligence artificielle, Blockchain), MirambeauAppCare renforce ses équipes et recherche un Architecte logiciel Cloud / Data H/F.
+Grâce à votre bagage technique avancé et vos précédentes expériences en tant qu’architecte logiciel, vous aurez en charge le prototypage, la conception et l’évolution de la plateforme de nouvelle génération de MirambeauAppCare.
+Vous définissez l’architecture technique globale, les API, les modèles et les interfaces des services applicatifs et de la Data Platform de MirambeauAppCare, dans un contexte de scalabilité internationale et de Cloud hybride dédié aux données de santé.
+A ce titre, vous préparez le terrain pour la mise en œuvre de services métier à forte valeur ajoutée basés sur l’intelligence artificielle, le BigData, la blockchain.
+Vous aurez ainsi en charge le design, la conception le prototypage et la participation à ’implémentation de cette plateforme distribuée dans une logique de scalabilité et d’optimisation permanente.
+Votre vision globale de concepteur d’architecture sera essentielle et centrale dans la prise de décision sur tous les aspects techniques du BUILD de la plateforme actuelle et future.
+Sous la responsabilité du Directeur R&D, et en étroite collaboration avec l’équipe Innovation Produit, avec l’équipe R&D et avec l’hébergeur Cloud, vous aurez notamment en charge :
+La définition de l’architecture cible et la trajectoire d’évolution de la plateforme actuelle vers cette nouvelle architecture
+L’étude, la conception et le prototypage des nouvelles briques techniques à intégrer
+L’accompagnement technique de l’équipe R&D sur l’ensemble
+Les revues de code, notamment sur les parties sensibles de l’architecture
+Le développement de certaines parties sensibles de l’architecture et d’outils associés
+La diffusion des bonnes pratiques (coding conventions, code review guidelines, code of conduct, …)
+La rédaction des documentations techniques de l’architecture
+La participation active au processus d’amélioration continue
+La contribution et le support aux audits de certification et à l’évolution du système de management de la qualité
+Environnement technologique : Architectures distribuées, microservices, Kappa, containerisation, CQRS, CQRS-ES, Big Data, NoSQL, KV stores, NodeJS, Ruby
+Compétences nécessaires : Kafka, Hadoop, HDFS, MongoDB, PostgreSQL, Ruby, NodeJS, Docker, Kubernetes, Cloud AWS / GCP
+Compétences appréciées : Kafka streams, Spark, Scala, Python, Hive, Pig, HBase, Reddis, RocksDB, Rancher, Machine Learning, Deep Learning, Blockchain
+Les « + » du poste :
+Des produits ultra-innovants, une startup dédiée au monde la e-santé, de la télémédecine / télé-expertise, orientée « Homme » et centrée sur le patient.
+Challenge « from scratch »: contribuez au développement du produit et de la marque
+Une rémunération attractive : estimée à 70 à 80K€ / an, selon votre parcours et vos compétences
+PROFIL REQUIS
+Titulaire d’un diplôme d’ingénieur / Master’s degree (Bac+5), vous justifiez au minimum de 10 années d’expériences sur des postes techniques à dominante web et ou mobile (idéalement chez un éditeur de logiciels), dont les 5 dernières années au poste d’architecte logiciel Cloud.
+Vous disposez d’un excellent background technique et d’une large culture des nouvelles technologies et du développement Web et Mobile. Vous êtes passionné de nouvelles technologies, en veille permanente, curieux et créatif. Vous êtes capable de tester rapidement et en autonomie de nouveaux frameworks, outils, technologies, à travers la réalisation de « proof of concept ».
+Vous maîtrisez parfaitement les architectures de services, la containerisation et le clustering, la modélisation et les principales technologies data / big data. Vous justifiez impérativement d’une expérience réussie de conception d’une data platform.
+Vous savez composer avec la complexité variable et unique de chaque projet, et êtes en mesure de bien saisir les enjeux métiers et les problématiques de Data Intelligence.
+Dans un contexte de développement international, vous êtes à l’aise quand vous devez vous exprimer à l’oral en anglais. Vous êtes par ailleurs parfaitement à l’aise à l’écrit avec l’anglais technique."
+20,https://www.indeed.fr/emplois?q=Intelligence%20Artificielle&l=Bordeaux&radius=100&limit=100&sort=date&vjk=05b4d08c39d1a13c,"Développeur Mobile (Senior) iOS / Swift H/F
+EXTERNATIC4 avis - Bordeaux (33)","['Bordeaux (33)', 'CDI', '40 000 € - 50 000 € par an']",Développeur Mobile (Senior) iOS / Swift H/F,EXTERNATIC,- Bordeaux (33),CDI,40 000 € - 50 000 € par an,"il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Intelligence Artificielle,Bordeaux,"DESCRIPTION DE L'OFFRE
+Externatic, le hub d’opportunités web, mobile, informatique et électronique dans l’ouest.
+Cabinet de recrutement des métiers du numérique, nous vous accompagnons dans votre recherche de postes UNIQUEMENT chez des clients finaux (startup, éditeur, DSI, agences digitales, etc) : exit les SSII !
+Car ce ne sont pas les opportunités qui manquent, nous vous aidons dans la sélection de l’entreprise qui vous correspond le mieux en termes de projet et de valeurs !
+Nous accompagnons aujourd’hui le développement de l’entreprise MirambeauAppCare – et son produit phare, DiabiLive.
+Startup française de la E-Santé fondée en 2017, primée d’abord par le prix du Président de la République du concours Lépine International PARIS 2016 puis par le prix Innovation Awards du CES de Las Vegas en 2018, MirambeauAppCare édite DiabiLive, solution innovante de suivi des patients diabétiques s’adressant à la fois aux professionnels de santé, aux patients et à leurs aidants.
+Certifiée dispositif médical de classe 2B marqué CE, DiabiLive transforme le quotidien des patients diabétiques grâce à l’adaptation automatisée et multifactorielle de leur protocole thérapeutique : relevés glycémiques, activité sportive, nutrition, état d’esprit, et bien d’autres. Grâce à la vision globale de ses créateurs, DiabiLive embarque dans son modèle les nouveaux usages de télésurveillance, de télé-expertise, de télémédecine qui élargissent l’accès aux soins au profit d’un plus grand nombre de patients, en dépassant les frontières des déserts médicaux et des zones défavorisées. A ce titre, DiabiLive est une réponse innovante et internationale - aux valeurs humanistes - aux enjeux globaux de Population Health Management.
+Après une première phase de validation de son MVP, MirambeauAppCare accélère son développement et entame une phase d’industrialisation de sa plateforme autour des axes suivants : intégration de nouvelles pathologies chroniques, mise à disposition de nouveaux modules applicatifs transverses et création de sa Data Platform. Dans ce cadre et dans un contexte de R&D à la pointe de la technologie (Cloud, IoT, BigData, intelligence artificielle, Blockchain), MirambeauAppCare renforce ses équipes et recherche un Développeur mobile senior iOS / Swift H/F.
+En tant que Développeur iOS – Swift H/F, vous assurez un rôle clé dans le développement de nouvelles fonctionnalités de l’application mobile iOS, tout en assurant la maintenance corrective du code existant.
+Vous rejoindrez une équipe de développement agile d’une quinzaine de personnes, organisée en pôles Backend, Frontend Web, et Mobile.
+Vous serez en charge du développement et de la maintenance de l'application mobile en langage Swift,
+Vous participez aux phases de conception fonctionnelle et technique,
+Vous optimisez les fonctionnalités existantes, leur ergonomie, les performances et la qualité du code
+Vous prenez en charge des revues de code des autres développeurs (Peer Review)
+Vous prenez en charge les activités liées au déploiement de l’application mobile dans l’AppStore
+Vous rédigez les documentations techniques de l’application mobile iOS
+Vous pratiquez une veille régulière et partagez vos découvertes avec l'équipe
+Stack/ environnement technologique :
+Une architecture micro-services
+Une stack moderne :
+Ruby On Rails côté back (mais aussi à venir NodeJS, Java, Scala, Python), Swagger, OpenAPI
+Docker, Kubernetes
+BDD PostgreSQL
+Cloud AWS / GCP
+Angular / ngRx côté Frontend web
+Swift et Kotlin côté Mobile
+Une usine logicielle complète avec intégration continue et déploiement continu (GitLab, Fabric, Jira, Heroku, RoolBar, Status Cake)
+Un fort attachement à la qualité du code (TDD, Code metrics, Review...)
+Des approches de conception et développement agiles (Story Mapping, Kanban, Design Sprint)
+Les « + » du poste :
+Des produits ultra-innovants, une startup dédiée au monde de la E-santé, de la télémédecine / télé-expertise, orientée « Homme » et centrée sur le patient.
+Un contexte de développement international et une vision globale
+Challenge « from scratch »: contribuez au développement du produit et de la marque, dès son lancement
+Une rémunération attractive : autour de 40 à 50K€/ an, selon votre parcours et vos compétences
+PROFIL REQUIS
+Titulaire d’un diplôme d’ingénieur / Master’s degree (Bac+5), vous justifiez au minimim de 3 à 5 années d’expériences sur du développement mobile natif (iOS), et avez donc de solides compétences en Swift.
+Vous connaissez les problématiques / enjeux de déploiement iOS sur l’AppStore, avez déjà croisé des sujets liés à la connexion Bluetooth avec d’autres devices.
+SI vous avez déjà mené un projet d’application Watch OS… nous pourrions apprécier votre expérience !
+Par ailleurs, une appétence UX mobile, donc UX iOS serait un atout (pour tout le monde) J !
+Vous êtes familier avec l’état de l’art du développement que vous saurez transmettre à vos collègues.
+Vous disposez d’une large culture autour des nouvelles technologies, et êtes (très) orienté qualité. Vous avez envie de travailler au sein d’une équipe qui grandit, et êtes en ce sens adaptable.
+Dans un contexte de développement international, vous êtes à l’aise quand vous devez vous exprimer à l’oral en anglais. Vous êtes par ailleurs parfaitement à l’aise à l’écrit avec l’anglais technique."
+21,https://www.indeed.fr/emplois?q=Intelligence%20Artificielle&l=Bordeaux&radius=100&limit=100&sort=date&vjk=78120090507b5365,"Technicien de Maintenance H/F
+MADIC13 avis - Bordeaux (33)
+A répondu à 75 % ou plus des candidatures sur les 30 derniers jours, généralement en 1 jour.","['Bordeaux (33)', 'CDD']",Technicien de Maintenance H/F,MADIC,- Bordeaux (33),CDD,null,"il y a 30+ jours
+Signaler cette offre d'emploi",Intelligence Artificielle,Bordeaux,"Fondée en 1971 à Nantes et filiale initiale du groupe MADIC, MADIC SAS se positionne comme un des leaders français du Service en milieu pétrolier et tertiaire : Constructions de stations-service et lavage, Rénovation ou Mise aux normes, Full maintenance assistée par intelligence artificielle, Vérifications périodiques réglementaires et Contrôles de conformité indépendants.
+Riche de ses 650 salariés répartis sur 20 sites en Europe, MADIC conçoit et développe des solutions intelligentes, fiables et sécurisées qui permettent à nos partenaires d’améliorer leurs relations clients et de promouvoir leurs produits dans des conditions optimum.
+Notre activité porte sur les domaines de l’Énergie, de la Distribution, de l’Industrie, du Service, du Transport et de l’Institutionnel.
+MADIC axe sa croissance sur une stratégie de développement durable, respectueuse de l’Humain, de l’Entreprise et de la Planète.
+Pour accompagner notre développement, nous recherchons un Technicien de Maintenance H/F à Bordeaux.
+Description du poste :
+Rattaché au service Maintenance de notre agence locale vous assurerez les missions suivantes :
+Après une formation assurée par notre société, vous prenez en charge, en autonomie, les opérations de maintenance sur l’ensemble des sites clients de votre secteur géographique.
+En contact direct avec la clientèle, vous assurez le dépannage et les visites de contrat d’entretien selon un planning établi par les équipes dédiées.
+Vous gérez votre stock de pièces détachées afin de pouvoir procéder, sur le terrain, à la réparation du matériel et au remplacement des pièces défectueuses (via outil GMAO).
+Véritable représentant de la société, vous saurez intervenir dans le respect de la réglementation et de la sécurité liées à notre activité, assurant le maintien de notre image de marque.
+Vous saurez vous montrer force de proposition afin d’améliorer le parc matériel de votre secteur d’intervention.
+Profil recherché :
+De formation technique, à dominante électrotechnique, électromécanique ou mécanique, vous êtes passionné par la technique et avez démontré de bonnes capacités d’apprentissage.
+Vous avez à cœur la satisfaction client et êtes reconnu pour votre disponibilité, votre rigueur et votre sens de l’organisation.
+Informations utiles :
+Vous bénéficiez de la Mutuelle et Prévoyance d’entreprise.
+Ce poste est à pourvoir en CDD de 5 mois.
+La rémunération sera à définir en fonction de votre profil et expérience.
+Type d'emploi : CDD
+Lieu:
+Bordeaux (33) (Souhaité)"
+22,https://www.indeed.fr/emplois?q=Intelligence%20Artificielle&l=Bordeaux&radius=100&limit=100&sort=date&vjk=150ba74139ee6f13,"Formateur·rice en Data Science/Machine Learning
+Simplon.co6 avis - Bordeaux (33)
+A répondu à 51 %-74 % des candidatures sur les 30 derniers jours, généralement en 1 jour.","['Bordeaux (33)', 'CDD, Freelance / Indépendant, CDI']",Formateur·rice en Data Science/Machine Learning,Simplon.co,- Bordeaux (33),"CDD, Freelance / Indépendant, CDI",null,"il y a 30+ jours
+Signaler cette offre d'emploi",Intelligence Artificielle,Bordeaux,"Pourquoi nous rejoindre ?
+Simplon.co, une start-up engagée pour un numérique inclusif et solidaire.
+Labellisée « French Tech », « La France s’Engage » et « Grande Ecole du Numérique », Simplon.co est une entreprise solidaire d’utilité sociale (ESUS) fondée en 2013, dont le cœur d’activité est de former et accompagner toute personne motivée vers les emplois du numérique.
+Pour cela, Simplon propose :
+D’ouvrir le numérique à tout type de publics et d’en promouvoir la diversité : demandeur.se.s d’emploi, non-diplômé-e-s, quartiers prioritaires, zones rurales, salariés en reconversion, avec un objectif de parité hommes-femmes
+De proposer une formation au développement web/mobile adaptée aux besoins des entreprises et organisations (y compris dans le cadre de reconversion)
+D’accompagner à l’emploi nos apprenants, par des interactions suivies avec les entreprises et avec Simplon Prod, notre agence web solidaire
+Nous proposons des formations “métiers”, des actions de renforcement de compétences ou de sensibilisation au numérique.
+Simplon porte plus de 70 fabriques (lieux de formation) déployées dans toutes les régions de France et à l’étranger.
+Notre équipe dynamique et motivée de plus de 200 salarié·e·s de tous horizons n’attend que vous !
+Quelles missions ?
+En tant que , votre principale mission sera d’assurer pendant 19 mois la formation développeur.se Data IA en accompagnant une promotion d’une vingtaine d’apprenant.e.s dans leurs activités quotidiennes (4 mois de formation intensive et 15 mois d’alternance).
+Votre rôle sera de former au métier de Développeur.se IA/Machine Learning. Vous accompagnerez les simplonien·ne·s dans la réalisation de leurs projets au quotidien. Vous serez le garant du bon déroulé de la formation et de la progression pédagogique.
+A ce titre vos principales missions seront :
+Construire le programme et les ressources pédagogiques
+Participer au recrutement des apprenant·e·s
+Animer des séances de formation collective
+Evaluer la progression des apprentissages
+Repérer les difficultés individuelles d’apprentissages et y remédier
+Mettre à disposition de Simplon.co les éléments de reporting de la promotion
+Coordonner les interventions des experts techniques et autres intervenants dans la formation
+Assurer le relais avec l’entreprise dans le cadre de l’alternance
+Accompagner les apprenants dans leurs démarches pour l’obtention des la certifications visé(es)
+Participer à la synchronisation pédagogique entre les différents formateurs de Simplon.co et aux réunions liées au projet (notamment avec les équipes Simplon.co)
+Faire un bilan pédagogique de la formation et de la promotion
+Vous pourrez aussi être amené.e à :
+Favoriser les rencontres des simplonien·ne·s avec la communauté des data engineers, analysts, developers, scientists, etc. (meetup, participation aux évènements locaux…)
+Suivre et accompagner la promotion dans ses activités : action d’apprentissage par l’enseignement, ateliers, rencontres, etc
+Participer à enrichir la réflexion pédagogique de Simplon, au travers des rencontres et échanges récurrents avec la communauté des formateurs
+Contribuer à alimenter la plateforme d’apprentissage Simplonline avec des ressources pédagogiques et des exercices
+Quel profil ?
+Compétences requises :
+Vous avez de bonnes compétences relationnelles, êtes bon.ne pédagogue
+Vous maîtrisez le versionnement avec Git
+Vous maîtrise Python ou R
+Vous maîtrisez des Mathématiques appliquées à l’IA (Géomatiques, Statistiques descriptives et Algorithmique)
+Vous maîtrisez une ou plusieurs bibliothèques ou frameworks de machine learning, par exemple : Scikit-learn, Keras, Tensorflow, PyTorch, Caffe…
+Vous avez une première expérience avec l’une des plateformes en Intelligence Artificielle, par exemple : Microsoft Azure Cognitives Services, Google Cloud Platform, IBM Watson, AMAZON Lex…
+Vous maitrisez la gestion et l’administration de bases de données relationnelles et non relationnelles
+Vous maitrisez le SQL
+Vous savez développer pour le web des solutions simples (interfaces, application simples, visualisation de données…)
+Expérience souhaitée :
+Une expérience professionnelle de deux ans minimum dans le domaine de l’IA/Machine Learning est souhaitée.
+Qualités requises :
+Esprit d’équipe : collaboration et communication
+Capacité d’apprentissage et d’adaptationEt surtout, envie de transmettre votre passion auprès de grands débutants !
+Idéalement, ce serait un sacré + si :
+Vous maitrisiez l’anglais pour la mise à jour de vos connaissances dans votre domaine d’expertise
+Vous aviez une expérience de formateur
+Vous maitrisiez le C et/ou le C++
+Vous maitrisiez Python ET R
+Vous maitrisiez le développement web front et back
+Quelles conditions ?
+Type d’emploi : CDD, CDI, freelance/indépendant
+Lieu : Bordeaux
+Date de début souhaitée : début septembre
+Salaire : selon profil
+Type d'emploi : CDD, Freelance / Indépendant, CDI"
+23,https://www.indeed.fr/emplois?q=Intelligence%20Artificielle&l=Bordeaux&radius=100&limit=100&sort=date&vjk=e1e91e4d37d5194c,"Consultant Talend - Hive H/F (Bordeaux)
+Keyrus13 avis - Bordeaux (33)","['Bordeaux (33)', 'CDI']",Consultant Talend - Hive H/F (Bordeaux),Keyrus,- Bordeaux (33),CDI,null,"il y a 4 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",Intelligence Artificielle,Bordeaux,"Qui sommes-nous ? Une success story dans la Data et le Digital !
+Notre mission ? Des projets à forte valeur ajoutée pour accroître la performance et la compétitivité des entreprises, faciliter et accélérer leur transformation.
+Notre expertise depuis plus de 20 ans ? Le conseil et l'intégration de solutions innovantes autour de trois domaines :
+Data Intelligence
+Business Intelligence, Big Data & Analytics, Intelligence Artificielle
+Digital Experience
+Conseil, Stratégie & Performance Digitales
+Conseil en Management & Transformation
+Stratégie & Innovation, Pilotage de la Performance & Accompagnement des Projets
+Nous sommes plus de 3200 talents sur plus de 18 pays et 4 continents. Notre ADN ? Innover et entreprendre.
+Vos missions :
+Au sein de l’équipe technique, composée de 3 personnes, en relation avec l'équipe métier et sous la directive d’un directeur de pilotage, vous intervenez dans le cadre de la création d'une équipe décisionnelle suite au rapprochement Achats/Marketplace.
+L’objectif est de :
+fournir des outils d'aide à la décision aux métiers,
+développer sur des sujets à haute visibilité et fort potentiel monétique,
+fiabiliser et industrialiser les systèmes existants,
+fournir des analyses fiables et être agile face aux demandes du métier,
+Vous serez en charge de :
+l’analyse des besoins métiers
+du développement de jobs de bout en bout jusqu'à la livraison selon les normes en vigueur chez le client
+du développement SSAS pour le cube
+et de revue de code
+Vous interviendrez dans un environnementTalend, SSAS/SSIS, Power BI, PowerShell pour les cubes et Git.
+Votre profil :
+Vous avez une expérience significative dans l’intégration de systèmes décisionnels.
+Vous êtes totalement autonome sur l’ETL Talend, vous savez utiliser Hive et avez dans votre boîte à outils des bonnes connaissances sur les outils de restitution.Votre goût du challenge et votre expertise fonctionnelle et technique vous permettront de mener à bien les missions confiées.
+
+
+Pourquoi nous rejoindre ?
+Pour intégrer une communauté d’experts curieux et passionnés et évoluer dans un environnement multiculturel, formateur et favorisant la mobilité internationale.
+Parce que vous êtes #DataGeek, #DigitalAddict, #InnovationLover !
+
+Notre Team Bordeaux est faite pour vous !
+#KeyrusRocks #YouRock
+Keyrus est une entreprise où il fait bon vivre et travailler !
+Découvrez :
+> La vie chez Keyrus en 60 sec
+> Keyrus en 3 mots
+> Nos animations pour nos collaborateurs sur Facebook et sur Instagram."
+24,https://www.indeed.fr/emplois?q=Intelligence%20Artificielle&l=Bordeaux&radius=100&limit=100&sort=date&vjk=3770b6aa1d7558b5,"Consultant Tableau-Alteryx H/F (Bordeaux)
+Keyrus13 avis - Bordeaux (33)","['Bordeaux (33)', 'CDI']",Consultant Tableau-Alteryx H/F (Bordeaux),Keyrus,- Bordeaux (33),CDI,null,"il y a 4 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",Intelligence Artificielle,Bordeaux,"Qui sommes-nous ? Une success story dans la Data et le Digital !
+Notre mission ? Des projets à forte valeur ajoutée pour accroître la performance et la compétitivité des entreprises, faciliter et accélérer leur transformation.
+Notre expertise depuis plus de 20 ans ? Le conseil et l'intégration de solutions innovantes autour de trois domaines :
+Data Intelligence
+Business Intelligence, Big Data & Analytics, Intelligence Artificielle
+Digital Experience
+Conseil, Stratégie & Performance Digitales
+Conseil en Management & Transformation
+Stratégie & Innovation, Pilotage de la Performance & Accompagnement des Projets
+Nous sommes plus de 3200 talents sur plus de 18 pays et 4 continents. Notre ADN ? Innover et entreprendre.
+Vous êtes adeptes de la BI et plus particulièrement des outils de Data Visualisation, et vous souhaitez participer à un projet innovant chez un client sympa ?
+Notre agence bordelaise recherche un Consultant Tableau & Alteryx (H/F) pour participer à des projets mêlant expertise technique et conseil métier.
+Notre volonté : Faire grandir nos collaborateurs. Nous nous engageons à vous accompagner tout au long de votre parcours professionnel, parce que pour nous, former nos Talents est primordial. Nous recherchons un potentiel avant tout !
+Vos missions :
+Vous intégrez notre équipe chez notre client et apportez votre savoir-faire en mettant en avant votre expérience et votre expertise sur Tableau et/ou Alteryx.
+Vous participez activement à la réalisation des projets chez le client :
+La modélisation de bases de données ;
+La réalisation des chaînes d’alimentation ;
+La conception et réalisation des restitutions BI (reporting opérationnel et décisionnel) ;
+La recette et le déploiement des solutions réalisées ;
+La maintenance corrective et évolutive de l’existant du client
+Le périmètre technique couvert par le projet englobe les dernières versions des outils : Tableau Software, Alteryx, QlikView, Qlik Sense, … et encore bien d'autres outils de data analytics.
+Votre profil :
+Vous avez une expérience significative dans l’intégration de systèmes décisionnels.
+Votre goût du challenge et votre expertise technique sur Tableau et Alteryx vous permettront d’optimiser votre carrière.
+
+Outre vos compétence techniques indéniables, nous recherchons également :
+Un cerveau toujours en ébullition et en veille sur les nouvelles technologies.
+Quelqu'un de sympa qui aime partager ses idées.
+Une personne souhaitant avant tout travailler sur de l’expertise DataViz et travailler en collaboration avec une équipe d’experts en Data Science et Big Data.
+Pourquoi nous rejoindre ?
+Pour intégrer une communauté d’experts curieux et passionnés et évoluer dans un environnement multiculturel, formateur et favorisant la mobilité internationale.
+Parce que vous êtes #DataGeek, #DigitalAddict, #InnovationLover !
+
+Notre Team est faite pour vous !
+#KeyrusRocks #YouRock
+Keyrus est une entreprise où il fait bon vivre et travailler !
+Découvrez :
+> La vie chez Keyrus en 60 sec
+> Keyrus en 3 mots
+> Nos animations pour nos collaborateurs sur Facebook et sur Instagram."
+25,https://www.indeed.fr/emplois?q=Intelligence%20Artificielle&l=Bordeaux&radius=100&limit=100&sort=date&vjk=c545b4d805575ea1,"Consultant MicroStrategy H/F (Bordeaux)
+Keyrus13 avis - Bordeaux (33)","['Bordeaux (33)', 'CDI']",Consultant MicroStrategy H/F (Bordeaux),Keyrus,- Bordeaux (33),CDI,null,"il y a 4 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",Intelligence Artificielle,Bordeaux,"Qui sommes-nous ? Une success story dans la Data et le Digital !
+Notre mission ? Des projets à forte valeur ajoutée pour accroître la performance et la compétitivité des entreprises, faciliter et accélérer leur transformation.
+Notre expertise depuis plus de 20 ans ? Le conseil et l'intégration de solutions innovantes autour de trois domaines :
+Data Intelligence:Business Intelligence, Big Data & Analytics, Intelligence Artificielle
+Digital Experience:Conseil, Stratégie & Performance Digitales
+Conseil en Management & Transformation:Stratégie & Innovation, Pilotage de la Performance & Accompagnement des Projets
+Nous sommes plus de 3200 talents sur plus de 18 pays et 4 continents. Notre ADN ? Innover et entreprendre.
+
+DTA Bordeaux recherche son consultant MicroStrategy
+Le Delivery & Technology Accelerators (DTA) est une entité transverse qui mène des projets au forfait, à la fois dans le domaine de la BI, du Big Data, de la Data Science et du Digital. Il travaille également sur la mise en place de centres de service ou centres d’excellence pour nos clients.
+Le collectif, le partage de connaissance et le cadre de travail agile sont des aspects importants pour cette entité.
+Ce que cherche aujourd’hui le DTA, ce sont des talents, des profils à hauts potentiels, qui nous aideront à mener à bien des projets encore plus ambitieux.
+Vos missions ?
+Participer activement à des projets d'intégration dans un contexte valorisant
+Rédiger des spécifications fonctionnelles et techniques
+Assister nos clients et les accompagner dans la mise en place de leurs projets
+Concevoir et développer sur MicroStrategy
+Elaborer des cahiers de recette et des tests d’intégration
+Apporter votre expertise technico-fonctionnelle
+Développer votre maîtrise des solutions MicroStrategy
+Animer et contribuer à la communauté technologique MicroStrategy
+Capitalisation et consolidation des connaissances
+Mise en place de normes / Best practices / Starter kits / Frameworks
+Animer des ateliers techniques (liés au partage des connaissances)
+Tout au long de votre parcours, nous vous encouragerons et accompagnerons dans un processus de certification méthodologique et aux outils BI.
+MicroStrategy ? Pourquoi pas vous ?
+Une suite BI/Dataviz qui n’a pas de secrets pour vous !
+Vous avez déjà une expérience significative dans la conception et l’intégration de solutions décisionnelles.
+Vous justifiez d’une expérience sur la solution MicroStrategy ainsi que Visual Insight ou Dossier .
+Pourquoi nous rejoindre ?
+Pour intégrer une communauté d’experts curieux et passionnés et évoluer dans un environnement multiculturel, formateur et favorisant la mobilité internationale.
+Parce que vous êtes #DataGeek, #DigitalAddict, #InnovationLover !
+
+#KeyrusRocks #YouRock
+Keyrus est une entreprise où il fait bon vivre et travailler !
+Découvrez :
+> La vie chez Keyrus en 60 sec
+> Keyrus en 3 mots
+> Nos animations pour nos collaborateurs sur Facebook et sur Instagram.
+> Notre vidéo par Welcome To The Jungle"
+26,https://www.indeed.fr/emplois?q=Intelligence%20Artificielle&l=Bordeaux&radius=100&limit=100&sort=date&vjk=eb0d2c763c5cff06,"Programmeurs Gameplay expérimentés
+Asobo Studio - Bordeaux (33)",['Bordeaux (33)'],Programmeurs Gameplay expérimentés,Asobo Studio,- Bordeaux (33),null,null,"il y a 9 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",Intelligence Artificielle,Bordeaux,"L'équipe derrière ""A Plague Tale: Innocence"" est à la recherche d'un Programmeur Gameplay expérimenté
+
+MISSION
+Déplacements d’éléments du jeu, de la physique des objets et calcul de trajectoires
+Lecture et traitement des inputs
+Caméra contextuellement aux interactions
+Animations
+Comportement d’IA de personnages ou d’éléments de jeu
+Règles de jeux et systèmes de communication entre personnages / éléments de jeu
+Programmation et/ou intégration de l’interface utilisateurs et menus.
+Effets sonores et de particules.
+Intégration de la couche réseau dans le jeu : missions, interactions, gestion des données réseaux
+Partage sur les réseaux sociaux, leaderboards
+Vous assurez également la documentation des différents éléments conçus ou programmés.
+PROFIL
+Connaissance approfondie du C++
+Expérience approfondie en dynamique dans le jeu vidéo.
+Expérience des nouvelles méthodes de contrôle.
+Expérience dans l’utilisation des moteurs de physique.
+Expérience en path finding et en intelligence artificielle.
+Expérience en développement de jeux multjoueurs
+Expérience dans la programmation réseau (jeu vidéo de préférence)
+Expérience dans l’analyse/ traitement d’image
+Connaissance des outils de tuning sur console (PIX,GPAD).
+Connaissance des SDK Xone et/ou PS4
+POUR NOUS REJOINDRE
+Jusqu’ici tu nous suis ? Si oui, n’hésite pas à nous envoyer un mail à jobs@asobostudio.com avec ton CV et ta lettre de motivation (ou ton site, ou ton ArtStation!...)
+Si tu veux mieux nous connaître, jette un œil à notre Instagram, notre page Facebook, ou notre compte Twitter, il y a plein de choses à découvrir sur la vie @Asobo Studio!
+Alors, on se dit à bientôt ?
+La team Asobo"
+27,https://www.indeed.fr/emplois?q=Intelligence%20Artificielle&l=Bordeaux&radius=100&limit=100&sort=date&vjk=c867b04a4611f25f,"Ingénieur Développement C++ / QT H/F
+AKKA TECHNOLOGIES125 avis - Bordeaux (33)","['Bordeaux (33)', 'Temps plein, CDI']",Ingénieur Développement C++ / QT H/F,AKKA TECHNOLOGIES,- Bordeaux (33),"Temps plein, CDI",null,"il y a 10 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",Intelligence Artificielle,Bordeaux,"QUI SOMMES NOUS ?
+AKKA Technologies, expert reconnu de l'Ingénierie et du Conseil en Technologies, compte aujourd'hui plus de 21 000 collaborateurs dans le monde.
+Nos équipes accompagnent les acteurs des secteurs industriels et tertiaires dans leur processus d'innovation. Notre mission est de contribuer à l'amélioration de leur productivité, à travers des expertises métiers complémentaires : Ingénierie Mécanique, Process et Documentaire, Informatique Industrielle et Systèmes Embarqués, Systèmes d'Information.
+Le Groupe est présent dans plus de 20 pays : Allemagne, Belgique, Espagne, France, Inde, Italie, Maroc, Roumanie, Royaume-Uni, Canada ...
+QUEL EST LE POSTE QUE NOUS VOUS PROPOSONS ?
+Au sein du Pôle Informatique & Systèmes du Groupe AKKA Technologies, nous recherchons des Ingénieurs Développement C++ / Qt sur la région Bordelaise.
+Intégré(e) auprès des équipes clients, vous travaillerez sur des projets de niveau TRL 1 à 6 en agilité.
+Vous aurez pour principales missions :
+La réalisation de démonstrateurs de cockpit, mise en œuvre de concepts, développement de POC
+L’intégration de briques logicielles
+L’intégration HW/SW, langage C embarqué
+
+QUI ETES-VOUS ?
+De formation Bac +5 (Universitaire ou École d'ingénieur), vous justifiez d’une première expérience dans un poste de développement en technologie C++/Qt au sein de plusieurs projets.
+Vous avez donc développé des compétences et une expertise technique dans les technologies suivantes :
+Langages de développement : C++, Qt, QML, Javascript
+Frameworks de développement :Qt Creator, autres…
+Des compétences en Unity, intelligence artificielle et cyber sécurité seraient un plus.
+
+POURQUOI NOUS REJOINDRE ?
+Akka c’est :
+Un groupe qui valorise avant tout ses compétences techniques
+Un environnement international
+La possibilité de découvrir des secteurs d’activités passionnants : Aéronautique, Ferroviaire, Automobile, Défense, Energie...
+L’opportunité de travailler sur des missions à forte valeur ajoutée de A à Z
+…tout en étant accompagné par un leader technique sur le terrain
+Mais n’oubliez pas, Akka c’est aussi :
+Un groupe élu top employeur pour la 3ème année consécutive
+Une équipe de business managers et recruteurs humains, réactifs et ayant le goût du challenge.
+Une ambiance chaleureuse
+L’occasion d’intégrer des clients situés dans une région où il fait bon vivre !
+Concernant la rémunération, nous avons des fourchettes de salaire correspondant à vos compétences et votre expérience. A cela s’ajoutera plusieurs avantages. Faites-nous part de vos prétentions, nous en discuterons !
+A compétences égales, le poste est ouvert aux personnes en situation de handicap."
+28,https://www.indeed.fr/emplois?q=Intelligence%20Artificielle&l=Bordeaux&radius=100&limit=100&sort=date&vjk=ace8de3950558e4a,"Stage-Consultant Data H/F-Pau
+Capgemini6,927 avis - Nouvelle-Aquitaine","['Nouvelle-Aquitaine', 'Stage']",Stage-Consultant Data H/F-Pau,Capgemini,- Nouvelle-Aquitaine,Stage,null,"il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Intelligence Artificielle,Bordeaux,"Description de l'entreprise
+Capgemini est un leader mondial du conseil, des services informatiques et de la transformation numérique. A la pointe de l’innovation, le Groupe aide ses clients à saisir l’ensemble des opportunités que présentent le cloud, le digital et les plateformes. Fort de 50 ans d’expérience et d’une grande expertise des différents secteurs d’activité, il accompagne les entreprises et organisations dans la réalisation de leurs ambitions, de la définition de leur stratégie à la mise en œuvre de leurs opérations. Pour Capgemini, ce sont les hommes et les femmes qui donnent toute sa valeur à la technologie. Résolument multiculturel, le Groupe compte 200 000 collaborateurs présents dans plus de 40 pays. Il a réalisé un chiffre d'affaires de 12,8 milliards d'euros en 2017.
+
+A moins d'une heure des pyrénées et de l'océan, le site Capgemini de Pau est en pleine croissance et accompagne nos clients sur les sujets innovants et de transformation du moment : Business Intelligence, Intelligence Artificielle, Cloud, Devops, Développements Web, Transformation Agile.
+
+Rejoins une équipe jeune et dynamique pour travailler pour des clients majeurs implantés localement
+
+Plus d’informations sur www.capgemini.com. People matter, results count.
+
+Description de la mission
+Lors de ton stage, tu travailleras au sein d'un projet intégrant la méthode agile.
+Tu interviendras sur les différentes phases d'un projet BI/Big Data : Acquisition des données, stockage optimisé, traitements, analyse, visualisation sous format HTML5… Mais aussi proposer des nouvelles lectures de données via un travail de fouille sur les gisements d’information, notamment client.
+
+Profil
+De formation supérieure en informatique, tu as un profil technique (Java /Hadoop, R, Python, Cloudera, Hortonworks),
+Ton niveau d'anglais est professionnel
+
+Tu apprécies le travail en équipe et tu aimes relever des challenges ? N'attends plus pour rejoindre l'aventure Capgemini.
+
+Tu bénéficieras d'un accompagnement qui te permettra de monter en compétences et d'avoir une vision d'ensemble des différentes étapes d'un projet. Stage de Pré-embauche.
+
+Tu peux postuler directement en envoyant ta candidature à l'adresse suivante : recrutement.ts.fr@capgemini.com"
+29,https://www.indeed.fr/emplois?q=Intelligence%20Artificielle&l=Bordeaux&radius=100&limit=100&sort=date&vjk=3b0a2503d1da6c06,"Stage-Développeur Fullstack H/F-Pau
+Capgemini6,927 avis - Nouvelle-Aquitaine","['Nouvelle-Aquitaine', 'Stage']",Stage-Développeur Fullstack H/F-Pau,Capgemini,- Nouvelle-Aquitaine,Stage,null,"il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Intelligence Artificielle,Bordeaux,"Description de l'entreprise
+Capgemini est un leader mondial du conseil, des services informatiques et de la transformation numérique. A la pointe de l’innovation, le Groupe aide ses clients à saisir l’ensemble des opportunités que présentent le cloud, le digital et les plateformes. Fort de 50 ans d’expérience et d’une grande expertise des différents secteurs d’activité, il accompagne les entreprises et organisations dans la réalisation de leurs ambitions, de la définition de leur stratégie à la mise en œuvre de leurs opérations. Pour Capgemini, ce sont les hommes et les femmes qui donnent toute sa valeur à la technologie. Résolument multiculturel, le Groupe compte 200 000 collaborateurs présents dans plus de 40 pays. Il a réalisé un chiffre d'affaires de 12,8 milliards d'euros en 2017.
+
+A moins d'une heure des pyrénées et de l'océan, le site Capgemini de Pau est en pleine croissance et accompagne nos clients sur des sujets de transformation du moment : Business Intelligence, Intelligence Artificielle, Cloud, Devops, Développements Web, Transformation Agile.
+
+Plus d’informations sur www.capgemini.com. People matter, results count.
+
+Description de la mission
+Au sein d'une équipe travaillant en mode agile, tu participeras au développement d’une application Java ou .Net pour l'un de nos clients. Tu seras formé aux méthodologies de développement, d’intégration et de test ainsi qu’aux processus qualité en vigueur.
+
+Tu interviendras sur des enjeux de transformation technologique (Web, Cloud et Devops) et méthodologique (Agile@Safe).
+
+Profil
+De formation supérieure en informatique, tu as acquis des compétences en conception et développement et tu souhaites les mettre en application.
+
+Ton niveau d'anglais est professionnel, la documentation sera rédigée en français et en anglais.
+
+Tu apprécies le travail en équipe et tu aimes relever des challenges ? N'attends plus pour rejoindre Capgemini.
+
+Tu bénéficieras d'un accompagnement qui te permettra de monter en compétences et d'avoir une vision d'ensemble des différentes étapes d'un projet. Stage de Pré-embauche.
+
+Tu peux postuler directement en envoyant ta candidature à l'adresse suivante : recrutement.ts.fr@capgemini.com"
+30,https://www.indeed.fr/emplois?q=Intelligence%20Artificielle&l=Bordeaux&radius=100&limit=100&sort=date&vjk=9c99f918d989924c&advn=8109994510876642,"Consultant technique ServiceNow Confirmé F/H
+Orange Business Services2,323 avis - France","['France', 'CDI']",Consultant technique ServiceNow Confirmé F/H,Orange Business Services,- France,CDI,null,"Orange - il y a 8 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Intelligence Artificielle,Bordeaux,"about the role
+Soif de responsabilités et de challenges ?
+
+Envie de redessiner ta carrière ?
+
+Envie d'accompagner des consultants en devenir ?
+
+L'innovation dans un grand groupe avec une équipe motivée et impliquée est une évidence pour toi ?
+
+Dans le cadre du développement de notre activité Enterprise Service Management, nous recherchons des Intégrateurs ITSM / ServiceNow (F/H) confirmés(e)s.
+
+Fort d'une expérience réussie en tant qu'intégrateur de solution d'Enterprise Service Management (idéalement ServiceNow), et grâce à tes connaissances des bonnes pratiques de l'ITIL, tu intégreras un pôle d'expertise.
+
+Tu apporteras aux projets tes compétences techniques et méthodologiques. Tu seras amené à animer des ateliers de recueil de besoins, à définir la solution technique, à accompagner et former de nouveaux intégrateurs et participer à l'implémentation.
+
+Un accès aux nouvelles technologies, lieu d'idéation, d'innovation et d'expérimentation (Intelligence Artificielle, Blockchain, IoT, Réalité Virtuelle, …) nous permet de créer de nouveaux usages à proposer à nos clients. Tu seras alors amené à collaborer avec d'autres entités pour intégrer les solutions qu'elles promeuvent.
+
+Ta personnalité sera un atout majeur lors de tes travaux auprès de nos clients et dans le cadre de ton intégration à l'équipe.
+
+Tu es susceptible d'effectuer des déplacements ponctuels en France et à l'étranger.
+
+Poste ouvert également à Lyon, Blagnac, Rennes, Lille et Grenoble
+
+about you
+Et toi ?
+
+De formation bac + 2 à bac + 5, tu es issu(e) d'une formation technique et tu as une expérience passée significative sur des solutions d'Enterprise Service Management, dont ServiceNow.
+
+Tes certifications ITSM, RH, ITBM, CSM, sont des atouts pour ce poste.
+
+Ta connaissance de réalisation de projets en mode agile serait également un réel atout pour ce poste.
+
+Ta personnalité, ton autonomie, ton sens du service et ton aisance relationnelle te permettront d'évoluer dans un environnement exigeant d'expertise.
+
+department
+Digital & Data
+
+Partenaire de la transformation digitale des entreprises, Orange Digital&Data est l'entité d'Orange Business Services spécialisée dans la conception et le développement de services applicatifs et l'intégration de systèmes.
+Implantés dans plusieurs grandes villes françaises comme Paris, Rennes, Lyon, Bordeaux, Lille et Toulouse … nous accompagnons au quotidien près de 20 000 entreprises tout au long du cycle de vie de leurs projets, dans les domaines clés de l'expérience digitale, de la Data Analytics et l’Intelligence Métier.
+Pour la 4ème année consécutive, Orange reçoit la certification « Top Employer Global » 2019. Cette certification consacre les meilleures politiques et pratiques en termes de programmes de ressources humaines.
+L’innovation est essentielle à votre métier, construisons la ensemble !
+
+contract
+Regular"

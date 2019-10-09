@@ -1,0 +1,1232 @@
+,id,meta1,meta2,titre_poste,entreprise,localisation,contrat,salaire,date_publication,keyword_metier,keyword_localisation,description
+0,https://www.indeed.fr/emplois?q=D%C3%A9veloppeur%20C%2B%2B&l=Bordeaux&radius=100&limit=100&sort=date&vjk=241c9a492e5e511d,"Développeur C++ F/H
+ALLTECH NOUVELLE AQUITAINE - Bordeaux (33)","['Bordeaux (33)', 'CDI']",Développeur C++ F/H,ALLTECH NOUVELLE AQUITAINE,- Bordeaux (33),CDI,null,"Apec.fr - il y a 18 heures
+- Continuer pour postuler
+Signaler cette offre d'emploi",Développeur C++,Bordeaux,"Dans le cadre de son fort développement, le groupe Alltech recherche un Ingénieur en développement C++ H/F pour un de ses client basé sur Bordeaux.
+
+Directement sous la conduite du chef de projet, vous avez pour mission :
+
+Étude du besoin
+
+Définition et design d’architecture
+
+Qualification de la solution
+
+Implémentation de la solution
+
+Organisation du déploiement
+
+Formation et assistance aux utilisateurs
+Profil recherché Vous êtes diplômé d’un bac + 5 en informatique ou vous détenez une expérience réussie d'au minimum 2 ans sur un poste similaire.
+
+Vous disposez de solides compétences dans la conception et le développement en environnement C++ 11 (et +), CMake et autres toolchains.
+
+Une première expérience sur Android et/ou iOS, Kotlin/Native sera appréciée
+Entreprise Pour le groupe Alltech, le point de départ importe peu, seul le chemin compte…
+
+Votre job ?
+
+L’implication, le sérieux, l’ambition.
+
+Notre job ?
+
+Répondre à vos attentes et faire évoluer votre carrière. Chez nous, le client c’est VOUS !"
+1,https://www.indeed.fr/emplois?q=D%C3%A9veloppeur%20C%2B%2B&l=Bordeaux&radius=100&limit=100&sort=date&vjk=d9af045f34a361a4,"Ingénieur Développement Logiciel F/H
+I2S-VISION - Pessac (33)","['Pessac (33)', 'CDI']",Ingénieur Développement Logiciel F/H,I2S-VISION,- Pessac (33),CDI,null,"Apec.fr - il y a 19 heures
+- Continuer pour postuler
+Signaler cette offre d'emploi",Développeur C++,Bordeaux,"Votre mission première sera de :
+Développer les logiciels de nos gammes de produits i2S ou de nos applications clients
+
+Prendre en charge la maintenance logicielle des produits : corriger les anomalies dans la phase de garantie et développer les améliorations retenues dans la vie du produit
+
+Nous nous attacherons à la capacité du développeur d'agir sur toute la verticalité des produits, des couches basses proches de l'électronique jusqu'aux couches hautes d'interface utilisateur graphique, en passant par les couches systèmes et fonctionnelles.
+
+La valeur des réalisations est dans la rapidité d'exécution pour respecter les jalons des projets et dans la qualité des développements pour satisfaire aux attentes clients.
+
+D'autres missions vous seront demandées dans ce poste comme :
+Analyser fonctionnellement et en détails les besoins clients et utilisateurs
+
+Participer à la rédaction des cahiers des charges
+
+Rédiger les spécifications techniques avec chiffrages associés
+
+Participer activement au support client
+
+Définir les architectures logicielles et systèmes
+
+Valider, recetter et tester les développements réalisés et les solutions livrées
+
+Définir les solutions de déploiement
+
+Rédiger la documentation utilisateur
+Profil recherché Vous maitrisez des langages de programmation C++/C
+
+Vous avez des connaissances solides de l’environnement .NET C#
+
+Environnement de développement
+
+Langages : C++, C#, C
+
+Système d’exploitation : Windows
+
+SVN, Visual Studio
+
+Vous avez des connaissances dans l’un de ces domaines est un + :
+
+Connaissance en traitement d’image et en prise d’image
+
+Traitements parallèles, GPU
+
+Traitements distribués
+
+Anglais obligatoire : savoir impérativement rédiger et communiquer en anglais
+Entreprise i2S est une PME spécialisée dans la conception, la fabrication et la vente en France et à l'international de solutions à forte valeur ajoutée dans le secteur de l'optronique, de l'électronique et du logiciel.
+
+Des compétences reconnues dans le domaine de la vision industrielle et de la numérisation patrimoniale à forte valeur ajoutée, des expertises en vision adaptées aux métiers de chaque client
+
+L’innovation au service de la capture et du traitement d’image pour des applications de vision intégrée et augmentée.
+
+Un savoir-faire spécialisé pour atteindre la meilleure qualité d’image, donnant corps à la couleur, la forme, la texture et la densité.
+
+L’exploration de l’infiniment petit, l’infiniment loin, à travers la matière, en conditions extrêmes."
+2,https://www.indeed.fr/emplois?q=D%C3%A9veloppeur%20C%2B%2B&l=Bordeaux&radius=100&limit=100&sort=date&vjk=3a618927f4597b36,"Lead Développeur / Architecte C++ H/F
+Certis therapeutics - Pessac (33)","['Pessac (33)', 'Temps plein, CDI', '45 000 € - 66 000 € par an']",Lead Développeur / Architecte C++ H/F,Certis therapeutics,- Pessac (33),"Temps plein, CDI",45 000 € - 66 000 € par an,"il y a 4 jours
+Signaler cette offre d'emploi",Développeur C++,Bordeaux,"Mission
+Dans le cadre du démarrage de ses activités industrielles la société souhaite recruter un lead développeur / Architecte C++ pour structurer et diriger ses développements logiciels :
+- Définir et faire évoluer une architecture logicielle intégrant des modules de calculs en temps réel, communication entre plusieurs équipements, interface utilisateur
+- Mettre en place et garantir le suivi de bonnes pratiques de développement
+- Définir avec la direction et piloter les plannings de développement
+- Participer aux développements
+- Encadrer une équipe de 2 à 5 développeurs
+Profil
+Ingénieur Développement Confirmé avec au minimum 7 ans d'expériences en C++
+Autonomie, pédagogie, esprit d'analyse et bon relationnel
+Compétences requises
+Environnement Linux / Windows
+Expérience des contraintes temps réel
+C++17
+TCP/IP - websockets
+GIT
+Anglais technique et rédactionnel
+Compétences appréciées
+Docker
+GitLab
+Python
+CUDA
+ITK / VTK, 3D Slicer
+Avantages :
+Participation au transport
+Type d'emploi : Temps plein, CDI
+Salaire : 45 000,00€ à 66 000,00€ /an
+Expérience:
+développeur C++: 7 ans (Requis)"
+3,https://www.indeed.fr/emplois?q=D%C3%A9veloppeur%20C%2B%2B&l=Bordeaux&radius=100&limit=100&sort=date&vjk=a6054dd2aef0a118,"Ingénieur Développeur logiciel embarqué H/F
+CS Communication & Systèmes2 avis - Bordeaux (33)","['Bordeaux (33)', 'CDI']",Ingénieur Développeur logiciel embarqué H/F,CS Communication & Systèmes,- Bordeaux (33),CDI,null,"il y a 5 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Développeur C++,Bordeaux,"DESCRIPTION DE L'OFFRE
+Afin de répondre aux nouveaux enjeux majeurs de ses clients, le département Aquitaine de CS recherche d'un Développeur logiciel embarqué (H/F) pour renforcer ses équipes.
+Votre mission sera d’intégrer l’une de nos équipes projet et de prendre part à ses activités de conception logicielle, de développement et de validation des produits aéronautiques, sur calculateurs embarqués, dans le respect de la norme de sureté DO178.
+
+PROFIL REQUIS
+Diplômé d'une école d'Ingénieur (Bac +5) ou Master 2 orienté informatique, vous bénéficiez d’une première expérience concluante ou d’une alternance représentative.
+De plus, vous disposez d'une bonne culture de la programmation et de connaissances solides en développement logiciel.
+
+Vous disposez des compétences suivantes:
+Langages : C / C++ ;
+Plateformes : Windows, Linux.
+
+La connaissance de l'environnement de développement SCADE et de l'environnement de spécification DOORS seraient un plus.
+La connaissance de l'IHM QT sera appréciée.
+
+Autonome et doté d'un excellent relationnel, vous avez l'esprit d’équipe et le sens du service. Votre capacité à travailler sur différents projets est l'un de vos atouts.
+Vous êtes capable de vous exprimer en anglais à l’écrit comme à l’oral.
+
+CS en quelques mots ?
+CS est un concepteur, intégrateur et opérateur de systèmes d’information et de communication critiques.
+En proposant des solutions innovantes dans les domaines de la cyber sécurité, des systèmes sûrs industriels et embarqués, de la continuité numérique et de la gestion de crise et de la surveillance de zones, CS a su s’imposer en tant que partenaire privilégié pour les acteurs des secteurs de la Défense et de la Sécurité, du Spatial, de l’Aéronautique et de l’Energie. (www.c-s.fr)
+
+Rejoignez-nous pour mettre en valeur vos qualités et nous accompagner dans la réussite de nos projets !"
+4,https://www.indeed.fr/emplois?q=D%C3%A9veloppeur%20C%2B%2B&l=Bordeaux&radius=100&limit=100&sort=date&vjk=914843e31e239978,"Stage BAC+5 - Développeur pour simulateur (Cabin system) H/F
+Thales Group1,225 avis - Bordeaux (33)","['Bordeaux (33)', 'Stage']",Stage BAC+5 - Développeur pour simulateur (Cabin system) H/F,Thales Group,- Bordeaux (33),Stage,null,"Thales - il y a 5 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Développeur C++,Bordeaux,"QUI SOMMES-NOUS ?
+L’activité avionique rassemble 10 000 collaborateurs qui œuvrent à fournir des équipements et des systèmes de pointe pour toute la chaîne de l’aéronautique civile et militaire.
+Sur le Campus Thales Bordeaux, nous concevons, développons et livrons des systèmes, des équipements et des services pour assurer la réussite des missions aéroportées de nos clients, dans les domaines du transport, de la surveillance et du combat.
+Le Centre de Compétences Digitalisation et Missions recherche un/une développeur logicielH/F
+QUI ETES-VOUS ?
+Vous êtes en dernière année d’école d’ingénieur et vous devez effectuer un stage de fin d’études ?
+Vous avez une bonne connaissance de Linux, C/C++, Python RestApi et Raspberry PI avec un langage orienté web ?
+Vous êtes autonome et rigoureux ?
+Vous vous exprimez bien et aimez le travail collectif ?
+Des compétences en git et angularJs sont un plus.
+Cette description vous correspond ? Alors venez nous rejoindre !
+CE QUE NOUS POUVONS ACCOMPLIR ENSEMBLE :
+Au sein du Centre de Compétences Digitalisation et Mission, le département IFE (InFlyt Experience) développe le logiciel du système de divertissement de bords offerts aux passagers de compagnies aériennes internationales. Thales InFlyt Experience permet aux passagers de s'immerger dans un monde multimédia (audio et vidéo à la demande, jeux et applications sur plateforme Android) tout en profitant des solutions de connectivité sans-fil.
+Dans ce cadre, notre système s'interface avec de nombreux boitiers tiers en cabine, que ce soit des avionneurs (airbus, boeing, etc...) ou des équipementiers (latécoère, zodiac, etc...)
+En nous rejoignant, vous vous verrez confier les missions suivantes :
+L'objectif de ce stage est de développer un système permettant de simuler n'importe quel cabin system (Arinc 628 = protocole d'échange de données avec avions digitaux A350, B787, B777X) en changeant uniquement un fichier de configuration.
+Cet outil permettra le développement et l'intégration sans avoir nécessairement accès aux équipements réels qui sont difficilement disponibles.
+Le stage se déroulera en plusieurs parties :
+découverte du domaine IFE et prise en main des outils existant sur le sujet ;
+proposer une méthode de formalisation des documents d'interface lisible par l'outil (réflexion commune éventuelle avec un autre sujet de stage) ;
+s’assurer que la solution est la plus générique possible et interfaçable avec ARTS (tests automatiques) ;
+vérifier que la solution choisie est intégrable avec le futur IFE
+implémentation du back-end, puis réalisation d'une interface homme machine également configurable
+Vous serez intégré(e) dans l’équipe agile en charge du développement. Vous prendrez part aux réunions quotidiennes pour partager l’avancement de votre stage afin que les équipes de développement puissent s’appuyer sur vos résultats pour leurs futurs projets.
+Innovation, passion, ambition : rejoignez Thales et créez le monde de demain, dès aujourd’hui."
+5,https://www.indeed.fr/emplois?q=D%C3%A9veloppeur%20C%2B%2B&l=Bordeaux&radius=100&limit=100&sort=date&vjk=2e7d72d54db85faf,"Stage - Caractérisation et validation d'une plateforme haute performance (CPU multicoeur + Ethernet)
+Thales Group1,225 avis - Bordeaux (33)","['Bordeaux (33)', 'Stage']",Stage - Caractérisation et validation d'une plateforme haute performance (CPU multicoeur + Ethernet),Thales Group,- Bordeaux (33),Stage,null,"Thales - il y a 5 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Développeur C++,Bordeaux,"QUI SOMMES-NOUS ?
+L’activité avionique rassemble 10 000 collaborateurs qui œuvrent à fournir des équipements et des systèmes de pointe pour toute la chaîne de l’aéronautique civile et militaire.
+Sur le Campus Thales Bordeaux, nous concevons, développons et livrons des systèmes, des équipements et des services pour assurer la réussite des missions aéroportées de nos clients, dans les domaines du transport, de la surveillance et du combat.
+Le Centre de Compétence Plateforme recherche un/une stagiaire Ingénieur Développeur H/F
+QUI ETES-VOUS ?
+Vous êtes de niveau BAC+5 ?
+Un Stage/projet significatif sur du réseau est nécessaire et vous avez pu acquérir des compétences en modélisation langages de programmation : C , Réseau et en standard Ethernet ?
+Des connaissances en OS temps réel et développement de drivers , Langages de programmation : C++11/14/17, XML sont souhaitables ?
+Alors n’hésitez plus et rejoignez-nous !
+CE QUE NOUS POUVONS ACCOMPLIR ENSEMBLE :
+Le domaine HPEC (High Performance Embedded Computers) requiert un niveau de performance réseau et puissance de calcul comparable à celui de certains serveurs, tout en ayant les contraintes du domaine de l'embarqué.
+En nous rejoignant, vous vous verrez confier les missions suivantes :
+En collaboration avec les équipes d'ingénierie :
+Familiarisation avec le standard ECOA
+Développement d'une évolution d'un logiciel de validation plateforme existant pour répondre à ce standard
+Développement de logiciels de stress réseau et puissance de calcul
+Création de scenarios de stress de la plateforme HPEC (High Performance Embedded Computers)
+Caractérisation des performances de la plateforme HPEC
+Innovation, passion, ambition : rejoignez Thales et créez le monde de demain, dès aujourd’hui.
+Innovation, passion, ambition : rejoignez Thales et créez le monde de demain, dès aujourd’hui."
+6,https://www.indeed.fr/emplois?q=D%C3%A9veloppeur%20C%2B%2B&l=Bordeaux&radius=100&limit=100&sort=date&vjk=6d158e06562fca95,"Stage - Simulateur arinc485 générique H/F
+Thales Group1,225 avis - Bordeaux (33)","['Bordeaux (33)', 'Stage']",Stage - Simulateur arinc485 générique H/F,Thales Group,- Bordeaux (33),Stage,null,"Thales - il y a 5 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Développeur C++,Bordeaux,"QUI SOMMES-NOUS ?
+L’activité avionique rassemble 10 000 collaborateurs qui œuvrent à fournir des équipements et des systèmes de pointe pour toute la chaîne de l’aéronautique civile et militaire.
+Sur le Campus Thales Bordeaux, nous concevons, développons et livrons des systèmes, des équipements et des services pour assurer la réussite des missions aéroportées de nos clients, dans les domaines du transport, de la surveillance et du combat.
+Le centre de compétences Digitalisation et Missions recherche un/une développeur logicielH/F
+QUI ETES-VOUS ?
+Vous êtes en dernière année d’école d’ingénieur et vous devez effectuer un stage de fin d’études ?
+Vous avez une bonne connaissance de Linux, C/C++, Python RestApi et Raspberry PI avec un langage orienté web ?
+Vous êtes autonome et rigoureux ?
+Vous vous exprimé bien et aimé le travail collectif ?
+Des compétences en git et arinc485 sont un plus.
+Cette description vous correspond ? Alors venez nous rejoindre !
+CE QUE NOUS POUVONS ACCOMPLIR ENSEMBLE
+Au sein du Centre de Compétences Digitalisation et Mission, le département IFE (InFlyt Experience) développe le logiciel du système de divertissement de bords offerts aux passagers de compagnies aériennes internationales. Thales InFlyt Experience permet aux passagers de s'immerger dans un monde multimédia (audio et vidéo à la demande, jeux et applications sur plateforme Android) tout en profitant des solutions de connectivité sans-fil.
+Dans ce cadre, notre système s'interface avec de nombreux boitiers tiers en cabine, que ce soit des avionneurs (airbus, boeing, etc...) ou des équipementiers (latécoère, zodiac, etc...)
+En nous rejoignant, vous vous verrez confier les missions suivantes :
+L'objectif de ce stage est de développer un système permettant en changeant uniquement un fichier de configuration de simuler n'importe quel équipement sur un bus arinc485.
+Cet outil permettra le développement et l'intégration sans avoir nécessairement accès aux équipements réels qui sont difficilement disponibles.
+Le stage se déroulera en plusieurs parties :
+découverte du domaine IFE, et prise en main des outils existant sur le sujet
+proposer une méthode de formalisation des documents d'interface lisible par l'outil
+implémentation, puis réalisation d'une interface homme machine également configurable
+Vous serez intégré dans l’équipe agile en charge du développement. Vous prendrez part aux réunions quotidiennes pour partager l’avancement de votre stage afin que les équipes de développement puissent s’appuyer sur vos résultats pour leurs futurs projets.
+Innovation, passion, ambition : rejoignez Thales et créez le monde de demain, dès aujourd’hui.
+Innovation, passion, ambition : rejoignez Thales et créez le monde de demain, dès aujourd’hui."
+7,https://www.indeed.fr/emplois?q=D%C3%A9veloppeur%20C%2B%2B&l=Bordeaux&radius=100&limit=100&sort=date&vjk=9c8768c005df0707,"Stage - Implémentation et évaluation d'algorithmes ML / IA sur CPU/GPU
+Thales Group1,225 avis - Bordeaux (33)","['Bordeaux (33)', 'Stage']",Stage - Implémentation et évaluation d'algorithmes ML / IA sur CPU/GPU,Thales Group,- Bordeaux (33),Stage,null,"Thales - il y a 5 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Développeur C++,Bordeaux,"QUI SOMMES-NOUS ?
+L’activité avionique rassemble 10 000 collaborateurs qui œuvrent à fournir des équipements et des systèmes de pointe pour toute la chaîne de l’aéronautique civile et militaire.
+Sur le Campus Thales Bordeaux, nous concevons, développons et livrons des systèmes, des équipements et des services pour assurer la réussite des missions aéroportées de nos clients, dans les domaines du transport, de la surveillance et du combat.
+Le Centre de Compétence Plateforme recherche un/une stagiaire Ingénieur Développeur H/F
+QUI ETES-VOUS ?
+Vous êtes de niveau BAC+5 ?
+Un Stage/projet significatif sur du traitement du signal voire machine learning est nécessaire ?
+Les compétences primordiales pour effectuer ce stages sont :
+Langages de programmation : C/C++/Python
+OS : Linux
+Algorithmie TS/TI, connaissances en réseaux de neurones
+Utilisation des APIs OpenMP/CUDA/OpenCL
+OS : Des connaissances en OS temps réel et développement de drivers
+Utilisation d'Open CV ainsi que l’utilisation de Pytorch, Tensorflow, ou scikit-learn
+Compétences en algorithmie de machine learning autre que les réseaux de neurones
+C++11/14/17 seraient un plus ?
+Vous avez un bon niveau d’anglais ?
+Ce descriptif vous correspond , alors n’hésitez plus et rejoignez-nous !
+CE QUE NOUS POUVONS ACCOMPLIR ENSEMBLE :
+Les algorithmes d'IA/ML, et plus particulièrement de réseaux de neurones (CNN/DNN) peuvent améliorer les performances du traitement du signal des systèmes Radar : nouvelles fonctionnalités, calibration automatique, meilleures détections, etc.
+Ces algorithmes exploitent l'architecture parallèle des CPU multicoeurs et des GPU.
+Le centre de compétences plateforme souhaite évaluer les performances de ces algorithmes pour aborder au mieux leur embarquabilité dans des systèmes HPEC temps réel dur afin de proposer des solutions adaptées en termes de matériel et de logiciel.
+En nous rejoignant, vous vous verrez confier les missions suivantes :
+Etat de l'art des algorithmes IA/ML, ainsi que des API et bibliothèques associés.
+portage du driver AMD ROCM sur carte d'évaluation NXP LX2160, ainsi que des bibliothèques armnn, MiOpen, et tvm
+collaboration avec les équipes algorithmie pour la définition d'algorithmes ML/IA (Machine Learning/ Intelligence Artificielle)
+Implémentation de ces algorithmes avec les API/bibliothèques retenus
+Caractérisation des performances d'inférence de ces algorithmes sur GPU AMD et CPU LX2160: charge CPU/GPU, quantité mémoire, latence
+Innovation, passion, ambition : rejoignez Thales et créez le monde de demain, dès aujourd’hui.
+Innovation, passion, ambition : rejoignez Thales et créez le monde de demain, dès aujourd’hui."
+8,https://www.indeed.fr/emplois?q=D%C3%A9veloppeur%20C%2B%2B&l=Bordeaux&radius=100&limit=100&sort=date&vjk=82768e48274f4cfc,"INGÉNIEUR LOGICIEL H/F
+Joblink32 avis - Pessac (33)","['Pessac (33)', 'CDI', '32 000 € - 45 000 € par an']",INGÉNIEUR LOGICIEL H/F,Joblink,- Pessac (33),CDI,32 000 € - 45 000 € par an,"il y a 5 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Développeur C++,Bordeaux,"Notre Client est une PME spécialisée dans la conception, la fabrication et la vente en France et à l'international de solutions à forte valeur ajoutée dans le secteur de l'optronique, de l'électronique et du logiciel.
+Dans le cadre de leur développement produits et applications clients, nous recherchons Un Ingénieur Développement Logiciel H/F pour un CDI à Bordeaux.
+Rattaché (e) à la direction des Opérations, vos missions seront les suivantes :
+Vous développez les logiciels de leurs gammes de produits ou de leurs applications clients,
+Ainsi vous prenez en charge la maintenance logicielle des produits : corriger les anomalies dans la phase de garantie et développer les améliorations retenues dans la vie du produit,
+Nous nous attacherons à la capacité du développeur d'agir sur toute la verticalité des produits, des couches basses proches de l'électronique jusqu'aux couches hautes d'interface utilisateur graphique, en passant par les couches systèmes et fonctionnelles,
+La valeur des réalisations est dans la rapidité d'exécution pour respecter les jalons des projets et dans la qualité des développements pour satisfaire aux attentes clients.
+Autres missions qui seront demandées dans ce poste :
+Analyser fonctionnellement et en détails les besoins clients et utilisateurs,
+Participer à la rédaction des cahiers des charges,
+Rédiger les spécifications techniques avec chiffrages associés,
+Définir les architectures logicielles et systèmes,
+Valider, recetter et tester les développements réalisés et les solutions livrées,
+Définir les solutions de déploiement,
+Rédiger la documentation utilisateur,
+Participer activement au support client
+Compétences techniques :
+Maitrise parfaite des langages de programmation C#/C++/C
+Des connaissances traitements d'images et traitements parallèles seraient un plus
+
+Informations complémentaires :
+CDI à pourvoir dès que possible
+Package: selon profil
+Intéressement, participation, mutuelle offerte par entreprise, tickets restaurant
+2019-10-03
+Profil
+Formation supérieure en informatique BAC+4/5 (génie logiciel),
+Junior en tant qu'ingénieur en développement logiciel,
+Votre anglais est irréprochable autant dans la rédaction que dans la communication (une 3ème langue serait appréciée),
+Forte qualité relationnelle et bon niveau de communication pour travail en équipe interne, avec des partenaires et des clients,
+Vous disposez d'une bonne organisation, vous êtes méthodique et rigoureux,
+Vous avez un goût prononcé pour les nouvelles technologies,
+Ouvert, transparent, motivé, intègre, sont toutes les qualités requises pour réussir sur ce poste !
+Si vous vous reconnaissez dans cette offre alors transmettez nous votre candidature à l'adresse suivante : cvonarx@joblink.fr"
+9,https://www.indeed.fr/emplois?q=D%C3%A9veloppeur%20C%2B%2B&l=Bordeaux&radius=100&limit=100&sort=date&vjk=d3e2d263da5f3a20,"Stage : développement et prototypage d'un service pour un outil de mission de sécurité civile (H/F)
+Thales Group1,225 avis - Bordeaux (33)","['Bordeaux (33)', 'Stage']",Stage : développement et prototypage d'un service pour un outil de mission de sécurité civile (H/F),Thales Group,- Bordeaux (33),Stage,null,"Thales - il y a 5 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Développeur C++,Bordeaux,"QUI SOMMES-NOUS ?
+L’activité avionique rassemble 10 000 collaborateurs qui œuvrent à fournir des équipements et des systèmes de pointe pour toute la chaîne de l’aéronautique civile et militaire.
+Sur le Campus Thales Bordeaux, nous concevons, développons et livrons des systèmes, des équipements et des services pour assurer la réussite des missions aéroportées de nos clients, dans les domaines du transport, de la surveillance et du combat.
+Le Direction Ingénierie et Développement recherche un/une développeur logicielH/F
+QUI ETES-VOUS ?
+Vous êtes en école d’ingénieur et vous devez effectuer un stage de 2ème ou 3ème année ?
+Lors d’un stage ou projet d'études dans la conception d'interfaces utilisateurs et de services digitaux vous avez acquis des compétences en développement et prototypage ainsi qu’une
+expérience C++ , QT/QML, Unity 3D (ou équivalent) ?
+Des Notions de conception UX (User Expérience) et Pilotage de projets digitaux sont un plus ?
+Vous devez faire preuve d’autonomie, de capacité d’analyse et d’intégration au sein de l’équipe ?.
+Vous appréciez le travail en équipe et vous souhaitez vous épanouir dans un environnement innovant ?
+Alors venez nous rejoindre ce stage est fait pour vous ?
+CE QUE NOUS POUVONS ACCOMPLIR ENSEMBLE :
+Le stagiaire intégrera l'équipe du HUB innovation de Mérignac et travaillera au contact de l'équipe de prototypage de systèmes avioniques embarqués.
+Le stagiaire travaillera en duo avec un UX designer sur le maquettage d'un prototype de service digital.
+Ce prototype concerne l'exploration du travail collaboratif multi-acteurs pour des missions de sécurité civile.
+En nous rejoignant, vous vous verrez confier les missions suivantes :
+Travailler sur un projet de développement logiciel / interface.
+Dans le cadre d'une exploration sur les services innovants pour la travail collaboratif multi-acteurs concernant la sécurité civile, l'ingénieur devra travailler en équipe avec un designer produit/UX.
+Etre complémentaire des membres de l'équipe. (UX designers et ingénieurs Facteurs Humains)
+Etre force de proposition technique.
+Piloter l’activité de prototypage (proposition de jalons techniques, de réunions..)
+Dates idéales du stage: de février à fin aout.
+Innovation, passion, ambition : rejoignez Thales et créez le monde de demain, dès aujourd’hui.
+Innovation, passion, ambition : rejoignez Thales et créez le monde de demain, dès aujourd’hui."
+10,https://www.indeed.fr/emplois?q=D%C3%A9veloppeur%20C%2B%2B&l=Bordeaux&radius=100&limit=100&sort=date&vjk=9306f397785d440a,"Developpeur IOS / Freelance
+Thiveo - Mérignac (33)","['Mérignac (33)', 'Temps plein, Freelance / Indépendant', '450 € par semaine']",Developpeur IOS / Freelance,Thiveo,- Mérignac (33),"Temps plein, Freelance / Indépendant",450 € par semaine,"Freelance-info - il y a 8 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Développeur C++,Bordeaux,"L’un de mes clients dans le secteur de la monétique recherche un Developpeur IOS à Merignac H/F.
+
+Voici un bref descriptif de la mission :
+Travailler dans une équipe d’ingénieurs impliqués dans le développement et la qualification des produits de notre client.
+Contribuer au développement en fonction des objectifs du projet, des calendriers et de la planification des ressources. Passer en revue et contribuez aux plans de test. Être capable d’effectuer des tests complexes afin de vérifier la conception.
+Émettez un livre de test qui certifie un ensemble de tests réussis.
+Interface avec d’autres groupes fonctionnels avec l’outil d’entreprise Bug Ticketing (JIRA / Confluence).
+Évaluer et recommander des outils.
+
+Notre client demande une assistance de projet associée à notre offre de mobilité de paiement.
+La mission consiste en l’assistance au support et au développement de toute la solution liée à un appareil Apple (Iphone, Ipad, Mac). Il inclura le support et le développement de nouvelles fonctionnalités pour nos solutions PCL iOS et Mac OS.
+PCL est notre couche de communication de paiement qui permet l’interaction entre un appareil Apple et un terminal de paiement.
+
+Compétences techniques recherchées pour cette mission :
+iOS & Mac OS (expert),
+XCODE
+Objective C, SWIFT and C/C++
+Les compétences techniques suivantes seraient un plus :
+Android."
+11,https://www.indeed.fr/emplois?q=D%C3%A9veloppeur%20C%2B%2B&l=Bordeaux&radius=100&limit=100&sort=date&vjk=07ee1928807c8304,"Ingénieur DevOps / Solutions Architect
+GEOSAT4 avis - Pessac (33)","['Pessac (33)', 'Temps plein, CDI', '2 500 € - 3 000 € par mois']",Ingénieur DevOps / Solutions Architect,GEOSAT,- Pessac (33),"Temps plein, CDI",2 500 € - 3 000 € par mois,"il y a 13 jours
+Signaler cette offre d'emploi",Développeur C++,Bordeaux,"Geosat, société de services en ingénierie du territoire, intervient dans tous les domaines liés à la mesure 3D. Forte d’une croissance annuelle moyenne de 40%, notre société compte 260 collaborateurs répartis en 4 pôles de compétences : Géomètre expert, détection de réseaux, modélisation 3D/BIM, cartographie mobile.
+www.geo-sat.com
+MISSIONS & ATTRIBUTIONS
+Vous intégrerez l’équipe R&D au sein de laquelle vous contribuerez à la fois à des projets pour des clients externes et des projets internes à l’entreprise. La cartographie est au cœur des missions de l’équipe R&D de GEOSAT et plus particulièrement la cartographie dynamique (mobile mapping).
+En support d’une équipe de data scientists, d’ingénieurs et de développeurs vous participerez à l’harmonisation du code de prototypage en ayant les objectifs suivants :
+Intégrer, tester et déployer les fonctions et modules pour versioningà partir du code sur la branche master.
+Gérer et maintenir le code en y ajoutant de nouvelles fonctionnalités et/ou en améliorant ses performances
+Transformer du code prototype vers un langage de production (par exemple, Python = > C++)
+Concevoir et implémenter des architectures de services cloud computing
+Développer des Services Cloud SaaS (Software as a service) et microservices de machineet deep learning, traitement d’images, vision par ordinateur, données non-structurées (nuages de points 3D)
+Mettre en place des systèmes de monitoring pour des opérations (exécution de tâches, migration de données)
+COMPÉTENCES ATTENDUES
+Excellente connaissance du langage C++, C et Python, PostgreSQL-PostGIS, CUDA/OpenCL/OpenMP
+Connaissances du paysage DevOps : git, containers, Logstash/Elasticsearch, Kubernetes, PoD, Jenkins, microservices
+Être à l’aise sur la lecture de code de différents auteurs/programmeurs.
+Avoir des notions sur des sujets scientifiques (mathématiques 3D, traitement d'images, compression de données ...)
+Expérience en architecture de solutions cloud computing
+Curieux(se) et motivé(e), vous avez un bon relationnel et un esprit d’équipe
+Rémunération selon profil
+Avantages: CE,mutuelle, Participation, Intéressement, ...
+Type d'emploi : Temps plein, CDI
+Salaire : 2 500,00€ à 3 000,00€ /mois
+Expérience:
+ingénieur devops / solutions architect ou similaire: 1 an (Souhaité)"
+12,https://www.indeed.fr/emplois?q=D%C3%A9veloppeur%20C%2B%2B&l=Bordeaux&radius=100&limit=100&sort=date&vjk=eef635e2a78bc23f,"Stage: développement de l'IHM d'un outil de communication innovant
+Thales Group1,225 avis - Bordeaux (33)","['Bordeaux (33)', 'Stage']",Stage: développement de l'IHM d'un outil de communication innovant,Thales Group,- Bordeaux (33),Stage,null,"Thales - il y a 12 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Développeur C++,Bordeaux,"QUI SOMMES-NOUS ?
+L’activité avionique rassemble 10 000 collaborateurs qui œuvrent à fournir des équipements et des systèmes de pointe pour toute la chaîne de l’aéronautique civile et militaire.
+Sur le Campus Thales Bordeaux, nous concevons, développons et livrons des systèmes, des équipements et des services pour assurer la réussite des missions aéroportées de nos clients, dans les domaines du transport, de la surveillance et du combat.
+Le centre de compétences Digitalisation et Missions recherche un/une développeur logicielIHM H/F
+QUI ETES-VOUS ?
+Vous êtes en école d’ingénieur et vous devez effectuer un stage de fin d’études ?
+Vous avez de bonnes pratiques en conception UX et développement logiciel ?
+Vous avez la connaissance du Qt/QML ?
+Vous avez une sensibilité sur les Interfaces Homme Machine ?
+Votre curiosité et votre force de proposition sont des atouts qui vous sont propres ?
+Vous vous sentez capable d’intégrer différents médias et d’effectuer des requêtes http sur serveurs de données ?
+Vous appréciez le travail en équipe et vous souhaitez vous épanouir dans un environnement innovant ?
+Alors venez nous rejoindre ce stage est fait pour vous ?
+CE QUE NOUS POUVONS ACCOMPLIR ENSEMBLE :
+Le hub innovation de Thales bordeaux recherche un(e) stagiaire en développement logiciel d’IHM pour aider à la construction d’une borne interactive nommée WePulse.
+WePulse est un projet de borne interactive mise à disposition du personnel du hub afin de favoriser les interactions entre employés. Elle permet de fédérer autour des événements, de partager des informations et de communiquer de manière collaborative. Elle met en œuvre des concepts innovants, mélangeant objets tangibles, tactile, et diverses nouvelles technologies.
+En nous rejoignant, vous vous verrez confier les missions suivantes :
+Désigner et maquetter cette borne interactive WePulse.
+Maquettage Qt/QML/C++ de la borne
+Design UX de la maquette
+Travaux sur différentes modalités d’interactions (tactile multitouch, objets tangibles...)
+Travaux sur technologies blutooth/wifi/cloud
+Innovation, passion, ambition : rejoignez Thales et créez le monde de demain, dès aujourd’hui.
+Innovation, passion, ambition : rejoignez Thales et créez le monde de demain, dès aujourd’hui."
+13,https://www.indeed.fr/emplois?q=D%C3%A9veloppeur%20C%2B%2B&l=Bordeaux&radius=100&limit=100&sort=date&vjk=fbf3dd272a8d28ba,"Stage - Développement FPGA / logiciel sur plateforme embarquée H/F
+Thales Group1,225 avis - Bordeaux (33)","['Bordeaux (33)', 'Stage']",Stage - Développement FPGA / logiciel sur plateforme embarquée H/F,Thales Group,- Bordeaux (33),Stage,null,"Thales - il y a 11 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Développeur C++,Bordeaux,"QUI SOMMES-NOUS ?
+L’activité avionique rassemble 10 000 collaborateurs qui œuvrent à fournir des équipements et des systèmes de pointe pour toute la chaîne de l’aéronautique civile et militaire.
+Sur le Campus Thales Bordeaux, nous concevons, développons et livrons des systèmes, des équipements et des services pour assurer la réussite des missions aéroportées de nos clients, dans les domaines du transport, de la surveillance et du combat.
+La Direction Ingénierie et Développements recherche un/une stagiaire en développeur logiciel.
+QUI ETES-VOUS ?
+Vous êtes étudiant en dernière année d'école d'ingénieur, spécialité Systèmes Embarqués ou Informatique Industrielle ?
+Une première expérience en développement FPGA et VHDL (stage, projet conséquent) sera fortement appréciée, d'autant plus si elle a été réalisée sur FPGA Altera. , ainsi qu’en développement logiciel en langage C / C++ sur plateforme embarquée Linux et environnement de compilation croisée (stage, projet conséquent) ?
+La connaissance des outils Yocto et langage de script (LUA, Python) serait un plus ?
+Vous appréciez le travail en équipe et ce descriptif vous correspond, Alors pas d’hésitation
+Venez nous rejoindre ?
+Au sein du service Développement Logiciel du Département des Moyens de Test (DMT) de THALES AVS FRANCE , vous intégrerez l'équipe de développement de la plateforme embarquée MPM (Multi-Purpose Module).
+Produit particulièrement attractif, la plateforme MPM est développée pour constituer la brique de base de plusieurs familles de solutions de test, notamment les solutions de téléchargement et d'investigation de pannes sur les produits aéronautiques.
+Vous participerez au développement de la plateforme MPM, en prenant notamment en charge le développement de nouvelles fonctionnalités FPGA ainsi que des drivers et des bibliothèques logicielles associées.
+En nous rejoignant, vous vous verrez confier les missions suivantes :
+Durant votre stage, vous prendrez en charge le cycle complet du développement des fonctionnalités FPGA et drivers logiciels associés, au travers des activités suivantes :
+Conception et développement de fonctionnalités FPGA sous forme d'IP
+Test des fonctionnalités FPGA développées (simulation et test sur cible)
+Documentation des fonctionnalités FPGA
+Mise à jour du driver FPGA afin d'intégrer l'accès aux fonctionnalités FPGA développées
+Développement de librairies d'abstraction du driver FPGA
+Intégration et test des librairies et du driver
+Le développement FPGA sera réalisé en VHDL à l'aide des logiciels Altera Quartus et Simulink. Le développement logiciel sera effectué en langage C pour une cible Linux.
+Innovation, passion, ambition : rejoignez Thales et créez le monde de demain, dès aujourd’hui.
+Innovation, passion, ambition : rejoignez Thales et créez le monde de demain, dès aujourd’hui."
+14,https://www.indeed.fr/emplois?q=D%C3%A9veloppeur%20C%2B%2B&l=Bordeaux&radius=100&limit=100&sort=date&vjk=3fad0eb7d4116fd7,"Développeur C++
+Lumiscaphe - Canéjan (33)
+A répondu à 51 %-74 % des candidatures des 30 derniers jours, généralement en 4 jours.","['Canéjan (33)', 'Temps plein, CDI', '30 000 € - 45 000 € par an']",Développeur C++,Lumiscaphe,- Canéjan (33),"Temps plein, CDI",30 000 € - 45 000 € par an,"il y a 19 jours
+Signaler cette offre d'emploi",Développeur C++,Bordeaux,"Notre start-up est devenue grande ! Bientôt 18 ans, presque 30 collaborateurs en France et en Asie, des clients de renom dans le monde industriel (aéronautique, constructeur automobile, luxe,... que nous fidélisons par notre extrême rigueur et sens du service. Nous réalisons plus de 3 millions d’euros de CA !
+A la pointe des technologies de la réalité virtuelle et de la réalité augmentée, notre savoir-faire nous permet de révolutionner les process industriels!
+Les dirigeants ? Des passionnés qui ont à cœur de continuer à grandir encore et toujours.
+Afin d'accélérer notre développement et d’aborder de nouveaux secteurs industriels prometteurs (nautisme, biens d’équipement : moto, vélos, quads,…et bien d’autres secteurs encore), nous recherchons un Ingénieur Développement Logiciel pour rejoindre notre équipe soudée, pleine de fun et ambitieuse.
+Développeur C++
+Lumiscaphe développe des logiciels de synthèse d’images 3D temps réel et de réalité virtuelle destinés aux services de design, de marketing et d’ingénierie de l’industrie.
+Ces logiciels sont exploités par de grands comptes industriels tels que Renault, Airbus, Faurecia, Apple, Toyota, mais aussi chez de nombreux sous-traitants de premier et second rangs.
+Développement de nouvelles fonctions sur nos logiciels.
+Analyse de problèmes rencontrés par les utilisateurs et développement de correctifs.
+Profil recherché
+Titulaire d’un diplôme en développement informatique de niveau BAC+5.
+Connaissance des environnements de développement Windows, Visual Studio et C++
+La connaissance d’autres technologies telles OpenGL, DirectX, Qt, C#, .Net, Python, Jenkins, WIX, … est un plus.
+Des connaissances en informatique graphique 3D sont un plus.
+Anglais écrit courant et technique impératif.
+Expérience : jeune diplômé ou développeur expérimenté.
+Type d'emploi : Temps plein, CDI
+Salaire : 30 000,00€ à 45 000,00€ /an
+Langue:
+Anglais (Requis)"
+15,https://www.indeed.fr/emplois?q=D%C3%A9veloppeur%20C%2B%2B&l=Bordeaux&radius=100&limit=100&sort=date&vjk=5b5278ce04c60c67,"Développeur informatique H/F
+Work&You4 avis - Tonneins (47)
+A répondu à 75 % ou plus des candidatures sur les 30 derniers jours, généralement en 3 jours.","['Tonneins (47)', 'Temps plein, CDI', '30 000 € par an']",Développeur informatique H/F,Work&You,- Tonneins (47),"Temps plein, CDI",30 000 € par an,"il y a 15 jours
+Signaler cette offre d'emploi",Développeur C++,Bordeaux,"#lepostequilvousfaut :
+Un entreprise stimulante en plein développement
+Une rémunération attractive
+Autonomie
+Work&You est un cabinet de recrutement national innovant, moderne et orienté dans une démarche de qualité.
+Notre client est une PME Lot-et-Garonnaise ayant à sa tête, un manager performantet innovant qui privilégie pour ses collaborateurs, autonomie et engagement.
+Dans le cadre de son développement, il crée un nouveau poste de Développeur informatique H/F.
+En détail, ça donne quoi ?
+Au sein de l'équipe R&D, vous serez en charge de la :
+- Conception et réalisation d'application sur architecture clients serveur ou trois tiers
+- Maintenance des logiciels existants
+- Conception et réalisation d'applications Windows
+Votre profil :
+Vous êtes force de proposition et savez faire preuve d'analyse, de réflexion et d'initiative dans la conception des projets ou dans la résolution de problèmes ?
+Vous possédez de bonnes connaissance des techniques de conception objet et maîtrisez les bases de données relationnelles et les modèles de données.
+Connaissances requises :
+- Langages : idéalement C++
+- Bases de données : SQL serveur
+Vous possédez un cursus scientifique minimum BAC +2 orienté programmation informatique, développement de logiciels.
+Vous possédez idéalement au minimum 5 ans d'expérience en informatique de gestion.
+En fonction de votre expérience et de vos compétences, votre rémunération globale annuelle sera basée entre 30 K€ à 35 K€.
+Pourquoi postuler avec Work&You ? Les compétences et l'humain avant tout : Nous nous engageons à vous répondre sous 48h !
+Type d'emploi : Temps plein, CDI
+Salaire : 30 000,00€ /an
+Expérience:
+développeur informatique h/f ou similaire: 2 ans (Souhaité)"
+16,https://www.indeed.fr/emplois?q=D%C3%A9veloppeur%20C%2B%2B&l=Bordeaux&radius=100&limit=100&sort=date&vjk=a7a02662964c5442,"Ingénieur Développeur C / C++ H/F
+CS Communication & Systèmes2 avis - Bordeaux (33)","['Bordeaux (33)', 'CDI']",Ingénieur Développeur C / C++ H/F,CS Communication & Systèmes,- Bordeaux (33),CDI,null,"il y a 26 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Développeur C++,Bordeaux,"DESCRIPTION DE L'OFFRE
+Pour répondre aux enjeux d’un de nos grands comptes, le département Aquitaine recherche un(e) ingénieur(e) développement scientifique dans le domaine Energie/Défense
+En charge d’un projet de Tierce Maintenance Applicative (TMA) de nombreuses applications scientifiques, vous interviendrez sur la modification d’applications et prendrez en charge les activités suivantes :
+Analyse des codes de plusieurs applications,
+Modification du développement (Maintenance Evolutive),
+Corrections d’anomalies (Maintenance Corrective),
+Tests, recette et documentation associée.
+
+PROFIL REQUIS
+Ingénieur de formation (BAC +5), vous justifiez d’une expérience de 3 ans minimum en développement C, C++ ou Java et en conception orientée objet. Vous avez une bonne connaissance de différents environnements de développement.
+
+Vous connaissez tout ou partie des environnements suivants :
+Conception orientée objet;
+Langages C, C++;
+Développement sous Windows et linux (Visual Studio, gcc);
+Utilisation de débugers;
+Outils de gestion de sources (GIT, SVN);
+Outil de non régression et d’intégration continue Jenkins;
+Base de données (postgre/SQL,Oracle).
+Les compétences techniques dans les domaines ci-dessous sont un plus :
+Gestion des processus (JIRA);
+Outil de non régression et d’intégration continue Jenkins.
+
+Vous savez analyser un besoin, vous intégrer dans une équipe, assurer la documentation et le bon fonctionnement d’une application.
+Curieux et motivé, vous avez l'esprit d'équipe et êtes passionné par la programmation informatique et les nouvelles technologies.
+Vous êtes autonome, proactif et doté d'un bon relationnel.
+
+CS en quelques mots ?
+CS est un concepteur, intégrateur et opérateur de systèmes d’information et de communication critiques.
+En proposant des solutions innovantes dans les domaines de la cyber sécurité, des systèmes sûrs industriels et embarqués, de la continuité numérique et de la gestion de crise et de la surveillance de zones, CS a su s’imposer en tant que partenaire privilégié pour les acteurs des secteurs de la Défense et de la Sécurité, du Spatial, de l’Aéronautique et de l’Energie. (www.c-s.fr)
+
+Nous rejoindre c’est :
+Evoluer dans un environnement stimulant, basé sur un management de proximité. Un Groupe qui s’engage pour ses salariés par la formation et l’évolution professionnelle.
+
+Vous recherchez un projet innovant ? Alors Rejoignez CS Group en postulant !"
+17,https://www.indeed.fr/emplois?q=D%C3%A9veloppeur%20C%2B%2B&l=Bordeaux&radius=100&limit=100&sort=date&vjk=5438935bcd225c9a,"Analyste problème H/F
+Akema3 avis - Bordeaux (33)","['Bordeaux (33)', 'Temps plein, CDI']",Analyste problème H/F,Akema,- Bordeaux (33),"Temps plein, CDI",null,"il y a 21 jours
+Signaler cette offre d'emploi",Développeur C++,Bordeaux,"AKEMA est une jeune société, évoluant au sein d'un groupement d'entreprise.
+Dans le cadre de notre expansion, nous souhaitons renforcer nos équipes au sein de notre division IT, division s'articulant autour de 3 grands domaines de compétences :
+le Développement et l'Intégration de solutions applicatives métier,
+l'Informatique industriel, l'Accompagnement métier et fonctionnel et Conseil en stratégie SI.
+Au sein de nos équipes, règne une ambiance chaleureuse et décontractée… Dans un climat de type « start-up » les valeurs de tolérance, de respect et de considération sont les bienvenues…
+Toujours en quête d’innovation et de perfectionnement, nos collaborateurs sont de vrais passionnés, investis et créatifs.
+Nous recherchons un analyste problème H/F, sur Bordeaux.
+Au niveau de tes missions, tu devras :
+T'approprier les environnements techniques existants, les solutions et l'organisation,
+Comprendre les différents aspects ""métier"" des chaînes de traitement,
+Analyser techniquement et fonctionnellement les problématiques soumises, par l'observation, la lecture du code avec un développeur, et toute méthode permettant de retrouver la cause
+Mener des tests sur les solutions envisagées, en sollicitant si nécessaire les équipes appropriées pour la mise en place et le rendu de ces tests.
+On attend de toi que ai des compétences sur :
+les systèmes d'exploitation Linux, Windows Server/Pro
+Python, powershell, bash
+Java, J2E, C++
+SQL MySQL
+Tu es motivé(e) dynamique, tenace et tu as le sens du contact.
+Tu te retrouve dans cette mission ?
+Rejoins-nous !
+Type d'emploi : Temps plein, CDI
+Expérience:
+analyste problème h/f ou similaire: 3 ans (Requis)"
+18,https://www.indeed.fr/emplois?q=D%C3%A9veloppeur%20C%2B%2B&l=Bordeaux&radius=100&limit=100&sort=date&vjk=c02a80673660599d,"Ingénieur Développeur Embarqué Bas niveau H/F
+Groupe SII4 avis - Bordeaux (33)",['Bordeaux (33)'],Ingénieur Développeur Embarqué Bas niveau H/F,Groupe SII,- Bordeaux (33),null,null,"il y a 22 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Développeur C++,Bordeaux,"Description du poste :
+SII Bordeaux cherche un « Ingénieur Développeur Bas niveau », pour l’un de ses clients, grand compte industriel.
+Au sein des équipes clients, vous travaillez avec les équipes de développement et intervenez pour répondre au besoin d’un démonstrateur :
+– Relecture et reprise de code
+– Développement de Drivers
+– Développement de logiciels de base proche du HW
+– Modification d’interface bas niveau
+– Test, intégration et validation
+– Rédaction de la documentation technique,
+
+Profil:
+
+
+Diplômé d’une école d’ingénieurs ou universitaire (Bac+5), vous justifiez d’une expérience de minimum 3 ans en développement et l’analyse de drivers bas niveau.
+Vous avez l’habitude de travailler dans un environnement Linux, possédez de bonnes aptitudes dans le développement de logiciels proche du HW.
+La connaissance de normes et protocoles aéronautiques telle que la DO178B et la pratique de l’Anglais seraient de sérieux atouts.
+Votre autonomie et votre communication seront des qualités appréciées.
+Dynamique, doté d’un excellent relationnel, vous avez su faire preuve au travers de votre parcours d’un réel sens du conseil.
+Depuis plus de 10 ans, SII Sud-Ouest, c’est : Apporter un service à nos clients ainsi qu’à nos consultants dans le respect de nos valeurs : Professionnalisme, Anticipation, Confiance, Transparence, Engagement.
+Si vous venez d’une autre région, nous proposons des aides à la mobilité.
+Suivez-nous sur les réseaux : Viadeo, LinkedIn, Twitter et Groupe SII sur Facebook.
+
+Dynamisme, Confiance, Innovation et Autonomie sont nos leitmotivs !
+Intégrer SII Sud-Ouest (800 collaborateurs), c’est travailler sur des sujets innovants avec des #Fungénieurs créatifs. Pour nous, la proximité avec nos collaborateurs est une de nos priorités.
+Pour accompagner votre carrière, nous vous proposons d’être membre d’une communauté technique correspondant à vos centres d’intérêts : «Big Data», «Front-end IHM», «Back end – Architecture logicielle», «Sécurité, architecture technique, devops », «Aéronautique» ou «Simulation, Modélisation».
+N’attendez plus, rejoignez le mouvement #Fungénieur : Bien plus qu’un métier, une philosophie !
+Compétences :
+C/C++/LINUX/HW/DO178
+Référence de l’annonce :
+D/BDX/INDUS/Basniv/2019
+Expérience:
+2-5 ans
+Qualification:
+Consultant
+Rémunération:
+Selon votre profil et expérience
+
+POSTULER"
+19,https://www.indeed.fr/emplois?q=D%C3%A9veloppeur%20C%2B%2B&l=Bordeaux&radius=100&limit=100&sort=date&vjk=e0295a62c9bad7e1,"Programmeur Outils & Web (H/F)
+Ubisoft213 avis - Bordeaux (33)",['Bordeaux (33)'],Programmeur Outils & Web (H/F),Ubisoft,- Bordeaux (33),null,null,"il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Développeur C++,Bordeaux,"Job Description
+
+Au sein d'une équipe Mobile soudée et investie, vous participez au développement et à l'amélioration des outils de production. Rattaché au Lead Programmer, vos responsabilités seront de :
+Créer et améliorer les outils de production à destination des designers, artistes et développeurs;
+Participer au support des outils auprès des différentes équipes de production interne ;
+Participer au design de solutions pour les différents besoins des équipes notamment concernant le pipeline ;
+Effectuer une veille concurrentielle technique et être un vecteur de l’innovation ;
+
+Qualifications
+
+Compétences nécessaires :
+Vous avez une bonne maitrise d'une ou plusieurs technologies WEB modernes : Angular, React, VueJS, NodeJS, JS, TypeScript, etc ;
+Vous avez une bonne maîtrise de la programmation en C++/C#
+Une base solide en architecture logicielle ;
+Vous disposez d’un bon niveau en anglais ;
+Compétences appréciées :
+Une connaissance d'un langage de script type Python est un atout;
+Une connaissance des pipelines d’outils, des moteurs de jeux et/ou des jeux est un atout;
+Une connaissance des bibliothèques d’interface wpf/winform/Qt est un atout ;
+Vous êtes rigoureux, réactif, autonome et avez un bon esprit d’équipe ;
+Vous êtes force de proposition ;
+Vous avez à cœur de proposer les meilleures expériences utilisateur possibles;
+
+Additional Information
+
+Intégrer les studios France, c’est aussi:
+Evoluer dans un groupe leader dans l’industrie du jeu vidéo en France et présent dans 30 pays différents, avec des opportunités d’évolution à l’international
+Rejoindre des équipes passionnées et d’un excellent niveau technique, toutes animées par l’envie de concevoir et développer des jeux innovants et se démarquant par leur qualité
+Collaborer avec des équipes reconnues pour leur expérience sur des franchises renommées
+Développer une expertise en participant aux événements de partage organisés en interne (talks ; conférences ; salons) et en bénéficiant de programmes de formation sur-mesure
+Bénéficier des Ubi+ : 4 jeux Ubisoft offerts par an, ludothèque, bibliothèque, offres privilégiées pour des activités culturelles
+Ubisoft veille à développer un environnement de travail inclusif qui reflète la diversité de sa communauté de joueurs dans ses équipes. En tant qu’employeur, Ubisoft offre à tous les mêmes opportunités d’accès à l’emploi sans distinction de genre, ethnicité, religion, orientation sexuelle, statut social, handicap et d’âge.
+Retrouvez toute l'information et l'actualité d'Ubisoft Bordeaux sur nos pages LinkedIn et Facebook!"
+20,https://www.indeed.fr/emplois?q=D%C3%A9veloppeur%20C%2B%2B&l=Bordeaux&radius=100&limit=100&sort=date&vjk=562d0a70e04d1f0c,"Ingénieur développement logiciel couplage multi-physique 3D H/F
+CEA - Commissariat à l'Energie Atomique278 avis - Le Barp (33)","['Le Barp (33)', 'CDI']",Ingénieur développement logiciel couplage multi-physique 3D H/F,CEA - Commissariat à l'Energie Atomique,- Le Barp (33),CDI,null,"il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Développeur C++,Bordeaux,"Qui sommes-nous ?
+
+Dans le cadre d’une démarche de garantie de performances par la Simulation, le Service Modélisations et Mathématiques pour la Simulation du CESTA élabore des modèles physico-numériques multi-physiques, multi-échelles et développe des codes de calcul dans les domaines de l’aérodynamique hypersonique, de l’électromagnétisme et de la dynamique rapide.
+Ces développements bénéficient des approches les plus modernes du génie logiciel et sont conduits dans le contexte du calcul haute performance afin de tirer le meilleur parti des supercalculateurs de la DAM. Au sein de ce service vous intégrerez l'équipe en charge du développement logiciel pour les chaînes de simulation.
+
+Que pouvons-nous accomplir ensemble ?
+
+Vous intégrerez le laboratoire de développement logiciel pour les chaînes de simulation composé d'une douzaine d'ingénieurs et de chercheurs spécialistes du génie logiciel appliqué au calcul scientifique.
+Vous aurez la responsabilité de développer et de mettre en œuvre des plateformes permettant l’enchaînement, le couplage et l’exploitation de grands codes de calculs dans un contexte de simulation intensive.
+
+Vous contribuez à l’optimisation des performances des chaînes de simulation développées sur les supercalculateurs de la DAM.
+Ces travaux devront s’enrichir d’échanges et de collaborations dans le cadre de partenariats avec des organismes de recherche et le monde académique. Ils pourront donner lieu à des communications au sein de conférences internationales et de revues scientifiques des domaines concernés.
+
+Si vous souhaitez valoriser votre potentiel scientifique et humain dans un écosystème doté de moyens exceptionnels alors ne tardez pas à nous rejoindre en posant votre candidature à cette offre de poste.
+Profil du candidat
+Qui êtes-vous ?
+
+Vous avez une culture approfondie en informatique, en génie logiciel ou dans d'autres disciplines computationnelles et un excellent relationnel vous permettant de collaborer avec de nombreux interlocuteurs tels que les développeurs, les utilisateurs, les prestataires ou encore les chercheurs du monde académique.
+
+Vous possédez des compétences dans le domaine :
+
+du développement de logiciels et du génie logiciel ;
+des langages de programmation et des plateformes (Java, Python, C++, JavaScript, Eclipse, XML) ;
+des systèmes d'exploitation Unix et Linux.
+
+Vous avez des connaissances :
+en calcul scientifique et en simulation numérique ;
+en serveur d'intégration continue et de gestion de sources (Git, Jenkins, Wildfly, JUnit) ;
+en environnements logiciels applicables au contexte scientifique (Unix, Eclipse RCP) ;
+en gestion de données techniques (formats, base de données, analyse, conversion).
+
+Vous êtes dynamique et aimez relever des challenges techniques en développement logiciel sur des sujets motivants et novateurs dans le domaine de la simulation 3D.
+
+Vous souhaitez participer au développement de plateformes numériques de co-simulation permettant d'enchaîner et de coupler des logiciels de simulations dans un environnement coopératif favorisant l'interopérabilité et les échanges d'information.
+
+Si vous êtes passionné de nouvelles technologies et considérez l'innovation et l'amélioration continue comme primordiales alors ce poste est fait pour vous !"
+21,https://www.indeed.fr/emplois?q=D%C3%A9veloppeur%20C%2B%2B&l=Bordeaux&radius=100&limit=100&sort=date&vjk=d6772507b56f4e57,null,[],Développeur Python H/F,TALENTS RH,- Bordeaux (33),"Temps plein, CDI",35 000 € - 45 000 € par an,"il y a 30+ jours
+Signaler cette offre d'emploi",Développeur C++,Bordeaux,"TALENTS RH, société de recrutement spécialisée Profils Rares & Hautes Compétence, recherche, pour l’un de ses partenaires, des DEVELOPPEURS PYTHON H/F.
+Au sein de l'équipe de développement de CLARISYS Informatique, vous contribuerez aux produits du système d'information de l'entreprise (logicel libre claritick, , intégration de systèmes divers sur la plateforme (munin, smokeping, ...))
+Analyser les besoins et mettre en oeuvre un cahier des charges.
+Développer les solutions et effectuer les tests de validation.
+Accompagner la mise en place des améliorations.
+Mesurer, analyser et améliorer les performances du logiciel.
+Profil :
+Maîtrise de systèmes de gestion des versions (GIT, Subversion)
+Maîtrise des outils de recherche
+Adaptation aux différents langages de programmation orienté objet. (Python, Java, C++, ...)
+Connaissances des bases de données relationnelles (MySQL, PostgreSQL, Oracle, ...)
+Bonnes connaissances de l'environnement GNU/Linux (Debian, Fedora, OpenSuse, RedHat, FreeBSD, ...)
+Compréhension de l'anglais technique.
+Vous êtes passionné par l'informatique, les nouvelles technologies et vous désirez les mettre en pratique.
+Vous avez développé/participé à au moins un projet personnel hors cadre scolaire/entreprise.
+Type d'emploi : Temps plein, CDI
+Salaire : 35 000,00€ à 45 000,00€ /an
+Expérience:
+développeur python h/f ou similaire: 1 an (Souhaité)"
+22,https://www.indeed.fr/emplois?q=D%C3%A9veloppeur%20C%2B%2B&l=Bordeaux&radius=100&limit=100&sort=date&vjk=b9c378dcbf95e188,"DEVELOPPEURS PYTHON H/F
+TALENTS RH - Bordeaux (33)","['Bordeaux (33)', 'CDI']",DEVELOPPEURS PYTHON H/F,TALENTS RH,- Bordeaux (33),CDI,null,"il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Développeur C++,Bordeaux,"TALENTS RH, société de recrutement spécialisée Profils Rares & Hautes Compétence, recherche, pour l’un de ses partenaires, des DEVELOPPEURS PYTHON H/F.
+
+Au sein de l’équipe de développement de CLARISYS Informatique, vous contribuerez aux produits du système d’information de l’entreprise (logicel libre claritick, , intégration de systèmes divers sur la plateforme (munin, smokeping, …))
+Analyser les besoins et mettre en oeuvre un cahier des charges.
+Développer les solutions et effectuer les tests de validation.
+Accompagner la mise en place des améliorations.
+Mesurer, analyser et améliorer les performances du logiciel.
+
+Profil :
+Maîtrise de systèmes de gestion des versions (GIT, Subversion)
+Maîtrise des outils de recherche
+Adaptation aux différents langages de programmation orienté objet. (Python, Java, C++, …)
+Connaissances des bases de données relationnelles (MySQL, PostgreSQL, Oracle, …)
+Bonnes connaissances de l’environnement GNU/Linux (Debian, Fedora, OpenSuse, RedHat, FreeBSD, …)
+Compréhension de l’anglais technique.
+Vous êtes passionné par l’informatique, les nouvelles technologies et vous désirez les mettre en pratique.
+Vous avez développé/participé à au moins un projet personnel hors cadre scolaire/entreprise."
+23,https://www.indeed.fr/emplois?q=D%C3%A9veloppeur%20C%2B%2B&l=Bordeaux&radius=100&limit=100&sort=date&vjk=f9c8d7b3488825ef,"Développeur Delphi
+Sept Lieues - Mérignac (33)","['Mérignac (33)', 'CDI']",Développeur Delphi,Sept Lieues,- Mérignac (33),CDI,null,"il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Développeur C++,Bordeaux,"Grand groupe français spécialisé dans la gestion de flux d' informations de l'éco-système médical.
+Avec une présence dans plus de 10 pays et plus de 4500 collaborateurs, vous intégrer une entreprise stable et pérenne, côté en Bourse.
+LE POSTE / LES MISSIONS
+Au sein d'une équipe d'une dizaine de personnes, vous travaillez sur un projet long terme d'envergure.
+90% d'évolution et de nouveaux modules
+10% de maintenance
+Vous agissez sur un logiciel utilisé par plus de 10 000 clients et utilisateurs.
+PROFIL RECHERCHÉ
+Profil recherché :
+environ 10 ans d'expérience
+Delphi : bonne connaissance des versions récentes
+notions C++ sont appréciées
+autonome et force de proposition
+
+Ce poste vous permet d'évoluer vers du lead technique à moyen terme.
+
+Environnement technique :
+Agile Scrum
+Delphi et C++
+Jira"
+24,https://www.indeed.fr/emplois?q=D%C3%A9veloppeur%20C%2B%2B&l=Bordeaux&radius=100&limit=100&sort=date&vjk=e5565b0d808e6ba0,"Développeur C++
+MeshRoomVR - Bordeaux (33)","['Bordeaux (33)', 'CDI', '27 000 € - 37 000 € par an']",Développeur C++,MeshRoomVR,- Bordeaux (33),CDI,27 000 € - 37 000 € par an,"il y a 30+ jours
+Signaler cette offre d'emploi",Développeur C++,Bordeaux,"Description du poste
+Attention, ça va chauffer à Bordeaux : MeshroomVR vient de lever des fonds et cela se traduit par des supers opportunités !
+A la croisée des mondes de la technologie temps réel et de la réalité virtuelle, nous développons l’application la plus simple et la plus accessible du marché destinée aux concepteurs / designers.
+Vous êtes prêts à sortir de votre zone de confort ?
+Vous croyez que faire parti des 20 premiers employés d’une compagnie à fort potentiel peut changer votre destin ?
+Postulez chez nous sans attendre !
+Nous cherchons plusieurs programmeurs C++. Votre mission consistera à développer des algorithmes et des fonctionnalités en rapport avec la 3D et Unreal Engine 4. A l'aise dans une équipe à taille humaine humaine et dynamique, vous serez sous la responsabilité d'un lead programmer.
+Profil du candidat
+Le candidat devra nécessairement avoir :
+Excellent Niveau de C++ (plusieurs projets pro ou amateurs à présenter)
+Bonnes connaissances de la 3D en général
+Disponible à temps plein
+Parfaites aptitudes à communiquer en français et en anglais
+Efficacité au niveau du travail (écoute et compréhension du besoin, solution adaptée)
+Rigoureux et discipliné (horaires de bureaux appliqués par toute l'équipe)
+Seront un plus :
+Connaissances en Unreal Engine 4 (C++ et Blueprints)
+Connaissances des logiciels de 3D et des formats de fichiers 3D
+Forme contrat : CDI. Post à Bordeaux centre, travail à distance envisageable.
+Débutants et autodidactes acceptés si nombreux projets personnels à présenter (pas uniquement projets scolaires).
+Un test technique de 8h approximativement, à faire chez soi, sera demandé.
+Informations supplémentaires
+Postes à pourvoir dès Août 2019. Collaboration sur le long terme souhaitée.
+Type d'emploi : CDI
+Salaire : 27 000,00€ à 37 000,00€ /an
+Expérience:
+développeur c++ ou similaire: 1 an (Souhaité)
+Formation:
+Bac +2 (BTS, DUT, DEUG) (Souhaité)
+Lieu:
+Bordeaux (33) (Souhaité)"
+25,https://www.indeed.fr/emplois?q=D%C3%A9veloppeur%20C%2B%2B&l=Bordeaux&radius=100&limit=100&sort=date&vjk=b090731cc8b06455,"Développeur Monétique H/F
+LAFON3 avis - Bassens (33)
+A répondu à 75 % ou plus des candidatures sur les 30 derniers jours, généralement en 1 jour.","['Bassens (33)', 'Temps plein, CDI']",Développeur Monétique H/F,LAFON,- Bassens (33),"Temps plein, CDI",null,"il y a 30+ jours
+Signaler cette offre d'emploi",Développeur C++,Bordeaux,"Créé à Bordeaux en 1959 et appartenant au Groupe MADIC depuis 2006, LAFON se positionne comme un industriel français leader dans les Énergies & l’environnement automobile (Équipements pétroliers, Citernes de stockage, Stations mobiles, Matériels roulants, bornes de charge pour véhicules électriques) et les solutions monétiques sans surveillance (Terminaux de paiement & Systèmes de gestion).
+Fort de ses 380 salariés répartis sur 8 sites en Europe et en Afrique, LAFON conçoit et développe des solutions intelligentes, fiables et sécurisées qui permettent à nos partenaires d’améliorer leurs relations clients et de promouvoir leurs produits dans des conditions optimum.
+Notre activité porte sur les domaines de l’Énergie, de la Distribution, de l’Industrie, du Service, du Transport et de l’Institutionnel.
+LAFON axe sa croissance sur une stratégie de développement durable, respectueuse de l’Humain, de l’Entreprise et de la Planète.
+Dans le cadre du développement de son offre, LAFON recherche un Développeur Monétique H/F
+Description de poste :
+Au sein du Bureau d’Etudes Informatique, vous serez intégré dans nos équipes de développement d’applications de paiement.
+Vous aurez l’opportunité de participer à toutes les étapes de réalisation du logiciel, de l’analyse au déploiement, en passant par la recherche de solutions techniques, le codage, les tests, la documentation, les certifications et agréments bancaires, la formation des équipes de support.
+Vous pourrez exprimer pleinement vos idées et contribuer à la création de produits innovants grâce au regard neuf que vous saurez apporter.
+Profil recherché :
+De formation BAC+2 en informatique, vous connaissez les environnements Linux embarqué (GCC, IDE Eclipse) et Windows (Visual Studio), ainsi que les langages C/C++, QT, Java. Rigoureux et organisé, vous avez une première expérience de développement dans un environnement exigeant sur le plan de la qualité logicielle et sécuritaire, avec une approche d’intégration continue et contrôle de code source.
+Vous avez de bonnes connaissances en cryptographie (PKI, OpenSSL, DUKPT, 3DES, AES, TLS …) et vous êtes familiarisé avec l’univers de la monétique, autour de référentiels tels que CB5.x (MPA), EMV, PCI, NEXO/ISO 20022. La connaissance d’un outil de tests fonctionnels EMV L2 tel que KaNest ou équivalent est un plus.
+L’anglais professionnel est nécessaire pour ce poste.
+Informations utiles :
+Vous vous reconnaissez dans ce profil ? Venez rejoindre nos équipes et contribuer directement à la réussite de nos projets d’entreprise.
+Ce poste est à pourvoir en CDI
+La rémunération sera à définir en fonction de votre profil et expérience
+Vous bénéficiez de la Mutuelle et Prévoyance d’entreprise
+Type d'emploi : Temps plein, CDI
+Expérience:
+développeur monétique h/f ou similaire: 1 an (Souhaité)"
+26,https://www.indeed.fr/emplois?q=D%C3%A9veloppeur%20C%2B%2B&l=Bordeaux&radius=100&limit=100&sort=date&vjk=150ba74139ee6f13,"Formateur·rice en Data Science/Machine Learning
+Simplon.co6 avis - Bordeaux (33)
+A répondu à 51 %-74 % des candidatures sur les 30 derniers jours, généralement en 1 jour.","['Bordeaux (33)', 'CDD, Freelance / Indépendant, CDI']",Formateur·rice en Data Science/Machine Learning,Simplon.co,- Bordeaux (33),"CDD, Freelance / Indépendant, CDI",null,"il y a 30+ jours
+Signaler cette offre d'emploi",Développeur C++,Bordeaux,"Pourquoi nous rejoindre ?
+Simplon.co, une start-up engagée pour un numérique inclusif et solidaire.
+Labellisée « French Tech », « La France s’Engage » et « Grande Ecole du Numérique », Simplon.co est une entreprise solidaire d’utilité sociale (ESUS) fondée en 2013, dont le cœur d’activité est de former et accompagner toute personne motivée vers les emplois du numérique.
+Pour cela, Simplon propose :
+D’ouvrir le numérique à tout type de publics et d’en promouvoir la diversité : demandeur.se.s d’emploi, non-diplômé-e-s, quartiers prioritaires, zones rurales, salariés en reconversion, avec un objectif de parité hommes-femmes
+De proposer une formation au développement web/mobile adaptée aux besoins des entreprises et organisations (y compris dans le cadre de reconversion)
+D’accompagner à l’emploi nos apprenants, par des interactions suivies avec les entreprises et avec Simplon Prod, notre agence web solidaire
+Nous proposons des formations “métiers”, des actions de renforcement de compétences ou de sensibilisation au numérique.
+Simplon porte plus de 70 fabriques (lieux de formation) déployées dans toutes les régions de France et à l’étranger.
+Notre équipe dynamique et motivée de plus de 200 salarié·e·s de tous horizons n’attend que vous !
+Quelles missions ?
+En tant que , votre principale mission sera d’assurer pendant 19 mois la formation développeur.se Data IA en accompagnant une promotion d’une vingtaine d’apprenant.e.s dans leurs activités quotidiennes (4 mois de formation intensive et 15 mois d’alternance).
+Votre rôle sera de former au métier de Développeur.se IA/Machine Learning. Vous accompagnerez les simplonien·ne·s dans la réalisation de leurs projets au quotidien. Vous serez le garant du bon déroulé de la formation et de la progression pédagogique.
+A ce titre vos principales missions seront :
+Construire le programme et les ressources pédagogiques
+Participer au recrutement des apprenant·e·s
+Animer des séances de formation collective
+Evaluer la progression des apprentissages
+Repérer les difficultés individuelles d’apprentissages et y remédier
+Mettre à disposition de Simplon.co les éléments de reporting de la promotion
+Coordonner les interventions des experts techniques et autres intervenants dans la formation
+Assurer le relais avec l’entreprise dans le cadre de l’alternance
+Accompagner les apprenants dans leurs démarches pour l’obtention des la certifications visé(es)
+Participer à la synchronisation pédagogique entre les différents formateurs de Simplon.co et aux réunions liées au projet (notamment avec les équipes Simplon.co)
+Faire un bilan pédagogique de la formation et de la promotion
+Vous pourrez aussi être amené.e à :
+Favoriser les rencontres des simplonien·ne·s avec la communauté des data engineers, analysts, developers, scientists, etc. (meetup, participation aux évènements locaux…)
+Suivre et accompagner la promotion dans ses activités : action d’apprentissage par l’enseignement, ateliers, rencontres, etc
+Participer à enrichir la réflexion pédagogique de Simplon, au travers des rencontres et échanges récurrents avec la communauté des formateurs
+Contribuer à alimenter la plateforme d’apprentissage Simplonline avec des ressources pédagogiques et des exercices
+Quel profil ?
+Compétences requises :
+Vous avez de bonnes compétences relationnelles, êtes bon.ne pédagogue
+Vous maîtrisez le versionnement avec Git
+Vous maîtrise Python ou R
+Vous maîtrisez des Mathématiques appliquées à l’IA (Géomatiques, Statistiques descriptives et Algorithmique)
+Vous maîtrisez une ou plusieurs bibliothèques ou frameworks de machine learning, par exemple : Scikit-learn, Keras, Tensorflow, PyTorch, Caffe…
+Vous avez une première expérience avec l’une des plateformes en Intelligence Artificielle, par exemple : Microsoft Azure Cognitives Services, Google Cloud Platform, IBM Watson, AMAZON Lex…
+Vous maitrisez la gestion et l’administration de bases de données relationnelles et non relationnelles
+Vous maitrisez le SQL
+Vous savez développer pour le web des solutions simples (interfaces, application simples, visualisation de données…)
+Expérience souhaitée :
+Une expérience professionnelle de deux ans minimum dans le domaine de l’IA/Machine Learning est souhaitée.
+Qualités requises :
+Esprit d’équipe : collaboration et communication
+Capacité d’apprentissage et d’adaptationEt surtout, envie de transmettre votre passion auprès de grands débutants !
+Idéalement, ce serait un sacré + si :
+Vous maitrisiez l’anglais pour la mise à jour de vos connaissances dans votre domaine d’expertise
+Vous aviez une expérience de formateur
+Vous maitrisiez le C et/ou le C++
+Vous maitrisiez Python ET R
+Vous maitrisiez le développement web front et back
+Quelles conditions ?
+Type d’emploi : CDD, CDI, freelance/indépendant
+Lieu : Bordeaux
+Date de début souhaitée : début septembre
+Salaire : selon profil
+Type d'emploi : CDD, Freelance / Indépendant, CDI"
+27,https://www.indeed.fr/emplois?q=D%C3%A9veloppeur%20C%2B%2B&l=Bordeaux&radius=100&limit=100&sort=date&vjk=24b1446c6fe25d32,"Développeur(euse) C++ domaine Médical H/F
+Groupe SII4 avis - Bordeaux (33)",['Bordeaux (33)'],Développeur(euse) C++ domaine Médical H/F,Groupe SII,- Bordeaux (33),null,null,"il y a 4 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",Développeur C++,Bordeaux,"Description du poste :
+SII Bordeaux recherche son ou sa futur(e) développeur(euse) C++.
+
+Que peut-on te promettre ?
+En tant que développeur(euse) tu interviendras sur toutes les phases de développement au sein d’une équipe Agile de 6 Fungenieurs dans le domaine du Logiciel Médical :
+Retro Engineering.
+Améliorer des modules existants et ajouter de nouvelles fonctionnalités.
+Mettre en place les bonnes pratiques.
+Réaliser des codesreview
+Et si tu veux évoluer ? La formation est l’un des piliers chez SII, nous t’accompagnons dans ton projet d’évolution et te trouverons une mission cohérente vis-à-vis de ce projet.
+Au-delà de ta mission, nous te proposons de participer à la vie de l’agence : retrouver tes collègues autour de déjeuners techniques ou métiers, intégrer les communautés pour partager, échanger lors des soirées d’agence et participer au projet de développement de l’entreprise.
+Profil:
+Une bonne maitrise en C++, MFC, Git, TFS, SQL. Une connaissance sur C#.net serait un plus pour soutenir les évolutions des logiciels à terme.
+Tu veux en savoir plus ?
+Notre équipe de FunRH sera ravie de te rencontrer et de t’en dire plus !
+Suis nous sur les réseaux sociaux : Linkedin ou Twitter :@SIISudOuest!
+Au palmarès Great place To Work 2019, SII a également été labélisé Happy Candidate et Meilleur Employeur 2018 par la revue Capital.
+Le Groupe SII est signataire de la Charte de la diversité en entreprise et est une entreprise handi-accueillante.
+SII Bordeaux c’est :
+130 Fungénieurs qui partagent un même esprit #collectif #partage #FUNgenieur
+Des clients Grands Comptes qui t’apporteront de la richesse technique, fonctionnelle et méthodologique
+Un suivi régulier et personnalisé : ton manager, ta référente RH et ta référente administrative seront là pour t’accompagner dans l’aventure SII
+Des moments de fun et de partage : AfterWorks, Soirées d’agence, événements sportifs, petits déjeuners …
+Des speak up (conférences techniques/métiers animées par des consultants SII => peut être toi J)
+Des formations régulières adaptées à tes envies et à ton évolution.
+
+Dynamisme, Confiance, Innovation et Autonomie sont nos leitmotivs !
+Intégrer SII Sud-Ouest (800 collaborateurs), c’est travailler sur des sujets innovants avec des #Fungénieurs créatifs. Pour nous, la proximité avec nos collaborateurs est une de nos priorités.
+Pour accompagner votre carrière, nous vous proposons d’être membre d’une communauté technique correspondant à vos centres d’intérêts : «Big Data», «Front-end IHM», «Back end – Architecture logicielle», «Sécurité, architecture technique, devops », «Aéronautique» ou «Simulation, Modélisation».
+N’attendez plus, rejoignez le mouvement #Fungénieur : Bien plus qu’un métier, une philosophie !
+Compétences :
+Référence de l’annonce :
+D/BDX/DevC++
+Expérience:
+Indifférent
+Qualification:
+Consultant
+Rémunération:
+Selon profil
+
+POSTULER"
+28,https://www.indeed.fr/emplois?q=D%C3%A9veloppeur%20C%2B%2B&l=Bordeaux&radius=100&limit=100&sort=date&vjk=0d9c22f5f57296b1,"Développeur(euse) logiciel embarqué H/F
+Groupe SII4 avis - Bordeaux (33)",['Bordeaux (33)'],Développeur(euse) logiciel embarqué H/F,Groupe SII,- Bordeaux (33),null,null,"il y a 4 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",Développeur C++,Bordeaux,"Description du poste :
+SII Bordeaux recherche son ou sa futur(e) développeur(euse) logiciel embarqué
+Que peut-on te promettre ?
+En tant que développeur(euse) tu interviendras sur toutes les phases de développement du logiciel d’un équipement avionique au sein d’une équipe Agile :
+Spécifier et développer de nouveaux composants dans le respect de la norme DO178.
+Améliorer des modules existants et ajouter de nouvelles fonctionnalités.
+Mettre en place les bonnes pratiques.
+Réaliser les review des artefacts produits.
+Et si tu veux évoluer ?
+La formation est l’un des piliers chez SII, nous t’accompagnons dans ton projet d’évolution et te trouverons une mission cohérente vis-à-vis de ce projet.
+Au-delà de ta mission, nous te proposons de participer à la vie de l’agence : retrouver tes collègues autour de déjeuners techniques ou métiers, intégrer les communautés pour partager, échanger lors des soirées d’agence et participer au projet de développement de l’entreprise.
+Profil:
+Une bonne maitrise du C/C++, Git, JIRA, Doors, Scade, DO178. Une connaissance des outils ASSET, RTRT serait un plus.
+Tu veux en savoir plus ? Notre équipe de FunRH sera ravie de te rencontrer et de t’en dire plus !
+Suis nous sur les réseaux sociaux : Linkedin ou Twitter :@SIISudOuest!
+Au palmarès Great place To Work 2019, SII a également été labélisé Happy Candidate et Meilleur Employeur 2018 par la revue Capital.
+Le Groupe SII est signataire de la Charte de la diversité en entreprise et est une entreprise handi-accueillante.
+SII Bordeaux c’est :
+130 Fungénieurs qui partagent un même esprit #collectif #partage #FUNgenieur
+Des clients Grands Comptes qui t’apporteront de la richesse technique, fonctionnelle et méthodologique
+Un suivi régulier et personnalisé : ton manager, ta référente RH et ta référente administrative seront là pour t’accompagner dans l’aventure SII
+Des moments de fun et de partage : AfterWorks, Soirées d’agence, événements sportifs, petits déjeuners …
+Des speak up (conférences techniques/métiers animées par des consultants SII => peut être toi J)
+Des formations régulières adaptées à tes envies et à ton évolution.
+Dynamisme, Confiance, Innovation et Autonomie sont nos leitmotivs !
+Intégrer SII Sud-Ouest (800 collaborateurs), c’est travailler sur des sujets innovants avec des #Fungénieurs créatifs. Pour nous, la proximité avec nos collaborateurs est une de nos priorités.
+Pour accompagner votre carrière, nous vous proposons d’être membre d’une communauté technique correspondant à vos centres d’intérêts : «Big Data», «Front-end IHM», «Back end – Architecture logicielle», «Sécurité, architecture technique, devops », «Aéronautique» ou «Simulation, Modélisation».
+N’attendez plus, rejoignez le mouvement #Fungénieur : Bien plus qu’un métier, une philosophie !
+Compétences :
+Référence de l’annonce :
+D/BDX/DEVEMB
+Expérience:
+0-2 ans
+Qualification:
+Consultant
+Rémunération:
+Selon profil
+
+POSTULER"
+29,https://www.indeed.fr/emplois?q=D%C3%A9veloppeur%20C%2B%2B&l=Bordeaux&radius=100&limit=100&sort=date&vjk=af293c01c74a1fbd,"DÉVELOPPEUR C# / C++
+Switch-Over - Soulac-sur-Mer (33)",['Soulac-sur-Mer (33)'],DÉVELOPPEUR C# / C++,Switch-Over,- Soulac-sur-Mer (33),null,null,"il y a 4 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",Développeur C++,Bordeaux,"RÉFÉRENCE DE L'OFFRE
+FAL_DEV_INFO_JUNIOR_SOULAC
+MISSIONS
+Rattaché(e) à la Responsable Recherche & Développement et intégré dans une équipe de développement utilisant la méthode Agile, vous serez intégré dans une équipe Scrum qui assure la maintenance et l’évolution du logiciel de notre client, leader dans l’informatisation des cabinets médicaux. Les développements sont réalisés en langage C++ et C#. Une connaissance de l’outil de gestion de projet JIRA serait un plus.
+ENVIRONNEMENT
+Expérience en développement informatique (1 à 3 ans)
+Compétences et connaissances des langages informatiques C++, C#
+Maîtrise du SQL et d’Excel
+Doit être autonome, très organisé, précis, méthodique et rigoureux
+Doit avoir le sens des responsabilités et la volonté de réussir son projet
+Sens du contact et du service, bonnes capacités de communication et de travail en équipe
+DISPONIBILITÉ
+ASAP
+LOCALISATION DU POSTE
+Soulac- sur-Mer (33)
+LANGUE
+Anglais
+EXPÉRIENCE
+1 à 3 ans d'expérience"
+30,https://www.indeed.fr/emplois?q=D%C3%A9veloppeur%20C%2B%2B&l=Bordeaux&radius=100&limit=100&sort=date&vjk=93fa295a88e4ce0a,"Software Developer
+CompuGroup Medical - Soulac-sur-Mer (33)",['Soulac-sur-Mer (33)'],Software Developer,CompuGroup Medical,- Soulac-sur-Mer (33),null,null,"il y a 5 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",Développeur C++,Bordeaux,"Référence:
+req2317
+Lieu:
+Soulac-sur-Mer
+Domaine:
+Software Development
+Contact:
+career@cgm.com
+T +33 (0) 147 162 679
+Web:
+Groupe international leader dans la eSanté
+Plus de 717 Million d’Euros de CA en 2018
+Environ 5 000 employés dans le monde
+Une base Client unique de plus de 1 million d’Utilisateurs
+Nos équipes sont présentes dans 19 pays et ont des Clients dans 55 pays
+Plus de 30 d’expérience
+En tant que Software Developer vous êtes acteur de la eSanté!
+Nous sommes des pionniers de la santé numérique et passionnés par le développement et l’implémentation de nouvelles technologies. Pour poursuivre notre croissance, nous recherchons des Collaborateurs engagés et dynamiques qui s’épanouiront au sein de nos équipes tout en poursuivant leur projet professionnel.
+Vous contribuerez à notre succès en:
+Imagine Editions, l’une des filiales de CompuGroupe Medical en France (80 personnes), basée à Soulac-sur-Mer (Médoc), renforce son équipe de Développement informatique et recrute un(e) Développeur Informatique Confirmé à Soulac-sur-Mer.
+Rattaché(e) au Responsable Recherche & Développement et intégré dans une équipe de développement utilisant la méthode Agile, vous serez intégré dans une équipe Scrum qui assure la maintenance et l’évolution de notre logiciel HelloDoc, leader dans l’informatisation des cabinets médicaux.
+
+Les développements sont réalisés en langage C++ et C#. Une connaissance de l’outil de gestion de projet JIRA serait un plus.
+Nous attendons de vous:
+Capacité d’analyse et de résolution de problèmes techniques
+Capacité d’analyse et de conseil
+Avoir un esprit d’équipe
+Etre « corporate », appliquer les procédures du groupe
+Etre responsable, autonome, proactif
+Expression orale et écrite Français/Anglais
+
+Expérience en développement informatique (3 à 10 ans)
+Compétences et connaissances des langages informatiques C++, C#
+Maitrise du SQL et d’Excel
+Doit être autonome, très organisé, précis, méthodique et rigoureux
+Doit avoir le sens des responsabilités et la volonté de réussir son projet
+Sens du contact et du service, bonnes capacités de communication et de travail en équipe
+
+Nous vous offrons:
+Votre environnement de travail est agréable, moderne et dynamique
+Vous rejoignez un groupe international de 5000 personnes, avec de réelles
+opportunités de carrière en France et à l’étranger
+Vous participez au futur de la e-santé, en rejoignant un acteur majeur de ce
+secteur
+Nous sommes impatients de recevoir votre candidature ainsi que vos prétentions salariales.
+Synchronizing Healthcare
+Rejoignez-nous!"
+31,https://www.indeed.fr/emplois?q=D%C3%A9veloppeur%20C%2B%2B&l=Bordeaux&radius=100&limit=100&sort=date&vjk=1ef30ce3ab462443,"Développeur C/C++ application mobile (H/F)
+TREPIA - Bordeaux (33)","['Bordeaux (33)', 'CDI']",Développeur C/C++ application mobile (H/F),TREPIA,- Bordeaux (33),CDI,null,"il y a 6 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",Développeur C++,Bordeaux,"Quoi de plus excitant que de contribuer à démocratiser l’accès à la connaissance à travers la création d’une application ou d’un logiciel ultra-innovant ? Intitek for People conçoit et développe des outils digitaux qui améliorent le confort, la santé ou la sécurité du plus grand nombre.
+Poste
+Au sein d'une équipe de passionnés, vous évoluerez dans une environnement stimulant autour d'une application utilisée dans le monde entier (+ de 4.5 millions d'utilisateurs)! Vous travaillez sur des problématiques à la fois BtoC et BtoB et vous participez à des projets internationaux avec les équipes des filiales à l’étranger.
+Vos missions principales sont : maintenir le code existant et programmer de nouvelles applications ou fonctionnalités, analyser les besoins, participer à la conception de l'architecture , réaliser les tests et le débogage de l'application.
+
+Profil recherché
+Très bonne une connaissance des langages de programmation C et C++.Savoir évoluer dans un cadre collaboratif (méthodologie Agile et/ou cycleV).Avoir déjà travaillé sur une application mobile."
+32,https://www.indeed.fr/emplois?q=D%C3%A9veloppeur%20C%2B%2B&l=Bordeaux&radius=100&limit=100&sort=date&vjk=f64790de81229066,"Développeur C/C++ application mobile (H/F)
+Intitek6 avis - Bordeaux (33)","['Bordeaux (33)', 'CDI']",Développeur C/C++ application mobile (H/F),Intitek,- Bordeaux (33),CDI,null,"il y a 6 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",Développeur C++,Bordeaux,"Quoi de plus excitant que de contribuer à démocratiser l’accès à la connaissance à travers la création d’une application ou d’un logiciel ultra-innovant ? Intitek for People conçoit et développe des outils digitaux qui améliorent le confort, la santé ou la sécurité du plus grand nombre.
+Poste
+Au sein d'une équipe de passionnés, vous évoluerez dans une environnement stimulant autour d'une application utilisée dans le monde entier (+ de 4.5 millions d'utilisateurs)! Vous travaillez sur des problématiques à la fois BtoC et BtoB et vous participez à des projets internationaux avec les équipes des filiales à l’étranger.
+Vos missions principales sont : maintenir le code existant et programmer de nouvelles applications ou fonctionnalités, analyser les besoins, participer à la conception de l'architecture , réaliser les tests et le débogage de l'application.
+
+Profil recherché
+Très bonne une connaissance des langages de programmation C et C++.Savoir évoluer dans un cadre collaboratif (méthodologie Agile et/ou cycleV).Avoir déjà travaillé sur une application mobile."
+33,https://www.indeed.fr/emplois?q=D%C3%A9veloppeur%20C%2B%2B&l=Bordeaux&radius=100&limit=100&sort=date&vjk=995db75338adba10,"Responsable du développement d’un logiciel libre pour les interfaces cerveau-ordinateur (H/F)
+Inria46 avis - Bordeaux (33)","['Bordeaux (33)', '2 562 € par mois']",Responsable du développement d’un logiciel libre pour les interfaces cerveau-ordinateur (H/F),Inria,- Bordeaux (33),2 562 € par mois,2 562 € par mois,"il y a 6 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",Développeur C++,Bordeaux,"Type de contrat : CDD de la fonction publique
+Contrat renouvelable : Oui
+Niveau de diplôme exigé : Bac + 5 ou équivalent
+Fonction : Ingénieur scientifique contractuel
+Niveau d'expérience souhaité : De 3 à 5 ans
+Contexte et atouts du poste
+Inria, au travers de l’action InriaSoft, s’est donnée comme ambition la pérennisation, l’industrialisation et la diffusion de logiciels scientifiques d’envergure.
+OpenViBE (http://openvibe.inria.fr), un logiciel open-source pour les interfaces cerveau-ordinateur et le traitement des données cérébrales (EEG ou électro-encéphalographie) en temps-réel, entre dans ce cadre.
+Les interfaces cerveau-ordinateur (Brain-Computer Interfaces ou BCI en Anglais) permettent d’envoyer des commandes à un ordinateur directement à l’aide de l’activité cérébrale. L’activité cérébrale est mesurée à l’aide d’électrodes (casque EEG) qui enregistrent l’activité électrique du cerveau en temps-réel, pour pouvoir ensuite l’analyser et la traduire en « commandes mentales ».
+En moins de 10 ans le logiciel OpenViBE est devenu l’un des logiciels les plus utilisés au monde dans le domaine des interfaces cerveau-ordinateur. Le logiciel est téléchargé en moyenne plus de 6000 fois chaque année, et il se trouve au cœur des travaux de nombreux partenaires académiques, cliniques ou industriels.
+Le poste proposé a pour objectif de préfigurer et ainsi de démontrer la pertinence d'un poste pérenne pour prendre en charge le travail de développement et de maintenance du logiciel pour le consortium dans la durée.
+L’ingénieur participera à la vie d’une équipe-projet Inria : Hybrid (http://team.inria.fr/hybrid) et/ou POTIOC (http://team.inria.fr/potioc).
+Des déplacements réguliers auprès des membres du consortium sont prévus ; les frais de déplacements seront pris en charge dans la limite du barème en vigueur.
+
+Mission confiée
+Placé(e) sous la responsabilité du responsable technique d’InriaSoft, la mission du ou de la responsable du développement d'OpenViBE est de réaliser des tâches d’édition logicielle nécessaires au développement du logiciel OpenViBE, à sa maintenance et à sa diffusion.
+La mission principale de l’ingénieur(e) est de soutenir et développer le logiciel dans ses évolutions à venir. Plus spécifiquement, il ou elle adapte l’architecture logicielle, implémente les nouvelles fonctionnalités, intègre et automatise les tests unitaires de la plateforme en fonction des besoins exprimés par les utilisateurs, au premier rang desquels figurent plusieurs équipes de recherche Inria. Il ou elle est également en charge de la documentation, de la communication, et de la publication de la plateforme vers les équipes de recherche et vers la communauté d’utilisateurs.
+Une deuxième mission sera d’être à l’interface avec la communauté d’utilisateurs en dehors d’Inria, pour favoriser la création du consortium de partenaires (entreprises, laboratoires et universités, au niveau national et international) intéressés par le projet OpenViBE et le développement de la communauté de développeur du logiciel. Ce travail impliquera des échanges réguliers, des efforts de spécifications, des réalisations spécifiques, ainsi qu’une participation au travail de marketing et de développement économique lié au consortium.
+Principales activités
+Les principales activités sont énumérées ci-après
+Adaptation de l’architecture logicielle
+Développement de composants logiciels
+Définition, développement et intégration de jeux de tests unitaires à la plateforme d’intégration continue
+Animation de la communauté des utilisateurs et contributeurs (via le site web et le forum du logiciel)
+Participation au développement d’un modèle économique pérenne autour d’un consortium de partenaires extérieurs
+En complément, la personne recruté devra aussi travailler sur les activités suivantes:
+Documentations technique du logiciel
+Publication de la plateforme vers les équipes de recherche et la communauté d’utilisateurs
+Présentation à l'oral et à l'écrit des travaux et résultats
+Compétences
+Compétences techniques et niveau requis :
+Compétences approfondies en programmation C, C++.
+Compétences approfondies en conception et architecture logicielle, design patterns
+Compétences en outils d’intégration continue
+Connaissance des outils de développement collaboratifs (gestion de version, gestion d’issues), Git, GitHub
+Expérience avec les environnements Windows, Linux
+Capacité de rédaction de documents techniques
+Langues : Excellent niveau d’anglais écrit et parlé
+Compétences relationnelles :
+Capacité à travailler en collaboration avec des personnes d'autres domaines de compétences.
+Autonomie dans la conduite des travaux qui sont confiés,
+Sens du partenariat et du travail en équipe
+Aisance à présenter les travaux et à rédiger
+Compétences additionnelles appréciées :
+Matlab, Python, programmation de GUI
+Avantages
+Restauration subventionnée
+Transports publics remboursés partiellement
+Rémunération
+Rémunération mensuelle brute à partir de 2 562 euros selon diplôme et expérience"
+34,https://www.indeed.fr/emplois?q=D%C3%A9veloppeur%20C%2B%2B&l=Bordeaux&radius=100&limit=100&sort=date&vjk=d0d160870f9144b9,"Développeurs logiciel industriel et Chefs de projet technique
+Vidal Associates5 avis - Bordeaux (33)",['Bordeaux (33)'],Développeurs logiciel industriel et Chefs de projet technique,Vidal Associates,- Bordeaux (33),null,null,"il y a 6 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",Développeur C++,Bordeaux,"VIDAL ASSOCIATES Consulting & Search, référence dans le recrutement de cadres spécialistes et de dirigeants en France et à l'international, recrute en CDI pour son client des Développeurs logiciel industriel & LEAD TECHNIQUES H/F. Les postes à pourvoir sont basés proche Bordeaux (33).
+
+Editeur de progiciel et société d'ingénierie, notre client est une entreprise à taille humaine (100 pers) reconnue pour le haut niveau de technicité de ses équipes et sa capacité à intervenir sur de grands projets complexes et d'envergure. Dans le cadre du développement de son activité d'ingénierie, nous recrutons plusieurs:
+
+Développeurs logiciel industriel & Chefs de projet technique H/F
+Profils débutants (minimum 2 ans) et confirmés recherchés
+CDI à temps plein chez le client final - Postes basés en région bordelaise (33)
+
+En collaboration avec les ingénieurs des bureaux d'études et des laboratoires de recherche, vous participez au développement de diverses applications scientifiques pour nos clients français et étrangers. A titre d'exemple vous serez amenés à travailler dans un premier temps sur le projet du « Laser Mégajoule »
+A ce titre vos activités principales sont :
+Garantir la satisfaction du client dans le respect des coûts, délais, qualité et performances,
+Etre responsable de la spécification de l'élément logiciel qui vous est confié :
+en approfondissant et en mettant en œuvre ses connaissances du domaine logiciel
+en faisant valider la spécification de l'élément logiciel confié par le chef de projet et le client
+en respectant les coûts et les délais
+en proposant des solutions innovantes
+Assurer le contrôle interne de son activité :
+en exerçant des activités effectives de contrôle et en suggérant les modifications à apporter au référentiel
+en mettant en œuvre des actions visant à réduire les risques et en informant de tout risque identifié.
+
+
+De formation supérieure en informatique (Licence, Master ou diplôme d'ingénieur), vous justifiez de 2 ans d'expérience minimum dans le développement et la conception de logiciel industriel en C#, C++ ou Python.
+Compétences souhaitées :
+Langages de programmation : C#/C++ ou Python
+Frameworks : .NET, Qt
+Middleware de communication parmi : CORBA, HLA, RMI...
+Base de données : SQL Server
+Conception/Rétro conception et modélisation UML : Rational Rose, Objecteering, Modelio, Entreprise Architect...
+IDE : Visual Studio
+Rédaction cahiers de tests et élaboration de spécifications techniques
+Tests fonctionnels et d'intégration
+Le candidat doit pouvoir obtenir l'habilitation Secret Défense. Anglais technique requis.
+
+Cette offre d'emploi en CDI chez le client final de Développeurs logiciel industriel & CHEFS DE PROJET TECHNIQUE h/f basé en région bordelaise (33) correspond à votre recherche et à votre profil ? Afin d'étudier votre candidature avec attention, merci d'envoyer votre Cv par mail à vb9728l-77@talentup.net en indiquant en objet du mail la référence Vb9728L"
+35,https://www.indeed.fr/emplois?q=D%C3%A9veloppeur%20C%2B%2B&l=Bordeaux&radius=100&limit=100&sort=date&vjk=0c955b6520f82269,"Développeur logiciel Java / Angular- Pau
+Capgemini6,927 avis - Nouvelle-Aquitaine","['Nouvelle-Aquitaine', 'CDI']",Développeur logiciel Java / Angular- Pau,Capgemini,- Nouvelle-Aquitaine,CDI,null,"il y a 9 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",Développeur C++,Bordeaux,"Description de l’entreprise
+Avec plus de 190 000 collaborateurs, Capgemini est présent dans plus de 40 pays et célèbre son cinquantième anniversaire en 2017. Le Groupe est l'un des leaders mondiaux du conseil, des services informatiques et de l'infogérance et a réalisé en 2016 un chiffre d'affaires de 12,5 milliards d'euros. Avec ses clients, Capgemini conçoit et met en œuvre les solutions business, technologiques et digitales qui correspondent à leurs besoins et leur apportent innovation et compétitivité. Profondément multiculturel, Capgemini revendique un style de travail qui lui est propre, la « Collaborative Business ExperienceTM », et s'appuie sur un mode de production mondialisé, le « Rightshore® ».
+Plus d'informations sur : www.capgemini.com
+Description de la mission
+Dans un monde qui change toujours plus vite, les solutions de nos clients doivent être bâties avec encore plus de réactivité ! Notre "" practice "" CSD ("" Custom Software Development "") offre de nouvelles façons de construire rapidement, adossées à de nouvelles façons d'innover. Riche d'un capital humain de plus de 3 300 collaborateurs sur 16 sites en France partageant la culture des grands projets d'intégration, elle réunit de solides compétences en pilotage, technologiques (AngularJS, Node.js, React, Symfony, Drupal, Sharepoint, Java EE, …) et métiers (e-Santé, e-Education, Smart Cities, Smart Building, Billing, …).
+Vous interviendrez en tant qu'Ingénieur Java/J2EE/Sharepoint/C/C++… en intégrant nos équipes sur des projets au forfait de développement dans les nouvelles technologies, pour nos clients grands comptes.
+Profil
+Diplômé d'une école d'ingénieurs ou d'une formation universitaire équivalente (Bac +5), vous êtes à la recherche d'une première expérience ou d'une nouvelle opportunité de carrière dans la conception et le développement objet.
+Vous maîtrisez une des technologies suivantes : Java, J2EE, Sharepoint , C, C++..
+Autonomie, créativité, maîtrise de l'anglais, capacité rédactionnelle et esprit d'équipe sont des qualités qui vous caractérisent.
+Nous vous donnons la possibilité de :
+Travailler dans des contextes clients diversifiés pour des entreprises de dimension internationale ;
+Mettre en pratique vos acquis sur des projets d'envergure ambitieux et dynamiques ;
+Développer vos connaissances et acquérir de nouvelles compétences techniques, méthodologiques et fonctionnelles via nos cursus de formation ;
+Construire votre carrière grâce à notre programme de développement professionnel.
+Le poste basé à Pau est à pourvoir immédiatement"
+36,https://www.indeed.fr/emplois?q=D%C3%A9veloppeur%20C%2B%2B&l=Bordeaux&radius=100&limit=100&sort=date&vjk=5dc1fb5a284c5d31&advn=892094524380664,"Développeur
+Ratp Smart Systems3 avis - Bordeaux (33)","['Bordeaux (33)', '38 000 € - 45 000 € par an']",Développeur,Ratp Smart Systems,- Bordeaux (33),38 000 € - 45 000 € par an,38 000 € - 45 000 € par an,"il y a 30+ jours
+Signaler cette offre d'emploi",Développeur C++,Bordeaux,"Première filiale régionale de Ratp Smart Systems, Ixxi Techside est dédiée aux développements informatiques et recherche un Développeur pour nos projets de build ainsi que sur les TMAs billettique
+ACTIVITES
+Participer au recueil des besoins avec la MOA
+Réaliser des Proof Of Concepts et ou maquette
+Contribuer aux spécifications générales et détaillées d’un produit ou d’un service : UML, design patterns
+Assurer les développements logiciels nécessaires et éventuellement le suivi de réalisation de composants sous-traités
+Effectuer des tests unitaires et intégration
+Participer aux différentes phases des projets : build (mode nouveau projet), run (mode tierce maintenance types 1 et 2)
+Construire de nouvelles solutions mobiles à partir d’un besoin client
+Effectuer des opérations de maintenance ou d’évolution des applications existantes.
+Participer aux cérémonies Agile (Scrum, Kanban) ou cycle en V
+Utiliser l’Usine Logicielle Ixxi (plateforme d’intégration continue, SVN, Sonarqube, Jenkins, TestRails, Redmine, Nexus) pour améliorer la qualité du code
+Participer aux estimations des charges de développements
+Participer aux tirs de charges et de robustesse
+Faire remonter tout risque identifié auprès du Chef de projet ou du maître d’œuvre responsable de l’application ou du produit et proposer des solutions
+Faire valider les documents produits auprès du Leader Technique ou du maître d’œuvre responsable de l’application ou du produit concerné
+Technique :
+- Java JEE : expérience avérée, utilisation maitrisée des frameworks les plus usités (Spring, Hibernate, etc)
+- Base de données : SQL avancé et procédures stockées (PL/SQL), Pro*C, Pipe Oracle (DBMS_PIPE)
+- C et C++ : expérience d’au moins 2-3 ans attendue. Idéalement, à l'aise avec la programmation concurrentielle (multi-thread, mutex, sémaphore, etc), production de makefiles
+- Système Unix/Linux : connaissances système et développement Shell
+- 5 ans d'expérience minimum
+Les plus :
+- Angular
+- PHP (interface OCI)
+Qualités complémentaires et indispensables :
+- Autonomie
+- Qualité du code
+- Envie d’apprendre
+- Force de proposition, prise d’initiatives
+- Travail en équipe
+Type d'emploi : Temps plein
+Salaire : 38 000,00€ à 45 000,00€ /an
+Expérience:
+développeur ou similaire: 3 ans (Requis)"
+37,https://www.indeed.fr/emplois?q=D%C3%A9veloppeur%20C%2B%2B&l=Bordeaux&radius=100&limit=100&sort=date&vjk=f3b6837410e7a4df&advn=892094524380664,"Ingénieur Développement C++
+Ixxi - Bordeaux (33)","['Bordeaux (33)', 'CDI']",Ingénieur Développement C++,Ixxi,- Bordeaux (33),CDI,null,"il y a 11 mois
+Signaler cette offre d'emploi",Développeur C++,Bordeaux,"Ratp Smart Systems, filiale digitale du groupe RATP a été créée pour valoriser, en France et à l'international, son savoir-faire dans le domaine des Systèmes de Transports Intelligents (ITS). Avec 200 salariés, elle conçoit, intègre, exploite et maintient des systèmes de billettique, d'information multimodale et d'aide à l'exploitation (présence sur 115 réseaux). L'entreprise gère également le système billetique de Paris et sa banlieue (12 millions de transactions par jour), plus grand réseau multimodal au monde avec la présence de métros, bus, tramways et RER. Via ses filiales, Ratp Smart Systems bénéficie d'une présence à Bordeaux, Toulouse, Saint-Etienne et Mexico.
+Ratp Smart Systems propose une offre adaptée en répondant de manière ciblée aux besoins et problématiques des autorités organisatrices, des collectivités territoriales, des opérateurs de mobilité urbaine et des entreprises souhaitant améliorer la mobilité de leurs usagers et salariés.
+Ratp Smart Systems, filiale de la RATP, est un opérateur de services dans les domaines de la billettique et de l'information voyageurs.
+Ratp Smart Systems conçoit, construit et opère dans la durée des solutions et services innovants qui facilitent la mobilité urbaine et optimisent l'expérience voyageur au quotidien, avant, pendant et jusqu'à l'aboutissement du voyage.
+Dans le cadre de notre développement, nous recherchons un(e) développeur de logiciels embarqués. Détenteur d’un master 2 ou d’un diplôme d’ingénieur, le candidat pourra être débutant. Nos logiciels sont développés en C/C++ et QT et s’exécutent sous LINUX.
+Vous êtes Ingénieur d’études et développement logiciel (H/F) maîtrisant les technologies embarquées temps réel et vous souhaitez intervenir sur des projets à forte valeur ajoutée, cette annonce est faite pour vous.
+Nous vous proposons de prendre en charge les activités suivantes :
+· Analyser les expressions de besoin opérationnel établis en amont.
+· Participer à la revue des spécifications fonctionnelles et du dossier d’architecture avec les architectes et l’équipe validation.
+· Estimer la complexité de la réalisation et être force de proposition pour le plan de réalisation.
+· Prendre en charge les spécifications et conceptions du logiciel pour l’équipement dont vous avez la charge.
+· Effectuer les développements au sein d’une équipe dynamique
+· Réaliser les tests unitaires et d’intégration
+· Participer en support à la validation système et à la présentation du produit réalisé.
+Dans un environnement innovant en méthode Agile (Scrum).pour la création de nouveau produits embarqués fortement innovants.
+Environnement technique : C/C++, Java, Linux embarqué, Android, SVN, Web Services Soap/Rest.
+Une expérience récente en développement embarqué temps réel est requise, une bonne maîtrise de la conception orientée objet est nécessaire. La connaissance des design-patterns, du domaine de la billettique, des échanges front-office/back-office et/ou une culture Agile sont des plus.
+Vous êtes titulaire d’un diplôme d’ingénieur informatique ou de formation universitaire, vous êtes familier avec le monde du développement logiciel embarqué temps réel. Passionné(e)s d’informatique, vous êtes curieux, motivé(e)s, et souhaitez développer votre sens du service. Vous maîtrisez l’anglais technique.
+Vous avez envie de vous engager sur des projets d'envergure, complexes et vous disposez d'un excellent relationnel qui vous permet d'être à l'aise dans le travail en équipe.
+Fonction(s) de référencement
+Informatique industrielle - Système, réseaux, données
+Description du profil
+Une expérience récente en développement embarqué temps réel est requise, une bonne maîtrise de la conception orientée objet est nécessaire. La connaissance des design-patterns, du domaine de la billettique, des échanges front-office/back-office et/ou une culture Agile sont des plus.
+Vous êtes titulaire d’un diplôme d’ingénieur informatique ou de formation universitaire, vous êtes familier avec le monde du développement logiciel embarqué temps réel. Passionné(e)s d’informatique, vous êtes curieux, motivé(e)s, et souhaitez développer votre sens du service. Vous maîtrisez l’anglais technique.
+Vous avez envie de vous engager sur des projets d'envergure, complexes et vous disposez d'un excellent relationnel qui vous permet d'être à l'aise dans le travail en équipe.
+Type d'emploi : CDI
+Lieu:
+Bordeaux (33) (Requis)"
+38,https://www.indeed.fr/emplois?q=D%C3%A9veloppeur%20C%2B%2B&l=Bordeaux&radius=100&limit=100&sort=date&vjk=1b7ee0f92540938d&advn=5622001141532353,"Développeur 4D/Web Back-End/Front-End
+BSPOKE - Libourne (33)
+A répondu à 75 % ou plus des candidatures sur les 30 derniers jours, généralement en 3 jours.","['Libourne (33)', 'Temps plein, CDI']",Développeur 4D/Web Back-End/Front-End,BSPOKE,- Libourne (33),"Temps plein, CDI",null,"il y a 26 jours
+Signaler cette offre d'emploi",Développeur C++,Bordeaux,"BSPOKE développe des applications métiers pour le compte de PME, TPE, grands comptes, associations et collectivités locales répartis sur toute la France. Avant même de parler technique, notre première mission, notre obsession même, consiste à nous glisser dans la peau de nos clients pour comprendre parfaitement leurs besoins et leur métier, et leur proposer la solution la plus simple et la plus durable pour accompagner leur développement le plus loin possible.
+Nous développons des logiciels de GPAO, des CRM, des ERP, des CMS et des applications de gestion spécifiques, de la plus simple à la plus complexe, en mode Desktop, Client-serveur et Web, dans un esprit artisanal : travail soigné et parfaitement sur mesure !
+Plus de la moitié de nos clients nécessitent à la fois des applications Desktop à l'interface riche et des applications Web dynamiques synchronisées à l'ERP central, ce qui requiert des compétences Full-Stack.
+Nous utilisons une stack peu répandue mais redoutablement efficace pour mener à bien nos missions : 4D côté Back, et les technos standard côté Front (HTML, JavaScript, CSS). 4D est un atelier de développement complet, puissant, souple et robuste dont l’apprentissage est facilement abordable pour qui a pratiqué d’autres langages de développement, objet ou non, et possède un bon niveau d'algo.
+Pour accompagner sa croissance, BSPOKE recherche un développeur H/F, disponible immédiatement
+Missions :
+Participer aux développements, tant Front-End que Back-End, de multiples projets
+Formation :
+Bac +2 / Bac +3 filière informatique
+Expérience :
+1 an d'expérience sur des projets en production.
+Compétences :
+Bon niveau d'algorithmique
+HTML, CSS, JavaScript, jQuery, Bootstrap
+SQL, bases de données relationnelles
+XML, JSON
+La connaissance de 4D n’est pas requise
+Expérience d'au moins un autre langage Back-end tel que PHP, WLangage, C++ ou Java
+Connaissances basiques de Photoshop ou équivalent
+Sensibilité graphique appréciée
+Maîtrise des OS Mac et Windows
+Bon niveau d’anglais, oral et écrit
+Qualités :
+Autonome et responsable
+Excellentes capacités d’analyse
+Curiosité et adaptabilité pour passer facilement d’un projet à l’autre, et d’une technologie à l’autre
+Rigueur intellectuelle et organisationnelle
+Souci du détail
+Envie d’apprendre
+Lieu de travail :
+proche Libourne,
+mais prochainement déménagement sur CUB
+Conditions :
+CDI
+35 heures
+Salaire : selon profil
+Type d'emploi : Temps plein, CDI"

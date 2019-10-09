@@ -1,0 +1,1996 @@
+,id,meta1,meta2,titre_poste,entreprise,localisation,contrat,salaire,date_publication,keyword_metier,keyword_localisation,description
+0,https://www.indeed.fr/emplois?q=Data%20mining&l=Toulouse&radius=100&limit=100&sort=date&advn=6251826015201314&vjk=a36f2653ced9ec72,"Stage - Innovation et Détection de Cyber Attaques H/F
+SOPRA STERIA380 avis - Toulouse (31)","['Toulouse (31)', 'Stage']",Stage - Innovation et Détection de Cyber Attaques H/F,SOPRA STERIA,- Toulouse (31),Stage,null,"StepStone FR - il y a 11 heures
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data mining,Toulouse,"Sopra Steria, fort de près de 42 000 collaborateurs dans plus de 20 pays, propose l'un des portefeuilles d'offres les plus complets du marché : conseil, intégration de systèmes, édition de solutions métier, infrastructure management et business process services.
+En forte croissance, le Groupe accueillera 3 100 talents en 2018 en France pour participer à ses projets d'envergure sur l'ensemble de ses métiers.
+Vous aussi, rejoignez-nous et participez au monde numérique de demain !
+La BU Cybersécurité compte 250 experts répartis entre Paris et Toulouse. A l'heure où les cyber-menaces sont de plus en plus nombreuses et complexes, elle apporte aux grands acteurs publics et privés des savoir-faire en cybersécurité et confiance numérique pour protéger leurs informations sensibles et accélérer leur développement numérique.
+
+Vos responsabilités
+Votre futur environnement de travail
+Au sein de notre filère Conseil, vous intégrerez notre équipe Intégration, Innovation, Industrie en Cybersécurité. Vous serez encadré·e par des Consultant·e·s expérimenté·e·s et suivi·e par votre tuteur·riche tout au long de votre stage. Vous interviendrez auprès de nos clients multi-secteurs d'activités sur des sujets de sécurité fonctionnelle des SI au sein de projets complexes à forts enjeux.
+
+Les missions du stage
+Vous interviendrez au sein d'un projet phare de l'Innovation, consistant au développement expérimental d'un système de détection de cyberattaques inconnues au sein du SOC. Le système à ce jour repose sur une approche par apprentissage non-supervisé, à base de features extraits des logs proxy. Des systèmes complémentaires à base de supervisé sont envisagés en vue d'opérationnalisation.
+
+Votre mission consistera à assister le développement du système, depuis la conception de features en passant par sa mise en oeuvre jusqu'à sa mesure et à son analyse de performances. Vous pourrez être amené(e) à présenter et communiquer sur le projet.
+
+En dehors du projet, vous serez amené·e à participer aux différents travaux et initiatives de l'équipe.
+
+Les apports du stage
+Déployer une méthodologie de Data Science et Machine Learning appliquée à la Cyber
+Eprouver et étendre vos connaissances en Data Science et ML
+Participer à des projets d'envergure internationale
+Développer la Data Science dans l'équipe et les business
+Technos utilisées
+Développement : python, ScikitLearn, C, C++, java,...
+Machine learning (supervisé et non supervisé) : Decision Trees, Naïve Bayes, Regressions, SVM
+BI et Data Mining tools (Orange Datamining, Pentaho, ELK,...)
+Mathématiques (statistiques et probabilités notamment)
+Votre profil
+En dernière année d'école d'Ingénieurs ou de Master Informatique, vous êtes intéressé·e par la diversité des expertises Cybersécurité et souhaité y développer vos compétences de Data Science.
+Vous êtes curieux·se, autonome et avez l'esprit d'équipe. Vous êtes également capable de vulgarisation avec des connaissances en Machine Learning.
+Un bon niveau d'anglais est préférable.
+
+A compétences égales, tous nos postes sont ouverts aux personnes en situation de handicap."
+1,https://www.indeed.fr/emplois?q=Data%20mining&l=Toulouse&radius=100&limit=100&sort=date&vjk=1db4455f5026fcec,"Big Data – Analyse de données d’essais H/F
+Groupe SII4 avis - Toulouse (31)",['Toulouse (31)'],Big Data – Analyse de données d’essais H/F,Groupe SII,- Toulouse (31),null,null,"il y a 1 jour
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data mining,Toulouse,"Description du poste :
+Au sein du Département Aéronautique dans l’équipe Bureau d’études Commandes de vol, le/la stagiaire devra mettre au point un environnement et un algorithme de pré-analyse des résultats pour optimiser les campagnes de validation formelle.
+
+L’objectif de ce stage est d’optimiser les campagnes de validation formelle sur moyens de tests simulés et réels.
+Vos missions seront :
+Collecter, comprendre et analyser les données issues des essais ;
+Réalisation d’un état de l’art des solutions possibles ;
+Réalisation d’un outil adapté au besoin des équipes ;
+Promouvoir ses études, travaux et résultats auprès de l’entreprise.
+Profil:
+Dynamisme, Confiance, Innovation et Autonomie sont nos leitmotivs !
+Intégrer SII Sud-Ouest (800 collaborateurs), c’est travailler sur des sujets innovants avec des #Fungénieurs créatifs. Pour nous, la proximité avec nos collaborateurs est une de nos priorités.
+Pour accompagner votre carrière, nous vous proposons d’être membre d’une communauté technique correspondant à vos centres d’intérêts : «Big Data», «Front-end IHM», «Back end – Architecture logicielle», «Sécurité, architecture technique, devops », «Aéronautique» ou «Simulation, Modélisation».
+N’attendez plus, rejoignez le mouvement #Fungénieur : Bien plus qu’un métier, une philosophie !
+Compétences :
+Vous êtes issu(e) d’une Ecole d’Ingénieur en dernière année d’études ou d’une formation universitaire Bac +5 avec une spécialité en informatique.
+Des connaissances en Big data sont nécessaires et des connaissances du milieu aéronautique constituent des plus.
+Le(la) candidat(e) idéal(e) dispose de compétences ou notions sur les techniques suivantes:
+Algorithmes de Data Mining ;
+Gestion de Base de données ;
+Langage de programmation orienté Data Science tels que R ou Python ;
+Systèmes avioniques.
+Vous êtes autonome, proactif(ve) et rigoureux(se). Vous aimez le travail en équipe. Vous disposez de la pédagogie nécessaire pour expliquer et vulgariser ses travaux auprès d’interlocuteurs Métier.
+Référence de l’annonce :
+DST/ASE/BIGDATA
+Expérience:
+Indifférent
+Qualification:
+Consultant
+Rémunération:
+
+POSTULER"
+2,https://www.indeed.fr/emplois?q=Data%20mining&l=Toulouse&radius=100&limit=100&sort=date&vjk=224228eac79a9ad8,"Tech leader Data Scientist H/F
+CGI Group, Inc.2,512 avis - Toulouse (31)",['Toulouse (31)'],Tech leader Data Scientist H/F,"CGI Group, Inc.",- Toulouse (31),null,null,"CGI - il y a 1 jour
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data mining,Toulouse,"Position Description:
+Grâce à ses quelque 77 000 professionnels, CGI offre un portefeuille complet de services, y compris des services-conseils stratégiques en informatique et en management, des services d'intégration de systèmes, de développement et de maintenance d'applications informatiques, de gestion d'infrastructures technologiques ainsi qu'une vaste gamme de solutions exclusives à des milliers de clients à l'échelle mondiale à partir de ses bureaux et centres mondiaux de prestation de services dans les Amériques, en Europe et en Asie-Pacifique. Site Web : www.cgi.com.
+
+CGI en France est le 4ème acteur indépendant en conseil et services en technologies de l'information réunissant 11 000 collaborateurs présents dans 22 villes.
+
+Spécialisé autour des solutions CRM, BI et Digital Entreprise incontournables du marché, notre entité apporte son savoir-faire et ses retours d'expérience aux clients (Marketing Digital, Parcours de fidélisation, DMP, ETL, Data Quality, Data Mining, Big Data, progiciels de gestion intégrés, Digital Customer Experience, portails d'entreprise, CMS, mobilité, User eXperience, studio graphique et autres), en partenariat avec les principaux éditeurs du marché.
+
+Your future duties and responsibilities:
+Véritable Leader de notre équipe de consultants en Intelligence Artificielle, vos missions principales sont les suivantes :
+
+participer à des RDV clients pour parler d'IA au sens large, des solutions à dispositions, comprendre et valoriser les assets du centre d'innovation digitale (labs, savoir-faire et références)
+participer aux RDV amont de qualification des besoin clients (accompagnement à la définition de use cases et des données nécessaires), conseiller sur les solutions potentiellement intéressantes du marché pouvant répondre (Réalisation de POCs / POVs)
+construire la réponse adéquate aux besoins partagés, expliquer la solution, définir les pré requis et moyens techniques et humains nécessaires pour délivrer la solution au client, identifier les dépendances de construction de la solution et participer à la construction du planning
+suivre la réalisation de la solution en s'assurant de sa qualité et de son adéquation au SI du client et à ses besoins métiers
+industrialiser, optimiser, sécuriser les livrables logiciels pour les rendre conformes aux standards CGI de qualité des livrables, y compris documentaires
+capitaliser sur les solutions construites, valoriser ceux-ci pour permettre de développer des savoir-faire génériques déployables chez d'autres clients
+construire et piloter une vision de nos labs présentés à nos clients lors de leurs visites et véritables vitrines de nos savoir-faire technologiques
+développer les compétences de l'équipe, participer aux plans de formations des consultants, accompagner/coacher lors des constructions de solution pour assurer la qualité des livrables, sécuriser les projets
+Très vite vous pourrez élargir votre rôle de Tech Lead, en prenant des responsabilités d'offreur IA au sein de notre entité. A ce titre vous construirez, packagerez et présenterez les propositions de valeur CGI à nos clients et aux commerciaux de CGI. En fonction de vos souhaits et compétences vous pourrez enrichir vos missions sur les aspects RH (gestion de la carrière des collaborateurs, formation, plan de développement, recrutement), AVV (construction de réponses à appels d'offres et soutenances), offre (construction d'offres en lien avec les autres savoir-faire de l'entité tels que RPA, moteur de recommandation pour la relation client, chatbots, etc…). Vous aurez également l'occasion de participer à des salons et forums pour développer votre réseau interne et externe et valoriser nos savoir-faire, construire des relations avec des éditeurs qui vous semblent. Vous pourrez porter également les choix d'évolution de votre équipe (technologies, innovation, offres, etc…).
+
+Required qualifications to be successful in this role:
+Passionné de nouvelles technologies, vous aimez le travail en équipe, apprendre, partager, vous êtes également dotés d'un esprit audacieux et ambitieux.
+
+De formation ingénieur ou Bac+5, vous justifiez impérativement d'au moins 8 ans d'expérience professionnelle dont 3 à 4 dans le développement de solutions logicielles d'Intelligence Artificielle appliquées à plusieurs secteurs d'activité. Vous justifiez également de connaissance de base en manipulation de la donnée (intégration de données, gouvernance, SQL, data visualisation, analytique).
+
+Vous avez déjà de préférence évolué dans un contexte Agile (Scrum, DevOps, SAFe, ...).
+
+Compétences techniques :
+Maîtrise des technologies de manipulation des données, des langages et des outils tels que Python, R et Framework/librairies Tensorflow, Scikit-Learn, Pytorch, etc.
+Connaissance avancée des principaux domaines de la data science (Machine Learning, Deep Learning, Knowledge Mining, NLP, …) et algorithmes associées (Naives Bayes, KNN, Decision Trees, Linear & Logistic Regression, Random Forests, Neural Networks, etc.)
+Bonne connaissance des outils et technologies Cloud pour l'expérimentation et déploiement des modèles de data science (Azure est un plus), capacité éprouvée à construire des APIs
+Connaissance en outils de restitution et dataviz (bases graph seraient un plus)
+Connaissance des architectures Big Data est un plus
+Vous avez coché toutes les cases (ou celles qui vous semblent être les principales), votre profil nous intéresse !
+
+Votre dynamisme, votre ambition et votre goût du challenge sont vos atouts pour réussir dans ce poste.
+
+Comme tous les postes de l'entreprise, ce poste est ouvert aux personnes en situation de handicap
+
+What you can expect from us:
+Donnez un élan à votre carrière.
+
+Le secteur des technologies de l'information (TI) connaît une période extraordinaire. La transformation numérique des organisations continue de s'accélérer, et CGI est au premier plan de ce changement. Nous accompagnons nos clients dans leur démarche numérique et offrons à nos professionnels des opportunités de carrière stimulantes.
+
+La réussite de CGI repose sur le talent et l'engagement de nos professionnels. Ensemble, nous relevons les défis et partageons les bénéfices issus de la croissance de notre entreprise. Cette approche renforce notre culture d'actionnaire-propriétaire ainsi, tous nos professionnels bénéficient de la valeur que nous créons collectivement.
+
+Joignez-vous à nous pour prendre part à la croissance de l'une des plus importantes entreprises indépendantes de services en technologies de l'information (TI) et en gestion des processus d'affaires au monde.
+
+Pour en savoir davantage à propos de CGI : www.cgi.com.
+
+Les candidatures non sollicitées provenant de cabinets de recrutement ne seront pas retenues.
+
+CGI favorise l'équité en matière d'emploi."
+3,https://www.indeed.fr/emplois?q=Data%20mining&l=Toulouse&radius=100&limit=100&sort=date&vjk=1150d4b8981c6a05,"CONSULTANT(E) BI H/F
+AKKA TECHNOLOGIES125 avis - Toulouse (31)","['Toulouse (31)', 'Temps plein, CDI']",CONSULTANT(E) BI H/F,AKKA TECHNOLOGIES,- Toulouse (31),"Temps plein, CDI",null,"il y a 1 jour
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data mining,Toulouse,"Dans le cadre du développement de ses activités, AKKA Group recherche un(e) Consultant(e) BI (H/F)
+A ce titre, vous réalisez et mettez en œuvre des KPI de reporting opérationnels autour des métiers de la logistique, de la production ou de la supply chain.
+Pour se faire, vous réalisez les activités suivantes :
+L’analyse et la visualisation des données
+La définition des besoins du client
+Le développement des outils lean de pilotage en temps réel
+La définition des KPIs et l’analyse des résultats
+La réalisation de dashboards
+La construction et l’amélioration de modèles de prévision
+
+Diplômé(e) d’une école d’Ingénieur ou de formation équivalente Bac+5, vous justifiez d’une première expérience réussie dans le domaine de l’aéronautique (stage inclus) sur un poste similaire où vous avez pu mettre en pratique vos compétences en analyse et visualisation de données et DATA MINING.
+De plus, lors d’expérience en informatique décisionnel, vous avez travaillé sur la modélisation, l’intégration de données et les reportings. Vous maîtrisez l’analyse et la visualisation de données sur POWER BI et SAP LUMIRA.
+La connaissance de l’ETL TALEND est un plus.
+Quelle que soit votre expertise métier, vous avez une personnalité de terrain, le goût du challenge et appréciez les défis techniques. Vous disposez d’une faculté à vous intégrer rapidement au sein d’une équipe projet et êtes très attentif(ve) à la satisfaction du client. Votre esprit critique, votre capacité à être innovant(e) dans les solutions proposées font la différence.
+AKKA Group accompagne ses clients dans la mondialisation de leurs projets, aussi un anglais courant est requis pour l’ensemble de nos collaborateurs.
+A compétences égales, le poste est ouvert aux personnes en situation de handicap.
+Rejoindre AKKA Group, c'est évoluer dans les domaines qui vous passionnent, développer vos compétences, avec la possibilité d'évoluer sur différents secteurs, dans un cadre qui favorise les initiatives individuelles ; votre rôle s’inscrit dans un véritable projet d'entreprise !"
+4,https://www.indeed.fr/emplois?q=Data%20mining&l=Toulouse&radius=100&limit=100&sort=date&vjk=33e0a3974e17b3a7,"Internship - Text Mining for Aircraft Maintenance Operations (H/F)
+Airbus1,455 avis - Toulouse (31)","['Toulouse (31)', 'Temps plein, Stage']",Internship - Text Mining for Aircraft Maintenance Operations (H/F),Airbus,- Toulouse (31),"Temps plein, Stage",null,"il y a 5 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data mining,Toulouse,"Airbus Operations SAS
+Airbus is a global leader in aeronautics, space and related services. In 2018 it generated revenues of € 64 billion and employed a workforce of around 134,000. Airbus offers the most comprehensive range of passenger airliners. Airbus is also a European leader providing tanker, combat, transport and mission aircraft, as well as one of the world's leading space companies. In helicopters, Airbus provides the most efficient civil and military rotorcraft solutions worldwide.
+
+Our people work with passion and determination to make the world a more connected, safer and smarter place. Taking pride in our work, we draw on each other's expertise and experience to achieve excellence. Our diversity and teamwork culture propel us to accomplish the extraordinary - on the ground, in the sky and in space.
+Job Description
+Job Description:
+What if YOU start your journey with US!
+As part of a school curriculum in initial training, you are looking for a mandatory internship or integrated into a gap year, that will allow you to validate your studies. The internship duration is 4 to 6 months maximum.
+We offer you to work in a world-leading company which is at the heart of a digital transformation, at the cutting edge of research and innovation.
+We are looking for a data/computer science knowledgeable student who will be joining us at Airbus site in Toulouse.
+This internship is to be filled from start of 2020.
+You will be joining the department of “Maintenance & Data Operations” whose mission is to Create, Design, Develop Maintenance and Data operations to:
+Boost Aircraft Availability
+Ease Maintenance Operations
+Promote Innovation & Services
+Maximize the Value of Data
+Ensure Data Availability
+The objective of the internship is to implement text mining oriented solutions in order to support, boost and ease Zero AOG health Engineering activities regarding the development of predictive maintenance algorithms.
+Tasks and Responsibilities:
+You will be working under the supervision of your manager who will help you identify your professional objectives and support you in the development of your skills.
+Your main activities will include:
+Understanding and defining the needs of Health Engineers with respect to text data such as Airlines Technical Logbooks
+Understanding and mastering internally developed methods
+Applying internally developed methods and/or implementing new techniques to propose solutions to these needs, including user interfaces.
+Writing documentation of the implemented solutions.
+Required skills:
+Your Boarding Pass:
+You are preparing a diploma level Bac+ 5, in Aeronautics or equivalent, with specialization in data science, applied mathematics.
+You have strong knowledge in the following areas: Machine Learning (text pre-processing and mining), Deep Learning, text / document embeddings, Word2Vec, Bert, XLNet …
+You have strong programming skills: python, tensorflow, pytorch, HMI development (UI / UX), Flask, Dash,Vue.js,...
+You are dynamic, positive, curious, passionate and creative.
+You like to learn and to collaborate with a high diversity of people.
+
+This job requires an awareness of any potential compliance risks and a commitment to act with integrity, as the foundation for the Company’s success, reputation and sustainable growth.
+
+By submitting your CV or application you are consenting to Airbus using and storing information about you for monitoring purposes relating to your application or future employment. This information will only be used by Airbus.
+Airbus is committed to achieving workforce diversity and creating an inclusive working environment. We welcome all applications irrespective of social and cultural background, age, gender, disability, sexual orientation or religious belief."
+5,https://www.indeed.fr/emplois?q=Data%20mining&l=Toulouse&radius=100&limit=100&sort=date&vjk=0282240a53272b52,"STAGE – INGENIEUR TECH DATA (h/f)
+Airbus1,455 avis - Toulouse (31)","['Toulouse (31)', 'Stage']",STAGE – INGENIEUR TECH DATA (h/f),Airbus,- Toulouse (31),Stage,null,"il y a 11 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data mining,Toulouse,"AIRBUS SAS
+Airbus est un leader mondial de l'aéronautique, de l'espace et des services associés. En 2018, le groupe a publié un chiffre d'affaires de 64 milliards d'euros, avec un effectif d'environ 134 000 personnes. Airbus propose la famille d'avions de ligne la plus complète qui soit. Airbus est, en outre, le leader européen dans le domaine des avions de mission, de ravitaillement en vol, de combat, et de transport. Par ailleurs, l'entreprise est également un leader de l'industrie spatiale. Enfin, dans le domaine des hélicoptères, Airbus propose les solutions civiles et militaires les plus performantes au monde.
+
+Nos équipes travaillent avec passion et détermination pour faire du monde un endroit plus connecté, plus sûr et plus intelligent. Fiers de notre travail, nous nous appuyons sur l'expertise et l'expérience de chacun pour atteindre l'excellence. Notre diversité et culture du travail en équipe nous poussent à accomplir l'extraordinaire - sur terre, dans le ciel et dans l'espace.
+Description de l'offre
+Et si VOTRE aventure commençait avec NOUS !
+Dans le cadre d'un cursus scolaire en formation initiale, vous recherchez un stage obligatoire ou intégrer dans une année de césure, d'une durée de 6 mois maximum, vous permettant de valider votre année.
+Nous vous proposons de travailler dans une entreprise leader mondial dans son domaine, tournée vers le digital, à la pointe de la recherche et de l’innovation.
+Une offre de stage en INGENIEUR TECH DATA (h/f) vient de s'ouvrir au sein d’Airbus sur notre site de Toulouse – Colomiers/Guynemer.
+Ce stage est à pourvoir en Février 2020 (date sujette à une certaine flexibilité)
+Vous rejoindrez le département « Technical Data Structure » en charge du Support Client au sein de la Technical Data pour plusieurs missions nécessitant l'autonomie et la compétence technique générale d'un(e) futur(e) ingénieur.
+Au jour le jour il/elle rédige et valide les produits de données techniques (manuel de maintenance, manuel de réparation, catalogue de pièces…) en conformité avec les normes internationales, pour permettre une maintenance et une exploitation sûres et efficaces des appareils et respecter les engagements contractuels.
+Tâches et responsabilités :
+Vous serez sous la responsabilité d’un manager qui vous aidera à identifier vos objectifs professionnels et vous soutiendra dans le développement de vos compétences.
+Vous serez amenés à participer aux activités principales liées aux données techniques, y compris la rédaction, la vérification et la validation, la gestion de la sous-traitance et le support client. Assure l'analyse et l'intégration des critères de conception ayant un impact sur les produits de données techniques. Propose des améliorations pour les outils informatiques et les processus.
+Dans ce contexte, vos 3 principales activités seront les suivantes :
+Revue complète des références zonales, des procédures d'étiquette et de marquage avion pour le manuel de maintenance (AMM) :
+Revue & harmonisation des procédures d'étiquette et de marquage avion pour le manuel de maintenance (AMM) pour tous les programmes Airbus :
+Etablir une cartographie des procédures existantes des différents programmes avions (AMM ATA 11)
+Rassembler les procédures existantes des différents programmes avions
+Identifier les différences entre les programmes avions
+Décider d'une solution harmonisée pour tous les programmes avions
+Soumettre les maquettes au Bureau d'Etude pour approbation (pour les procédures modifiées)
+Participer aux réunions avec le Bureau d'Etudes
+Mettre à jour les maquettes avec les commentaires du Bureau d'Etudes
+Sue la base de ces maquettes lancer et suivre les activités de la sous-traitance pour la rédaction finale.
+Réaliser les nouvelles procédures de pose/dépose des étiquettes RFID (Radio Frequency IDentification) pour les avions Airbus
+Analyser la base de données Technical Data des zones et des panneaux d’accès avion et identifier les informations manquantes par rapport aux données sources bureau d’études.
+Lancer et piloter les actions correctives en sous-traitance et assurer le contrôle qualité.
+Cette activité inclue l’organisation de réunions ainsi que l’écriture de comptes rendus le tout dans un environnement transnational.
+Développement d'un démonstrateur innovant (basé sur 3DEx) pour naviguer dans le SRM Ident (identification des pièces du Structural Repair Manual) :
+S'intégrer dans l'équipe projet NIS (Nacelle Innovative Solution)
+Participer à l'architecture produit données techniques
+Etablir des Use Cases de navigation dans la maquette 3D et d'évolution de configuration en service
+Participer à la conception d'un démonstrateur
+Valider le concept et le soumettre en CCB (Configuration Control Board)
+Analyse de l'évolution de complexité de la donnée technique de maintenance au sein du département Structure :
+En collaboration avec les équipes de production et data mining ainsi que les équipes future projets
+Définir une série de données et critères de complexité associés
+Obtenir un fond de données représentatif (Big Data) sur plateforme adéquate (ex. Hadoop)
+Mener des analyses dans cette donnée pour déterminer les axes dominants de complexité
+Comparer cette vue avec la configuration associée.
+Profil recherché et Compétences requises:
+Vous préparez un diplôme de niveau Bac +5, en Ingénierie Mécanique/ Maintenance Aéronautique ou équivalent, et vous avez les compétences suivantes :
+Anglais : AVANCE
+Français : NEGOCIATION
+Une première expérience de gestion de projet et/ou de design technique sous-traité
+Un vif intérêt pour l’aéronautique, les démarche d’industrialisation des processus et la digitalisation
+Connaissance du génie mécanique
+Une maitrise des outils tels que CATIA ou Python
+Rigoureux (se), curieux (se) et autonome
+Capacité d'intégration dans une équipe et souplesse d'adaptation
+Reconnu(e) pour vos qualités d’organisation
+Aptitude d’analyse et de synthèse
+et pourvu(e) d’esprit d’équipe.
+Vous pourrez, selon les offres proposées, être amené(e) à vous déplacer.
+Si votre profil retient notre attention, vous serez invité à réaliser un entretien vidéo au cours duquel vous aurez quelques minutes pour nous convaincre. Par la suite, votre candidature pourra être proposée aux managers.
+
+Ce poste exige une connaissance des risques potentiels de non-conformité. Le/la titulaire s’engage à agir avec intégrité, fondement du succès, de la réputation et de la croissance durable de la Société.
+
+En soumettant votre CV ou votre candidature, vous autorisez Airbus à utiliser et stocker des informations vous concernant à des fins de suivi de votre candidature ou de futurs emplois. Ces informations ne seront utilisées que par Airbus.
+Airbus s’engage pour la Diversité. Nous encourageons toutes les candidatures indépendamment de l’origine sociale et culturelle, de l’âge, du genre, du handicap, de l’orientation sexuelle ou des croyances religieuses."
+6,https://www.indeed.fr/emplois?q=Data%20mining&l=Toulouse&radius=100&limit=100&sort=date&vjk=9bc701f924aa515c,"Stage : Ingénieur SALESFORCE H/F
+CGI Group, Inc.2,512 avis - Toulouse (31)","['Toulouse (31)', 'Stage']",Stage : Ingénieur SALESFORCE H/F,"CGI Group, Inc.",- Toulouse (31),Stage,null,"CGI - il y a 11 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data mining,Toulouse,"Position Description:
+CGI en France est le 6ème acteur indépendant en conseil et services en technologies de l'information réunissant 11 000 collaborateurs présents dans 22 villes.
+
+A Toulouse, plus de 850 collaborateurs accompagnent nos clients grands comptes dans la mise en œuvre de leurs projets stratégiques.
+
+En rejoignant CGI, entreprise canadienne et leader mondial du conseil et des services numériques, vous serez au cœur de la transformation digitale des entreprises et de la société.
+
+Intelligence artificielle, blockchain, cybersecurité, transformation des modèles économiques, autant d'enjeux qui rythmeront votre quotidien aux côtés de nos professionnels. Cette année, nous proposons 900 stages pré-embauche.
+
+Sur Toulouse et Montpellier, plus de 1000 personnes accompagnent nos clients grands comptes dans la mise en œuvre de leurs projets stratégiques.
+
+Le centre d'Innovation Digitale CRM, BI (Décisionnel) et Digital Entreprise basé sur ces 2 sites, offre un portefeuille complet de services, y compris des services-conseils stratégiques en informatique et en management, des services d'intégration de systèmes, de développement et de maintenance d'applications informatiques et de gestion d'infrastructures technologiques. Nos collaborateurs sont au service de plus de 50 clients locaux, nationaux et internationaux.
+
+Spécialisé autour des solutions CRM, BI et Digital Interactivity incontournables du marché, notre centre d'Innovation apporte son savoir-faire et ses retours d'expérience aux clients (campagnes marketing, fidélité, ETL, Data Quality, Data Mining, Big Data, progiciels de gestion intégrés, Digital Customer Experience, portails d'entreprise, CMS, mobilité, User eXperience, studio graphique et autres), en partenariat avec les principaux éditeurs du marché.
+
+Your future duties and responsibilities:
+Ce stage de fin d'études vous permettra de participer à un projet de développement dans le respect des exigences CGI.
+
+MISSIONS
+
+Vous serez intégré au sein du domaine Salesforce, une des solutions leader du marché sur le CRM.
+
+Vous serez formé(e) à la solution Salesforce, sur notre méthodologie de travail et le domaine fonctionnel de nos clients, grands compte Français ou Internationaux.
+
+Vous serez encadré par un Chef de Projet et vous pourrez vous appuyer sur les compétences des experts techniques de l'équipe.
+
+Un de ces experts techniques sera plus particulièrement chargé d'être votre tuteur et référent technique pour vous permettre de mettre en pratique votre formation et la compléter dans un contexte complètement opérationnel d'une ESN.
+
+Vous serez intégré à part entière dans une équipe projet, en participant à l'implémentation d'une application dans le cadre d'une méthodologie Agile, avec ses différentes cérémonies.
+
+Vous serez en charge d'étudier les modules satellites à Salesforce existants (AppExchanges), de les qualifier et de les proposer comme solution.
+
+Dans ce cadre vous devrez :
+Prospecter et identifier sur le store Salesforce 2 à 3 solutions
+
+Faire une restitution des solutions et proposer un cas d'usage
+
+Développer une maquette intégrant les solutions retenues sur un projet existant géré par le domaine, ou sous forme de Proof Of Concept. (conception/réalisation/tests).
+
+Rédiger une documentation technique.
+
+Au-delà d'une compétence technique, vous développerez une expérience vous permettant de comprendre les problématiques de nos clients grands comptes et d'apporter les solutions les plus innovantes et adaptées à leurs attentes.
+
+ENVIRONNEMENT TECHNIQUE
+
+Salesforce, Eclipse , Force.Com IDE2 , Xml , Git , Java
+Required qualifications to be successful in this role:
+Niveau d'étude minimum Bac +3/5
+Comme tous nos 700 consultants IT de notre Centre d'Innovation Digitale, vous êtes passionné de technologies émergentes, engagé, créatif et autonome. Vous êtes curieux, investi et toujours à l'affût des nouveaux modes de collaboration et technologies performantes.
+
+A compétence égale, ce stage est ouvert aux personnes en situation de handicap.
+
+What you can expect from us:
+Donnez un élan à votre carrière.
+
+Le secteur des technologies de l'information (TI) connaît une période extraordinaire. La transformation numérique des organisations continue de s'accélérer, et CGI est au premier plan de ce changement. Nous accompagnons nos clients dans leur démarche numérique et offrons à nos professionnels des opportunités de carrière stimulantes.
+
+La réussite de CGI repose sur le talent et l'engagement de nos professionnels. Ensemble, nous relevons les défis et partageons les bénéfices issus de la croissance de notre entreprise. Cette approche renforce notre culture d'actionnaire-propriétaire ainsi, tous nos professionnels bénéficient de la valeur que nous créons collectivement.
+
+Joignez-vous à nous pour prendre part à la croissance de l'une des plus importantes entreprises indépendantes de services en technologies de l'information (TI) et en gestion des processus d'affaires au monde.
+
+Pour en savoir davantage à propos de CGI : www.cgi.com.
+
+Les candidatures non sollicitées provenant de cabinets de recrutement ne seront pas retenues.
+
+CGI favorise l'équité en matière d'emploi."
+7,https://www.indeed.fr/emplois?q=Data%20mining&l=Toulouse&radius=100&limit=100&sort=date&vjk=6f472c20c36c64b1,"Data Analysis Tool Refactoring - 6 Months Internship
+Sigfox - Toulouse (31)","['Toulouse (31)', 'Intérim, Stage']",Data Analysis Tool Refactoring - 6 Months Internship,Sigfox,- Toulouse (31),"Intérim, Stage",null,"il y a 21 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data mining,Toulouse,"Our team is in charge of developing network equipment products and associated industrial means. These activities lead to the record of a large amount of data for both validation or production purpose.
+
+We currently developed a tool based on Qlik Sense Software to access and exploit some of these data. We are facing some difficulties regarding our current model of data which is a NO SQL format and which has evolved a lot from the start of production and depending the products.Today we want to go further with this tool in deploying it on all products and for all data.
+
+WIN/WIN MISSIONS :
+As an intern, you will be in charge of :
+Analyze the current situation
+Develop an automatic tool to translate the NO SQL to SQL
+Update the current Qlik Sense development (data loading and apps)
+Develop the Qlik Sense apps to support all products
+
+KEY SKILLS & MINDSET :
+SQL/NoSQL (Postgres, mongoDB)
+Software engineering (Python)
+Qlik Sense knowledge
+OS : Linux/Windows
+Data mining
+Enthusiastic, resourceful, curious and autonomous
+Enjoy teamwork and good interpersonal skills
+Analytical and synthesis capacity
+
+""Sigfox, as a learning organization and open minded on Diversity is ready to welcome Extra-ordinary people and adapt their workplace"".
+
+Detail
+Toulouse
+Internship
+September 17, 2019"
+8,https://www.indeed.fr/emplois?q=Data%20mining&l=Toulouse&radius=100&limit=100&sort=date&vjk=1bd1cf06fb62ed4b,"PhD position in phosphoproteomic/bioinformatic for the analysis of signaling pathways of C-type lectin receptors in macrophages
+Institut de Pharmacologie et de Biologie Structurale - Toulouse (31)",['Toulouse (31)'],PhD position in phosphoproteomic/bioinformatic for the analysis of signaling pathways of C-type lectin receptors in macrophages,Institut de Pharmacologie et de Biologie Structurale,- Toulouse (31),null,null,"L'Intelli'agence - il y a 26 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data mining,Toulouse,"PhD position in phosphoproteomic/bioinformatic for the analysis of signaling pathways of C-type lectin receptors in macrophages
+Réf ABG-87387
+Sujet de Thèse
+
+12/09/2019
+> 25 et < 35 K€ brut annuel
+
+Institut de Pharmacologie et de Biologie Structurale
+Lieu de travail
+TOULOUSE - Occitanie - France
+Intitulé du sujet
+PhD position in phosphoproteomic/bioinformatic for the analysis of signaling pathways of C-type lectin receptors in macrophages
+Champs scientifiques
+Informatique
+Mots clés
+proteomics, bioinformatics, mass spectrometry, immune system, macrophages, C-type lectins, signalling
+Description du sujet
+Innate immunity against infectious diseases rely on a large range of receptors expressed at the surface of macrophages and other immune cells, that are able to recognize pattern motifs from pathogens. C-type lectin receptors (CLRs) represent a family of such pattern recognition receptors, which can be classified based on their intracellular signaling domains, with either activating or inhibitory properties. However, there is an important flexibility in the signaling and effector outcomes that can be triggered by the different CLRs containing a particular canonical motif, depending on many factors such as their specific amino acid sequence, as well as their multimerization state, the formation of hetero-complexes, or the affinity of their stimulating ligand(s). The molecular mechanisms underlying these signalling events and the way they can be modulated are still largely unexplored.
+Phosphoproteomics has emerged in the last decade as a powerful approach to characterize extensively and in a hypothesis-free fashion the phosphorylation cascades associated to signalling pathways in biological systems. Recent advances in mass-spectrometry (MS) has greatly improved our ability to finely map such networks, with high sensitivity and in a quantitative manner. This makes now possible not only an in-depth characterization of the cellular phosphoproteome at steady state, but also the analysis of its dynamics upon stimulation of cells, as well as the comparison of many different stimulation conditions. Such studies are performed on high-throughput instruments, generating raw data that must be processed with dedicated bioinformatic tools. Datasets must then be submitted to statistical analysis and mined to extract biological information, reconstruct networks, kinetics, kinase-substrate relationships and perform functional annotation.
+The aim of this PhD project will be to dissect the different signalling pathways engaged upon stimulation of various macrophage CLRs, using large-scale phosphoproteomic approaches, and analyse the factors that can modulate these signalling mechanisms and influence their inflammatory outcome. It will thus involve biochemical sample preparation, and proteomic analysis of the samples by mass spectrometry on last generation instruments. An important part of the project will also be devoted to bioinformatic analysis and data mining. These studies will increase our current knowledge about CLRs and their role in the initiation and regulation of immunity and inflammation. They will lead to the identification of novel signalling molecules that will be further studied in relevant macrophage models for functional validation.
+Nature du financement
+Contrat doctoral
+Précisions sur le financement
+Présentation établissement et labo d'accueil
+Institut de Pharmacologie et de Biologie Structurale
+This is a collaborative project between the infection biology and immunology group headed by Dr. O. Neyrolles and the proteomics group headed by Dr. O. Schiltz at IPBS. The student will benefit from the strong scientific background in infection biology and innate immunity provided by the group of O. Neyrolles, which has been working for many years in the field of host-pathogen interactions and immunity to M. tuberculosis. He/she will be supervised in this lab by Dr. Y. Rombouts, a glycobiologist currently working on C-type lectins and macrophage biology in the context of tuberculosis. The analytical part will be performed in the proteomics team, under the supervision of Dr. A. Gonzalez de Peredo for phosphoproteomics analysis. The group has advanced expertise in mass spectrometry and protein analysis methods, and will provide state-of-the art instrumentation on high-speed mass spectrometers. It has also been involved in the development of new software tools for proteomics, and will offer an optimal environment for data processing and bioinformatic analysis.
+Site web :
+http://www.ipbs.fr
+Profil du candidat
+We seek a candidate with master degree, open-minded and willing to get a multidisciplinary training: with background in biochemistry or analytical chemistry and interested in data mining and bioinformatics (knowledge in programming would be an asset), or with background in bioinformatics and ready to get involved in the biological and experimental part of the project.
+Date limite de candidature"
+9,https://www.indeed.fr/emplois?q=Data%20mining&l=Toulouse&radius=100&limit=100&sort=date&vjk=c7953ae42cb3740b,"Internship Data scientist for customer Innovation (m/f)
+Airbus1,455 avis - Toulouse (31)","['Toulouse (31)', 'Temps plein, Stage']",Internship Data scientist for customer Innovation (m/f),Airbus,- Toulouse (31),"Temps plein, Stage",null,"il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data mining,Toulouse,"AIRBUS SAS
+Airbus is a global leader in aeronautics, space and related services. In 2018 it generated revenues of € 64 billion and employed a workforce of around 134,000. Airbus offers the most comprehensive range of passenger airliners. Airbus is also a European leader providing tanker, combat, transport and mission aircraft, as well as one of the world's leading space companies. In helicopters, Airbus provides the most efficient civil and military rotorcraft solutions worldwide.
+
+Our people work with passion and determination to make the world a more connected, safer and smarter place. Taking pride in our work, we draw on each other's expertise and experience to achieve excellence. Our diversity and teamwork culture propel us to accomplish the extraordinary - on the ground, in the sky and in space.
+Job Description
+Contact :
+
+Please apply online, via your eRecruiting profile, by attaching your CV.
+
+
+
+Description of the job :
+An internship vacancy for an Aircraft Data Scientist in Customer Affairs (Marketing, Sales and Contracts) has arisen within Airbus Commercial Aircraft in Toulouse (Blagnac site).
+Excited by applying Big Data and Data Mining to the most advanced open data platform of the aviation industry? Interested in making our aircraft speak the truth ? Eager to use of Terabytes of in-service aircraft data in order to help build the future of data-driven marketing messages with unprecedented insights on operational aircraft performances and operations ?
+The “Customer Affairs Innovation & Transformation” team is looking for a Data Scientist to help us build data-driven solutions to some of the technical marketing challenges we face. You will be at the forefront for assessing and use cases definitions, generating analysis from data, communicating insights with the Customer Affairs leadership team and working with several engineering and business teams to deliver proof of business value to innovative business solutions.
+
+You need to be a user of advanced quantitative techniques and data visualization for answering specific business questions, and an excellent person at synthesizing and communicating insights.
+The successful candidate will be able to work backwards from business and customer needs, simplify manual processes, and communicate effectively with stakeholders. The candidate will provide visibility into business metrics, support existing initiatives, and also conceive and pitch new ideas based on data that provides a view of new opportunities and the path toward obtaining them.
+This 6-month internship will start from january 2020 at the earliest opportunity
+
+
+
+Task & accountabilities :
+translating business questions and concerns into specific quantitative questions that can be answered with the available data using sound methodologies (alignment of data scope & business goals).
+analyzing and extracting relevant information from the in-service data to build new insights for aircraft performances
+data mining, machine learning, and statistical techniques to support business cases
+
+BENEFITS :
+Understand the aviation market drivers, business outlook, airline operations.
+Learn about aviation products and marketing strategy
+Contribute to shape the most advanced data open platform in aviation
+Get inspired from a customer-centric company
+
+Required skills :
+Holder of a diploma at Bac+4 or Bac+5 level , you are looking for a 6-month internship to validate your diploma in Master of Science in a quantitative field (e.g. Computer Science, Statistics)or a related discipline.
+
+SKILLS & EXPERIENCE
+Hands on experience with statistical analysis, applying various machine learning techniques, predictive modeling and data mining
+Experience with data querying languages (e.g. SQL), scripting languages (e.g. Python), or statistical/mathematical software. (e.g. R, Matlab)
+Experience articulating business questions and using quantitative techniques to arrive at a solution using available data
+
+Creative, autonomous and result-oriented team player
+Strong verbal and written communication skills
+Advanced level in english is required
+Skills in aerospace, in aircraft performances and in airline revenue management would be a plus
+
+
+
+
+
+
+This job requires an awareness of any potential compliance risks and a commitment to act with integrity, as the foundation for the Company’s success, reputation and sustainable growth.
+
+By submitting your CV or application you are consenting to Airbus using and storing information about you for monitoring purposes relating to your application or future employment. This information will only be used by Airbus.
+Airbus is committed to achieving workforce diversity and creating an inclusive working environment. We welcome all applications irrespective of social and cultural background, age, gender, disability, sexual orientation or religious belief."
+10,https://www.indeed.fr/emplois?q=Data%20mining&l=Toulouse&radius=100&limit=100&sort=date&vjk=5ffe922686338044,"Ingénieur Data Scientist expérimenté(e) H/F
+CS Communication & Systèmes2 avis - Toulouse (31)","['Toulouse (31)', 'CDI']",Ingénieur Data Scientist expérimenté(e) H/F,CS Communication & Systèmes,- Toulouse (31),CDI,null,"il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data mining,Toulouse,"DESCRIPTION DE L'OFFRE
+CS recherche un(e) Data Scientist expérimenté(e) H/F afin d’accompagner la croissance de son activité.
+Vous réaliserez les missions suivantes :
+Analyser de gros volumes de données de type ‘série temporelle’, développer et déployer des modèles prédictifs, et assurer la communication avec le client;
+Contribuer aux activités de prospection et d’avant-vente de l’offre ‘Maintenance Prédictive’ (compréhension du besoin, proposition de solutions techniques, réalisation de missions d’audit, …)
+
+PROFIL REQUIS
+Ingénieur de formation ou équivalent universitaire (BAC+5), vous avez une spécialité en Statistiques, Machine Learning et Mathématiques appliqués. Vous justifiez d'au minimum 5 ans d’expérience dont 2 en tant que Data Scientist.
+
+Vous disposez des compétences techniques suivantes:
+Mathématiques et statistiques (dont connaissance de R);
+Connaissances des techniques/algorithmes de Data Mining et Machine Learning;
+Langage et Framework de développement : Java, Python, SPARK;
+Connaissance des architectures BigData;
+Analyse de Time Series;
+Optionnel : Bases de données NoSQL, Hive, Traitement du Signal, Maintenance prédictive.
+Une première expérience en avant-vente serait appréciée.
+
+Force de proposition, vous parlez anglais couramment.
+
+CS en quelques mots ?
+CS est un concepteur, intégrateur et opérateur de systèmes d’information et de communication critiques.
+En proposant des solutions innovantes dans les domaines de la cyber sécurité, des systèmes sûrs industriels et embarqués, de la continuité numérique et de la gestion de crise et de la surveillance de zones, CS a su s’imposer en tant que partenaire privilégié pour les acteurs des secteurs de la Défense et de la Sécurité, du Spatial, de l’Aéronautique et de l’Energie. (www.c-s.fr)
+
+Nous sommes près de 600 collaborateurs sur la région toulousaine.
+
+Nous rejoindre c’est :
+Bénéficier d’un management de proximité.
+Progresser individuellement et collectivement.
+Evoluer dans un environnement flexible (télétravail…), à dimension humaine et convivial (organisation de soirées et d’activités : karting, escalade, ping-pong, yoga, plongée, œnologie…).
+
+Où sommes-nous situés ?
+Notre agence se situe à Saint-Martin du Touch - 6 rue Emmanuel Arin - 31300 Toulouse.
+Le site Europarc 2 est accessible en transports en commun :
+- Ligne de Bus L2 - Arrêt Jean Petit.
+Ligne C SNCF TER – Arrêt Saint-Martin
+
+Si vous préférez, CS rembourse des indemnités kilométriques vélos !
+
+Intéressé ? Déposez votre CV et additionnons nos talents !"
+11,https://www.indeed.fr/emplois?q=Data%20mining&l=Toulouse&radius=100&limit=100&sort=date&vjk=01f12cb951990c3c,"Consultant(e) Data Architect – Business Intelligence H/F
+Altran360 avis - Blagnac (31)",['Blagnac (31)'],Consultant(e) Data Architect – Business Intelligence H/F,Altran,- Blagnac (31),null,null,"il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data mining,Toulouse,"ALTRAN Sud-Ouest, fort de ses 2500 Consultants continue son développement au sein de la région Sud-Ouest mais aussi à l'International.
+Vous serez intégré(e) au sein du département Consulting, Manufacturing et Operations (CMO) d’ALTRAN SUD-OUEST et accompagnerez une équipe de consultants dans le développement de logiciels innovants.
+Au sein de l'entité Consulting and Business Services, nous recrutons plusieurs profils qui viendront renforcer nos équipes ""Digital Performance"" qui sont en charge d'accompagner nos clients dans leur transformation digitale et leur projet BI.
+Vos responsabilités
+Nous recherchons des Consultant(e)s Data Architect / BI, capable de prendre en charge les missions suivantes:
+Vous êtes responsable de faire correspondre les architectures de données aux besoins et aux enjeux métiers. En collaborant avec les parties prenantes, vous avez le souci de concevoir un système ergonomique, mais qui laisse la marge aux évolutions futurs.
+Vous implémentez des méthodes sources d’agilité.
+Vous travaillez sur les moyens d’utiliser les données de façon prédictives (data mining, machine learning).
+Mise en œuvre de l’expertise (audit, installation, architecture, bonnes pratiques…)
+Participation aux avant-ventes (rédaction des propositions commerciales, chiffrage, POC)
+Participer au développement de l’activité BI
+
+Votre profil
+De formation informatique ou généraliste (école d’ingénieur ou équivalent), vous justifiez d’une première expérience sur l’activité de Data Architect.
+Vous maîtrisez au moins l’une des principales technologies de big data en terme de base de données NoSQL (MongoDB, Cassandra ou Redis), d’infrastructures serveurs (Hadoop, Spark), de stockage de données en mémoire (Memtables) ou ETL (Talend, …).
+Vous êtes capable de développer un système de logiciels, avec des interfaces personnalisées. Avec des outils de modélisations, vous développez l’architecture des systèmes et bases de données.
+Vous êtes capable d'entrer rapidement dans les sujets, et avez une bonne capacité d'analyse. Vous savez vous adapter à des contextes projets complexes.
+Anglais courant exigé.
+
+Ce poste est ouvert aux personnes en situation de handicap."
+12,https://www.indeed.fr/emplois?q=Data%20mining&l=Toulouse&radius=100&limit=100&sort=date&vjk=e2068f5b706a6853,"Computational Chemist in Protein Molecular Dynamics
+Evotec7 avis - Toulouse (31)",['Toulouse (31)'],Computational Chemist in Protein Molecular Dynamics,Evotec,- Toulouse (31),null,null,"il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data mining,Toulouse,"We are seeking for a highly motivated and innovative Scientist with a strong expertise in molecular dynamics of protein complexes, and biological simulations :
+“Computational Chemist in Protein Molecular Dynamics – 18 months Temporary Contract“
+Within the Research Informatics department, He/she will be responsible for:
+Exploring innovative modes of action of proteins, including allostery, with molecular dynamics (MD) techniques.
+Developing and validating prediction algorithms for the identification of candidate areas in proteins for non-orthostheric modulation, like cryptic pockets, protein-protein interaction sites.
+He/she will have the following missions:
+Provide structure-based support to projects and realize key contributions to milestones.
+Explore, create, and develop methods for the identification of protein pockets, segments, and domains, for non-orthostheric modulation.
+Perform research on original computational modeling and simulation methods for innovative therapeutic biomolecular modulation.
+Incorporate Machine Learning approaches in the computational workflow.
+Collaborate with computational chemists, bioinformaticians, biologists, structural biologists, and omics scientists in collaborative project teams.
+Keep up-to-date with relevant professional literature and share methods and techniques with computational chemistry and project colleagues.
+Present work results at project meetings, and group and department meetings.
+Write and contribute to publications and patents where possible.
+Participate to the scientific life of the Computational Chemistry Group, and Evotec
+Knowledge, skills and abilities :
+Expertise in molecular dynamics of protein complexes, and biological simulations.
+Experience of methods and techniques used in molecular biosimulations : e.g. enhanced MD, accelerated MD, steered MD, umbrella sampling, replica exchange, normal modes, multiscale modeling, Monte Carlo simulation, structural clustering
+Excellent knowledge of at least one MD package: Amber, Gromacs, NAMD
+Knowledge of protein structures, protein dynamics, protein-protein and protein-ligand interactions and simulation. Good knowledge of signal membrane proteins.
+Explicit simulation of membrane proteins
+Experience in developing and implementing molecular modeling algorithms to study protein complexes.
+Knowledge of machine learning approaches for data mining.
+Scripting experience, e.g. Python
+Scientific rigor and excellent analytical and synthetic capabilities.
+Ability to establish, to maintain effective working relationships, and to work collaboratively.
+Strong communication skills.
+Dynamic person with passion for innovation.
+Written and spoken English
+Experience and education :
+PhD in a relevant scientific discipline : Computational Chemistry, Computational Biophysics, Structural Biology or equivalent
+Minimum of 2 years post-doctoral academic or industrial experience in related activity
+Publications in molecular dynamics of protein complexes and innovative methods to decipher protein dynamics and interactions."
+13,https://www.indeed.fr/emplois?q=Data%20mining&l=Toulouse&radius=100&limit=100&sort=date&vjk=9e081168628804b4,"Ingénieur Data Scientist Expérimenté H/F
+Groupe SII4 avis - Toulouse (31)",['Toulouse (31)'],Ingénieur Data Scientist Expérimenté H/F,Groupe SII,- Toulouse (31),null,null,"il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data mining,Toulouse,"Description du poste :
+Rattaché(e) au département aéronautique, vous serez intégré(e) au sein d’une équipe de Data Scientists en pleine expansion. Vous accompagnerez les équipes techniques dans la valorisation de leurs activités avec des solutions orientées Big Data.
+Vos principales tâches seront de mener des projets de data science autour des axes suivants:
+Collecter, comprendre, analyser, intégrer et explorer des données volumineuses et variées. Proposer des améliorations pour enrichir l’information disponible et son utilisation.
+– Réalisation d’un état de l’art des solutions possibles.
+– Accompagner les équipes métiers à travers la réalisation de cas d’usages autour de la donnée en utilisant les techniques de machine learning.
+– Promouvoir ses études, travaux et résultats auprès de l’entreprise
+Profil:
+Vous êtes issu(e) d’un parcours BAC+5 en université ou école d’ingénieur dans le domaine des data sciences.
+Vous justifiez d’une expérience d’au moins 2 ans en Data Sciences dans un environnement industriel ou laboratoire.
+Des connaissances du milieu aéronautique constituent un plus.
+
+Compétences techniques
+Le(la) candidat(e) idéal(e) dispose de compétences ou notions sur les techniques suivantes:
+– Algorithmes de Data Mining
+– Algorithmes de Machine Learning supervisés ou non tels que Decision Tree, Random Forest, SVM, Neural Network …
+– Langage de programmation orienté Data Science tels que R ou Python
+– Intelligence Artificielle
+Vous êtes autonome, proactif(ve) et rigoureux(se). Vous aimez le travail en équipe. Vous disposez de la pédagogie nécessaire pour expliquer et vulgariser vos travaux auprès d’interlocuteurs Métier.
+Dynamisme, Confiance, Innovation et Autonomie sont nos leitmotivs !
+Intégrer SII Sud-Ouest (800 collaborateurs), c’est travailler sur des sujets innovants avec des #Fungénieurs créatifs. Pour nous, la proximité avec nos collaborateurs est une de nos priorités.
+Pour accompagner votre carrière, nous vous proposons d’être membre d’une communauté technique correspondant à vos centres d’intérêts : «Big Data», «Front-end IHM», «Back end – Architecture logicielle», «Sécurité, architecture technique, devops », «Aéronautique» ou «Simulation, Modélisation».
+N’attendez plus, rejoignez le mouvement #Fungénieur : Bien plus qu’un métier, une philosophie !
+Compétences :
+Référence de l’annonce :
+D/ASE/DATASCIENTIST
+Expérience:
+2-5 ans
+Qualification:
+Consultant
+Rémunération:
+30 – 45
+
+POSTULER"
+14,https://www.indeed.fr/emplois?q=Data%20mining&l=Toulouse&radius=100&limit=100&sort=date&vjk=0be9c4409dd27a8d,"Consultant BI 2.0 expérimenté H/F
+CGI Group, Inc.2,512 avis - Toulouse (31)",['Toulouse (31)'],Consultant BI 2.0 expérimenté H/F,"CGI Group, Inc.",- Toulouse (31),null,null,"CGI - il y a 4 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data mining,Toulouse,"Position Description:
+Fondé en 1976, Groupe CGI inc. est la cinquième plus importante entreprise indépendante de services en technologies de l'information et en gestion des processus d'affaires au monde.
+
+Grâce à ses quelque 77 000 professionnels, CGI offre un portefeuille complet de services, y compris des services-conseils stratégiques en informatique et en management, des services d'intégration de systèmes, de développement et de maintenance d'applications informatiques, de gestion d'infrastructures technologiques ainsi qu'une vaste gamme de solutions exclusives à des milliers de clients à l'échelle mondiale à partir de ses bureaux et centres mondiaux de prestation de services dans les Amériques, en Europe et en Asie-Pacifique. Site Web : www.cgi.com.
+
+CGI en France est le 4ème acteur indépendant en conseil et services en technologies de l'information réunissant 11 000 collaborateurs présents dans 22 villes.
+
+Spécialisé autour des solutions CRM, BI et Digital Entreprise incontournables du marché, notre entité apporte son savoir-faire et ses retours d'expérience aux clients (Marketing Digital, Parcours de fidélisation, DMP, ETL, Data Quality, Data Mining, Big Data, progiciels de gestion intégrés, Digital Customer Experience, portails d'entreprise, CMS, mobilité, User eXperience, studio graphique et autres), en partenariat avec les principaux éditeurs du marché.
+
+Your future duties and responsibilities:
+Vous êtes passionné par le Décisionnel, le Big Data, et avez déjà une très solide expérience sur un ou plusieurs outils de Business Intelligence
+
+Vous souhaitez diversifier vos compétences BI pour être toujours à la pointe des nouvelles technologies et souhaitez rejoindre une entité spécialisée dans la data ( > 120 consultants BI)
+
+Vous souhaitez œuvrer dans des contextes technologiques variés, peu présents sur les bassins locaux (SAS, MicroStrategy, Cognos, Tableau, Datastage, Informatica, Talend, Hadoop, Hortonworks, Kafka, …)
+
+Consultant BI expérimenté, vous intégrerez une équipe de collaborateurs CGI et participerez à toutes les phases de mise en œuvre d'un projet BI : de l'analyse du besoin client à la proposition et à la mise en place de la solution technique. Vous évoluerez sur des projets d'envergure, dans des environnements métiers variés avec un niveau de responsabilité élevé. Vous aurez également la possibilité de monter en compétences sur d'autres outils BI que votre domaine de compétences initial.
+
+Dans un environnement technologique accompagnant la transformation digitale de nos clients grands comptes :
+
+Intégration
+Architecture d'entreprise
+BI 2.0 / BigData
+Scrum
+Fort d'une intégration réussie, de nombreuses possibilités d'évolutions de carrière s'offriront rapidement à vous, dans l'animation de la filière technique, dans le consulting de solutions BI ou dans une fonction de Chef de Projet BI
+
+Required qualifications to be successful in this role:
+Passionné de nouvelles technologies, vous aimez le travail en équipe, apprendre, partager, vous êtes également dotés d'un esprit audacieux et ambitieux.
+
+De formation Bac+3 ou Bac+5, vous justifiez impérativement d'au moins 3 ans d'expérience professionnelle dans le consulting BI. Vous avez déjà de préférence évolué dans un contexte Agile (Scrum, DevOps, SAFe, ...). Vous justifiez également et si possible d'une pratique en tant que Consultant BI dans des projets en mode forfait.
+
+Vous avez de bonnes capacités :
+d'analyse
+technique
+d'innovation et de créativité
+de rigueur
+Votre dynamisme, votre ambition et votre goût du challenge sont vos atouts pour réussir dans ce poste. Votre envie de transmettre vos connaissances également.
+
+Comme tous les postes de l'entreprise, ce poste est ouvert aux personnes en situation de handicap.
+
+What you can expect from us:
+Donnez un élan à votre carrière.
+
+Le secteur des technologies de l'information (TI) connaît une période extraordinaire. La transformation numérique des organisations continue de s'accélérer, et CGI est au premier plan de ce changement. Nous accompagnons nos clients dans leur démarche numérique et offrons à nos professionnels des opportunités de carrière stimulantes.
+
+La réussite de CGI repose sur le talent et l'engagement de nos professionnels. Ensemble, nous relevons les défis et partageons les bénéfices issus de la croissance de notre entreprise. Cette approche renforce notre culture d'actionnaire-propriétaire ainsi, tous nos professionnels bénéficient de la valeur que nous créons collectivement.
+
+Joignez-vous à nous pour prendre part à la croissance de l'une des plus importantes entreprises indépendantes de services en technologies de l'information (TI) et en gestion des processus d'affaires au monde.
+
+Pour en savoir davantage à propos de CGI : www.cgi.com.
+
+Les candidatures non sollicitées provenant de cabinets de recrutement ne seront pas retenues.
+
+CGI favorise l'équité en matière d'emploi."
+15,https://www.indeed.fr/emplois?q=Data%20mining&l=Toulouse&radius=100&limit=100&sort=date&vjk=d661852b8634816d,"Développeur expérimenté JAVA H/F
+CGI Group, Inc.2,512 avis - Toulouse (31)",['Toulouse (31)'],Développeur expérimenté JAVA H/F,"CGI Group, Inc.",- Toulouse (31),null,null,"CGI - il y a 4 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data mining,Toulouse,"Position Description:
+CGI en France est le 5ème acteur indépendant en conseil et services en technologies de l'information réunissant 11 000 collaborateurs présents dans 22 villes.
+
+CGI à Toulouse offre un portefeuille complet de services, y compris des services-conseils stratégiques en informatique et en management, des services d'intégration de systèmes, de développement et de maintenance d'applications informatiques et de gestion d'infrastructures technologiques.
+
+Les centres d'Excellence CRM, BI (Décisionnel) et Digital Entreprise sont au service de plus de 50 clients locaux, nationaux et internationaux.
+
+Spécialisé autour des solutions CRM, BI et Digital Entreprise incontournables du marché, notre entité apporte son savoir-faire et ses retours d'expérience aux clients (campagnes marketing, fidélité, ETL, Data Quality, Data Mining, Big Data, progiciels de gestion intégrés, Digital Customer Experience, portails d'entreprise, CMS, mobilité, User eXperience, studio graphique et autres), en partenariat avec les principaux éditeurs du marché.
+
+Pour faire face au développement de notre activité, nous recrutons sur Toulouse des Experts technique JAVA.
+
+Your future duties and responsibilities:
+Vous intégrez une équipe projet pour un client stratégique dans le domaine de la finance, projet de développement d'une application de conseil en patrimoine autour des technologies Java 8, Angular JS, CDI, Arquillian, Postgre SQL, Sonar, etc.
+
+Projet allant de la mise en œuvre de l'architecture technique en relation avec les architectes et experts techniques CGI et du client, jusqu'aux tests fonctionnels automatisés sous Selenium, en passant par les spécifications techniques et les développements.
+
+Required qualifications to be successful in this role:
+De formation Bac+3 minimum en informatique, vous justifiez impérativement d'au moins 2 ans d'expérience professionnelle dans le développement, l'architecture et la conception d'applications Portails Java et sur les technologies Web. Des compétences sur la méthodologie Scrum sont un plus.
+
+La maîtrise de la langue anglaise serait un plus.
+
+Votre curiosité, votre autonomie et esprit d'initiative sont des atouts pour développer vos compétences et contribuer à votre évolution. Votre esprit d'équipe favorisera votre intégration au sein de l'agence.
+
+Ce poste est ouvert à des personnes en situation de handicap.
+
+Skills:
+Java
+Java Enterprise Editions JEE
+What you can expect from us:
+Donnez un élan à votre carrière.
+
+Le secteur des technologies de l'information (TI) connaît une période extraordinaire. La transformation numérique des organisations continue de s'accélérer, et CGI est au premier plan de ce changement. Nous accompagnons nos clients dans leur démarche numérique et offrons à nos professionnels des opportunités de carrière stimulantes.
+
+La réussite de CGI repose sur le talent et l'engagement de nos professionnels. Ensemble, nous relevons les défis et partageons les bénéfices issus de la croissance de notre entreprise. Cette approche renforce notre culture d'actionnaire-propriétaire ainsi, tous nos professionnels bénéficient de la valeur que nous créons collectivement.
+
+Joignez-vous à nous pour prendre part à la croissance de l'une des plus importantes entreprises indépendantes de services en technologies de l'information (TI) et en gestion des processus d'affaires au monde.
+
+Pour en savoir davantage à propos de CGI : www.cgi.com.
+
+Les candidatures non sollicitées provenant de cabinets de recrutement ne seront pas retenues.
+
+CGI favorise l'équité en matière d'emploi."
+16,https://www.indeed.fr/emplois?q=Data%20mining&l=Toulouse&radius=100&limit=100&sort=date&vjk=97f41f91e5d08e7d,"Expert Intégration H/F
+CGI Group, Inc.2,512 avis - Toulouse (31)",['Toulouse (31)'],Expert Intégration H/F,"CGI Group, Inc.",- Toulouse (31),null,null,"CGI - il y a 4 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data mining,Toulouse,"Position Description:
+Fondé en 1976, Groupe CGI inc. est la cinquième plus importante entreprise indépendante de services en technologies de l'information et en gestion des processus d'affaires au monde. Grâce à ses quelque 74 000 professionnels, CGI offre un portefeuille complet de services, y compris des services-conseils stratégiques en informatique et en management, des services d'intégration de systèmes, de développement et de maintenance d'applications informatiques, de gestion d'infrastructures technologiques ainsi qu'une vaste gamme de solutions exclusives à des milliers de clients à l'échelle mondiale à partir de ses bureaux et centres mondiaux de prestation de services dans les Amériques, en Europe et en Asie-Pacifique. Site Web : www.cgi.com.
+
+CGI en France est le 4ème acteur indépendant en conseil et services en technologies de l'information réunissant 11 000 collaborateurs présents dans 22 villes.
+
+CGI offre un portefeuille complet de services, y compris des services-conseils stratégiques en informatique et en management, des services d'intégration de systèmes, de développement et de maintenance d'applications informatiques et de gestion d'infrastructures technologiques.
+
+Les centres d'Excellence CRM, BI (Décisionnel) et Digital Entreprise sont au service de plus de 50 clients locaux, nationaux et internationaux.
+
+Spécialisé autour des solutions CRM, BI et Digital Entreprise incontournables du marché, notre entité apporte son savoir-faire et ses retours d'expérience aux clients (Marketing Digital, Parcours de fidélisation, DMP, ETL, Data Quality, Data Mining, Big Data, progiciels de gestion intégrés, Digital Customer Experience, portails d'entreprise, CMS, mobilité, User eXperience, studio graphique et autres), en partenariat avec les principaux éditeurs du marché.
+
+Your future duties and responsibilities:
+Accueilli dans l'équipe Architecture de notre site de Toulouse, vous accompagnerez nos clients dans leur transformation Digitale en participant à la mise en place de solutions d'intégration à la pointe de la technologie (API Management, Event Driven Architecture, SOA, …).
+
+Vous interviendrez sur des projets en collaboration avec les membres de l'équipe projet et de la cellule architecture sur les sujets suivants:
+
+Analyse des besoins exprimés par le client
+Conduite des études d'opportunité et de choix d'outils
+Implémentation de la solution retenue
+Vous travaillerez sous la responsabilité d'un architecte technique.
+
+Required qualifications to be successful in this role:
+De formation école d'Ingénieur ou équivalent, vous avez entre 2 et 5 années d'expérience sur des projets et architectures d'intégration dans le cadre de projet de transformation digitale.
+
+Vous avez un goût prononcé pour les problématiques d'échanges de données, sur des technologies de pointes (Api Management, Event Driven Architecture, SOA, ETL…).
+Vous avez des compétences dans :
+o Une ou plusieurs solutions leaders du marché SOA (, Tibco, Talend, MuleSoft, 3scale, Apigee, Azure Service Bus…)
+
+o Les langages et protocoles (Java, PHP, .Net, , JSON, REST et XML)
+
+Vous avez évolué au sein de plusieurs projets ESB ou API Management
+Vous connaissez les principaux cas d'usages métiers de ces plateformes d'échange et souhaitez développer votre expertise sur ces périmètres.
+Qualités requises pour réussir dans ce rôle
+
+Autonomie, rigueur et soin des détails
+Prise de hauteur sur les problématiques d'intégration
+Bon background technique
+Excellentes capacités de communications orale et écrite
+Comme tous les postes de l'entreprise, ce poste est ouvert aux personnes en situation de handicap
+
+Skills:
+SOA/Enterprise Service Bus
+What you can expect from us:
+Donnez un élan à votre carrière.
+
+Le secteur des technologies de l'information (TI) connaît une période extraordinaire. La transformation numérique des organisations continue de s'accélérer, et CGI est au premier plan de ce changement. Nous accompagnons nos clients dans leur démarche numérique et offrons à nos professionnels des opportunités de carrière stimulantes.
+
+La réussite de CGI repose sur le talent et l'engagement de nos professionnels. Ensemble, nous relevons les défis et partageons les bénéfices issus de la croissance de notre entreprise. Cette approche renforce notre culture d'actionnaire-propriétaire ainsi, tous nos professionnels bénéficient de la valeur que nous créons collectivement.
+
+Joignez-vous à nous pour prendre part à la croissance de l'une des plus importantes entreprises indépendantes de services en technologies de l'information (TI) et en gestion des processus d'affaires au monde.
+
+Pour en savoir davantage à propos de CGI : www.cgi.com.
+
+Les candidatures non sollicitées provenant de cabinets de recrutement ne seront pas retenues.
+
+CGI favorise l'équité en matière d'emploi."
+17,https://www.indeed.fr/emplois?q=Data%20mining&l=Toulouse&radius=100&limit=100&sort=date&vjk=2706fc7d41e4d623,"Expert technique Angular JS H/F
+CGI Group, Inc.2,512 avis - Toulouse (31)",['Toulouse (31)'],Expert technique Angular JS H/F,"CGI Group, Inc.",- Toulouse (31),null,null,"CGI - il y a 4 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data mining,Toulouse,"Position Description:
+CGI en France est le 4ème acteur indépendant en conseil et services en technologies de l'information réunissant 10 200 collaborateurs présents dans 21 villes.
+
+A Toulouse, 650 personnes accompagnent nos clients grands comptes dans la mise en œuvre de leurs projets stratégiques.
+
+CGI à Toulouse offre un portefeuille complet de services, y compris des services-conseils stratégiques en informatique et en management, des services d'intégration de systèmes, de développement et de maintenance d'applications informatiques et de gestion d'infrastructures technologiques.
+
+Les centres d'Excellence CRM, BI (Décisionnel) et Digital Entreprise sont au service de plus de 50 clients locaux, nationaux et internationaux.
+
+Spécialisé autour des solutions CRM, BI et Digital Entreprise incontournables du marché, notre entité apporte son savoir-faire et ses retours d'expérience aux clients (campagnes marketing, fidélité, ETL, Data Quality, Data Mining, Big Data, progiciels de gestion intégrés, Digital Customer Experience, portails d'entreprise, CMS, mobilité, User eXperience, studio graphique et autres), en partenariat avec les principaux éditeurs du marché.
+
+Pour soutenir le développement de notre activité, nous recrutons un Expert Technique Angular JS.
+
+Your future duties and responsibilities:
+Rattaché au Chef de Projet ou à l'architecte technique, vos missions principales sont les suivantes :
+
+Etre responsable de l'élaboration et de l'application des documents techniques (manuel technique, dossier d'exploitation, d'administration, d'installation, dossier d'architecture applicative, dossier d'architecture général, spécifications techniques détaillées, kit de normalisation et de méthodologie).
+Rédiger les comptes rendus détaillés de réunion, de workshop interventions, …
+Faire évoluer l'architecture dans son domaine technique.
+Faire valider les choix techniques par le client.
+Mettre en œuvre la politique de sécurité et de performance définie par l'Architecte Technique.
+Réaliser la veille technologique sur votre domaine d'intervention.
+Communiquer les évolutions technologiques auprès des experts de votre filière et capitaliser.
+Gérer le cadre de votre mission, le faire évoluer.
+Apporter des solutions novatrices et pragmatiques
+Etre en support technique des développeurs
+Participer aux développements techniques complexes
+Participer aux propositions commerciales
+Environnement technique : Eclipse, GIT, Java, J2EE, intégration HTML5 / CSS3, JavaScript (JQuery, Angular JS), frameworks Bootstrap et Less, webservices (REST, JSON), outils d'intégration continue (Jenkins), Linux, Apache
+
+Required qualifications to be successful in this role:
+De formation ingénieur, vous avez une expérience significative sur le framework AngularJS (1 an minimum), avec une bonne connaissance des designs patterns JavaScript (Module, Observer, Prototype, MV*...). Vous êtes curieux, adaptable et êtes doté du sens du service ? Vous avez un bon relationnel et une réelle capacité d'adaptation? Vous maîtrisez l'anglais? Votre profil nous intéresse !
+
+Comme tous les postes de l'entreprise, ce poste est ouvert aux personnes en situation de handicap
+
+Skills:
+Web Development
+What you can expect from us:
+Donnez un élan à votre carrière.
+
+Le secteur des technologies de l'information (TI) connaît une période extraordinaire. La transformation numérique des organisations continue de s'accélérer, et CGI est au premier plan de ce changement. Nous accompagnons nos clients dans leur démarche numérique et offrons à nos professionnels des opportunités de carrière stimulantes.
+
+La réussite de CGI repose sur le talent et l'engagement de nos professionnels. Ensemble, nous relevons les défis et partageons les bénéfices issus de la croissance de notre entreprise. Cette approche renforce notre culture d'actionnaire-propriétaire ainsi, tous nos professionnels bénéficient de la valeur que nous créons collectivement.
+
+Joignez-vous à nous pour prendre part à la croissance de l'une des plus importantes entreprises indépendantes de services en technologies de l'information (TI) et en gestion des processus d'affaires au monde.
+
+Pour en savoir davantage à propos de CGI : www.cgi.com.
+
+Les candidatures non sollicitées provenant de cabinets de recrutement ne seront pas retenues.
+
+CGI favorise l'équité en matière d'emploi."
+18,https://www.indeed.fr/emplois?q=Data%20mining&l=Toulouse&radius=100&limit=100&sort=date&vjk=f133b8c638bf8c7e,"Expert technique Drupal H/F
+CGI Group, Inc.2,512 avis - Toulouse (31)",['Toulouse (31)'],Expert technique Drupal H/F,"CGI Group, Inc.",- Toulouse (31),null,null,"CGI - il y a 4 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data mining,Toulouse,"Position Description:
+CGI en France est le 4ème acteur indépendant en conseil et services en technologies de l'information réunissant 10 200 collaborateurs présents dans 21 villes.
+
+Sur Toulouse et Montpellier, 1000 personnes accompagnent nos clients grands comptes dans la mise en œuvre de leurs projets stratégiques.
+
+CGI à Toulouse offre un portefeuille complet de services, y compris des services-conseils stratégiques en informatique et en management, des services d'intégration de systèmes, de développement et de maintenance d'applications informatiques et de gestion d'infrastructures technologiques.
+
+Les centres d'Excellence Cybersécurité, CRM, BI (Décisionnel) et Digital Entreprise sont au service de plus de 50 clients locaux, nationaux et internationaux.
+
+Spécialisé autour des solutions CRM, BI, Cybersécurité et Digital Entreprise incontournables du marché, notre entité apporte son savoir-faire et ses retours d'expérience aux clients (campagnes marketing, fidélité, ETL, Data Quality, Data Mining, Big Data, progiciels de gestion intégrés, Digital Customer Experience, portails d'entreprise, CMS, mobilité, User eXperience, studio graphique et autres), en partenariat avec les principaux éditeurs du marché.
+
+Rattaché au Chef de Projet ou à l'architecte technique, vos missions principales sont les suivantes :
+
+Etre responsable de l'élaboration et de l'application des documents techniques (manuel technique, dossier d'exploitation, d'administration, d'installation, dossier d'architecture applicative, dossier d'architecture général, spécifications techniques détaillées, kit de normalisation et de méthodologie).
+Rédiger les comptes-rendus détaillés de réunion, de workshop interventions, …
+Faire évoluer l'architecture dans son domaine technique.
+Faire valider les choix techniques par le client.
+Mettre en œuvre la politique de sécurité et de performance définie par l'Architecte Technique.
+Réaliser la veille technologique sur votre domaine d'intervention.
+Communiquer les évolutions technologiques auprès des experts de votre filière et capitaliser.
+Gérer le cadre de votre mission, le faire évoluer.
+Apporter des solutions novatrices et pragmatiques
+Détecter les opportunités
+Participer aux propositions commerciales
+Environnement technique : Eclipse, GIT, Linux, MySQL, PHP5, Drupal 7 (+ différents modules), HTML5, CSS3, JavaScript (JQuery, Angular JS), webservices (REST, JSON), outils d'intégration continue (Jenkins)
+
+De formation ingénieur, vous avez une expérience significative d'au moins 4 ans sur Drupal(une expérience dans une ESN est un plus). Vous êtes curieux, adaptable et êtes doté du sens du service ? Vous avez un bon relationnel et une réelle capacité d'adaptation? Vous maîtrisez l'anglais? Votre profil nous intéresse !
+
+Comme tous les postes de l'entreprise, ce poste est ouvert aux personnes en situation de handicap.
+
+Skills:
+Drupal
+What you can expect from us:
+Donnez un élan à votre carrière.
+
+Le secteur des technologies de l'information (TI) connaît une période extraordinaire. La transformation numérique des organisations continue de s'accélérer, et CGI est au premier plan de ce changement. Nous accompagnons nos clients dans leur démarche numérique et offrons à nos professionnels des opportunités de carrière stimulantes.
+
+La réussite de CGI repose sur le talent et l'engagement de nos professionnels. Ensemble, nous relevons les défis et partageons les bénéfices issus de la croissance de notre entreprise. Cette approche renforce notre culture d'actionnaire-propriétaire ainsi, tous nos professionnels bénéficient de la valeur que nous créons collectivement.
+
+Joignez-vous à nous pour prendre part à la croissance de l'une des plus importantes entreprises indépendantes de services en technologies de l'information (TI) et en gestion des processus d'affaires au monde.
+
+Pour en savoir davantage à propos de CGI : www.cgi.com.
+
+Les candidatures non sollicitées provenant de cabinets de recrutement ne seront pas retenues.
+
+CGI favorise l'équité en matière d'emploi."
+19,https://www.indeed.fr/emplois?q=Data%20mining&l=Toulouse&radius=100&limit=100&sort=date&vjk=afc18740d78d734f,"Data Scientist H/F
+Scalian14 avis - Toulouse (31)","['Toulouse (31)', 'CDI']",Data Scientist H/F,Scalian,- Toulouse (31),CDI,null,"il y a 9 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data mining,Toulouse,"Pour participer à cette aventure et vous épanouir dans une équipe Conseils en Valorisation des Données, intégrez SCALIAN en tant que Data Scientist,
+
+Votre quotidien :
+
+Tester les hypothèses de manière itérative et converger vers une solution
+Tirer profit des algorithmes Machine Learning pour vous aider dans vos investigations
+Explorer visuellement et détecter des patterns dans les données
+Présenter vos travaux, documenter vos réflexions et publier vos découvertes.
+
+Vos champs d'intervention pourront concerner les problématiques suivantes :
+
+Mise au point, développement et expérimentation d'algorithmes d'apprentissage performants et scalables
+Data Mining et statistiques : élaboration de modèles explicatifs et prédictifs d'aide à la décision (ingénierie statistique, économétrie, prévision, diagnostic quantitatif, ...)
+Traitement de données massives, non structurées et time-series
+Expérimentation des algorithmes avec des technologies Tensorflow, Spark, Hadoop et bases de données nosql
+Formations et compétences
+Compétences et expérience souhaitées :
+
+Vous avez une formation de haut niveau (PhD / Ecole d'Ingénieur / BAC+5) dans le domaine du traitement de l'information, de l'ingénierie statistique et de l'économétrie et vous justifiez idéalement d'une première expérience en Big Data ou Data Science, de préférence dans un contexte industriel.
+
+Vous avez un excellent niveau en statistiques et analyse quantitative.
+
+Vous maitrisez la programmation en python, R ou compilés (Java, Scala, C++) et avez une expérience dans les environnements UNIX/LINUX
+
+Vous souhaitez vous impliquer et prendre rapidement des responsabilités sur des missions à forte valeur ajoutée au sein d'une structure dynamique.
+
+Mobile, vous êtes doté(e) d'une ouverture d'esprit et d'une capacité à travailler en équipe et vous souhaitez rejoindre un environnement professionnel motivant où vous partagerez les valeurs que sont la culture du résultat, la qualité et la satisfaction client.
+
+Anglais professionnel indispensable.
+
+Rejoignez-nous sur www.scalian.com
+Localisation du poste
+Localisation du poste à pourvoir
+France, Midi-Pyrénées
+Lieu
+Toulouse"
+20,https://www.indeed.fr/emplois?q=Data%20mining&l=Toulouse&radius=100&limit=100&sort=date&vjk=ac5992e132c20a10,"Consultant en Data Scientist H/F
+Scalian14 avis - Toulouse (31)","['Toulouse (31)', 'CDI']",Consultant en Data Scientist H/F,Scalian,- Toulouse (31),CDI,null,"il y a 9 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data mining,Toulouse,"Pour participer à cette aventure et vous épanouir dans une équipe projets à Toulouse et /ou Paris, intégrez Scalian en tant que Consultant Data Scientist.
+
+Votre quotidien :
+Tester les hypothèses de manière itérative et converger vers une solution
+Tirer profit des algorithmes Machine Learning pour vous aider dans vos investigations
+Explorer visuellement et détecter des patterns dans les données
+Documenter vos réflexions et publier vos découvertes.
+
+Vos champs d'intervention pourront concerner les problématiques suivantes :
+Mise au point, développement et expérimentation d'algorithmes d'apprentissage performants et scalables
+Data Mining et statistiques : élaboration de modèles explicatifs et prédictifs d'aide à la décision (ingénierie statistique, économétrie, prévision, diagnostic quantitatif, ...)
+Traitement de données massives, non structurées et time-séries
+Expérimentation des algorithmes avec des technologies Spark, Hadoop et bases de données nosql.
+Formations et compétences
+Vous avez une formation de haut niveau (PhD / Ecole d'Ingénieur / BAC+5) dans le domaine du traitement de l'information, de l'ingénierie statistique et de l'économétrie et vous justifiez idéalement d'une première expérience en Big Data ou Data Science, de préférence dans un contexte industriel.
+
+Vous avez un excellent niveau en statistiques et analyse quantitative.
+Vous maitrisez la programmation en python, R ou compilés (Java, Scala, C++) et avez une expérience dans les environnements UNIX/LINUX.
+
+Vous souhaitez vous impliquer et prendre rapidement des responsabilités sur des missions à forte valeur ajoutée au sein d'une structure dynamique.
+
+Vous aurez la possibilité d'évoluer vers un poste d'architecte Data ou Manager.
+Mobile, vous êtes doté(e) d'une ouverture d'esprit et d'une capacité à travailler en équipe et vous souhaitez rejoindre un environnement professionnel motivant où vous partagerez les valeurs que sont la culture du résultat, la qualité et la satisfaction client.
+
+Anglais professionnel indispensable.
+
+Alors n'hésitez plus, postulez !
+Localisation du poste
+Localisation du poste à pourvoir
+France, Midi-Pyrénées
+Lieu
+Toulouse
+Critères candidat
+Langues
+Anglais (Intermédiaire)"
+21,https://www.indeed.fr/emplois?q=Data%20mining&l=Toulouse&radius=100&limit=100&sort=date&vjk=9154a8ad067e61be,"Ingénieur études et développement – Microsoft H/F
+CGI Group, Inc.2,512 avis - Toulouse (31)",['Toulouse (31)'],Ingénieur études et développement – Microsoft H/F,"CGI Group, Inc.",- Toulouse (31),null,null,"CGI - il y a 10 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data mining,Toulouse,"Position Description:
+CGI en France est le 5ème acteur indépendant en conseil et services en technologies de l'information réunissant 11 000 collaborateurs présents dans 22 villes.
+
+A Toulouse, plus de 800 collaborateurs accompagnent nos clients grands comptes dans la mise en œuvre de leurs projets stratégiques.
+
+Au sein de ce site, CGI offre un portefeuille complet de services, y compris des services-conseils stratégiques en informatique et en management, des services d'intégration de systèmes, de développement et de maintenance d'applications informatiques et de gestion d'infrastructures technologiques.
+
+Les centres d'Excellence WEB, CRM et BI (Décisionnel) sont au service de plus de 70 clients locaux, nationaux et internationaux.
+
+Spécialisée autour des solutions digitales, notre entité apporte son savoir-faire et ses retours d'expérience aux clients (campagnes marketing, fidélité, ETL, Data Quality, Data Mining, Big Data, progiciels de gestion intégrés, Digital Customer Experience, portails d'entreprise, CMS, mobilité, User eXperience, studio graphique et autres), en partenariat avec les principaux éditeurs du marché.
+
+Pour soutenir le développement de notre entité en pleine croissance, notamment autour des activités MICROSOFT (Sharepoint, Xamarin, UWP, Office 365, Sitecore, ASP.Net Core, WebAPI), nous recrutons des développeurs disposant d'expériences professionnelles dans le domaine du développement .NET / C#.
+
+Your future duties and responsibilities:
+Au terme de la formation et rattaché au Chef de Projet, l'ingénieur intègre une équipe projet composée notamment de consultants et d'experts techniques expérimentés qui l'accompagneront dans le développement de ses compétences.
+
+A ce titre, il doit :
+Traduire les besoins issus d'un cahier des charges en fonctionnalités à réaliser et animer des ateliers clients pour cadrer les besoins
+Réaliser une conception technique des modules à développer en tenant compte des normes et bonnes pratiques.
+Implémenter les fonctionnalités ou modules applicatifs dans le respect des normes et standards CGI (développements WEB / .NET)
+Réaliser les tests unitaires et d'intégration des fonctionnalités développées
+Documenter son code ainsi que les choix techniques qu'il a effectués
+Au besoin, rédiger des documentations complémentaires (Guide utilisateur, Guide d'exploitation)
+Se conformer à l'utilisation des outils et des méthodes préconisées par CGI
+ENVIRONNEMENT TECHNIQUE
+
+Windows Server, IIS, SQL Server, Visual Studio, Framework .Net 4.x, C#, ASP .Net, HTML5, CSS3, JQuery, Angular, integration continue TFS, Sharepoint, Xamarin, UWP, Office 365, Sitecore, ASP.Net Core, WebAPI
+
+Required qualifications to be successful in this role:
+De formation Bac+3 à Bac+5, vous avez entre 2 et 5 ans d'expériences professionnelles dans le développement .Net et souhaitez :
+
+découvrir de nouvelles technologies,
+collaborer avec les plus grands clients,
+être un acteur majeur de la transformation digitale,
+développer et exprimer votre sens de l'innovation,
+avoir de réelles opportunités pour évoluer sur de l'expertise technique, fonctionnelle, dans le management ou le consulting.
+Votre sens du service, votre capacité d'adaptation, votre rigueur et vos qualités relationnelles vous permettront de prendre rapidement des responsabilités sur nos projets et d'évoluer au sein de notre structure.
+
+Comme tous les postes de l'entreprise, ce poste est ouvert aux personnes en situation de handicap.
+
+What you can expect from us:
+Donnez un élan à votre carrière.
+
+Le secteur des technologies de l'information (TI) connaît une période extraordinaire. La transformation numérique des organisations continue de s'accélérer, et CGI est au premier plan de ce changement. Nous accompagnons nos clients dans leur démarche numérique et offrons à nos professionnels des opportunités de carrière stimulantes.
+
+La réussite de CGI repose sur le talent et l'engagement de nos professionnels. Ensemble, nous relevons les défis et partageons les bénéfices issus de la croissance de notre entreprise. Cette approche renforce notre culture d'actionnaire-propriétaire ainsi, tous nos professionnels bénéficient de la valeur que nous créons collectivement.
+
+Joignez-vous à nous pour prendre part à la croissance de l'une des plus importantes entreprises indépendantes de services en technologies de l'information (TI) et en gestion des processus d'affaires au monde.
+
+Pour en savoir davantage à propos de CGI : www.cgi.com.
+
+Les candidatures non sollicitées provenant de cabinets de recrutement ne seront pas retenues.
+
+CGI favorise l'équité en matière d'emploi."
+22,https://www.indeed.fr/emplois?q=Data%20mining&l=Toulouse&radius=100&limit=100&sort=date&vjk=40144c112c4e51e7,"Data Scientist – H/F
+Altran360 avis - Blagnac (31)",['Blagnac (31)'],Data Scientist – H/F,Altran,- Blagnac (31),null,null,"il y a 10 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data mining,Toulouse,"Leader mondial du conseil en innovation et ingénierie avancée, Altran propose à ses clients d’innover autrement en les aidant à développer ou en développant pour eux les produits et les services de demain. Le Groupe les accompagne sur l’intégralité de la chaine de valeur du cycle de vie d’un projet, de l’idée à l’industrialisation. Altran intervient depuis plus de 30 ans auprès des grands acteurs de nombreux secteurs : aérospatial, automobile, défense, énergie, ferroviaire, finance, sciences de la vie, télécoms, etc. En 2018, le groupe Altran a réalisé un chiffre d’affaires de 2,916 milliard d’euros. Il compte désormais près de 46 000 collaborateurs dans plus de 20 pays.
+Vos responsabilités
+Au sein du département calcul scientifique, vous contribuerez à la mise en place d’analyses de données d’ingénierie innovantes en utilisant des méthodologies Big Data.
+A travers un partenariat avec un constructeur aéronautique majeur basé dans la région Toulousaine, Altran participe activement à l’analyse des données d’essai en vol et de simulation. Ces données étant volumineuses, structurées ou non et de sources variées, les analyses de données traditionnelles deviennent limitées. Les analyses de type Data mining sont alors nécessaires pour tirer un maximum d’information de ces larges sources d’information.
+L’analyse de ces données se situe à l’intersection de plusieurs domaines:
+Simulation et modélisation
+Physique du vol et Essais en vol
+Management de données
+Data Analytics
+Une première mission concernera le stockage, l’extraction et l’analyse des données d’essai en vol. Cette mission s’inscrit dans un objectif plus ambitieux de réduction des couts de ces essais. Effectivement, quand un essai en vol est effectué, il est suivi d’un travail laborieux d’extraction des données afin de déterminer si les données enregistrées sont exploitables ou non et si elles répondent au besoin initial de l’essai. L’objectif de cette mission est donc de mettre en place des solutions innovantes afin d’automatiser un maximum cette prise de décision.
+Plus précisément, les principales étapes de ce travail consistent en :
+Compréhension des méthodes et outils existants
+Analyse de l’architecture des données
+Prise en main des outils
+En utilisant des techniques de type Big data (traitements informatiques et mathématiques), proposer des méthodes d’analyse automatisées et de stockage de données plus pertinentes
+Définition et prototypage de la solution technique
+Documentation
+Le consultant devra utiliser ses connaissances en technologies Big Data dans le contexte d’un projet industriel multinational complexe pour lequel les analyses de type Big data est un concept nouveau.
+Votre profil
+Avec une formation dans les Big data ou avec une première expérience significative dans ce domaine, le candidat devra, de plus, avoir les compétences clefs suivantes :
+Connaissances avancées en analyse de données et machine learning
+Programmation/scripting – connaissance de Unix/Linux, Matlab/Simulink, langage Fortran, Python, Ksh/bash, C, VBA
+Connaissance des méthodes utilisées dans l’analyse de données (SVD, POD, surrogate modeling, etc ...)
+Créatif et force de propositions innovatrices
+Autonome, rigoureux, esprit d’équipe et bonne communication
+Autonome dans l’apprentissage de nouvelles compétences et capacité à résoudre des problèmes
+Connaissance du développement d’un avion serait un plus
+Maitrise de l’anglais professionnel"
+23,https://www.indeed.fr/emplois?q=Data%20mining&l=Toulouse&radius=100&limit=100&sort=date&vjk=f8f731ed46513b42,"Consultant Data Governance H/F
+CGI Group, Inc.2,512 avis - Toulouse (31)",['Toulouse (31)'],Consultant Data Governance H/F,"CGI Group, Inc.",- Toulouse (31),null,null,"CGI - il y a 11 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data mining,Toulouse,"Position Description:
+Fondé en 1976, Groupe CGI inc. est la cinquième plus importante entreprise indépendante de services en technologies de l'information et en gestion des processus d'affaires au monde.
+
+Grâce à ses quelque 77 000 professionnels, CGI offre un portefeuille complet de services, y compris des services-conseils stratégiques en informatique et en management, des services d'intégration de systèmes, de développement et de maintenance d'applications informatiques, de gestion d'infrastructures technologiques ainsi qu'une vaste gamme de solutions exclusives à des milliers de clients à l'échelle mondiale à partir de ses bureaux et centres mondiaux de prestation de services dans les Amériques, en Europe et en Asie-Pacifique. Site Web : www.cgi.com.
+
+CGI en France est le 4ème acteur indépendant en conseil et services en technologies de l'information réunissant 11 000 collaborateurs présents dans 22 villes.
+
+Spécialisé autour des solutions CRM, BI et Digital Entreprise incontournables du marché, notre entité apporte son savoir-faire et ses retours d'expérience aux clients (Marketing Digital, Parcours de fidélisation, DMP, ETL, Data Quality, Data Mining, Big Data, progiciels de gestion intégrés, Digital Customer Experience, portails d'entreprise, CMS, mobilité, User eXperience, studio graphique et autres), en partenariat avec les principaux éditeurs du marché.
+
+Your future duties and responsibilities:
+Vous interviendrez sur des missions de Master Data Management, de Data Quality Management, de conseil organisationnel, stratégique ou opérationnel. Vous contribuerez au développement de notre offre de service, participerez à l'avant-vente.
+
+Vous intégrerez une équipe solidaire et dynamique qui vous accompagnera tout au long de vos missions.
+
+En tant Consultant(e) Gouvernance de la Donnée, vous serez intégré dans un pôle de consultants spécialistes de la BI, du Big Data et de la Data Science intervenants sur des projets analytiques stimulants. Vos missions sont :
+
+Concevoir et déployer des solutions de Master Data Management, de DQM ou ESB
+Animer des ateliers de conception fonctionnelle et technique
+Participer à des missions de conseil et d'audit
+Participer à la veille technologique autour des problématiques de gouvernance des données
+Participer à l'animation de l'offre (évènements, présentations, plaquettes, …)
+Required qualifications to be successful in this role:
+Passionné de nouvelles technologies, la Business Intelligence, les nouveaux enjeux de la donnée, vous aimez le travail en équipe, apprendre, partager, vous êtes également dotés d'un esprit audacieux et ambitieux. Vous faites preuve d'initiative et travaillez sur le long terme.
+
+De formation ingénieur ou Bac+5, vous justifiez d'une expérience significative dans la Gouvernance des Données, vous êtes doté d'un excellent relationnel et à l'aise à l'écrit.
+
+Vous disposez d'une vision large des technologies et vous maîtrisez au moins l'un des logiciels du marché (Informatica, Talend, IBM InfoSphere, Tibco, Oracle …).
+
+La connaissance d'un des outils ESB suivants est un plus : Talend ESB, Tibco BusinessWorks, Mule ESB, Webmethods.
+
+Votre dynamisme, votre ambition et votre goût du challenge sont vos atouts pour réussir dans ce poste.
+
+Comme tous les postes de l'entreprise, ce poste est ouvert aux personnes en situation de handicap
+
+What you can expect from us:
+Donnez un élan à votre carrière.
+
+Le secteur des technologies de l'information (TI) connaît une période extraordinaire. La transformation numérique des organisations continue de s'accélérer, et CGI est au premier plan de ce changement. Nous accompagnons nos clients dans leur démarche numérique et offrons à nos professionnels des opportunités de carrière stimulantes.
+
+La réussite de CGI repose sur le talent et l'engagement de nos professionnels. Ensemble, nous relevons les défis et partageons les bénéfices issus de la croissance de notre entreprise. Cette approche renforce notre culture d'actionnaire-propriétaire ainsi, tous nos professionnels bénéficient de la valeur que nous créons collectivement.
+
+Joignez-vous à nous pour prendre part à la croissance de l'une des plus importantes entreprises indépendantes de services en technologies de l'information (TI) et en gestion des processus d'affaires au monde.
+
+Pour en savoir davantage à propos de CGI : www.cgi.com.
+
+Les candidatures non sollicitées provenant de cabinets de recrutement ne seront pas retenues.
+
+CGI favorise l'équité en matière d'emploi."
+24,https://www.indeed.fr/emplois?q=Data%20mining&l=Toulouse&radius=100&limit=100&sort=date&vjk=9bf2e4ce76c37ac7,"Consultant Dataviz H/F
+CGI Group, Inc.2,512 avis - Toulouse (31)",['Toulouse (31)'],Consultant Dataviz H/F,"CGI Group, Inc.",- Toulouse (31),null,null,"CGI - il y a 11 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data mining,Toulouse,"Position Description:
+Fondé en 1976, Groupe CGI inc. est la cinquième plus importante entreprise indépendante de services en technologies de l'information et en gestion des processus d'affaires au monde. Grâce à ses quelque 74 000 professionnels, CGI offre un portefeuille complet de services, y compris des services-conseils stratégiques en informatique et en management, des services d'intégration de systèmes, de développement et de maintenance d'applications informatiques, de gestion d'infrastructures technologiques ainsi qu'une vaste gamme de solutions exclusives à des milliers de clients à l'échelle mondiale à partir de ses bureaux et centres mondiaux de prestation de services dans les Amériques, en Europe et en Asie-Pacifique. Site Web : www.cgi.com.
+
+CGI en France est le 4ème acteur indépendant en conseil et services en technologies de l'information réunissant 11 000 collaborateurs présents dans 22 villes.
+
+CGI offre un portefeuille complet de services, y compris des services-conseils stratégiques en informatique et en management, des services d'intégration de systèmes, de développement et de maintenance d'applications informatiques et de gestion d'infrastructures technologiques.
+
+Les centres d'Excellence CRM, BI (Décisionnel) et Digital Entreprise sont au service de plus de 50 clients locaux, nationaux et internationaux.
+
+Spécialisé autour des solutions CRM, BI et Digital Entreprise incontournables du marché, notre entité apporte son savoir-faire et ses retours d'expérience aux clients (Marketing Digital, Parcours de fidélisation, DMP, ETL, Data Quality, Data Mining, Big Data, progiciels de gestion intégrés, Digital Customer Experience, portails d'entreprise, CMS, mobilité, User eXperience, studio graphique et autres), en partenariat avec les principaux éditeurs du marché.
+
+Your future duties and responsibilities:
+Vous êtes passionné par le Décisionnel, le Big Data, vous avez déjà une très solide expérience sur un ou plusieurs outils BI et vous souhaitez œuvrer dans des contextes technologiques variés (MicroStrategy, Cognos, Tableau, Power BI, Qlik…)
+
+Vous souhaitez diversifier vos compétences BI pour être toujours à la pointe des nouvelles technologies et souhaitez rejoindre une entité spécialisée dans la data ( > 150 consultants BI)
+
+Vous évoluerez sur des projets d'envergure, dans des environnements métiers variés avec un niveau de responsabilité élevé. Vous aurez également la possibilité de monter en compétences sur d'autres outils BI que ceux de votre domaine de compétences initial.
+
+Votre rôle au sein du Centre d'Excellence aura de très nombreuses facettes, toutes orientées vers un seul et même objectif : Contribuer à la transformation digitale et au succès de nos clients. En tant que Consultant Dataviz, vous serez intégré dans un pôle de consultants spécialistes de la BI, du Big Data et de la Data Science intervenants sur des projets analytiques stimulants. Rattaché au chef de projet ou au Directeur de Business Team, vos missions seront les suivantes :
+
+Participer aux phases d'avant-vente : études des cahiers des charges clients et rédaction de nos propositions de valeur, participation aux soutenances,
+Accompagner nos clients dans la construction de sa roadmap SI BI sur les briques reporting/dataviz, connaître et comprendre les autres briques du SI BI pour pouvoir accompagner nos clients sur leurs visions SI BI complètes
+Mener les phases de cadrage : études des besoins clients, benchmark de solutions, synthèse des besoins et de nos préconisations pour décision haut niveau chez les clients
+Concevoir les solutions (études d'impacts) et les mettre en œuvre dans le respect de la satisfaction client et des engagements (budget, planning)
+Conseiller le client sur les problématiques de sécurité des données
+Participer au développement de la Business team dataviz : Veille technologique, synthèse des tendances du marché et construction de nouvelles offres, construire des démonstrateurs et les présenter aux clients ou aux collaborateurs,
+Recruter les nouveaux talents pour enrichir l'équipe,
+Accompagner le développement des collaborateurs
+Fort d'une intégration réussie, de nombreuses possibilités d'évolutions de carrière s'offriront rapidement à vous, dans l'animation de la filière technique BI, dans le consulting de solutions Dataviz & BI ou dans une fonction de Chef de Projet BI.
+
+Required qualifications to be successful in this role:
+Passionné d'informatique décisionnelle, vous aimez le travail en équipe, apprendre, partager, vous êtes également dotés d'un esprit audacieux et ambitieux. Vous faites preuve d'initiative et travaillez sur le long terme.
+
+Vous justifiez d'une expérience significative en tant que consultant BI dans le domaine de la Dataviz, avec au moins 5 ans d'expérience professionnelle au sein d'une entreprise de services numériques ou d'un cabinet de conseil. Vous justifiez également et si possible d'une pratique en tant que Consultant BI dans des projets en mode forfait.
+
+Vous disposez d'une vision large des technologies BI et vous maîtrisez au moins deux solutions de Reporting BI parmi les suivantes :
+
+Reporting/Dataviz : Microstrategy, Cognos, SAP Business Objects, Tableau, Qlik, Power BI
+Bases de données : Teradata, DB2, Oracle
+La mise en œuvre de sessions de formation aux utilisateurs est un plus.
+
+Vous êtes curieux, adaptable et êtes doté du sens du service ? Vous avez un bon relationnel et une réelle capacité d'adaptation? Vous maîtrisez l'anglais? Votre dynamisme, votre ambition et votre goût du challenge sont vos atouts pour réussir dans ce poste. Votre envie de transmettre vos connaissances également.
+
+Comme tous les postes de l'entreprise, ce poste est ouvert aux personnes en situation de handicap.
+
+What you can expect from us:
+Donnez un élan à votre carrière.
+
+Le secteur des technologies de l'information (TI) connaît une période extraordinaire. La transformation numérique des organisations continue de s'accélérer, et CGI est au premier plan de ce changement. Nous accompagnons nos clients dans leur démarche numérique et offrons à nos professionnels des opportunités de carrière stimulantes.
+
+La réussite de CGI repose sur le talent et l'engagement de nos professionnels. Ensemble, nous relevons les défis et partageons les bénéfices issus de la croissance de notre entreprise. Cette approche renforce notre culture d'actionnaire-propriétaire ainsi, tous nos professionnels bénéficient de la valeur que nous créons collectivement.
+
+Joignez-vous à nous pour prendre part à la croissance de l'une des plus importantes entreprises indépendantes de services en technologies de l'information (TI) et en gestion des processus d'affaires au monde.
+
+Pour en savoir davantage à propos de CGI : www.cgi.com.
+
+Les candidatures non sollicitées provenant de cabinets de recrutement ne seront pas retenues.
+
+CGI favorise l'équité en matière d'emploi."
+25,https://www.indeed.fr/emplois?q=Data%20mining&l=Toulouse&radius=100&limit=100&sort=date&vjk=f20cf7fb5fa12aa1,"Concepteur Développeur Adobe Campaign H/F
+CGI Group, Inc.2,512 avis - Toulouse (31)",['Toulouse (31)'],Concepteur Développeur Adobe Campaign H/F,"CGI Group, Inc.",- Toulouse (31),null,null,"CGI - il y a 11 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data mining,Toulouse,"Position Description:
+Fondé en 1976, Groupe CGI inc. est la cinquième plus importante entreprise indépendante de services en technologies de l'information et en gestion des processus d'affaires au monde. Grâce à ses quelque 74 000 professionnels, CGI offre un portefeuille complet de services, y compris des services-conseils stratégiques en informatique et en management, des services d'intégration de systèmes, de développement et de maintenance d'applications informatiques, de gestion d'infrastructures technologiques ainsi qu'une vaste gamme de solutions exclusives à des milliers de clients à l'échelle mondiale à partir de ses bureaux et centres mondiaux de prestation de services dans les Amériques, en Europe et en Asie-Pacifique. Site Web : www.cgi.com.
+
+CGI en France est le 4ème acteur indépendant en conseil et services en technologies de l'information réunissant 11 000 collaborateurs présents dans 22 villes.
+
+CGI offre un portefeuille complet de services, y compris des services-conseils stratégiques en informatique et en management, des services d'intégration de systèmes, de développement et de maintenance d'applications informatiques et de gestion d'infrastructures technologiques.
+
+Les centres d'Excellence CRM, BI (Décisionnel) et Digital Entreprise sont au service de plus de 50 clients locaux, nationaux et internationaux.
+
+Spécialisé autour des solutions CRM, BI et Digital Entreprise incontournables du marché, notre entité apporte son savoir-faire et ses retours d'expérience aux clients (Marketing Digital, Parcours de fidélisation, DMP, ETL, Data Quality, Data Mining, Big Data, progiciels de gestion intégrés, Digital Customer Experience, portails d'entreprise, CMS, mobilité, User eXperience, studio graphique et autres), en partenariat avec les principaux éditeurs du marché.
+
+Your future duties and responsibilities:
+Vous êtes passionné par le Marketing, et avez déjà une très solide expérience sur un ou plusieurs outils de gestion de campagnes marketing et notamment Adobe Campaign.
+
+Vous souhaitez diversifier vos compétences pour être toujours à la pointe des nouvelles technologies et souhaitez rejoindre une entité spécialisée dans le CRM et le Marketing ( > 150 consultants)
+
+Vous souhaitez œuvrer à termes dans des contextes technologiques variés, peu présents sur les bassins locaux (Adobe Campaign, Unica, Pardot, SalesForce Marketing Cloud, SAS CI, …)
+
+Consultant Marketing expérimenté sur Adobe Campaign, vous intégrerez une équipe de collaborateurs CGI et participerez à toutes les phases de mise en œuvre d'un projet de Maketing Automation : de l'analyse du besoin client à la proposition et à la mise en place de la solution technique. Vous évoluerez sur des projets d'envergure, dans des environnements métiers variés avec un niveau de responsabilité élevé. Vous aurez également la possibilité de monter en compétences sur d'autres outils Marketing que votre domaine de compétences initial.
+
+Dans un environnement technologique accompagnant la transformation digitale de nos clients grands comptes :
+
+Intégration
+Architecture d'entreprise
+BI 2.0 / BigData
+Scrum
+Fort d'une intégration réussie, de nombreuses possibilités d'évolutions de carrière s'offriront rapidement à vous, dans l'animation de la filière technique des solutions Marketing, dans le consulting de solutions Marketing ou dans une fonction de Chef de Projet.
+
+Lors de votre intégration, rattaché au chef de projet, vos missions principales seront les suivantes:
+
+Recueil des besoins auprès des équipes métiers marketing,
+Développements de nouvelles fonctionnalités,
+Paramétrage / Tests / Recettes,
+Réaliser la veille technologique sur votre domaine d'intervention,
+Communiquer les évolutions technologiques auprès des experts de votre filière et capitaliser,
+Gérer le cadre de votre mission, le faire évoluer,
+Apporter des solutions novatrices et pragmatiques,
+Détecter les opportunités,
+Participer aux propositions commerciales.
+Required qualifications to be successful in this role:
+Passionné de technologies digitales et de marketing, vous aimez le travail en équipe, apprendre, partager, vous êtes également dotés d'un esprit audacieux et ambitieux.
+
+De formation Bac+3 ou Bac+5, vous justifiez impérativement d'au moins 3 ans d'expérience sur Adobe Campaign et vous avez développé une autonomie sur cette technologie sur les modules suivants :
+
+Delivery
+Campaign
+Content Manager
+Survey Manager / Microsites
+Vous maitriser également les Compétences / Langages suivants :
+
+Gestion de schémas et de formulaires XML
+Gestion de workflows techniques
+Gestion des imports / exports
+Création de codes JavaScript / HTML / XSL
+Notions de web services
+Définitions de packages
+Vous avez de préférence déjà évolué dans un contexte Agile (Scrum, DevOps, SAFe, ...). Vous justifiez également et si possible d'une pratique en tant que Consultant solutions dans des projets en mode forfait.
+
+Vous avez de bonnes capacités :
+d'analyse
+technique
+d'innovation et de créativité
+de rigueur
+Vous êtes curieux, adaptable et êtes doté du sens du service ? Vous avez un bon relationnel et une réelle capacité d'adaptation? Vous maîtrisez l'anglais? Votre dynamisme, votre ambition et votre goût du challenge sont vos atouts pour réussir dans ce poste. Votre envie de transmettre vos connaissances également.
+
+Comme tous les postes de l'entreprise, ce poste est ouvert aux personnes en situation de handicap.
+
+What you can expect from us:
+Donnez un élan à votre carrière.
+
+Le secteur des technologies de l'information (TI) connaît une période extraordinaire. La transformation numérique des organisations continue de s'accélérer, et CGI est au premier plan de ce changement. Nous accompagnons nos clients dans leur démarche numérique et offrons à nos professionnels des opportunités de carrière stimulantes.
+
+La réussite de CGI repose sur le talent et l'engagement de nos professionnels. Ensemble, nous relevons les défis et partageons les bénéfices issus de la croissance de notre entreprise. Cette approche renforce notre culture d'actionnaire-propriétaire ainsi, tous nos professionnels bénéficient de la valeur que nous créons collectivement.
+
+Joignez-vous à nous pour prendre part à la croissance de l'une des plus importantes entreprises indépendantes de services en technologies de l'information (TI) et en gestion des processus d'affaires au monde.
+
+Pour en savoir davantage à propos de CGI : www.cgi.com.
+
+Les candidatures non sollicitées provenant de cabinets de recrutement ne seront pas retenues.
+
+CGI favorise l'équité en matière d'emploi."
+26,https://www.indeed.fr/emplois?q=Data%20mining&l=Toulouse&radius=100&limit=100&sort=date&vjk=e5074506ad416425,"Concepteur Développeur MicroStrategy H/F
+CGI Group, Inc.2,512 avis - Toulouse (31)",['Toulouse (31)'],Concepteur Développeur MicroStrategy H/F,"CGI Group, Inc.",- Toulouse (31),null,null,"CGI - il y a 11 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data mining,Toulouse,"Position Description:
+Fondé en 1976, Groupe CGI inc. est la cinquième plus importante entreprise indépendante de services en technologies de l'information et en gestion des processus d'affaires au monde. Grâce à ses quelque 74 000 professionnels, CGI offre un portefeuille complet de services, y compris des services-conseils stratégiques en informatique et en management, des services d'intégration de systèmes, de développement et de maintenance d'applications informatiques, de gestion d'infrastructures technologiques ainsi qu'une vaste gamme de solutions exclusives à des milliers de clients à l'échelle mondiale à partir de ses bureaux et centres mondiaux de prestation de services dans les Amériques, en Europe et en Asie-Pacifique. Site Web : www.cgi.com.
+
+CGI en France est le 4ème acteur indépendant en conseil et services en technologies de l'information réunissant 11 000 collaborateurs présents dans 22 villes.
+
+CGI offre un portefeuille complet de services, y compris des services-conseils stratégiques en informatique et en management, des services d'intégration de systèmes, de développement et de maintenance d'applications informatiques et de gestion d'infrastructures technologiques.
+
+Les centres d'Excellence CRM, BI (Décisionnel) et Digital Entreprise sont au service de plus de 50 clients locaux, nationaux et internationaux.
+
+Spécialisé autour des solutions CRM, BI et Digital Entreprise incontournables du marché, notre entité apporte son savoir-faire et ses retours d'expérience aux clients (Marketing Digital, Parcours de fidélisation, DMP, ETL, Data Quality, Data Mining, Big Data, progiciels de gestion intégrés, Digital Customer Experience, portails d'entreprise, CMS, mobilité, User eXperience, studio graphique et autres), en partenariat avec les principaux éditeurs du marché.
+
+Your future duties and responsibilities:
+Vous êtes passionné par le Décisionnel, le Big Data, et avez déjà une très solide expérience sur un ou plusieurs outils de Business Intelligence et notamment MicroStrategy.
+
+Vous souhaitez diversifier vos compétences BI pour être toujours à la pointe des nouvelles technologies et souhaitez rejoindre une entité spécialisée dans la data ( > 150 consultants BI)
+
+Vous souhaitez œuvrer à termes dans des contextes technologiques variés, peu présents sur les bassins locaux (MicroStrategy, Qlik, Power BI, Datastage PX, SAS, Cognos, Tableau, Informatica, Talend, Hadoop, Hortonworks, Kafka, …)
+
+Consultant BI expérimenté sur MicroStrategy, vous intégrerez une équipe de collaborateurs CGI et participerez à toutes les phases de mise en œuvre d'un projet BI : de l'analyse du besoin client à la proposition et à la mise en place de la solution technique. Vous évoluerez sur des projets d'envergure, dans des environnements métiers variés avec un niveau de responsabilité élevé. Vous aurez également la possibilité de monter en compétences sur d'autres outils BI que votre domaine de compétences initial.
+
+Dans un environnement technologique accompagnant la transformation digitale de nos clients grands comptes :
+
+Intégration
+Architecture d'entreprise
+BI 2.0 / BigData
+Scrum
+Rattaché au chef de projet et en fonction de vos envies et votre expérience, vos missions principales seront les suivantes :
+
+Mener les ateliers, rédiger les comptes rendus d'ateliers ou de réunions client
+Etude et analyse de besoin. Concevoir les solutions (études d'impacts)
+Réaliser des estimations de charge
+Rédaction des spécifications fonctionnelles et techniques
+Réaliser des développements complexes et encadrer d'autres développeurs
+Réaliser les tests de validation avant livraison. Contrôler la qualité des livrables.
+Gérer les versions de composants et fournir les packages de livraison
+Rédiger des documents techniques (manuel technique, dossier d'exploitation, d'administration, d'installation, dossier d'architecture applicative, dossier d'architecture général, spécifications techniques détaillées, kit de normalisation et de méthodologie).
+Assurer un reporting détaillé et spontané au chef de projet
+Participer à l'animation de la communauté : Réaliser la veille technologique sur votre domaine d'intervention, communiquer les évolutions technologiques auprès des experts de votre filière et capitaliser,
+Construire des démonstrateurs et les présenter aux clients ou aux collaborateurs
+Fort d'une intégration réussie, de nombreuses possibilités d'évolutions de carrière s'offriront rapidement à vous, dans l'animation de la filière technique, dans le consulting de solutions BI ou dans une fonction de Chef de Projet BI.
+
+Required qualifications to be successful in this role:
+Passionné de nouvelles technologies, vous aimez le travail en équipe, apprendre, partager, vous êtes également dotés d'un esprit audacieux et ambitieux.
+
+De formation Bac+3 ou Bac+5, vous justifiez impérativement d'au moins 2 ans d'expérience sur MicroStrategy et vous avez développé une autonomie sur cette technologie :
+
+Microstrategy Desktop + Web 10.4, Object Manager, Transaction Services
+Bases de données : Teradata, DB2, Oracle
+Shell/Batch
+CTLM.
+Compétences techniques :
+Connaissance de la modélisation sur MicroStrategy et de la couche sémantique
+Réalisation de tableaux de bord et utilisation des fonctionnalités avancées
+Participation à des phases de performance et optimisation (VLDB, modification du schéma, …)
+Rédaction de spécifications fonctionnelles et/ou techniques détaillées
+Estimation des charges et étude des besoins clients (maquettages, POC, ateliers)
+Support et assistance technique aux utilisateurs
+Administration : connaissance de la configuration d'un projet MicroStrategy (paramétrage, connexion aux bases de données,…) et Gestion de la sécurité (ACE, ACL, filtre de sécurité, …)
+Vous avez de préférence déjà évolué dans un contexte Agile (Scrum, DevOps, SAFe, ...). Vous justifiez également et si possible d'une pratique en tant que Consultant BI dans des projets en mode forfait.
+
+Vous avez de bonnes capacités :
+d'analyse
+technique
+d'innovation et de créativité
+de rigueur
+Vous êtes curieux, adaptable et êtes doté du sens du service ? Vous avez un bon relationnel et une réelle capacité d'adaptation? Vous maîtrisez l'anglais? Votre dynamisme, votre ambition et votre goût du challenge sont vos atouts pour réussir dans ce poste. Votre envie de transmettre vos connaissances également.
+
+Comme tous les postes de l'entreprise, ce poste est ouvert aux personnes en situation de handicap.
+
+What you can expect from us:
+Donnez un élan à votre carrière.
+
+Le secteur des technologies de l'information (TI) connaît une période extraordinaire. La transformation numérique des organisations continue de s'accélérer, et CGI est au premier plan de ce changement. Nous accompagnons nos clients dans leur démarche numérique et offrons à nos professionnels des opportunités de carrière stimulantes.
+
+La réussite de CGI repose sur le talent et l'engagement de nos professionnels. Ensemble, nous relevons les défis et partageons les bénéfices issus de la croissance de notre entreprise. Cette approche renforce notre culture d'actionnaire-propriétaire ainsi, tous nos professionnels bénéficient de la valeur que nous créons collectivement.
+
+Joignez-vous à nous pour prendre part à la croissance de l'une des plus importantes entreprises indépendantes de services en technologies de l'information (TI) et en gestion des processus d'affaires au monde.
+
+Pour en savoir davantage à propos de CGI : www.cgi.com.
+
+Les candidatures non sollicitées provenant de cabinets de recrutement ne seront pas retenues.
+
+CGI favorise l'équité en matière d'emploi."
+27,https://www.indeed.fr/emplois?q=Data%20mining&l=Toulouse&radius=100&limit=100&sort=date&vjk=391a1c0de1593add,"Concepteur Développeur UNICA H/F
+CGI Group, Inc.2,512 avis - Toulouse (31)",['Toulouse (31)'],Concepteur Développeur UNICA H/F,"CGI Group, Inc.",- Toulouse (31),null,null,"CGI - il y a 11 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data mining,Toulouse,"Position Description:
+Fondé en 1976, Groupe CGI inc. est la cinquième plus importante entreprise indépendante de services en technologies de l'information et en gestion des processus d'affaires au monde. Grâce à ses quelque 74 000 professionnels, CGI offre un portefeuille complet de services, y compris des services-conseils stratégiques en informatique et en management, des services d'intégration de systèmes, de développement et de maintenance d'applications informatiques, de gestion d'infrastructures technologiques ainsi qu'une vaste gamme de solutions exclusives à des milliers de clients à l'échelle mondiale à partir de ses bureaux et centres mondiaux de prestation de services dans les Amériques, en Europe et en Asie-Pacifique. Site Web : www.cgi.com.
+
+CGI en France est le 4ème acteur indépendant en conseil et services en technologies de l'information réunissant 11 000 collaborateurs présents dans 22 villes.
+
+CGI offre un portefeuille complet de services, y compris des services-conseils stratégiques en informatique et en management, des services d'intégration de systèmes, de développement et de maintenance d'applications informatiques et de gestion d'infrastructures technologiques.
+
+Les centres d'Excellence CRM, BI (Décisionnel) et Digital Entreprise sont au service de plus de 50 clients locaux, nationaux et internationaux.
+
+Spécialisé autour des solutions CRM, BI et Digital Entreprise incontournables du marché, notre entité apporte son savoir-faire et ses retours d'expérience aux clients (Marketing Digital, Parcours de fidélisation, DMP, ETL, Data Quality, Data Mining, Big Data, progiciels de gestion intégrés, Digital Customer Experience, portails d'entreprise, CMS, mobilité, User eXperience, studio graphique et autres), en partenariat avec les principaux éditeurs du marché.
+
+Your future duties and responsibilities:
+Vous êtes passionné par le Marketing, et avez déjà une très solide expérience sur un ou plusieurs outils de gestion de campagnes marketing et notamment UNICA.
+
+Vous souhaitez diversifier vos compétences pour être toujours à la pointe des nouvelles technologies et souhaitez rejoindre une entité spécialisée dans le CRM et le Marketing ( > 150 consultants)
+
+Vous souhaitez œuvrer à termes dans des contextes technologiques variés, peu présents sur les bassins locaux (UNICA, SalesForce Marketing Cloud, Adobe Campaign, Pardot, SAS CI, …)
+
+Consultant Marketing expérimenté sur UNICA, vous intégrerez une équipe de collaborateurs CGI et participerez à toutes les phases de mise en œuvre d'un projet de Maketing Automation : de l'analyse du besoin client à la proposition et à la mise en place de la solution technique. Vous évoluerez sur des projets d'envergure, dans des environnements métiers variés avec un niveau de responsabilité élevé. Vous aurez également la possibilité de monter en compétences sur d'autres outils Marketing que votre domaine de compétences initial.
+
+Dans un environnement technologique accompagnant la transformation digitale de nos clients grands comptes :
+
+Intégration
+Architecture d'entreprise
+BI 2.0 / BigData
+Scrum
+Fort d'une intégration réussie, de nombreuses possibilités d'évolutions de carrière s'offriront rapidement à vous, dans l'animation de la filière technique des solutions Marketing, dans le consulting de solutions Marketing ou dans une fonction de Chef de Projet.
+
+Lors de votre intégration, rattaché au chef de projet, vos missions principales seront les suivantes :
+
+Recueil des besoins auprès des équipes métiers marketing,
+Développements de nouvelles fonctionnalités,
+Paramétrage / Tests / Recettes,
+Réaliser la veille technologique sur votre domaine d'intervention,
+Communiquer les évolutions technologiques auprès des experts de votre filière et capitaliser,
+Gérer le cadre de votre mission, le faire évoluer,
+Apporter des solutions novatrices et pragmatiques,
+Détecter les opportunités,
+Participer aux propositions commerciales.
+Required qualifications to be successful in this role:
+Passionné de technologies digitales et de marketing, vous aimez le travail en équipe, apprendre, partager, vous êtes également dotés d'un esprit audacieux et ambitieux.
+
+De formation Bac+3 ou Bac+5, vous justifiez impérativement d'au moins 3 ans d'expérience sur UNICA et vous avez développé une autonomie sur cette technologie. Vous avez de préférence déjà évolué dans un contexte Agile (Scrum, DevOps, SAFe, ...). Vous justifiez également et si possible d'une pratique en tant que Consultant solutions Marketing dans des projets en mode forfait.
+
+Vous avez de bonnes capacités :
+d'analyse
+technique
+d'innovation et de créativité
+de rigueur
+Vous êtes curieux, adaptable et êtes doté du sens du service ? Vous avez un bon relationnel et une réelle capacité d'adaptation? Vous maîtrisez l'anglais? Votre dynamisme, votre ambition et votre goût du challenge sont vos atouts pour réussir dans ce poste. Votre envie de transmettre vos connaissances également.
+
+Comme tous les postes de l'entreprise, ce poste est ouvert aux personnes en situation de handicap.
+
+What you can expect from us:
+Donnez un élan à votre carrière.
+
+Le secteur des technologies de l'information (TI) connaît une période extraordinaire. La transformation numérique des organisations continue de s'accélérer, et CGI est au premier plan de ce changement. Nous accompagnons nos clients dans leur démarche numérique et offrons à nos professionnels des opportunités de carrière stimulantes.
+
+La réussite de CGI repose sur le talent et l'engagement de nos professionnels. Ensemble, nous relevons les défis et partageons les bénéfices issus de la croissance de notre entreprise. Cette approche renforce notre culture d'actionnaire-propriétaire ainsi, tous nos professionnels bénéficient de la valeur que nous créons collectivement.
+
+Joignez-vous à nous pour prendre part à la croissance de l'une des plus importantes entreprises indépendantes de services en technologies de l'information (TI) et en gestion des processus d'affaires au monde.
+
+Pour en savoir davantage à propos de CGI : www.cgi.com.
+
+Les candidatures non sollicitées provenant de cabinets de recrutement ne seront pas retenues.
+
+CGI favorise l'équité en matière d'emploi."
+28,https://www.indeed.fr/emplois?q=Data%20mining&l=Toulouse&radius=100&limit=100&sort=date&vjk=b0b22697d219b1b0,"Concepteur Développeur SAS H/F
+CGI Group, Inc.2,512 avis - Toulouse (31)",['Toulouse (31)'],Concepteur Développeur SAS H/F,"CGI Group, Inc.",- Toulouse (31),null,null,"CGI - il y a 11 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data mining,Toulouse,"Position Description:
+Fondé en 1976, Groupe CGI inc. est la cinquième plus importante entreprise indépendante de services en technologies de l'information et en gestion des processus d'affaires au monde. Grâce à ses quelque 74 000 professionnels, CGI offre un portefeuille complet de services, y compris des services-conseils stratégiques en informatique et en management, des services d'intégration de systèmes, de développement et de maintenance d'applications informatiques, de gestion d'infrastructures technologiques ainsi qu'une vaste gamme de solutions exclusives à des milliers de clients à l'échelle mondiale à partir de ses bureaux et centres mondiaux de prestation de services dans les Amériques, en Europe et en Asie-Pacifique. Site Web : www.cgi.com.
+
+CGI en France est le 4ème acteur indépendant en conseil et services en technologies de l'information réunissant 11 000 collaborateurs présents dans 22 villes.
+
+CGI offre un portefeuille complet de services, y compris des services-conseils stratégiques en informatique et en management, des services d'intégration de systèmes, de développement et de maintenance d'applications informatiques et de gestion d'infrastructures technologiques.
+
+Les centres d'Excellence CRM, BI (Décisionnel) et Digital Entreprise sont au service de plus de 50 clients locaux, nationaux et internationaux.
+
+Spécialisé autour des solutions CRM, BI et Digital Entreprise incontournables du marché, notre entité apporte son savoir-faire et ses retours d'expérience aux clients (Marketing Digital, Parcours de fidélisation, DMP, ETL, Data Quality, Data Mining, Big Data, progiciels de gestion intégrés, Digital Customer Experience, portails d'entreprise, CMS, mobilité, User eXperience, studio graphique et autres), en partenariat avec les principaux éditeurs du marché.
+
+Your future duties and responsibilities:
+Vous êtes passionné par le Décisionnel, le Big Data, l'analytics et avez déjà une très solide expérience sur un ou plusieurs outils de Business Intelligence et notamment SAS.
+
+Vous souhaitez diversifier vos compétences SAS pour être toujours à la pointe des nouvelles technologies et souhaitez rejoindre une entité spécialisée dans la data ( > 150 consultants BI)
+
+Consultant BI expérimenté sur SAS, vous intégrerez une équipe de collaborateurs CGI et participerez à toutes les phases de mise en œuvre d'un projet BI : de l'analyse du besoin client à la proposition et à la mise en place de la solution technique. Vous évoluerez sur des projets d'envergure, dans des environnements métiers variés avec un niveau de responsabilité élevé. Vous aurez également la possibilité de monter en compétences sur d'autres outils BI que votre domaine de compétences initial.
+
+Dans un environnement technologique accompagnant la transformation digitale de nos clients grands comptes :
+
+Intégration
+Architecture d'entreprise
+BI 2.0 / BigData
+Scrum
+Rattaché au chef de projet et en fonction de vos envies et votre expérience, vos missions principales seront les suivantes :
+
+Supporter/assister les utilisateurs/métiers dans l'utilisation de SAS et l'analyse des indicateurs fournis
+Restauration de service : suivi de production, analyse, correction des incidents, mise en place des procédures de reprises
+Rédiger les comptes rendus d'ateliers ou de réunions client
+Concevoir les solutions (études d'impacts) et les mettre en œuvre dans le respect de la satisfaction client et des engagements (budget, planning)
+Apporter des solutions innovantes et appliquées
+Etre responsable de l'élaboration et de l'application des livrables clients (dossier d'exploitation, guide d'installation et d'utilisation, dossier d'architecture applicative/technique/fonctionnelle, spécifications fonctionnelles/techniques)
+Animer la communauté : Réaliser la veille technologique sur votre domaine d'intervention, communiquer les évolutions technologiques auprès des experts de votre filière et capitaliser,
+Construire des démonstrateurs et les présenter aux clients ou aux collaborateurs.
+Fort d'une intégration réussie, de nombreuses possibilités d'évolutions de carrière s'offriront rapidement à vous, dans l'animation de la filière technique, dans le consulting de solutions SAS ou dans une fonction de Chef de Projet.
+
+Required qualifications to be successful in this role:
+Passionné de nouvelles technologies, vous aimez le travail en équipe, apprendre, partager, vous êtes également dotés d'un esprit audacieux et ambitieux.
+
+De formation Bac+3 ou Bac+5, vous justifiez impérativement d'au moins 2 ans d'expérience sur le développement SAS Linux/Unix et Windows et vous avez développé une autonomie sur cette technologie. Vous avez de préférence déjà évolué dans un contexte Agile (Scrum, DevOps, SAFe, ...). Vous justifiez également et si possible d'une pratique en tant que Consultant BI dans des projets en mode forfait.
+
+Vous avez de bonnes capacités :
+d'analyse
+technique
+d'innovation et de créativité
+de rigueur
+Vous êtes curieux, adaptable et êtes doté du sens du service ? Vous avez un bon relationnel et une réelle capacité d'adaptation? Vous maîtrisez l'anglais? Votre dynamisme, votre ambition et votre goût du challenge sont vos atouts pour réussir dans ce poste. Votre envie de transmettre vos connaissances également.
+
+Comme tous les postes de l'entreprise, ce poste est ouvert aux personnes en situation de handicap.
+
+What you can expect from us:
+Donnez un élan à votre carrière.
+
+Le secteur des technologies de l'information (TI) connaît une période extraordinaire. La transformation numérique des organisations continue de s'accélérer, et CGI est au premier plan de ce changement. Nous accompagnons nos clients dans leur démarche numérique et offrons à nos professionnels des opportunités de carrière stimulantes.
+
+La réussite de CGI repose sur le talent et l'engagement de nos professionnels. Ensemble, nous relevons les défis et partageons les bénéfices issus de la croissance de notre entreprise. Cette approche renforce notre culture d'actionnaire-propriétaire ainsi, tous nos professionnels bénéficient de la valeur que nous créons collectivement.
+
+Joignez-vous à nous pour prendre part à la croissance de l'une des plus importantes entreprises indépendantes de services en technologies de l'information (TI) et en gestion des processus d'affaires au monde.
+
+Pour en savoir davantage à propos de CGI : www.cgi.com.
+
+Les candidatures non sollicitées provenant de cabinets de recrutement ne seront pas retenues.
+
+CGI favorise l'équité en matière d'emploi."
+29,https://www.indeed.fr/emplois?q=Data%20mining&l=Toulouse&radius=100&limit=100&sort=date&vjk=d7b90ed0301834d5,"Expert ETL H/F
+CGI Group, Inc.2,512 avis - Toulouse (31)",['Toulouse (31)'],Expert ETL H/F,"CGI Group, Inc.",- Toulouse (31),null,null,"CGI - il y a 11 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data mining,Toulouse,"Position Description:
+Fondé en 1976, Groupe CGI inc. est la cinquième plus importante entreprise indépendante de services en technologies de l'information et en gestion des processus d'affaires au monde. Grâce à ses quelque 74 000 professionnels, CGI offre un portefeuille complet de services, y compris des services-conseils stratégiques en informatique et en management, des services d'intégration de systèmes, de développement et de maintenance d'applications informatiques, de gestion d'infrastructures technologiques ainsi qu'une vaste gamme de solutions exclusives à des milliers de clients à l'échelle mondiale à partir de ses bureaux et centres mondiaux de prestation de services dans les Amériques, en Europe et en Asie-Pacifique. Site Web : www.cgi.com.
+
+CGI en France est le 4ème acteur indépendant en conseil et services en technologies de l'information réunissant 11 000 collaborateurs présents dans 22 villes.
+
+CGI offre un portefeuille complet de services, y compris des services-conseils stratégiques en informatique et en management, des services d'intégration de systèmes, de développement et de maintenance d'applications informatiques et de gestion d'infrastructures technologiques.
+
+Les centres d'Excellence CRM, BI (Décisionnel) et Digital Entreprise sont au service de plus de 50 clients locaux, nationaux et internationaux.
+
+Spécialisé autour des solutions CRM, BI et Digital Entreprise incontournables du marché, notre entité apporte son savoir-faire et ses retours d'expérience aux clients (Marketing Digital, Parcours de fidélisation, DMP, ETL, Data Quality, Data Mining, Big Data, progiciels de gestion intégrés, Digital Customer Experience, portails d'entreprise, CMS, mobilité, User eXperience, studio graphique et autres), en partenariat avec les principaux éditeurs du marché.
+
+Your future duties and responsibilities:
+Vous êtes passionné par le Décisionnel, le Big Data, vous avez déjà une très solide expérience sur un ou plusieurs outils ETL et vous souhaitez œuvrer dans des contextes technologiques variés (Talend, Datastage, Informatica…)
+
+Vous souhaitez diversifier vos compétences BI pour être toujours à la pointe des nouvelles technologies et souhaitez rejoindre une entité spécialisée dans la data ( > 150 consultants BI)
+
+Vous évoluerez sur des projets d'envergure, dans des environnements métiers variés avec un niveau de responsabilité élevé. Vous aurez également la possibilité de monter en compétences sur d'autres outils BI que ceux de votre domaine de compétences initial.
+
+Votre rôle au sein du Centre d'Excellence aura de très nombreuses facettes, toutes orientées vers un seul et même objectif : Contribuer à la transformation digitale et au succès de nos clients. En tant qu'expert ETL, vous serez intégré dans un pôle de consultants spécialistes de la BI, du Big Data et de la Data Science intervenants sur des projets analytiques stimulants. Vos missions sont :
+
+Analyser, conseiller, et faire des recommandations de façon à améliorer l'efficience et l'efficacité des solutions techniques mises en place
+Travailler en collaboration avec les ingénieurs techniques et autres experts afin de rechercher et fournir des solutions
+Participer à l'élaboration et la révision de normes / documentation technique dans le cadre du projet
+Animer des formations internes et externes. Accompagner la montée en compétences des équipes
+Assurer un support technique ETL aux équipes et aux clients au quotidien
+Assurer la vieille, les orientations techniques de l'équipe en termes d'innovation ETL, de choix de solutions et d'investissements (formations, certifications, …)
+Participer aux avants ventes et à la construction des offres ETL
+Ouvrir de nouveaux comptes sur la technologie ETL
+Participer à la qualification technique de candidats en recrutement ETL
+Fort d'une intégration réussie, de nombreuses possibilités d'évolutions de carrière s'offriront rapidement à vous, dans l'animation de la filière technique, dans le consulting de solutions BI ou dans une fonction de Chef de Projet BI.
+
+Required qualifications to be successful in this role:
+Passionné d'informatique décisionnelle, vous aimez le travail en équipe, apprendre, partager, vous êtes également dotés d'un esprit audacieux et ambitieux. Vous faites preuve d'initiative et travaillez sur le long terme.
+
+Vous justifiez d'une expérience significative en tant qu'expert technique dans le domaine de l'intégration de données, avec au moins 5 ans d'expérience professionnelle au sein d'une entreprise de services numériques ou d'un cabinet de conseil. Vous justifiez également et si possible d'une pratique en tant que Consultant BI dans des projets en mode forfait.
+
+Vous disposez d'une vision large des technologies et vous maîtrisez au moins un ETL.
+
+Vous êtes curieux, adaptable et êtes doté du sens du service ? Vous avez un bon relationnel et une réelle capacité d'adaptation? Vous maîtrisez l'anglais? Votre dynamisme, votre ambition et votre goût du challenge sont vos atouts pour réussir dans ce poste. Votre envie de transmettre vos connaissances également.
+
+Comme tous les postes de l'entreprise, ce poste est ouvert aux personnes en situation de handicap.
+
+What you can expect from us:
+Donnez un élan à votre carrière.
+
+Le secteur des technologies de l'information (TI) connaît une période extraordinaire. La transformation numérique des organisations continue de s'accélérer, et CGI est au premier plan de ce changement. Nous accompagnons nos clients dans leur démarche numérique et offrons à nos professionnels des opportunités de carrière stimulantes.
+
+La réussite de CGI repose sur le talent et l'engagement de nos professionnels. Ensemble, nous relevons les défis et partageons les bénéfices issus de la croissance de notre entreprise. Cette approche renforce notre culture d'actionnaire-propriétaire ainsi, tous nos professionnels bénéficient de la valeur que nous créons collectivement.
+
+Joignez-vous à nous pour prendre part à la croissance de l'une des plus importantes entreprises indépendantes de services en technologies de l'information (TI) et en gestion des processus d'affaires au monde.
+
+Pour en savoir davantage à propos de CGI : www.cgi.com.
+
+Les candidatures non sollicitées provenant de cabinets de recrutement ne seront pas retenues.
+
+CGI favorise l'équité en matière d'emploi."
+30,https://www.indeed.fr/emplois?q=Data%20mining&l=Toulouse&radius=100&limit=100&sort=date&vjk=7681ee8a8ec7f235,"Concepteur Développeur Informatica H/F
+CGI Group, Inc.2,512 avis - Toulouse (31)",['Toulouse (31)'],Concepteur Développeur Informatica H/F,"CGI Group, Inc.",- Toulouse (31),null,null,"CGI - il y a 11 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data mining,Toulouse,"Position Description:
+Fondé en 1976, Groupe CGI inc. est la cinquième plus importante entreprise indépendante de services en technologies de l'information et en gestion des processus d'affaires au monde. Grâce à ses quelque 74 000 professionnels, CGI offre un portefeuille complet de services, y compris des services-conseils stratégiques en informatique et en management, des services d'intégration de systèmes, de développement et de maintenance d'applications informatiques, de gestion d'infrastructures technologiques ainsi qu'une vaste gamme de solutions exclusives à des milliers de clients à l'échelle mondiale à partir de ses bureaux et centres mondiaux de prestation de services dans les Amériques, en Europe et en Asie-Pacifique. Site Web : www.cgi.com.
+
+CGI en France est le 4ème acteur indépendant en conseil et services en technologies de l'information réunissant 11 000 collaborateurs présents dans 22 villes.
+
+CGI offre un portefeuille complet de services, y compris des services-conseils stratégiques en informatique et en management, des services d'intégration de systèmes, de développement et de maintenance d'applications informatiques et de gestion d'infrastructures technologiques.
+
+Les centres d'Excellence CRM, BI (Décisionnel) et Digital Entreprise sont au service de plus de 50 clients locaux, nationaux et internationaux.
+
+Spécialisé autour des solutions CRM, BI et Digital Entreprise incontournables du marché, notre entité apporte son savoir-faire et ses retours d'expérience aux clients (Marketing Digital, Parcours de fidélisation, DMP, ETL, Data Quality, Data Mining, Big Data, progiciels de gestion intégrés, Digital Customer Experience, portails d'entreprise, CMS, mobilité, User eXperience, studio graphique et autres), en partenariat avec les principaux éditeurs du marché.
+
+Your future duties and responsibilities:
+Vous êtes passionné par le Décisionnel, le Big Data, et avez déjà une très solide expérience sur un ou plusieurs outils de Business Intelligence et notamment Informatica.
+
+Vous souhaitez diversifier vos compétences BI pour être toujours à la pointe des nouvelles technologies et souhaitez rejoindre une entité spécialisée dans la data ( > 150 consultants BI)
+
+Vous souhaitez œuvrer à termes dans des contextes technologiques variés, peu présents sur les bassins locaux (Informatica, SAS, MicroStrategy, Cognos, Tableau, Datastage PX, Talend, Hadoop, Hortonworks, Kafka, …)
+
+Consultant BI expérimenté sur Informatica, vous intégrerez une équipe de collaborateurs CGI et participerez à toutes les phases de mise en œuvre d'un projet BI : de l'analyse du besoin client à la proposition et à la mise en place de la solution technique. Vous évoluerez sur des projets d'envergure, dans des environnements métiers variés avec un niveau de responsabilité élevé. Vous aurez également la possibilité de monter en compétences sur d'autres outils BI que votre domaine de compétences initial.
+
+Dans un environnement technologique accompagnant la transformation digitale de nos clients grands comptes :
+
+Intégration
+Architecture d'entreprise
+BI 2.0 / BigData
+Scrum
+Fort d'une intégration réussie, de nombreuses possibilités d'évolutions de carrière s'offriront rapidement à vous, dans l'animation de la filière technique, dans le consulting de solutions BI ou dans une fonction de Chef de Projet BI.
+
+Lors de votre intégration, rattaché au chef de projet, vos missions principales seront les suivantes:
+
+Etude et analyse de besoin
+Réaliser des estimations de charge
+Rédaction des spécifications fonctionnelles et techniques
+Réaliser des développements complexes et encadrer d'autres développeurs
+Réaliser les tests de validation avant livraison. Contrôler la qualité des livrables.
+Gérer les versions de composants et fournir les packages de livraison
+Rédiger des documents techniques (manuel technique, dossier d'exploitation, d'administration, d'installation, dossier d'architecture applicative, dossier d'architecture général, spécifications techniques détaillées, kit de normalisation et de méthodologie).
+Assurer un reporting détaillé et spontané au chef de projet
+Required qualifications to be successful in this role:
+Passionné de nouvelles technologies, vous aimez le travail en équipe, apprendre, partager, vous êtes également dotés d'un esprit audacieux et ambitieux.
+
+De formation Bac+3 ou Bac+5, vous justifiez impérativement d'au moins 2 ans d'expérience sur l'ETL INFORMATICA et vous avez développé une autonomie sur cette technologie. Vous avez de préférence déjà évolué dans un contexte Agile (Scrum, DevOps, SAFe, ...). Vous justifiez également et si possible d'une pratique en tant que Consultant BI dans des projets en mode forfait.
+
+Vous avez de bonnes capacités :
+d'analyse
+technique
+d'innovation et de créativité
+de rigueur
+Vous êtes curieux, adaptable et êtes doté du sens du service ? Vous avez un bon relationnel et une réelle capacité d'adaptation? Vous maîtrisez l'anglais? Votre dynamisme, votre ambition et votre goût du challenge sont vos atouts pour réussir dans ce poste. Votre envie de transmettre vos connaissances également.
+
+Comme tous les postes de l'entreprise, ce poste est ouvert aux personnes en situation de handicap.
+
+What you can expect from us:
+Donnez un élan à votre carrière.
+
+Le secteur des technologies de l'information (TI) connaît une période extraordinaire. La transformation numérique des organisations continue de s'accélérer, et CGI est au premier plan de ce changement. Nous accompagnons nos clients dans leur démarche numérique et offrons à nos professionnels des opportunités de carrière stimulantes.
+
+La réussite de CGI repose sur le talent et l'engagement de nos professionnels. Ensemble, nous relevons les défis et partageons les bénéfices issus de la croissance de notre entreprise. Cette approche renforce notre culture d'actionnaire-propriétaire ainsi, tous nos professionnels bénéficient de la valeur que nous créons collectivement.
+
+Joignez-vous à nous pour prendre part à la croissance de l'une des plus importantes entreprises indépendantes de services en technologies de l'information (TI) et en gestion des processus d'affaires au monde.
+
+Pour en savoir davantage à propos de CGI : www.cgi.com.
+
+Les candidatures non sollicitées provenant de cabinets de recrutement ne seront pas retenues.
+
+CGI favorise l'équité en matière d'emploi."
+31,https://www.indeed.fr/emplois?q=Data%20mining&l=Toulouse&radius=100&limit=100&sort=date&vjk=f16cf83b843bcc95,"Concepteur Développeur Power BI H/F
+CGI Group, Inc.2,512 avis - Toulouse (31)",['Toulouse (31)'],Concepteur Développeur Power BI H/F,"CGI Group, Inc.",- Toulouse (31),null,null,"CGI - il y a 11 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data mining,Toulouse,"Position Description:
+Fondé en 1976, Groupe CGI inc. est la cinquième plus importante entreprise indépendante de services en technologies de l'information et en gestion des processus d'affaires au monde. Grâce à ses quelque 74 000 professionnels, CGI offre un portefeuille complet de services, y compris des services-conseils stratégiques en informatique et en management, des services d'intégration de systèmes, de développement et de maintenance d'applications informatiques, de gestion d'infrastructures technologiques ainsi qu'une vaste gamme de solutions exclusives à des milliers de clients à l'échelle mondiale à partir de ses bureaux et centres mondiaux de prestation de services dans les Amériques, en Europe et en Asie-Pacifique. Site Web : www.cgi.com.
+
+CGI en France est le 4ème acteur indépendant en conseil et services en technologies de l'information réunissant 11 000 collaborateurs présents dans 22 villes.
+
+CGI offre un portefeuille complet de services, y compris des services-conseils stratégiques en informatique et en management, des services d'intégration de systèmes, de développement et de maintenance d'applications informatiques et de gestion d'infrastructures technologiques.
+
+Les centres d'Excellence CRM, BI (Décisionnel) et Digital Entreprise sont au service de plus de 50 clients locaux, nationaux et internationaux.
+
+Spécialisé autour des solutions CRM, BI et Digital Entreprise incontournables du marché, notre entité apporte son savoir-faire et ses retours d'expérience aux clients (Marketing Digital, Parcours de fidélisation, DMP, ETL, Data Quality, Data Mining, Big Data, progiciels de gestion intégrés, Digital Customer Experience, portails d'entreprise, CMS, mobilité, User eXperience, studio graphique et autres), en partenariat avec les principaux éditeurs du marché.
+
+Your future duties and responsibilities:
+Vous êtes passionné par le Décisionnel, le Big Data, et avez déjà une très solide expérience sur un ou plusieurs outils de Business Intelligence et notamment Power BI.
+
+Vous souhaitez diversifier vos compétences BI pour être toujours à la pointe des nouvelles technologies et souhaitez rejoindre une entité spécialisée dans la data ( > 150 consultants BI)
+
+Vous souhaitez œuvrer à termes dans des contextes technologiques variés, peu présents sur les bassins locaux (Power BI, Tableau, Qlik, MicroStrategy, Datastage PX, SAS, Cognos, Informatica, Talend, Hadoop, Hortonworks, Kafka, …)
+
+Consultant BI expérimenté sur Power BI, vous intégrerez une équipe de collaborateurs CGI et participerez à toutes les phases de mise en œuvre d'un projet BI : de l'analyse du besoin client à la proposition et à la mise en place de la solution technique. Vous évoluerez sur des projets d'envergure, dans des environnements métiers variés avec un niveau de responsabilité élevé. Vous aurez également la possibilité de monter en compétences sur d'autres outils BI que votre domaine de compétences initial.
+
+Dans un environnement technologique accompagnant la transformation digitale de nos clients grands comptes :
+
+Intégration
+Architecture d'entreprise
+BI 2.0 / BigData
+Scrum
+Rattaché au chef de projet et en fonction de vos envies et votre expérience, vos missions principales seront les suivantes :
+
+Mener les ateliers, rédiger les comptes rendus d'ateliers ou de réunions client
+Concevoir les solutions (études d'impacts) et les mettre en œuvre dans le respect de la satisfaction client et des engagements (budget, planning), maquetter pour faciliter l'adhésion des clients
+Réaliser des estimations de charge et spécifications
+Réaliser des développements complexes et encadrer d'autres développeurs
+Réaliser les tests de validation avant livraison. Contrôler la qualité des livrables.
+Gérer les versions de composants et fournir les packages de livraison
+Apporter des solutions innovantes et appliquées, connaître les différentes Viz à dispo dans l'outil et proposer au client des Viz modernes en lien avec notre studio digital
+Participer à l'animation de la communauté : Réaliser la veille technologique sur votre domaine d'intervention, communiquer les évolutions technologiques auprès des experts de votre filière et capitaliser,
+Construire des démonstrateurs et les présenter aux clients ou aux collaborateurs
+Fort d'une intégration réussie, de nombreuses possibilités d'évolutions de carrière s'offriront rapidement à vous, dans l'animation de la filière technique, dans le consulting de solutions BI ou dans une fonction de Chef de Projet BI.
+
+Required qualifications to be successful in this role:
+Passionné de nouvelles technologies, vous aimez le travail en équipe, apprendre, partager, vous êtes également dotés d'un esprit audacieux et ambitieux.
+
+De formation Bac+3 ou Bac+5, vous justifiez impérativement d'au moins 2 ans d'expérience sur Power BI et vous avez développé une autonomie sur cette technologie :
+
+Power BI,
+SSIS,
+SQL Server Agent,
+Bases de données : SQL Server, PostGreSQL, Oracle, Teradata,
+Procédures stockées
+Compétences techniques :
+Connaissance du DAX sous Power BI et des fonctionnalités avancées
+Gestion de la sécurité des données sous Power BI
+Travailler en mode Agile (Méthodologie SCRUM) ou en mode projet
+Développer et optimiser les flux SSIS
+Etre capable de pouvoir intervenir dans les phases de conception et de modélisation de l'entrepôt de données
+Support et assistance technique aux utilisateurs sous Power BI
+Mettre en œuvre les bonnes pratiques de chargement des données sous SSIS et leur utilisation au sein de Power BI
+Vous avez de préférence déjà évolué dans un contexte Agile (Scrum, DevOps, SAFe, ...). Vous justifiez également et si possible d'une pratique en tant que Consultant BI dans des projets en mode forfait.
+
+Vous avez de bonnes capacités :
+d'analyse
+technique
+d'innovation et de créativité
+de rigueur
+Vous êtes curieux, adaptable et êtes doté du sens du service ? Vous avez un bon relationnel et une réelle capacité d'adaptation? Vous maîtrisez l'anglais? Votre dynamisme, votre ambition et votre goût du challenge sont vos atouts pour réussir dans ce poste. Votre envie de transmettre vos connaissances également.
+
+Comme tous les postes de l'entreprise, ce poste est ouvert aux personnes en situation de handicap.
+
+What you can expect from us:
+Donnez un élan à votre carrière.
+
+Le secteur des technologies de l'information (TI) connaît une période extraordinaire. La transformation numérique des organisations continue de s'accélérer, et CGI est au premier plan de ce changement. Nous accompagnons nos clients dans leur démarche numérique et offrons à nos professionnels des opportunités de carrière stimulantes.
+
+La réussite de CGI repose sur le talent et l'engagement de nos professionnels. Ensemble, nous relevons les défis et partageons les bénéfices issus de la croissance de notre entreprise. Cette approche renforce notre culture d'actionnaire-propriétaire ainsi, tous nos professionnels bénéficient de la valeur que nous créons collectivement.
+
+Joignez-vous à nous pour prendre part à la croissance de l'une des plus importantes entreprises indépendantes de services en technologies de l'information (TI) et en gestion des processus d'affaires au monde.
+
+Pour en savoir davantage à propos de CGI : www.cgi.com.
+
+Les candidatures non sollicitées provenant de cabinets de recrutement ne seront pas retenues.
+
+CGI favorise l'équité en matière d'emploi."
+32,https://www.indeed.fr/emplois?q=Data%20mining&l=Toulouse&radius=100&limit=100&sort=date&vjk=0e35b2ac530f974a,"Concepteur Développeur Tableau H/F
+CGI Group, Inc.2,512 avis - Toulouse (31)",['Toulouse (31)'],Concepteur Développeur Tableau H/F,"CGI Group, Inc.",- Toulouse (31),null,null,"CGI - il y a 11 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data mining,Toulouse,"Position Description:
+Fondé en 1976, Groupe CGI inc. est la cinquième plus importante entreprise indépendante de services en technologies de l'information et en gestion des processus d'affaires au monde. Grâce à ses quelque 74 000 professionnels, CGI offre un portefeuille complet de services, y compris des services-conseils stratégiques en informatique et en management, des services d'intégration de systèmes, de développement et de maintenance d'applications informatiques, de gestion d'infrastructures technologiques ainsi qu'une vaste gamme de solutions exclusives à des milliers de clients à l'échelle mondiale à partir de ses bureaux et centres mondiaux de prestation de services dans les Amériques, en Europe et en Asie-Pacifique. Site Web : www.cgi.com.
+
+CGI en France est le 4ème acteur indépendant en conseil et services en technologies de l'information réunissant 11 000 collaborateurs présents dans 22 villes.
+
+CGI offre un portefeuille complet de services, y compris des services-conseils stratégiques en informatique et en management, des services d'intégration de systèmes, de développement et de maintenance d'applications informatiques et de gestion d'infrastructures technologiques.
+
+Les centres d'Excellence CRM, BI (Décisionnel) et Digital Entreprise sont au service de plus de 50 clients locaux, nationaux et internationaux.
+
+Spécialisé autour des solutions CRM, BI et Digital Entreprise incontournables du marché, notre entité apporte son savoir-faire et ses retours d'expérience aux clients (Marketing Digital, Parcours de fidélisation, DMP, ETL, Data Quality, Data Mining, Big Data, progiciels de gestion intégrés, Digital Customer Experience, portails d'entreprise, CMS, mobilité, User eXperience, studio graphique et autres), en partenariat avec les principaux éditeurs du marché.
+
+Your future duties and responsibilities:
+Vous êtes passionné par le Décisionnel, le Big Data, et avez déjà une très solide expérience sur un ou plusieurs outils de Business Intelligence et notamment Tableau.
+
+Vous souhaitez diversifier vos compétences BI pour être toujours à la pointe des nouvelles technologies et souhaitez rejoindre une entité spécialisée dans la data ( > 150 consultants BI)
+
+Vous souhaitez œuvrer à termes dans des contextes technologiques variés, peu présents sur les bassins locaux (Tableau,Qlik, Power BI, MicroStrategy, Datastage PX, SAS, Cognos, Informatica, Talend, Hadoop, Hortonworks, Kafka, …).
+
+Consultant BI expérimenté sur Tableau, vous intégrerez une équipe de collaborateurs CGI et participerez à toutes les phases de mise en œuvre d'un projet BI : de l'analyse du besoin client à la proposition et à la mise en place de la solution technique. Vous évoluerez sur des projets d'envergure, dans des environnements métiers variés avec un niveau de responsabilité élevé. Vous aurez également la possibilité de monter en compétences sur d'autres outils BI que votre domaine de compétences initial.
+
+Dans un environnement technologique accompagnant la transformation digitale de nos clients grands comptes :
+
+Intégration
+Architecture d'entreprise
+BI 2.0 / BigData
+Scrum
+Rattaché au chef de projet et en fonction de vos envies et votre expérience, vos missions principales seront les suivantes :
+
+Mener les ateliers, rédiger les comptes rendus d'ateliers ou de réunions client
+Concevoir les solutions (études d'impacts) et les mettre en œuvre dans le respect de la satisfaction client et des engagements (budget, planning), maquetter pour faciliter l'adhésion des clients
+Réaliser des estimations de charge et spécifications
+Réaliser des développements complexes et encadrer d'autres développeurs
+Réaliser les tests de validation avant livraison. Contrôler la qualité des livrables.
+Gérer les versions de composants et fournir les packages de livraison
+Apporter des solutions innovantes et appliquées, connaître les différentes Viz à dispo dans l'outil et proposer au client des Viz modernes en lien avec notre studio digital
+Participer à l'animation de la communauté : Réaliser la veille technologique sur votre domaine d'intervention, communiquer les évolutions technologiques auprès des experts de votre filière et capitaliser
+Construire des démonstrateurs et les présenter aux clients ou aux collaborateurs
+Fort d'une intégration réussie, de nombreuses possibilités d'évolutions de carrière s'offriront rapidement à vous, dans l'animation de la filière technique, dans le consulting de solutions BI ou dans une fonction de Chef de Projet BI.
+
+Required qualifications to be successful in this role:
+Passionné de nouvelles technologies, vous aimez le travail en équipe, apprendre, partager, vous êtes également dotés d'un esprit audacieux et ambitieux.
+
+De formation Bac+3 ou Bac+5, vous justifiez impérativement d'au moins 2 ans d'expérience sur Tableau et vous avez développé une autonomie sur cette technologie : Tableau Desktop, Tableau Online et/ou Tableau Server
+
+Compétences techniques :
+Connaissance de la modélisation sur Tableau (source de données)
+Réalisation de tableaux de bord et utilisation des fonctionnalités avancées (création de champs calculés complexes, d'actions sur les tableaux de bord, utilisation d'ensembles, de paramètres)
+Participation à des phases de performance et optimisation
+Rédaction de spécifications fonctionnelles et/ou techniques détaillées
+Estimation des charges et étude des besoins clients (maquettages, POC, ateliers)
+Support et assistance technique aux utilisateurs
+Administration : Connaissance de l'administration de Tableau Online et /ou Tableau Serveur (Paramétrage des connexions, des users, des projets, des extraits)
+Vous avez de préférence déjà évolué dans un contexte Agile (Scrum, DevOps, SAFe, ...). Vous justifiez également et si possible d'une pratique en tant que Consultant BI dans des projets en mode forfait.
+
+Vous avez de bonnes capacités :
+d'analyse
+technique
+d'innovation et de créativité
+de rigueur
+Vous êtes curieux, adaptable et êtes doté du sens du service ? Vous avez un bon relationnel et une réelle capacité d'adaptation? Vous maîtrisez l'anglais? Votre dynamisme, votre ambition et votre goût du challenge sont vos atouts pour réussir dans ce poste. Votre envie de transmettre vos connaissances également.
+
+Comme tous les postes de l'entreprise, ce poste est ouvert aux personnes en situation de handicap.
+
+Skills:
+Big Data
+What you can expect from us:
+Donnez un élan à votre carrière.
+
+Le secteur des technologies de l'information (TI) connaît une période extraordinaire. La transformation numérique des organisations continue de s'accélérer, et CGI est au premier plan de ce changement. Nous accompagnons nos clients dans leur démarche numérique et offrons à nos professionnels des opportunités de carrière stimulantes.
+
+La réussite de CGI repose sur le talent et l'engagement de nos professionnels. Ensemble, nous relevons les défis et partageons les bénéfices issus de la croissance de notre entreprise. Cette approche renforce notre culture d'actionnaire-propriétaire ainsi, tous nos professionnels bénéficient de la valeur que nous créons collectivement.
+
+Joignez-vous à nous pour prendre part à la croissance de l'une des plus importantes entreprises indépendantes de services en technologies de l'information (TI) et en gestion des processus d'affaires au monde.
+
+Pour en savoir davantage à propos de CGI : www.cgi.com.
+
+Les candidatures non sollicitées provenant de cabinets de recrutement ne seront pas retenues.
+
+CGI favorise l'équité en matière d'emploi."
+33,https://www.indeed.fr/emplois?q=Data%20mining&l=Toulouse&radius=100&limit=100&sort=date&vjk=2f963adf28b3d2f1,"Ingénieur développement Angular H/F
+CGI Group, Inc. - Toulouse (31)",['Toulouse (31)'],Ingénieur développement Angular H/F,"CGI Group, Inc.",- Toulouse (31),null,null,"CGI - il y a 11 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data mining,Toulouse,"Position Description:
+Fondé en 1976, Groupe CGI inc. est la cinquième plus importante entreprise indépendante de services en technologies de l'information et en gestion des processus d'affaires au monde. Grâce à ses quelque 74 000 professionnels, CGI offre un portefeuille complet de services, y compris des services-conseils stratégiques en informatique et en management, des services d'intégration de systèmes, de développement et de maintenance d'applications informatiques, de gestion d'infrastructures technologiques ainsi qu'une vaste gamme de solutions exclusives à des milliers de clients à l'échelle mondiale à partir de ses bureaux et centres mondiaux de prestation de services dans les Amériques, en Europe et en Asie-Pacifique. Site Web : www.cgi.com.
+
+CGI en France est le 4ème acteur indépendant en conseil et services en technologies de l'information réunissant 11 000 collaborateurs présents dans 22 villes.
+
+CGI offre un portefeuille complet de services, y compris des services-conseils stratégiques en informatique et en management, des services d'intégration de systèmes, de développement et de maintenance d'applications informatiques et de gestion d'infrastructures technologiques.
+
+Les centres d'Excellence CRM, BI (Décisionnel) et Digital Entreprise sont au service de plus de 50 clients locaux, nationaux et internationaux.
+
+Spécialisé autour des solutions CRM, BI et Digital Entreprise incontournables du marché, notre entité apporte son savoir-faire et ses retours d'expérience aux clients (Marketing Digital, Parcours de fidélisation, DMP, ETL, Data Quality, Data Mining, Big Data, progiciels de gestion intégrés, Digital Customer Experience, portails d'entreprise, CMS, mobilité, User eXperience, studio graphique et autres), en partenariat avec les principaux éditeurs du marché.
+
+Your future duties and responsibilities:
+Rattaché au chef de projet et Intégré au sein d'une équipe projet, vous participerez aux étapes suivantes du projet :
+
+Conception détaillée,
+Réalisation, développements,
+Tests unitaires et intégration,
+Mise à jour de la documentation technique
+Application des normes qualité
+Environnement technique : Eclipse, GIT, Java, J2EE, intégration HTML5 / CSS3, JavaScript (JQuery, Angular JS), frameworks Bootstrap et Less, webservices (REST, JSON), outils d'intégration continue (Jenkins), Linux, Apache
+
+Required qualifications to be successful in this role:
+De formation Bac+5 en informatique, vous justifiez d'une première expérience professionnelle ou stage dans le développement et la conception d'applications Portails ou Angular.
+
+Vous êtes capable de lire et écrire de la documentation technique en langue anglaise et comprenez les besoins du client.
+
+Vous faites preuve de rigueur, de motivation et d'esprit d'équipe.
+
+Comme tous les postes de l'entreprise, ce poste est ouvert aux personnes en situation de handicap.
+
+What you can expect from us:
+Donnez un élan à votre carrière.
+
+Le secteur des technologies de l'information (TI) connaît une période extraordinaire. La transformation numérique des organisations continue de s'accélérer, et CGI est au premier plan de ce changement. Nous accompagnons nos clients dans leur démarche numérique et offrons à nos professionnels des opportunités de carrière stimulantes.
+
+La réussite de CGI repose sur le talent et l'engagement de nos professionnels. Ensemble, nous relevons les défis et partageons les bénéfices issus de la croissance de notre entreprise. Cette approche renforce notre culture d'actionnaire-propriétaire ainsi, tous nos professionnels bénéficient de la valeur que nous créons collectivement.
+
+Joignez-vous à nous pour prendre part à la croissance de l'une des plus importantes entreprises indépendantes de services en technologies de l'information (TI) et en gestion des processus d'affaires au monde.
+
+Pour en savoir davantage à propos de CGI : www.cgi.com.
+
+Les candidatures non sollicitées provenant de cabinets de recrutement ne seront pas retenues.
+
+CGI favorise l'équité en matière d'emploi."
+34,https://www.indeed.fr/emplois?q=Data%20mining&l=Toulouse&radius=100&limit=100&sort=date&vjk=4868ba51e394ce13,"Ingénieur développement Drupal H/F
+CGI Group, Inc.2,512 avis - Toulouse (31)",['Toulouse (31)'],Ingénieur développement Drupal H/F,"CGI Group, Inc.",- Toulouse (31),null,null,"CGI - il y a 11 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data mining,Toulouse,"Position Description:
+Fondé en 1976, Groupe CGI inc. est la cinquième plus importante entreprise indépendante de services en technologies de l'information et en gestion des processus d'affaires au monde. Grâce à ses quelque 74 000 professionnels, CGI offre un portefeuille complet de services, y compris des services-conseils stratégiques en informatique et en management, des services d'intégration de systèmes, de développement et de maintenance d'applications informatiques, de gestion d'infrastructures technologiques ainsi qu'une vaste gamme de solutions exclusives à des milliers de clients à l'échelle mondiale à partir de ses bureaux et centres mondiaux de prestation de services dans les Amériques, en Europe et en Asie-Pacifique. Site Web : www.cgi.com.
+
+CGI en France est le 4ème acteur indépendant en conseil et services en technologies de l'information réunissant 11 000 collaborateurs présents dans 22 villes.
+
+CGI offre un portefeuille complet de services, y compris des services-conseils stratégiques en informatique et en management, des services d'intégration de systèmes, de développement et de maintenance d'applications informatiques et de gestion d'infrastructures technologiques.
+
+Les centres d'Excellence CRM, BI (Décisionnel) et Digital Entreprise sont au service de plus de 50 clients locaux, nationaux et internationaux.
+
+Spécialisé autour des solutions CRM, BI et Digital Entreprise incontournables du marché, notre entité apporte son savoir-faire et ses retours d'expérience aux clients (Marketing Digital, Parcours de fidélisation, DMP, ETL, Data Quality, Data Mining, Big Data, progiciels de gestion intégrés, Digital Customer Experience, portails d'entreprise, CMS, mobilité, User eXperience, studio graphique et autres), en partenariat avec les principaux éditeurs du marché.
+
+Your future duties and responsibilities:
+Rattaché au chef de projet et Intégré au sein d'une équipe projet, vous participerez aux étapes suivantes du projet :
+
+Conception détaillée,
+Réalisation, développements,
+Tests unitaires et intégration,
+Mise à jour de la documentation technique
+Application des normes qualité
+Environnement technique : Eclipse, GIT, Linux, MySQL, PHP5, Drupal 7 (+ différents modules), HTML5, CSS3, JavaScript (JQuery, Angular JS), webservices (REST, JSON), outils d'intégration continue (Jenkins)
+
+Required qualifications to be successful in this role:
+De formation Bac+5 en informatique, vous justifiez d'une première expérience professionnelle ou stage dans le développement et la conception d'applications Portails ou Drupal.
+
+Vous êtes capable de lire et écrire de la documentation technique en langue anglaise et comprenez les besoins du client.
+
+Vous faites preuve de rigueur, de motivation et d'esprit d'équipe.
+
+Comme tous les postes de l'entreprise, ce poste est ouvert aux personnes en situation de handicap.
+
+What you can expect from us:
+Donnez un élan à votre carrière.
+
+Le secteur des technologies de l'information (TI) connaît une période extraordinaire. La transformation numérique des organisations continue de s'accélérer, et CGI est au premier plan de ce changement. Nous accompagnons nos clients dans leur démarche numérique et offrons à nos professionnels des opportunités de carrière stimulantes.
+
+La réussite de CGI repose sur le talent et l'engagement de nos professionnels. Ensemble, nous relevons les défis et partageons les bénéfices issus de la croissance de notre entreprise. Cette approche renforce notre culture d'actionnaire-propriétaire ainsi, tous nos professionnels bénéficient de la valeur que nous créons collectivement.
+
+Joignez-vous à nous pour prendre part à la croissance de l'une des plus importantes entreprises indépendantes de services en technologies de l'information (TI) et en gestion des processus d'affaires au monde.
+
+Pour en savoir davantage à propos de CGI : www.cgi.com.
+
+Les candidatures non sollicitées provenant de cabinets de recrutement ne seront pas retenues.
+
+CGI favorise l'équité en matière d'emploi."
+35,https://www.indeed.fr/emplois?q=Data%20mining&l=Toulouse&radius=100&limit=100&sort=date&vjk=9fb85eb6ed35ee38,"Concepteur Développeur SalesForce Marketing Cloud H/F
+CGI Group, Inc.2,512 avis - Toulouse (31)",['Toulouse (31)'],Concepteur Développeur SalesForce Marketing Cloud H/F,"CGI Group, Inc.",- Toulouse (31),null,null,"CGI - il y a 11 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data mining,Toulouse,"Position Description:
+Fondé en 1976, Groupe CGI inc. est la cinquième plus importante entreprise indépendante de services en technologies de l'information et en gestion des processus d'affaires au monde. Grâce à ses quelque 74 000 professionnels, CGI offre un portefeuille complet de services, y compris des services-conseils stratégiques en informatique et en management, des services d'intégration de systèmes, de développement et de maintenance d'applications informatiques, de gestion d'infrastructures technologiques ainsi qu'une vaste gamme de solutions exclusives à des milliers de clients à l'échelle mondiale à partir de ses bureaux et centres mondiaux de prestation de services dans les Amériques, en Europe et en Asie-Pacifique. Site Web : www.cgi.com.
+
+CGI en France est le 4ème acteur indépendant en conseil et services en technologies de l'information réunissant 11 000 collaborateurs présents dans 22 villes.
+
+CGI offre un portefeuille complet de services, y compris des services-conseils stratégiques en informatique et en management, des services d'intégration de systèmes, de développement et de maintenance d'applications informatiques et de gestion d'infrastructures technologiques.
+
+Les centres d'Excellence CRM, BI (Décisionnel) et Digital Entreprise sont au service de plus de 50 clients locaux, nationaux et internationaux.
+
+Spécialisé autour des solutions CRM, BI et Digital Entreprise incontournables du marché, notre entité apporte son savoir-faire et ses retours d'expérience aux clients (Marketing Digital, Parcours de fidélisation, DMP, ETL, Data Quality, Data Mining, Big Data, progiciels de gestion intégrés, Digital Customer Experience, portails d'entreprise, CMS, mobilité, User eXperience, studio graphique et autres), en partenariat avec les principaux éditeurs du marché.
+
+Your future duties and responsibilities:
+Vous êtes passionné par le Marketing, et avez déjà une très solide expérience sur un ou plusieurs outils de gestion de campagnes marketing et notamment SalesForce Marketing Cloud.
+
+Vous souhaitez diversifier vos compétences pour être toujours à la pointe des nouvelles technologies et souhaitez rejoindre une entité spécialisée dans le CRM et le Marketing ( > 150 consultants)
+
+Vous souhaitez œuvrer à termes dans des contextes technologiques variés, peu présents sur les bassins locaux (SalesForce Marketing Cloud , Adobe Campaign, Unica, Pardot, SAS CI, …)
+
+Consultant Marketing expérimenté sur SalesForce Marketing Cloud, vous intégrerez une équipe de collaborateurs CGI et participerez à toutes les phases de mise en œuvre d'un projet de Maketing Automation : de l'analyse du besoin client à la proposition et à la mise en place de la solution technique. Vous évoluerez sur des projets d'envergure, dans des environnements métiers variés avec un niveau de responsabilité élevé. Vous aurez également la possibilité de monter en compétences sur d'autres outils Marketing que votre domaine de compétences initial.
+
+Dans un environnement technologique accompagnant la transformation digitale de nos clients grands comptes :
+
+Intégration
+Architecture d'entreprise
+BI 2.0 / BigData
+Scrum
+Fort d'une intégration réussie, de nombreuses possibilités d'évolutions de carrière s'offriront rapidement à vous, dans l'animation de la filière technique des solutions Marketing, dans le consulting de solutions Marketing ou dans une fonction de Chef de Projet.
+
+Lors de votre intégration, rattaché au chef de projet, vos missions principales seront les suivantes :
+
+Recueil des besoins auprès des équipes métiers marketing,
+Développements de nouvelles fonctionnalités,
+Paramétrage / Tests / Recettes,
+Réaliser la veille technologique sur votre domaine d'intervention,
+Communiquer les évolutions technologiques auprès des experts de votre filière et capitaliser,
+Gérer le cadre de votre mission, le faire évoluer,
+Apporter des solutions novatrices et pragmatiques,
+Détecter les opportunités,
+Participer aux propositions commerciales.
+Required qualifications to be successful in this role:
+Passionné de technologies digitales et de marketing, vous aimez le travail en équipe, apprendre, partager, vous êtes également dotés d'un esprit audacieux et ambitieux.
+
+De formation Bac+3 ou Bac+5, vous justifiez impérativement d'au moins 3 ans d'expérience sur SalesForce Marketing Cloud et vous avez développé une autonomie sur cette technologie. Vous avez de préférence déjà évolué dans un contexte Agile (Scrum, DevOps, SAFe, ...). Vous justifiez également et si possible d'une pratique en tant que Consultant solutions Marketing dans des projets en mode forfait.
+
+Vous avez de bonnes capacités :
+d'analyse
+technique
+d'innovation et de créativité
+de rigueur
+Vous êtes curieux, adaptable et êtes doté du sens du service ? Vous avez un bon relationnel et une réelle capacité d'adaptation? Vous maîtrisez l'anglais? Votre dynamisme, votre ambition et votre goût du challenge sont vos atouts pour réussir dans ce poste. Votre envie de transmettre vos connaissances également.
+
+Comme tous les postes de l'entreprise, ce poste est ouvert aux personnes en situation de handicap.
+
+What you can expect from us:
+Donnez un élan à votre carrière.
+
+Le secteur des technologies de l'information (TI) connaît une période extraordinaire. La transformation numérique des organisations continue de s'accélérer, et CGI est au premier plan de ce changement. Nous accompagnons nos clients dans leur démarche numérique et offrons à nos professionnels des opportunités de carrière stimulantes.
+
+La réussite de CGI repose sur le talent et l'engagement de nos professionnels. Ensemble, nous relevons les défis et partageons les bénéfices issus de la croissance de notre entreprise. Cette approche renforce notre culture d'actionnaire-propriétaire ainsi, tous nos professionnels bénéficient de la valeur que nous créons collectivement.
+
+Joignez-vous à nous pour prendre part à la croissance de l'une des plus importantes entreprises indépendantes de services en technologies de l'information (TI) et en gestion des processus d'affaires au monde.
+
+Pour en savoir davantage à propos de CGI : www.cgi.com.
+
+Les candidatures non sollicitées provenant de cabinets de recrutement ne seront pas retenues.
+
+CGI favorise l'équité en matière d'emploi."
+36,https://www.indeed.fr/emplois?q=Data%20mining&l=Toulouse&radius=100&limit=100&sort=date&vjk=89b76795f186c651&advn=545962729116985,"Stage développeur Big Data
+Paarly - Toulouse (31)","['Toulouse (31)', 'Stage']",Stage développeur Big Data,Paarly,- Toulouse (31),Stage,null,"il y a 11 mois
+Signaler cette offre d'emploi",Data mining,Toulouse,"La société :
+PAARLY est une start-up montante du web, un acteur majeur de la veille concurrentielle.
+La société connaît un fort développement en France et à l’international (Etats-Unis, Angleterre, Allemagne, Italie, Emirats Arabes Unis, Hollande, Portugal…)
+Nous comptons parmi nos clientsdes acteursde premier plan.Parmi les 100 premiers acteurs de la vente en ligne en Europe, plus de 20% utilisent déjà les solutions de la société PAARLY.
+Nous recherchons dès janvier 2016 2 stagiaires Développeurs Big Data revêtant les caractéristiques suivantes :
+Poste et missions
+Sous la responsabilité du Directeur Technique, vous aurez pour mission de :
+Développer de nouvelles fonctionnalités sur l’existant,
+Développer de nouvelles applications de Business Intelligence
+Contribuer aux réflexions fonctionnelles et d’architecture
+Environnement technique :
+Big data
+Machine learning
+Data mining
+No sql, Mongo DB, Hadoop
+Reconnaissance d’objets et analyses d’images
+Intelligence Artificielle
+connaissance des langages du Web : HTML / JavaScript / Php / Symfony 2
+Java (Eclipse), Python,
+Programmation algorithmique
+Linux Debian
+Profil recherché :
+De formation école d’Ingénieurs ou Universitaires, Bac+4/5, vous cherchez une année de césure ou un stage long intéressant, vous souhaitez vous investir dans un projet technique exigeant et de dimension internationale qui vous permettra d'évoluer rapidement.
+La pratique de l’anglais serait un plus.
+Rémunération: Selon profil.
+Convention de stage: Oui
+Postuler : Modalités : CV + lettre de motivation
+Type d'emploi : Temps plein, Stage
+Type d'emploi : Stage
+Langue:
+Anglais (Requis)"
+37,https://www.indeed.fr/emplois?q=Data%20mining&l=Toulouse&radius=100&limit=100&sort=date&vjk=0525f493bb648ad3&advn=7736870941523477,"INGÉNIEUR DATA SCIENTIST EXPÉRIMENTÉ (H/F)
+sii39 avis - Toulouse (31)",['Toulouse (31)'],INGÉNIEUR DATA SCIENTIST EXPÉRIMENTÉ (H/F),sii,- Toulouse (31),null,null,"JobinTree - il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data mining,Toulouse,"Description du poste :
+rattaché(e) au département aéronautique, vous serez intégré(e) au sein d'une équipe de data scientists en pleine expansion. vous accompagnerez les équipes techniques dans la valorisation de leurs activités avec des solutions orientées big data.
+
+vos principales tâches seront de mener des projets de data science autour des axes suivants:
+
+collecter, comprendre, analyser, intégrer et explorer des données volumineuses et variées. proposer des améliorations pour enrichir l'information disponible et son utilisation.
+réalisation d'un état de l'art des solutions possibles.
+accompagner les équipes métiers à travers la réalisation de cas d'usages autour de la donnée en utilisant les techniques de machine learning.
+promouvoir ses études, travaux et résultats auprès de l'entreprise
+Description de l'entreprise :
+dynamisme, confiance, innovation et autonomie sont nos leitmotivs !
+
+intégrer sii sud-ouest (800 collaborateurs), c'est travailler sur des sujets innovants avec des #fungénieurs créatifs. pour nous, la proximité avec nos collaborateurs est une de nos priorités.
+
+pour accompagner votre carrière, nous vous proposons d'être membre d'une communauté technique correspondant à vos centres d'intérêts : «big data», «front-end ihm», «back end – architecture logicielle», «sécurité, architecture technique, devops », «aéronautique» ou «simulation, modélisation».
+
+n'attendez plus, rejoignez le mouvement #fungénieur : bien plus qu'un métier, une philosophie !
+
+Profil recherché :
+profil
+
+vous êtes issu(e) d'un parcours bac+5 en université ou école d'ingénieur dans le domaine des data sciences.
+
+vous justifiez d'une expérience d'au moins 2 ans en data sciences dans un environnement industriel ou laboratoire.
+
+des connaissances du milieu aéronautique constituent un plus.
+
+compétences techniques
+
+le(la) candidat(e) idéal(e) dispose de compétences ou notions sur les techniques suivantes:
+
+algorithmes de data mining
+algorithmes de machine learning supervisés ou non tels que decision tree, random forest, svm, neural network ...
+langage de programmation orienté data science tels que r ou python
+intelligence artificielle
+vous êtes autonome, proactif(ve) et rigoureux(se). vous aimez le travail en équipe. vous disposez de la pédagogie nécessaire pour expliquer et vulgariser vos travaux auprès d'interlocuteurs métier."
+38,https://www.indeed.fr/emplois?q=Data%20mining&l=Toulouse&radius=100&limit=100&sort=date&vjk=f6c6c3e07b43f560&advn=7380969340197789,"Stage - Ingénieur(e) informatique industriel H/F
+Expleo4 avis - Toulouse (31)","['Toulouse (31)', 'Stage']",Stage - Ingénieur(e) informatique industriel H/F,Expleo,- Toulouse (31),Stage,null,"il y a 4 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data mining,Toulouse,"Electronique / Systèmes Embarqués
+Midi-Pyrénées - ToulouseStage
+2019-2461
+Qui sommes-nous ?
+Expleo propose une offre unique de services intégrés d'ingénierie, qualité et conseil stratégique pour la transformation digitale. Dans un contexte d'accélération technologique sans précédent, nous sommes le partenaire de confiance des entreprises qui innovent.
+Expleo est présent dans tous les secteurs à forte intensité technologique qui contribuent à une société plus connectée, plus durable et plus sûre. Nous nous appuyons sur une forte expertise sectorielle et accompagnons nos clients sur l'ensemble de la chaîne de valeur : conseil et business agility, conception, production et services post développement, management de la qualité.
+Nos 15 000 collaborateurs interviennent dans plus de 25 pays et nous avons réalisé un chiffre d'affaires de 1,1 milliard d'euros en 2018.
+
+Votre future mission
+Nous aimons le challenge, la relation client et l’éclectisme. Notre détermination est d’être précurseur et non seulement « up to date ».
+
+Nous sommes en permanence à la recherche de nouvelles opportunités et marchés tout en renforçant notre équipe locale et humaine de développeurs. Ces valeurs vous parlent ?
+
+En tant que futur développeur de logiciels banc d’essais, votre stage vous permettra d’apprendre à :
+
+accompagner un client dans le développement d’une solution de gestion d’entreprise sous LabVIEW et MySQL, en utilisant la méthodologie Agile,
+partager votre expérience, votre retour d’expérience avec l’équipe sur l’utilisation de la méthode Agile,
+évaluer les nouvelles capacités offerte par LabVIEW NXG (interface web, …) et l’effort de migration nécessaire à nos outils et produits,
+mettre en place un POC pour initier la réflexion autour du produit SystemLink de NI, en interaction avec l’équipe big data / data mining.
+Ce qui vous différencie
+Vous êtes en formation en informatique industrielle et instrumentation. Vous êtes intéressés par l’approche système / process et avez gout au développement de systèmes de supervision et pilotage. Vous êtes capable de collaborer avec les ingénieurs d’autres spécialités.
+
+Curieux et ayant le goût du challenge, vous disposez d'un bon relationnel, êtes adaptable, autonome et rigoureux. Vous aimez les réalisations techniques poussées.
+
+Nous vous attendons dans nos équipes pour vous épanouir sur nos différents projets et développer vos compétences.
+
+Votre carrière est notre enjeu ! À vous d'inventer votre parcours avec vos idées et votre personnalité. Aucune voie n'est tracée ou figée. Suivez et réalisez-la vôtre !
+
+Partager cette offre
+
+postuler à cette offre"

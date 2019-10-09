@@ -1,0 +1,1748 @@
+,id,meta1,meta2,titre_poste,entreprise,localisation,contrat,salaire,date_publication,keyword_metier,keyword_localisation,description
+0,https://www.indeed.fr/emplois?q=Cyber%20Securit%C3%A9&l=Nantes&radius=100&limit=100&sort=date&vjk=5a7437489f471f6c,null,[],null,null,null,null,null,null,Cyber Securité,Nantes,null
+1,https://www.indeed.fr/emplois?q=Cyber%20Securit%C3%A9&l=Nantes&radius=100&limit=100&sort=date&vjk=7507cdf839b0d342,"Stage Architecture Big Data
+Airbus1,454 avis - Rennes (35)
+Temps plein, Stage",[],Stage Architecture Big Data,Airbus,- Rennes (35),null,null,"il y a 4 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Cyber Securité,Nantes,"Airbus Cybersecurity SAS
+Airbus is a global leader in aeronautics, space and related services. In 2018 it generated revenues of € 64 billion and employed a workforce of around 134,000. Airbus offers the most comprehensive range of passenger airliners. Airbus is also a European leader providing tanker, combat, transport and mission aircraft, as well as one of the world's leading space companies. In helicopters, Airbus provides the most efficient civil and military rotorcraft solutions worldwide.
+
+Our people work with passion and determination to make the world a more connected, safer and smarter place. Taking pride in our work, we draw on each other's expertise and experience to achieve excellence. Our diversity and teamwork culture propel us to accomplish the extraordinary - on the ground, in the sky and in space.
+Job Description
+Une offre de stage/apprentissage de (h/f) vient de s'ouvrir au sein d’Airbus Cyber Security à Rennes.
+La cybersécurité d’un système d’information repose, en partie, sur sa supervision réalisée grâce à des sondes de détection d’intrusion (IDS) qui surveillent les activités réseau (Network IDS) ou système (Host IDS) sans faire les deux simultanément, leur utilisation devant être complétée par celle d’un Security Information and Events Manager (SIEM) capable de croiser les informations provenant de sources hétérogènes. Ces outils (IDS, SIEM) sont les briques essentielles qui constituent un Security Operation Center (SOC) en charge de la coordination des capacités de détection et de réponse aux cyberattaques mais sont limités par l’usage de règles fixes. La tendance actuelle vise à élargir le spectre des données collectées qui seront traitées par des outils d’analyse comportementale (UEBA).
+Au vu de la diversité des protocoles et du volume de données devant être traitées, la surveillance est une tâche complexe qui doit s’appuyer sur de nombreux outils d’acquisition, de traitement et de stockage de données. De nombreuses initiatives open source existent (ElasticSearch, Hadoop, Kafka, Metron…) mais leur efficience dans un contexte opérationnel n’a pas encore été éprouvée.
+Au sein d’Airbus Cybersecurity, vous intégrerez l’équipe Cyberdéfense en tant que stagiaire. Cette équipe a pour mission d’assurer la mise en place et l’opération des capacités Cyberdéfense (supervision, réponse à incident).
+Ce stage commencera le (Date sujette à flexibilité) 1er mars 2020 et sera d’une durée de 6 mois.
+Ce poste nécessite une habilitation de sécurité ou nécessite d'être éligible à une habilitation par les autorités reconnues.
+Tâches et responsabilités :
+Le stage proposé a pour objectif majeur la mise en place d’un SOC (détection, conduite, réaction) en s’appuyant des outils open-sources.
+Vous serez responsable des activités principales suivantes :
+S’approprier le mode de fonctionnement d’un SOC et identifier ses besoins ;
+Effectuer un état de l’art comparatif, documenté, des différents composants open-source disponibles pour les besoins identifiés ;
+Mettre en œuvre le SOC avec les composants sélectionnés dans un environnement virtualisé ;
+Confronter les briques du SOC à un contexte opérationnel réaliste et évaluer leur pertinence ;
+Rédiger un rapport d’état de l’art et les documentations d’exploitation du SOC déployé ;
+Travailler en équipe.
+Ce stage vous permettra d’acquérir une bonne connaissance de l’entreprise et de ses processus et par conséquent, d’avoir une meilleure compréhension favorisant votre futur développement. Il vous permettra en particulier d’approcher les différentes phases d’un projet cyber au sein d’une équipe dynamique.
+Compétences requises
+Vous avez les expériences et les compétences suivantes :
+Niveau d’étude : Bac+5 ;
+Connaissance de l’écosystème libre et open source ;
+Bonne maîtrise de l’environnement Linux (Shell, etc.) ;
+Connaissances des composants logiciels de cyberdéfense (IDS, SIEM, etc.) ;
+Une expérience d’administration système ou en technologies Big Data (Kafka, Hadoop, Elastic…) est un plus ;
+Travail en équipe
+Anglais lu requis
+Un esprit de synthèse et de bonnes capacités rédactionnelles sont attendus. Dynamique, doté d'un excellent relationnel, passionné(e) par votre métier et avec le goût du service vous montrez un intérêt pour monter en compétences dans un domaine non maîtrisé.
+
+This job requires an awareness of any potential compliance risks and a commitment to act with integrity, as the foundation for the Company’s success, reputation and sustainable growth.
+
+By submitting your CV or application you are consenting to Airbus using and storing information about you for monitoring purposes relating to your application or future employment. This information will only be used by Airbus.
+Airbus is committed to achieving workforce diversity and creating an inclusive working environment. We welcome all applications irrespective of social and cultural background, age, gender, disability, sexual orientation or religious belief."
+2,https://www.indeed.fr/emplois?q=Cyber%20Securit%C3%A9&l=Nantes&radius=100&limit=100&sort=date&vjk=5f737e5dda3dd7c1,"Assistant de direction (H/F)
+Groupe Partnaire57 avis - Cholet (49)",[],Assistant de direction (H/F),Groupe Partnaire,- Cholet (49),null,null,"il y a 6 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Cyber Securité,Nantes,"PARTNAIRE CHOLET recrute pour son client, groupe leader et spécialisé d'électronique dans l'aérospatiale, la défense, la sécurité et le transport terrestre, basé à Cholet:
+
+Assistant de direction H/F
+
+Rattaché(e) à la direction, vous prendrez pleinement possession de votre rôle sur notre site Thales Cholet au sein du département OIC (Opération Informatique & Cyber sécurité).
+
+Le périmètre confié traite ~80 collaborateurs. Pour ce poste, nous attendons de vous que vous soyez en capacité de :
+
+Assurer l'accueil et le suivi des collaborateurs, dans leurs projets et leurs missions
+Assurer le suivi administratif du Centre de Services
+Assurer la tenue des organigrammes (Publication et diffusion de documents)
+Support sur la gestion des ordres de mission et des notes de frais des collaborateurs
+Faire partie de l'équipe community management (publication Intranet OIC, Room Citadel)
+Apporter un soutien aux managers des centres de services dans l'organisation d'évènement d'équipe (séminaires internes ou externes, évènements, etc.).
+
+Vous voulez travailler dans un monde en mouvement, et ne jamais vous ennuyer?
+N'attendez-plus, postulez !
+
+Poste à temps à temps partiel
+Profil souhaité
+De formation BAC+2, vous avez une première expérience réussie d’assistante de département, idéalement dans le monde du service.
+Vous avez une grande écoute et une appétence pour le travail d’équipe.
+Vous êtes rigoureux dans les taches qui vous sont confiées.
+Vous savez créer un esprit d’équipe.
+Vous avez une bonne connaissance du pack office et du web.
+Formations souhaitées
+BAC +2"
+3,https://www.indeed.fr/emplois?q=Cyber%20Securit%C3%A9&l=Nantes&radius=100&limit=100&sort=date&vjk=6cfaaf30967ca854,null,[],Consultant cybersécurité / Gouvernance - H/F,Seyos,- Nantes (44),null,null,"il y a 6 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Cyber Securité,Nantes,"Seyos est un cabinet de recrutement spécialisé dans les métiers de l'IT. Nous proposons aux candidats des opportunités professionnelles uniquement au sein de clients finaux : éditeurs de logiciels, startups, DSI.
+
+Notre client est une société de conseils et d'audit en cybersécurité présente à Nantes, Paris et Sophia-Antipolis. Dans le cadre du développement de leur agence de Nantes, il recrute un(e) Consultant cybersécurité - Gouvernance.
+
+Missions :
+Analyse de risque (référentiels 27005, 27001, EBIOS)
+Accompagnement à la mise en place d'un Système de Gestion de Management de la Sécurité de l'Information
+Accompagnement à la certification PCI DSS
+Rédaction de Politique de Sécurité du SI, chartes informatiques
+Cartographie des données à caractère personnel, analyse des retraitements associés en lien avec le RGPD et conseil dans les projets de ""Privacy by design""
+Analyse des impacts métiers de la rupture d'activité et définition des processus de reprise d'activité
+Organisation et pilotage des exercices de Cyber Crises
+Des déplacements dans le Grand Ouest seront à prévoir.
+Rémunération : 45 000 - 60 000 Euros selon profil.
+
+Profil :
+Vous êtes diplômé(e) d'un bac +5 et bénéficiez d'une première expérience en cybersécurité, développement ou infra. Notre client met un point d'honneur à la bonne intégration et formation de ses collaborateurs notamment grâce au suivi apporté par les consultants séniors.
+
+Les + :
+Tickets restaurants
+Mutuelle d'entreprise
+Nombreuses formations
+Equipe à taille humaine
+Société experte dans son domaine, travaille avec 50% des entreprises du CAC 40
+Remboursement des frais kilométriques"
+4,https://www.indeed.fr/emplois?q=Cyber%20Securit%C3%A9&l=Nantes&radius=100&limit=100&sort=date&vjk=32848ddd3bda9eb3,"Stage Ingénieur Systèmes Sécurité F/H
+Thales Group1,222 avis - Cholet (49)
+Stage",[],Stage Ingénieur Systèmes Sécurité F/H,Thales Group,- Cholet (49),null,null,"Thales - il y a 12 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Cyber Securité,Nantes,"QUI SOMMES-NOUS ?
+Thales propose des systèmes d’information et de communication sécurisés et interopérables pour les forces armées, les forces de sécurité et les opérateurs d’importance vitale. Ces activités, qui regroupent radiocommunications, réseaux, systèmes de protection, systèmes d’information critiques et cybersécurité, répondent aux besoins de marchés où l’utilisation des nouvelles technologies numériques est déterminante. Thales intervient tout au long de la chaîne de valeur, des équipements aux systèmes en passant par le soutien logistique et les services associés.
+À Cholet, Thales conçoit, développe, intègre, qualifie, industrialise, produit, déploie et maintient en condition opérationnelle des équipements de radiocommunications et des réseaux tactiques militaires, des équipements et systèmes de guerre électronique ainsi que des solutions de sécurité des systèmes d’informations (cryptage, réseaux, etc). C’est également à Cholet que Thales intègre, industrialise et produit les stations sol des réseaux de communication par satellites.
+La Direction Sécurité des Technologies de l’Information (ITS) recherche son/sa futur(e) stagiaire :
+Ingénieur Systèmes Sécurité F/H
+Poste basé à Cholet (49)
+QUI ÊTES-VOUS ?
+Vous êtes étudiant(e) en télécommunication et réseaux ou formation équivalente et recherche un stage de fin d’études?
+Vous êtes familier avec les langages C, Python, Java et les systèmes Linux embarqués ?
+Vous avez des connaissances des techniques de modélisation à l’aide d’UML ?
+Vous avez des notions des protocoles Ethernet et IP ainsi que des protocoles HTTP, TLS, MacSec ?
+Vous êtes reconnu(e) pour votre bon relationnel et votre curiosité ?
+Vous êtes force de proposition, vous êtes doté(e) d’un bon sens de l’analyse et aimez la résolution de problème ?
+Votre rigueur fait partie de vos atouts ?
+La langue de Shakespeare ne vous fait pas peur ?
+Alors ce qui suit va vous intéresser !
+CE QUE NOUS POUVONS ACCOMPLIR ENSEMBLE
+Vous intégrez le service Ingénierie Sécurité des Equipements, et avez pour mission principale de définir, d’expérimenter et spécifier les solutions de contrôle d’accès à des Passerelles IPsec depuis un réseau de confiance.
+Le projet nécessite de mener une analyse d’un marché concurrentiel et dynamique où les offres en matière de lutte contre les cybers attaque doivent régulièrement concilier sécurité et facilité de mise en œuvre.
+Les moyens et les outils à mettre en œuvre font partie des fondamentaux à connaître pour protéger un système d’information.
+La recherche demandée doit identifier les réels besoins et orienter les solutions aux problèmes, depuis les concepts opérationnels jusqu’à l’implémentation.
+A ce titre, vous avez pour missions de :
+Étudier le besoin de contrôle d’accès par réseau de confiance sur des Passerelles IPSec (cas d’emploi et des implémentations existantes, analyse des normes en vigueur)
+Définir les contraintes de sécurité spécifiques aux Passerelles IPSec
+Choisir le protocole AAA (Radius ou Diameter)
+Définir et expérimenter l’architecture système (mise en place d’une plateforme réseau et configuration des scénarios d’usage)
+Innovation, passion, ambition : rejoignez Thales et créez le monde de demain, dès aujourd’hui."
+5,https://www.indeed.fr/emplois?q=Cyber%20Securit%C3%A9&l=Nantes&radius=100&limit=100&sort=date&vjk=fbad17c64f176807,"Responsable du Service Infrastructures de la DSI F/H
+Rennes Métropole5 avis - Rennes (35)",[],Responsable du Service Infrastructures de la DSI F/H,Rennes Métropole,- Rennes (35),null,null,"il y a 9 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Cyber Securité,Nantes,"Présentation de l'offre
+Mission
+Contexte et définition du poste La Métropole de Rennes (43 communes – 450 000 habitants) dont la Ville de Rennes (220 000 habitants), est le centre névralgique de la Bretagne. Elle mène des politiques publiques ambitieuses au service d’un développement équilibré de son territoire, soucieuse de la performance de son économie comme de la qualité de vie de ses habitants. Au sein d’un des écosystèmes numériques les plus dynamiques de France, fort de son pôle de cyber sécurité et d’une grande densité de start-up, la Métropole et la Ville de Rennes sont engagées en interne dans la transformation digitale de leur fonctionnement, toujours dans le souci de la qualité du service rendu aux usagers. 5000 agents, 300 métiers : en nous rejoignant, vous intégrez une structure dynamique et innovante, attachée aux valeurs de diversité, d’égalité femme/ homme, aux principes d’autonomie et de confiance accordée aux collaborateurs qui font notre service public au quotidien. Vos principales missions : - A la tête d’une équipe de 16 collaborateurs (répartis au sein de 5 unités : unité télécom, unité réseau et sécurité, unité système, unité base de donnée et exploitation), vous portez une attention particulière à la valorisation et le développement de leurs compétences. Vous managez l’équipe par le sens en favorisant le travail transversal et l’innovation. Vous organisez le service, animez le travail collectif dans un objectif de progression et d’amélioration continue du service rendu. Membre du comité de direction, vous participez et contribuez activement aux réflexions transversales. - Vous assurez la définition de l'architecture technique, la mise en œuvre, le maintien en condition opérationnelle et la performance des infrastructures informatiques ; - Vous garantissez la continuité de service et pilotez la démarche de la sécurité des infrastructures. - Vous déterminez - afin d'optimiser les usages, les ressources et la sécurité - une stratégie globale d’infrastructure autour de la virtualisation de réseau, du recours à des prestataires externes, des architectures mixtes (MPLS…). - Partie prenante des ""projets métiers"" conduits par le service Études et Projets, vous participez à la définition du besoin, préconisez ou validez les environnements techniques et assurez la mise en œuvre des solutions retenues.
+Prérequis
+Compétences
+De formation supérieure, vous disposez d’une expérience significative dans une Direction des Systèmes d’Information - de préférence au sein d’une collectivité territoriale – au sein de laquelle vous avez su démontrer rigueur, réactivité, et faculté d’adaptation. Vous maîtrisez un ensemble de connaissances techniques variées (architecture, environnements réseau LAN/WAN, sécurité, écosystèmes Microsoft et Linux, outils de supervision, outils de masteurisation...). Disposant d’excellentes qualités relationnelles, vous faites preuve d’écoute, de pédagogie et d’esprit d’équipe dans votre management et dans la conduite de projets transversaux. Créatif, curieux, en veille permanente sur les nouveaux outils, vous savez insuffler de l’énergie et fédérer vos collaborateurs autour d’un objectif commun.
+Condition de recrutement
+Poste ouvert aux agents titulaires du cadre d'emplois des ingénieurs territoriaux, aux lauréats du concours ainsi qu'aux candidats reconnus travailleurs handicapés dans les conditions prévues par l'article 38 de la loi 84-53 du 26/01/84, ou à défaut par voie contractuelle (CDD de 3 ans renouvelable)."
+6,https://www.indeed.fr/emplois?q=Cyber%20Securit%C3%A9&l=Nantes&radius=100&limit=100&sort=date&vjk=087ca026d2f638cb,null,[],null,null,null,null,null,"il y a 10 jours
+Signaler cette offre d'emploi",Cyber Securité,Nantes,"Qui sommes-nous ?
+Abington Advisory est une entreprise de conseil en management. Son ADN est avant tout darwinien, fondé sur la théorie de l’évolution. Ce positionnement, adapté à l’entreprise se traduit par la conviction que ce n’est ni la plus forte ni la plus intelligente des organisations qui survivra, mais celle qui sera le plus apte à changer.
+La volonté d’Abington est de conseiller et d’accompagner les organisations dans toutes leurs transformations, pour relever ensemble les défis de demain. Nous apportons à nos clients une combinaison d’expertises, en établissant une coopération des tous les instants. Notre valeur ajoutée est liée à la co-création avec le client, essence même de nôtre ADN.
+Abington Advisory a été fondé en 2013 par cinq associés issus de grands cabinets de conseil. Ils partagent la conviction que le monde du conseil doit évoluer et répondre aux exigences nouvelles et grandissantes des organisations. Leur expérience de plus de 20 ans leur a permis d’analyser, comprendre et anticiper les mutations du conseil.
+Abington dispose de 9 expertises qui permettent de répondre aux attentes des organisations.
+Stratégie
+Data & Analytics
+Marketing & Expérience Client
+Finance & Pilotage de la performance
+Supply Chain
+Systèmes d’Information
+Confiance numérique & Cybersécurité
+Transformation digitale
+Accompagnement du changement
+Abington Advisory apparaît dans le classement Capital 2017 et 2019 des meilleures entreprises de conseil en « Cyber sécurité », « Transformation digitale » et « Finance et risques ».
+A l’international, Abington Advisory est présent à Beyrouth, Djakarta, Montréal, et Dubaï. En France, à Paris et à Nantes.
+Le descriptif des missions
+En tant que Consultant expérimenté au sein d’un segment de marché spécialisé, vous interviendrez sur des missions variées telles que :
+Études de faisabilité, de filière et de potentiel
+Analyse de données : flux marchés
+Évaluation financière : études d’investissement
+Interface entre l’audit et l’organisation
+Stratégie : optimisation des organisations et plan de développement
+Le profil
+Diplômé d’un Bac + 4/5 porté sur les études maritimes ou portuaires
+Vous disposez d’une première expérience réussie au sein d’un cabinet de conseil ou d’études spécialisées (bureau d’études ou agence d’urbanisme).
+Vous avez la capacité à animer une démarche collective et à innover
+Maîtrise des techniques du business model est un plus
+Poste basé à Nantes
+Type d'emploi : CDI"
+7,https://www.indeed.fr/emplois?q=Cyber%20Securit%C3%A9&l=Nantes&radius=100&limit=100&sort=date&vjk=f8b20aea9c327d48,"Ingénieur Cybersécurité débutant en ingénierie equipement (H/F)
+Thales Group1,222 avis - Cholet (49)",[],Ingénieur Cybersécurité débutant en ingénierie equipement (H/F),Thales Group,- Cholet (49),null,null,"Thales - il y a 12 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Cyber Securité,Nantes,"QUI SOMMES-NOUS ?
+Thales propose des systèmes d’information et de communication sécurisés et interopérables pour les forces armées, les forces de sécurité et les opérateurs d’importance vitale. Ces activités, qui regroupent radiocommunications, réseaux, systèmes de protection, systèmes d’information critiques et cybersécurité, répondent aux besoins de marchés où l’utilisation des nouvelles technologies numériques est déterminante. Thales intervient tout au long de la chaîne de valeur, des équipements aux systèmes en passant par le soutien logistique et les services associés.
+À Cholet, Thales conçoit, développe, intègre, qualifie, industrialise, produit, déploie et maintient en condition opérationnelle des équipements de radiocommunications et des réseaux tactiques militaires, des équipements et systèmes de guerre électronique ainsi que des solutions de sécurité des systèmes d’informations (cryptage, réseaux, etc). C’est également à Cholet que Thales intègre, industrialise et produit les stations sol des réseaux de communication par satellites.
+La Direction Sécurité des Technologies de l'Information développe des produits de sécurité de haut niveau pour les gouvernements et les opérateurs d'infrastructures critiques.
+Au sein de cette direction, vous intégrez le secteur Sécurité des Produits et Équipements et vous contribuez à la définition fonctionnelle et aux architectures de sécurité des solutions systèmes et produits de chiffreurs et radios.
+Vous définissez les stratégies de certification et vous réalisez les expertises de sécurité électronique et informatique embarquée.
+QUI ETES-VOUS ?
+Vous êtes issu d’une formation supérieure (ingénieur ou équivalent) avec une spécialité en sécurité, crypto ou cyber sécurité ?
+Vous avez une connaissance des technologies liées à la cyber-sécurité ?
+Vous avez des bases en terme de développements de matériels et logiciels de sécurité ?
+Vous aimez le travail en équipe ? Vous êtes autonome et aimez défendre la solution auprès du client ?
+La maîtrise des schémas de certification ou d’agrément, la connaissance des systèmes aéronautiques sont un plus pour le poste.
+Des déplacements réguliers en région parisienne sont à prévoir
+Alors ce qui suit va vous intéresser !
+CE QUE NOUS POUVONS ACCOMPLIR ENSEMBLE :
+Vous intervenez en tant que ingénieur en Cybersécurité pour des équipements de défense.
+Vous participez à la définition à la cyber sécurité de ces équipements de défense .
+A ce titre, vous contribuez au process de développement, à la définition du problème de sécurité, et à l’accompagnement des équipes de développement ainsi que de la validation.
+Vos principales missions :
+o Vous participez à l’élaboration du besoin de sécurité de niveau équipement.
+o Vous définissez et validez le référentiel sécurité de l’équipement.
+o Vous garantissez que les travaux menés sont cohérents avec l’état de l’art de la sécurité et en conformité avec la réglementation française.
+o Vous contribuez à la définition de l’architecture de sécurité de l’équipement.
+o Vous supportez les architectes, les équipes de développement et d’intégration, validation, qualification pendant la phase de réalisation.
+o Vous apportez votre expertise technique sur des problématiques de sécurité système.
+Des déplacements réguliers en région parisienne sont à prévoir
+Innovation, passion, ambition : rejoignez Thales et créez le monde de demain, dès aujourd’hui."
+8,https://www.indeed.fr/emplois?q=Cyber%20Securit%C3%A9&l=Nantes&radius=100&limit=100&sort=date&vjk=6eea72afdc2aec22,"Responsable d'affaire F/H
+Médiane Système - Combrée (49)",[],Responsable d'affaire F/H,Médiane Système,- Combrée (49),null,null,"il y a 11 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Cyber Securité,Nantes,"Au sein du département R&D, vous êtes en charge des projets de développement de produits électroniques depuis les phases d’appel d’offre jusqu’à la livraison des pré-séries.
+Votre mission consiste principalement à :
+
+Répondre aux appels d’offre en lien avec l’équipe de développement commercial et avec le support des équipes techniques
+Piloter le projet avec l'objectif de tenir les engagements Qualité/Coût/Délai
+Assurer le reporting interne et client du projet
+Elaborer des spécifications générales du produit ou du système, en prenant en compte les contraintes environnementales ou normatives
+Elaborer le plan de vérification du produit ou du système
+Gérer l’appel des ressources et piloter les équipes de développement : Electronique, Mécanique et Logiciel
+Interagir avec les équipes de production (méthodes, indus, achats ...) dans le cadre de l'industrialisation du produit
+Négocier les avenants éventuels
+Pour premier projet, le secteur d'activité concerné est le secteur ferroviaire.
+
+Contexte de la prestation :
+Remplacement. Ce besoin intervient dans le cadre d'une pré-embauche et la localisation privilégiée est à Combrée
+
+Descriptif du profil
+Compétences techniques :
+Electronique embarquée
+Gestion de projet
+Gestion client
+
+Connaissances impératives :
+Des bases techniques en électronique avec une bonne connaissance du cycle de développement d'un produit électronique
+Gestion de projet depuis la prise en charge d'un cahier des charges jusqu'à la livraison d'un produit: planification (WBS, Gantt ...), coordination /challenge des équipes
+Très bon relationnel (contact client, interne), esprit de synthèse
+Des expériences projets dans le domaine du ferroviaire seraient fortement appréciées.
+
+Quelques mots sur Médiane Système...
+Créée par des Ingénieurs POUR des Ingénieurs, Médiane Système est une société d’ingénierie technique à taille humaine spécialisée depuis 30 ans dans les métiers de la conception et du développement de systèmes embarqués pour l’industrie (logiciel embarqué et applicatif, électronique numérique/analogique, V&V, IIoT, cyber sécurité, bancs de tests).
+Participer à l’aventure Médiane Système, c’est travailler sur des projets stimulants et variés au cœur des évolutions technologiques industrielles. Du secteur ferroviaire au médical, en passant par l’énergie, l’automobile, l’aéronautique ou bien les télécoms, nos équipes interviennent dans des environnements technologiques de pointe, innovants et exigeants.
+Retrouvez quelques-uns de nos projets sur notre site internet : https://www.medianesysteme.com/metiers/projets
+Nos managers sont issus de la technique et parlent votre « langage » : Intégrer Médiane Système, c’est aussi rejoindre une communauté de spécialistes où vos compétences seront reconnues et développées.
+Une carrière adaptée pour réaliser vos ambitions
+Expertise technique, encadrement, gestion de projets, qualité... Notre richesse c’est VOUS ; c’est pourquoi, nous mettons tout en œuvre pour construire, ensemble, une carrière à votre image, à la hauteur de votre potentiel.
+Cet accompagnement se réalise dans le cadre de formations adaptées et continues (internes et/ou externes) et d’un plan d’évolution de carrière clair et personnalisé en fonction de vos aspirations.
+Vous voulez en savoir plus ? Envoyez-nous votre CV en postulant ou contactez nous : recrutement.paris@medianesysteme.com
+
+Manndes MERILUS et Karima MIHOUBI
+https://www.linkedin.com/in/manndes-merilus-7767298a/
+https://www.linkedin.com/in/karima-mihoubi-286322131/"
+9,https://www.indeed.fr/emplois?q=Cyber%20Securit%C3%A9&l=Nantes&radius=100&limit=100&sort=date&vjk=c1c83899f600856e,"Consultant Senior, Finance et Pilotage de la performance
+Abington Advisory - Nantes (44)
+CDI",[],"Consultant Senior, Finance et Pilotage de la performance",Abington Advisory,- Nantes (44),null,null,"il y a 10 jours
+Signaler cette offre d'emploi",Cyber Securité,Nantes,"Qui sommes-nous ?
+Abington Advisory est une entreprise de conseil en management. Son ADN est avant tout darwinien, fondé sur la théorie de l’évolution. Ce positionnement, adapté à l’entreprise se traduit par la conviction que ce n’est ni la plus forte ni la plus intelligente des organisations qui survivra, mais celle qui sera le plus apte à changer.
+La volonté d’Abington est de conseiller et d’accompagner les organisations dans toutes leurs transformations, pour relever ensemble les défis de demain. Abington apporte à ses clients une combinaison d’expertises, en établissant une coopération des tous les instants. Notre valeur ajoutée est liée à la co-création avec le client, essence même de nôtre ADN.
+Abington Advisory a été fondé en 2013 par cinq associés issus de grands cabinets de conseil. Ils partagent la conviction que le monde du conseil doit évoluer et répondre aux exigences nouvelles et grandissantes des organisations. Leur expérience de plus de 20 ans leur a permis d’analyser, comprendre et anticiper les mutations du conseil.
+Abington dispose de 9 expertises qui permettent de répondre aux attentes des organisations.
+Stratégie
+Data & Analytics
+Marketing & Expérience Client
+Finance & Pilotage de la performance
+Supply Chain
+Systèmes d’Information
+Confiance numérique & Cybersécurité
+Transformation digitale
+Accompagnement du changement
+Abington Advisory apparaît dans le classement Capital 2017 et 2019 des meilleures entreprises de conseil en « Cyber sécurité », « Transformation digitale » et « Finance et risques ».
+A l’international, Abington Advisory est présent à Beyrouth, Djakarta, Montréal, et Dubaï. En France, à Paris et à Nantes.
+Le descriptif des missions
+En tant que Consultant expérimenté, vous interviendrez principalement sur des missions telles que :
+Analyses financières rétrospectives
+Élaboration du business plan
+Contract Management
+Modélisation financière
+Financement de projet
+Vous interviendrez en plus sur des projets de Transformation de la fonction finance et d’implantation d’outils EPM
+Le profil
+Diplômé d’un Bac +5
+Dispose d’une première expérience significative soit en Conseil Financier, soit en Audit, soit en Entreprise au sein d’un poste de la Direction financière.
+Maîtrise des mécanismes financiers fondamentaux
+Maîtrise de l’anglais courant et professionnel
+L’envie d’évoluer au sein d’une entreprise de conseil
+Poste basé à Nantes
+Type d'emploi : CDI
+Expérience:
+consultant senior, finance et pilotage de la performance ou similaire: 1 an (Souhaité)
+Langue:
+Anglais (Souhaité)"
+10,https://www.indeed.fr/emplois?q=Cyber%20Securit%C3%A9&l=Nantes&radius=100&limit=100&sort=date&vjk=136fb792b66b1780,"Stage Pentest sous Android F/H
+KEREVAL - Rennes (35)
+Temps plein, Stage",[],Stage Pentest sous Android F/H,KEREVAL,- Rennes (35),null,null,"il y a 7 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Cyber Securité,Nantes,"L'entreprise
+KEREVAL, laboratoire d'ingénierie de tests logiciels, est une référence française incontestable de la qualité logicielle.
+Nous disposons d’un laboratoire de sécurité qualifié PASSI par l’ANSSI et nous réalisons des audits de sécurité auprès de nos clients issus de secteurs d’activités très variés : Défense, automobile, finance, e-commerce, santé,…
+Depuis 2002, KEREVAL accompagne ses clients face aux enjeux actuels : l’entreprise numérique, la dématérialisation des échanges, l’interopérabilité des systèmes, l’automatisation des tests dans des démarches d’intégration continue et de DevOps… KEREVAL prépare également des solutions innovantes face aux enjeux du futur grâce à ses activités de R&D dans des domaines tels que la sécurité du contrôle aérien ou les véhicules autonomes.
+
+Description du poste
+Android OS fait partie des systèmes d’exploitation les plus répandus sur le marché. Il est notamment présent dans les smartphones mais également dans une multitude d’applications embarquées (automobile, etc…)
+Le but de ce stage est de réaliser une étude des techniques d’attaques cyber, de penstesting et la sécurisation des terminaux Android :
+Etudier et exploiter des vulnérabilités connues sous Android
+Etudier la sécurité du démarrage (mécanisme du boot Android)
+Etude du durcissement des terminaux Android et de la sécurité des configurations
+Etudier des techniques de reverse engineering de code d’applications sous Android (.apk)
+Outillage de reverse
+Documentation
+Des smartphones sous Android OS seront mis à disposition pour les travaux pratiques.
+Le stage débutera par un état de l’art de la sécurité sous Android.
+Basé à Rennes, le stagiaire travaillera en relation avec l’équipe Cybersécurité.
+
+Profil recherché
+Etudiant en sécurité, vous êtes désireux d'entreprendre un stage sur des technologies nouvelles et innovantes. Vous avez des connaissances en cybersécurité, et êtes attirés par les systèmes embarqués et le pentesting hardware/IoT."
+11,https://www.indeed.fr/emplois?q=Cyber%20Securit%C3%A9&l=Nantes&radius=100&limit=100&sort=date&vjk=b1b4b8c1ab396eb1,"Un expert technique Flux sur Nantes / Freelance
+Almatek - Nantes (44)
+Temps plein, Freelance / Indépendant",[],Un expert technique Flux sur Nantes / Freelance,Almatek,- Nantes (44),null,null,"Freelance-info - il y a 10 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Cyber Securité,Nantes,"Je recherche pour l’un de mes clients, grand compte, Un expert technique Flux sur Nantes
+
+Description :
+un Expert technique FLUX
+sur un projet de maintenance de ESB- plateforme de flux WSO2 :
+conception et architecture de flux
+garant des bonnes pratiques / état de l’art sur les architectures
+Traduire les Expressions de besoin métier en spécification technique pour les DEV
+Capacité à mener des recettes techniques
+Vision long terme du SI / échange & comm avec les archi tech & logiciels = capacité a établir la roadmap produit
+Bon niveau d’anglais pour échanger avec WSO2 support / négocier les contrats
+Connaissance ESB
+Connaissances des API REST / SOAP et des bonnes pratiques associées
+Connaissances des Dev: JAVA / nodejs pour développer des outils de validation divers (injecteur, dépileur, load & stress HTTP)
+Bonnes pratiques sécurité cyber : HTTPS, SSL/TLS, PKI interne , Sftp, mécanisme de sécurisations d’interfaces (ldaps, adcs), oauth2 / JWT, ForgeRock
+Connaissances des systèmes linux : rsyslog, outils systeme, syslog-ng
+formation à WSO2 pourra être donné par le client
+
+Compétences requises :
+API REST / SOAP et des bonnes pratiques associées - Confirmé - Impératif
+Java / nodejs - Confirmé - Impératif
+ESB - Confirmé - Important
+sécurité cyber - Junior - Important"
+12,https://www.indeed.fr/emplois?q=Cyber%20Securit%C3%A9&l=Nantes&radius=100&limit=100&sort=date&vjk=baf535cb4f4a4220,"EXPERT CYBER-SÉCURITÉ - POSTE INTERNE (F/H)
+Expectra.fr66 avis - Nantes (44)
+CDI",[],EXPERT CYBER-SÉCURITÉ - POSTE INTERNE (F/H),Expectra.fr,- Nantes (44),null,null,"il y a 17 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Cyber Securité,Nantes,"Expectra, leader en France de l'intérim spécialisé et du recrutement en CDI de cadres et agents de maîtrise.
+
+Nous recherchons pour le compte de notre client, cabinet de courtage en assurance emprunteur de plus de 25 ans d'existence d'envergure international, qui intervient comme intermédiaire entre les compagnies d'assurance et les distributeurs (banques, courtiers en crédits, …), un expert cyber-sécurité (F/H)
+
+Le risque de cyberattaque constitue aujourd'hui le risque principal pour les sociétés d'assurance et de réassurance. Face à ce constat, la société a décidé de renforcer ses capacités de prévention des attaques, de protection des données et de détection et réaction aux incidents de sécurité.
+Vous intégrez un service de deux personnes spécialisé en sécurité informatique (infrastructure et applicative) Rattaché(e) au Responsable Sécurité des Systèmes d'Information, vous rejoignez notre département “IT Technical Services” de la Direction des Technologies et du Digital. Vous intégrez une équipe de 22 collaborateurs assurant le déploiement et le maintien en conditions opérationnelles des infrastructures et plateformes IT : poste de travail étendu, infrastructures réseau et sécurité, plateformes hébergées et Cloud, architecture et sécurité du SI.
+
+Au sein de cet environnement, vos principales missions consisteront à : Développer le système de management de la sécurité de l'information (SMSI) du groupe, participer à l'amélioration des politiques de sécurité du SI, réaliser des audits de sécurité organisationnels et techniques, en interne et auprès des fournisseurs IT, participer à l'animation des actions de sensibilisation et de communication sécurité, collaborer aux analyses de risques et aux études d'impact sur la vie privée (PIA).
+Avec les équipes opérationnelles, étudier, tester et préconiser les outils de sécurité à intégrer au système d'information ; participer à l'intégration de la sécurité aux applications développées en interne.
+
+Cette fonction vous amènera à travailler fréquemment en transverse avec les différents métiers du Groupe, au sein d'une direction à taille humaine.
+Petit aperçu de l'environnement technique dans lequel vous allez évoluer :
+Securité : WAF DenyAll, pare-feu Palo Alto, SIEM LogPoint
+Plateformes : Apache et Tomcat sur Linux, Windows Server
+Infrastructures : Amazon Web Services (AWS), VMware ESX.
+
+Issu d'une formation supérieure en informatique, cybersécurité ou management des SI, vous possédez une première expérience dans le domaine de la sécurité. Idéalement, vous avez déjà réalisé des audits de sécurité organisationnels ou techniques.
+Vous connaissez les normes et principaux référentiels de sécurité (ISO 27001/27002/27005, guides ANSSI, OWASP ...), les protocoles et solutions de sécurité système et réseau et au minimum une méthode d'analyse de risques (EBIOS ou similaire).
+
+Vous savez faire preuve d'écoute, de pédagogie. Vous avez un sens des responsabilités et êtes passionné par votre métier."
+13,https://www.indeed.fr/emplois?q=Cyber%20Securit%C3%A9&l=Nantes&radius=100&limit=100&sort=date&vjk=db7f235f1d570502,"Architecte Logiciel - Systèmes Embarqués H/F - Naval Group
+Michael Page251 avis - Nantes (44)",[],Architecte Logiciel - Systèmes Embarqués H/F - Naval Group,Michael Page,- Nantes (44),null,null,"Michael Page FR - il y a 17 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Cyber Securité,Nantes,"Dans le cadre du développement de son activité produit contrôle/commande de navire, de drone de surface et d'aide à la décision, Sirehna recherche un Architecte Logiciel.
+
+Rattaché au Département IPS (Integrated Products and Services), vous avez en charge la réalisation des activités suivantes au sein d'une équipe de 15 personnes :
+Être responsable de la spécification d'un logiciel,
+Réaliser l'architecture, la conception,
+Réaliser et suivre les développements logiciels,
+Assurer les travaux d'intégration du logiciel,
+Suivre les résolutions des incidents,
+Évaluer et caractériser les performances du logiciel,
+Assurer la validation et la mise en service du logiciel (potentiellement chez le client).
+
+Naval Group encourage le recrutement de personnes reconnues travailleurs handicapés, n'hésitez pas à invoquer ce sujet dans le cadre de votre candidature.
+
+Diplômé idéalement d'un Bac +5 minimum, vous disposez d'au moins 5 ans d'expérience professionnelle au cours de laquelle vous avez développé des compétences nécessaires à la réalisation d'un logiciel dans un domaine idéalement industriel.
+
+Des connaissances en langage de programmation C/C++, en contrôle commande ainsi qu'en cyber sécurité sont un plus.
+
+Le contexte international du poste nécessite un bon niveau d'anglais."
+14,https://www.indeed.fr/emplois?q=Cyber%20Securit%C3%A9&l=Nantes&radius=100&limit=100&sort=date&vjk=c8950c997e81b629,null,[],null,SYSTANCIA,- Chantepie (35),null,null,"Apec.fr - il y a 24 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Cyber Securité,Nantes,"Dans le cadre de notre forte croissance, nous recherchons des consultants. Sous la conduite du responsable du pôle Professional Services et après une période de formation à nos produits, vous aurez un rôle crucial en accompagnant nos clients et nos partenaires dans les missions de mise en œuvre et d’Avant-Vente de nos solutions.
+
+Vos interlocuteurs seront des techniciens ou ingénieurs systèmes, réseaux, architectes et des responsables informatiques. Vous utiliserez vos connaissances et votre expérience afin d’identifier et d’analyser les problématiques techniques, et de proposer des solutions et plan d’action adaptés.
+
+Nous proposons une rémunération motivante complétée par un projet d’entreprise en forte croissance dans le cadre d’un intéressement aux performances de l’entreprise.
+
+Les fonctions principales de ces postes sont notamment :
+De gérer la relation client. Vous fournissez une analyse technique approfondie, conseillez, informez et solutionnez les incidents techniques,
+
+D’assurer l’assistance et l’analyse technique des demandes entrantes aux clients et partenaires,
+
+De promouvoir l’esprit d’équipe et assister vos collègues à améliorer leurs capacités techniques,
+
+D’apporter votre aide et votre expertise technique aux forces de ventes lors des phases nécessitant une approche orientée produit.
+Profil recherché Les candidats doivent être diplômés en informatique, ou bien disposer d’une expérience significative, une première expérience sur un poste similaire est un plus.
+
+Vous êtes doté de bonnes connaissances techniques dans la majorité des domaines suivants :
+
+Réseaux : Routeurs, NAT, TCP/IP, DNS, DHCP, Protocoles réseaux et sécurité,
+
+Administration : LDAP / Active Directory, Microsoft Terminal Server / RDS, Serveur Windows 2008,2012 et versions postes de travail jusqu’à Windows 10. SQL Server.
+
+Des connaissances de plateforme de virtualisation sont un plus : Microsoft HyperV, VMWare ESX/vCenter.
+
+Des certifications éditeurs Microsoft / Redhat / Oracle / VMWare sont des plus
+
+Votre connaissance dans une des technologies ci-dessous serait un plus :
+
+Virtualisation d’application et poste de travail
+
+Sécurité des accès externes (VPN)
+
+Privilège Access Management
+
+Confiance numérique (SSO & IAM)
+
+Vous maîtrisez les outils bureautiques.
+
+Vous disposez de compétences rédactionnelles et d’une certaine aisance dans la communication,
+
+Doté d’un excellent relationnel et d’un grand sens de l’écoute, vous travaillez avec rigueur dans le respect des processus et des délais.
+
+Qualité : rigueur, organisation, esprit d’analyse, curiosité technologique, application des principes ITIL (un plus),
+
+Langues : Anglais.
+Entreprise Systancia est un éditeur en forte croissance dans le domaine de la cybersécurité. Nous sommes reconnus pour la qualité de nos outils intégrants de très fortes innovations. Nos logiciels de cyber sécurité sont certifiés au plus haut niveau par l’Agence Nationale de la Sécurité des Systèmes d’Information (ANSSI).
+
+La gamme des logiciels SYSTANCIA est diffusée par un réseau d’une soixantaine de partenaires. La société est présente en France et à l’international.
+
+SYSTANCIA est partenaire de VIA HUMANIS (www.via-humanis.fr) pour vous accompagner dans votre installation, à proximité de votre futur site de travail (recherche de logement, découverte de la région, scolarisation des enfants…)."
+15,https://www.indeed.fr/emplois?q=Cyber%20Securit%C3%A9&l=Nantes&radius=100&limit=100&sort=date&vjk=b2e4a9112a4234c6,"Cyber Security - Expert pentester / auditeur technique H/F (h/f)
+Airbus1,454 avis - Rennes (35)",[],Cyber Security - Expert pentester / auditeur technique H/F (h/f),Airbus,- Rennes (35),null,null,"il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Cyber Securité,Nantes,"Airbus Cybersecurity SAS
+Airbus is a global leader in aeronautics, space and related services. In 2018 it generated revenues of € 64 billion and employed a workforce of around 134,000. Airbus offers the most comprehensive range of passenger airliners. Airbus is also a European leader providing tanker, combat, transport and mission aircraft, as well as one of the world's leading space companies. In helicopters, Airbus provides the most efficient civil and military rotorcraft solutions worldwide.
+
+Our people work with passion and determination to make the world a more connected, safer and smarter place. Taking pride in our work, we draw on each other's expertise and experience to achieve excellence. Our diversity and teamwork culture propel us to accomplish the extraordinary - on the ground, in the sky and in space.
+Job Description
+Société :
+Airbus Defence & Space, avec sa division CyberSecurity créée en 2012, a pour ambition de devenir un des leaders européens et mondiaux en cyber sécurité.
+
+Cette division se positionne notamment sur les marchés de la surveillance, de l'investigation et de l'audit de sécurité pour les systèmes les plus exposés aux menaces au sein du groupe Airbus, mais aussi pour des acteurs étatiques et des acteurs stratégiques du secteur des transports, de l'énergie, de la défense et de l'aérospatial.
+
+Coordonnées :
+Merci de bien vouloir postuler en ligne, sur notre site Carrières (www.jobs.airbus.com, en joignant votre C.V. et lettre de motivation en anglais (si nécessaire).
+
+En soumettant votre CV ou votre candidature, vous consentez à Airbus Group l'utilisation et l'enregistrement d'informations vous concernant à des fins de suivi relatif à votre candidature ou futur emploi. Ces informations resteront à l'usage exclusif d'Airbus Group.
+
+Description du poste :
+Vous serez amené à auditer ou tester des infrastructures informatiques classiques (réseaux privés, applications Web, applications mobiles, VoIP, etc) et des périmètres techniques nécessitant des audits plus spécialisés (systèmes embarqués, contrôle d'accès physique, dispositifs connectés filaires ou radio type IoT, infrastructures industrielles ICS), ainsi qu'à mener des opérations plus discrètes tels qu'une red team (recherche OSINT et phase d'intrusion avec une kill chain complète jusqu'à récupération de l'ensemble des flags).
+Ce poste nécessite une habilitation de sécurité ou nécessite d'être éligible à une habilitation par les autorités reconnues.
+
+Tâches et missions principales, responsabilités :
+Votre périmètre technique comprendra les activités suivantes :
+
+Participation aux tests d'intrusion d'infrastructures réseaux classiques ou pour applications, spécifiques en mettant à profit des outils publics et des outils internes
+Recherche de vulnérabilités sur les systèmes et infrastructures cibles
+Développement de codes d'exploitation permettant de démontrer la présence de vulnérabilités (PoC)
+Reporting et restitution des résultats de ces activités auprès des commanditaires
+Développement d'outils pour supporter votre activité ainsi que celle du reste de l'équipe
+Formalisation de votre expertise en vue de formations internes et externes
+Gestion des missions (support aux appels d'offre et direction des audits)
+Assurance qualité et direction technique sur les activités et les livrables d'auditeurs plus juniors.
+
+De fréquents déplacements professionnels sont à prévoir et, de ce fait, vous devez être disposé à vous déplacer en conséquence.
+
+Compétences requises :
+Nous recherchons des candidats ayant les expériences et les compétences suivantes :
+
+Titulaire d'un diplôme d'Ingénieur (ou équivalent) dans le domaine des Technologies de l'Information ou une discipline apparentée
+Vaste expérience en tests d'intrusion (pentest), recherche et exploitation de vulnérabilités, audit de code, quel que soit le domaine : technologies Web, bases de données, escalade de privilèges sous Linux ou Windows, protocoles de communication réseaux, radio, etc
+Polyvalence technique et capacité à prendre en main de nouveaux sujets techniques très pointus
+Autonome et disposé à gérer une population plus junior, de manière constructive, afin d'influer de manière positive sur leur développement personnel
+Excellente approche méthodologique pour le traitement des réponses aux appels d'offre de nos clients ainsi que sur la direction des missions des audits qui nous sont confiées
+Idéalement déjà qualifié PASSI sur une ou plusieurs des portées techniques et sur la portée responsable d'audit
+La détention d'une ou plusieurs certifications liée au test d'intrusion serait également appréciée (SANS, OSCP, etc.)
+Un niveau d'anglais professionnel est indispensable.
+
+This job requires an awareness of any potential compliance risks and a commitment to act with integrity, as the foundation for the Company’s success, reputation and sustainable growth.
+
+By submitting your CV or application you are consenting to Airbus using and storing information about you for monitoring purposes relating to your application or future employment. This information will only be used by Airbus.
+Airbus is committed to achieving workforce diversity and creating an inclusive working environment. We welcome all applications irrespective of social and cultural background, age, gender, disability, sexual orientation or religious belief."
+16,https://www.indeed.fr/emplois?q=Cyber%20Securit%C3%A9&l=Nantes&radius=100&limit=100&sort=date&vjk=bcf1e84a3d1eb636,"Ingénieur de production F/H
+INTM8 avis - Nantes (44)
+CDI",[],Ingénieur de production F/H,INTM,- Nantes (44),null,null,"Apec.fr - il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Cyber Securité,Nantes,"Pour notre client du secteur bancaire, nous recherchons un Ingénieur intégrateur d'applications pour l' homologation des versions applicatives sur un environnement hors production avant mise en production.
+
+Vos activités seront les suivantes :
+Prendre connaissance du changement, de son contexte technique et de la stratégie de tests définie
+Compléter et détailler le plan de tests techniques, de performance, de robustesse, d'exploitabilité
+Préparer les infrastructures de tests
+Valider les documents et les procédures à destination de la production
+Industrialiser les tests techniques récurrents (automatisation, outillage...).
+Réaliser les différents tests techniques de recette technique / d'homologation
+Diagnostiquer en cas de dysfonctionnement et proposer les pistes de solutions
+Rédiger les rapports détaillés qui aideront à la décision du GO/NOGO pour la mise en production
+Constituer ou mettre à jour le patrimoine de tests réutilisable pour les intégrations ultérieures
+En avant vers le DevOps
+Connaissance recherchée sur la plateforme de test NeoLoad
+
+Opportunité à pourvoir à Nantes et Rennes
+Profil recherché Vous avez une approche DevOps et recherchez une nouvelle expérience dans le domaine de l'intégration ?
+
+Vous disposez impérativement d'une première expérience d'utilisation de
+
+NeoLoad
+
+Votre curiosité, votre autonomie et votre rigueur seront des qualités attendues pour ce poste.
+
+Ce poste est à pourvoir à Nantes et à Rennes
+Entreprise Crée en 2004, le Groupe INTM, spécialiste en conseil et en services numériques, s’inscrit dans une volonté de proximité et de performances opérationnelles.
+
+Le Groupe est rejoint en 2016 par NSIS, qui complète les offres de services avec son expertise et son centre de formation agréé.
+
+Aujourd'hui le Groupe INTM, c'est plus de 1800 collaborateurs avec qui nous cultivons une proximité étroite, valeur même de notre ADN.
+
+Grâce à cette confiance mutuelle entre INTM et ses collaborateurs, le Groupe connaît une forte croissance appuyée par des référencements durables avec de grands groupes dans toute la France, en Belgique et au Maroc.
+
+Le Groupe INTM est présent dans les secteurs de l’industrie, des transports, de l’assurance, de la banque, des télécoms, de l’énergie, etc…
+
+INTM est multi-spécialiste, avec un positionnement sur l'ensemble du cycle de vie du système d'information :
+
+Les métiers du conseil et de l'assistance à maitrise d'ouvrage (AMOA)
+
+Les métiers dits techniques (MOE) : avec l'infrastructure et l'architecture technique
+
+INTM accompagne ses clients sur des problématiques à fortes valeurs ajoutées autour de :
+
+La transformation digitale
+
+BI Consulting et big Data
+
+L'intelligence artificielle
+
+La cyber sécurité
+
+Le DevOps
+
+La formation de nouveaux talents (via notre centre de formation agréé)
+
+….
+
+Le Groupe INTM recrute aujourd'hui ses collaborateurs de demain !
+
+Nous recherchons tous types de talents, de débutant à expert, et ce, du niveau Bac à Bac +5 etc... sur les métiers suivants :
+
+Développeur
+
+Ingénieur sécurité
+
+Ingénieur système
+
+Ingénieur de production
+
+Chef de projet infrastructure
+
+Architecte technique
+
+PMO
+
+Coach Agile
+
+AMOA
+
+Business Analyste
+
+DATA scientist
+
+..."
+17,https://www.indeed.fr/emplois?q=Cyber%20Securit%C3%A9&l=Nantes&radius=100&limit=100&sort=date&vjk=07c483a9194ad2c7,null,[],null,Airbus,- Rennes (35),null,null,"il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Cyber Securité,Nantes,"Airbus Cybersecurity SAS
+Airbus is a global leader in aeronautics, space and related services. In 2018 it generated revenues of € 64 billion and employed a workforce of around 134,000. Airbus offers the most comprehensive range of passenger airliners. Airbus is also a European leader providing tanker, combat, transport and mission aircraft, as well as one of the world's leading space companies. In helicopters, Airbus provides the most efficient civil and military rotorcraft solutions worldwide.
+
+Our people work with passion and determination to make the world a more connected, safer and smarter place. Taking pride in our work, we draw on each other's expertise and experience to achieve excellence. Our diversity and teamwork culture propel us to accomplish the extraordinary - on the ground, in the sky and in space.
+Job Description
+Société :
+Spécialiste européen de la cyber sécurité, Airbus CyberSecurity a pour mission de protéger les entreprises, les infrastructures nationales critiques, ainsi que les organisations gouvernementales et de défense contre les cyber menaces. Ses produits et services de sécurité fiables et ultra-performants sont capables de détecter, d’analyser et de neutraliser les cyberattaques les plus sophistiquées.
+
+Nous sommes plus de 700 experts basés dans nos principaux sites en France, en Allemagne et au Royaume-Uni, chacun avec un Security Operating Center, nous opérons également aux États-Unis et au Moyen-Orient. Nous nous positionnons sur les marchés de la surveillance, de l'investigation et de l'audit de sécurité pour les systèmes les plus exposés aux menaces au sein du groupe Airbus, mais aussi pour des partenaires et des clients du secteur des transports, de la défense et de l'aérospatial.
+
+Coordonnées :
+Merci de bien vouloir postuler en ligne, via votre profil eRecruiting, en joignant votre C.V.
+
+Description du poste :
+En tant qu’Ingénieur Système Logiciel, vous participez au développement et à l'architecture logiciel des produits et projets logiciels de Airbus Cyber à Rennes. Votre mission est de développer des briques logicielles performantes et sécurisées parfaitement conformes aux besoins de nos clients.
+
+Ce poste nécessite une habilitation de sécurité ou nécessite d'être éligible à une habilitation par les autorités reconnues.
+
+Tâches et missions principales, responsabilités :
+Principales missions :
+Participer au développement des produits et projet au sein d’une équipe Scrum.
+Apporter les bonnes pratiques pour la réalisation d’un produit fiable et performant.
+Assurer que les produits prennent en compte les contraintes d’exploitation chez nos clients.
+Contribuer aux choix technologiques et à l’innovation.
+
+Compétences requises :
+Compétences :
+Maitrise des OS linux (redhat, ubuntu, ...) et des systèmes de fichiers (EXT 2/3/4, NFS, ...)
+Maitrise des outils d’intégration : Jenkins, Jira
+Maitrise des pratiques de développement logiciel agile : Scrum, TDD
+Maitrise des langages C, Python et Scripting
+
+Soft skills :
+Travail en équipe en mode Scrum
+Rigueur, autonomie et polyvalence
+Approche qualité logiciel sur les process et les produits
+Capacité d’apprentissage et d’amélioration continue
+
+Informations complémentaires
+Formation : Bac+5 minimum en école d’ingénieurs ou université
+Langue : la maitrise de l’anglais est obligatoire
+
+This job requires an awareness of any potential compliance risks and a commitment to act with integrity, as the foundation for the Company’s success, reputation and sustainable growth.
+
+By submitting your CV or application you are consenting to Airbus using and storing information about you for monitoring purposes relating to your application or future employment. This information will only be used by Airbus.
+Airbus is committed to achieving workforce diversity and creating an inclusive working environment. We welcome all applications irrespective of social and cultural background, age, gender, disability, sexual orientation or religious belief."
+18,https://www.indeed.fr/emplois?q=Cyber%20Securit%C3%A9&l=Nantes&radius=100&limit=100&sort=date&vjk=135e61059b50d188,"Architecte SSI Cyberdéfense h/f
+Airbus1,454 avis - Rennes (35)",[],Architecte SSI Cyberdéfense h/f,Airbus,- Rennes (35),null,null,"il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Cyber Securité,Nantes,"Airbus Cybersecurity SAS
+Airbus is a global leader in aeronautics, space and related services. In 2018 it generated revenues of € 64 billion and employed a workforce of around 134,000. Airbus offers the most comprehensive range of passenger airliners. Airbus is also a European leader providing tanker, combat, transport and mission aircraft, as well as one of the world's leading space companies. In helicopters, Airbus provides the most efficient civil and military rotorcraft solutions worldwide.
+
+Our people work with passion and determination to make the world a more connected, safer and smarter place. Taking pride in our work, we draw on each other's expertise and experience to achieve excellence. Our diversity and teamwork culture propel us to accomplish the extraordinary - on the ground, in the sky and in space.
+Job Description
+Société :
+Spécialiste européen de la cyber sécurité, Airbus CyberSecurity a pour mission de protéger les entreprises, les infrastructures nationales critiques, ainsi que les organisations gouvernementales et de défense contre les cyber menaces. Ses produits et services de sécurité fiables et ultra-performants sont capables de détecter, d’analyser et de neutraliser les cyberattaques les plus sophistiquées.
+
+Nous sommes plus de 700 experts basés dans nos principaux sites en France, en Allemagne et au Royaume-Uni, chacun avec un Security Operating Center, nous opérons également aux États-Unis et au Moyen-Orient. Nous nous positionnons sur les marchés de la surveillance, de l'investigation et de l'audit de sécurité pour les systèmes les plus exposés aux menaces au sein du groupe Airbus, mais aussi pour des partenaires et des clients du secteur des transports, de la défense et de l'aérospatial.
+
+Coordonnées :
+Merci de bien vouloir postuler en ligne, sur notre site Carrières (www.jobs.airbus.com, en joignant votre C.V. et lettre de motivation en anglais). En soumettant votre candidature, vous consentez à Airbus Group l'utilisation et l'enregistrement d'informations vous concernant à des fins de suivi relatif à votre candidature ou futur emploi. Ces informations resteront à l'usage exclusif d'Airbus Group.
+
+Description du poste :
+Pour Airbus CyberSecurity dans le Centre des Solutions Cyber sécurité basé à Rennes, nous recherchons un Architecte Cyber Sécurité (h/f). Au sein de l'équipe « Design & Intégration », votre mission consistera à élaborer des solutions de cyberdéfense en réponse aux attentes de la clientèle.
+Ce poste nécessite une habilitation de sécurité ou nécessite d'être éligible à une habilitation par les autorités reconnues.
+
+Tâches et missions principales, responsabilités :
+En nous rejoignant, vous vous verrez confier les missions suivantes :
+Vous intervenez sur les études d'architecture SSI, afin de spécifier les besoins de sécurité à prendre en compte et d'orienter les solutions techniques les plus adaptées par rapport au besoin du client.
+Vous êtes l’interface privilégiée du responsable projet, et vous êtes amené à définir la stratégie du projet avec lui et apporter les éléments pour définir les risques et opportunités du projet.
+Vous agissez au sein de l'entreprise pour piloter les équipes techniques, et vous êtes le référent technique vis-à-vis de nos clients. C’est vous qui animerez les GT SSI.
+Vous êtes amené à faire une veille technique sur les progrès dans le monde de la cyber-sécurité, des méthodes d'attaque et des méthodes de protection système, et logicielles de protection.
+
+Compétences requises :
+Vous avez la formation, les expériences et compétences suivantes :
+
+Titulaire d'un diplôme d’ingénieur Bac+5 (ou équivalent) dans le domaine de la cyber sécurité ou une discipline apparentée.
+3 ans d'expérience minimum à un poste similaire et certification ISO27001.
+Solide connaissance des produits de cyber défense : IDS/IPS, système de gestion des journaux, SIEM, scanner de vulnérabilité, outils de détection APT, etc.
+Compétences Linux et Windows.
+Vous êtes toujours curieux, investi, concerné. En équipe, vous favorisez la transparence et l’écoute de vos collaborateurs.
+Compétences linguistiques : Niveau avancé en anglais.
+
+This job requires an awareness of any potential compliance risks and a commitment to act with integrity, as the foundation for the Company’s success, reputation and sustainable growth.
+
+By submitting your CV or application you are consenting to Airbus using and storing information about you for monitoring purposes relating to your application or future employment. This information will only be used by Airbus.
+Airbus is committed to achieving workforce diversity and creating an inclusive working environment. We welcome all applications irrespective of social and cultural background, age, gender, disability, sexual orientation or religious belief."
+19,https://www.indeed.fr/emplois?q=Cyber%20Securit%C3%A9&l=Nantes&radius=100&limit=100&sort=date&vjk=166f358dc2aabccd,"Consultant Cyber Security - Nantes - F/H
+TECH VALLEY - Nantes (44)
+CDI",[],Consultant Cyber Security - Nantes - F/H,TECH VALLEY,- Nantes (44),null,null,"Apec.fr - il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Cyber Securité,Nantes,"TECH VALLEY est une société de Consulting en Systèmes d'Informations, et d'Expertise en ingénierie informatique, constituée d'une équipe de consultants, d’ingénieurs, et d’experts.
+
+Nous mettons en avant une vision fédératrice de la qualité des SI : robustesse, efficacité, dimensionnement, sécurité, performance, évolutivité, conformité, optimisation.
+
+Nous intervenons au national dans l'accompagnement des Grands Comptes et des ETI secteurs industrie, médical, telecom, finance, énergie, sur la transition de l’industrialisation des systèmes d’informations, principalement sur les architectures fonctionnelles, les process de développement et intégration, la Qualité et sécurité des systèmes d’informations, la fiabilité et les performances, ainsi que sur les architectures techniques et opérationnelles, les process de production et changement.
+
+Le siège de la société se situe à Perpignan – Tecnosud, nos agences couvrent nos interventions à Toulouse, Bordeaux, Nantes, Lille, Paris, Lyon, Montpellier, Aix, Sophia Antipolis.
+
+Intitulé du poste : Consultant Cyber Security
+
+Site : Nantes
+
+Postes ouverts au recrutement :
+. Ingénieur sécurité SI / IT
+
+. Consultant Cyber sécurité
+
+. Analyste Cyber sécurité
+
+. Expert sécurité infrastructure
+
+Vos compétences :
+. compétences techniques parmi : Analyse de log, Authentification Forte ,Chiffrement ,Crypto, Firewalling, IAM, PKI, SSO, Gestion des certificats, , IPtables, IPSEC, Pentest - Test anti intrusion
+
+. compétences management de la sécurité parmi : Analyse de risque, Risk Management, Analyse de vulnérabilité, , Audit sécurité, Analyse Forensic, Hardening, Mobile Device Management, SIEM, SOC, PRA - PRI - PCA - PCS, PSSI
+
+. Méthodes analyse de risque parmi : Critères communs, EBIOS, Mehari
+
+. Compétences outils parmi : Airwatch, Blue Coat, Certes, Watcgguard, SourceFire, Splunk, StormShield, Qradar, FireEye, ForcePoint, Kerberod
+
+. Normes parmi : ISO27001, ,ISO27005, SCAP (Security Content Automation Protocol)
+
+Votre expérience, votre sens du service, votre goût du travail en équipe et vos qualités relationnelles font partie de vos atouts, rejoignez la team TECH VALLEY !
+
+TECH VALLEY - La source numérique - France
+Profil recherché TECH VALLEY est une société de Consulting en Systèmes d'Informations, et d'Expertise en ingénierie informatique, constituée d'une équipe de consultants, d’ingénieurs, et d’experts.
+
+Nous mettons en avant une vision fédératrice de la qualité des SI : robustesse, efficacité, dimensionnement, sécurité, performance, évolutivité, conformité, optimisation.
+
+Nous intervenons au national dans l'accompagnement des Grands Comptes et des ETI secteurs industrie, médical, telecom, finance, énergie, sur la transition de l’industrialisation des systèmes d’informations, principalement sur les architectures fonctionnelles, les process de développement et intégration, la Qualité et sécurité des systèmes d’informations, la fiabilité et les performances, ainsi que sur les architectures techniques et opérationnelles, les process de production et changement.
+
+Le siège de la société se situe à Perpignan – Tecnosud, nos agences couvrent nos interventions à Toulouse, Bordeaux, Nantes, Lille, Paris, Lyon, Montpellier, Aix, Sophia Antipolis.
+
+Intitulé du poste : Consultant Cyber Security
+
+Site : Nantes
+
+Postes ouverts au recrutement :
+. Ingénieur sécurité SI / IT
+
+. Consultant Cyber sécurité
+
+. Analyste Cyber sécurité
+
+. Expert sécurité infrastructure
+
+Vos compétences :
+. compétences techniques parmi : Analyse de log, Authentification Forte ,Chiffrement ,Crypto, Firewalling, IAM, PKI, SSO, Gestion des certificats, , IPtables, IPSEC, Pentest - Test anti intrusion
+
+. compétences management de la sécurité parmi : Analyse de risque, Risk Management, Analyse de vulnérabilité, , Audit sécurité, Analyse Forensic, Hardening, Mobile Device Management, SIEM, SOC, PRA - PRI - PCA - PCS, PSSI
+
+. Méthodes analyse de risque parmi : Critères communs, EBIOS, Mehari
+
+. Compétences outils parmi : Airwatch, Blue Coat, Certes, Watcgguard, SourceFire, Splunk, StormShield, Qradar, FireEye, ForcePoint, Kerberod
+
+. Normes parmi : ISO27001, ,ISO27005, SCAP (Security Content Automation Protocol)
+
+Votre expérience, votre sens du service, votre goût du travail en équipe et vos qualités relationnelles font partie de vos atouts, rejoignez la team TECH VALLEY !
+
+TECH VALLEY - La source numérique - France
+Entreprise TECH VALLEY est une société de conseil en Systèmes d'Informations, et d'expertise en ingénierie des Systèmes d'Informations, constituée d'une équipe de consultants et d’experts (IS & IT).
+
+Nous intervenons dans l'accompagnement des Grands Comptes et des PME secteurs industrie, telecom, finance, sur la transition de l’industrialisation des systèmes d’informations, principalement sur les architectures fonctionnelles, les process de développement et intégration, la Qualité et sécurité des systèmes d’informations, la fiabilité et les performances, ainsi que sur les architectures techniques et opérationnelles, les process de production et changement.
+
+Compétences principales : AMOA / Direction et gestion de projet ; Architecture IS et IT ; Ingénierie application et web application (java, .net, Javsacript, Html5, bases de données) ; Ingénierie application mainframe (AS400 ; MVS) ; Conseil business solutions (ERP, PLM, GED, CRM, BI, EAI) , Ingénierie infrastructure (UNIX, LINUX, WINDOWS, MVS-Z/OS, RESEAU, SECURITE), exploitation ; Support méthode et qualité."
+20,https://www.indeed.fr/emplois?q=Cyber%20Securit%C3%A9&l=Nantes&radius=100&limit=100&sort=date&vjk=46f6520aba95a022,null,[],null,null,- Cholet (49),null,null,"Thales - il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Cyber Securité,Nantes,"QUI SOMMES-NOUS ?
+Thales propose des systèmes d’information et de communication sécurisés et interopérables pour les forces armées, les forces de sécurité et les opérateurs d’importance vitale. Ces activités, qui regroupent radiocommunications, réseaux, systèmes de protection, systèmes d’information critiques et cybersécurité, répondent aux besoins de marchés où l’utilisation des nouvelles technologies numériques est déterminante. Thales intervient tout au long de la chaîne de valeur, des équipements aux systèmes en passant par le soutien logistique et les services associés.
+À Cholet, Thales conçoit, développe, intègre, qualifie, industrialise, produit, déploie et maintient en condition opérationnelle des équipements de radiocommunications et des réseaux tactiques militaires, des équipements et systèmes de guerre électronique ainsi que des solutions de sécurité des systèmes d’informations (cryptage, réseaux, etc). C’est également à Cholet que Thales intègre, industrialise et produit les stations sol des réseaux de communication par satellites.
+La Direction Sécurité des Technologies de l’Information (ITS), pour son Service de Développement des Equipements de Sécurité (SES) recherche un(e) Ingénieur Développement Logiciel Temps Réel Confirmé. Vous travaillez au sein du service SES, vous travaillez en collaboration avec des experts du domaine.
+QUI ETES-VOUS ?
+De formation ingénieur, vous avez une expérience dans le domaine du développement logiciel embarqué ?
+Vous avez la maîtrise des langages C, C++ et êtes familiers des environnements LINUX et OS temps réel ?
+Vous effectuez une veille technologique et suivez les tendances du marché ainsi que l’actualité de cyberdéfense ?
+Vous disposez d’une culture avancée des communications réseaux IP et des télécommunications radio, de la cryptographie et de la cyber sécurité ?
+Votre entourage reconnaît votre rigueur, votre ouverture d’esprit, votre capacité d’écoute, votre force de proposition ainsi que votre capacité d’adaptation ?
+Alors ce qui suit va vous intéresser !
+CE QUE NOUS POUVONS ACCOMPLIR ENSEMBLE :
+Vos missions principales seront de :
+Analyser et comprendre les enjeux de sécurité et les solutions proposées ;
+Participer à l’élaboration des spécifications logicielles ;
+Participer à la conception de modules logiciels embarqués ;
+Développer les modules logiciels considérés et tester le bon fonctionnement de ceux-ci de manière unitaire ;
+Participer à l’intégration des modules logiciels sur plateforme de simulation, sur carte ou équipement cible.
+Innovation, passion, ambition : rejoignez Thales et créez le monde de demain, dès aujourd’hui."
+21,https://www.indeed.fr/emplois?q=Cyber%20Securit%C3%A9&l=Nantes&radius=100&limit=100&sort=date&vjk=198bf2f3817f6764,"Cyber Security Engineer
+EXFO inc. - Rennes (35)",[],Cyber Security Engineer,EXFO inc.,- Rennes (35),null,null,"il y a 30+ jours
+Signaler cette offre d'emploi",Cyber Securité,Nantes,"EXFO propose des solutions intelligentes de test, de monitoring et d’analyse de réseaux aux plus grands fournisseurs de service de télécommunications, fabricants d’équipements de réseau et de services Web, et cette mission nous passionne!
+Avec près de 1900 employés dans plus de 25 pays, EXFO est le no.1 mondial des tests de fibre optique et possède le plus imposant déploiement d’assurance de services actifs. Notre vaste gamme de solutions matérielles et logicielles permet à nos clients de suivre les transformations technologiques en lien avec la fibre optique, la 5G, la virtualisation, l’internet des objets et l’analytique des mégadonnées. Toujours à la recherche des meilleurs talents, joignez-vous à nous et participez à l’avancement d’une industrie en pleine expansion.
+Sommaire du poste
+Au sein de la R&D vous rejoignez une équipe transverse basée à Rennes en charge de
+l’industrialisation de nos produits. Vous intervenez en transverse plus particulièrement dans le
+domaine de la sécurité système et applicative.
+Ce que nous recherchons
+Compétences techniques
+Vous contribuez à la mise en place de la stratégie sécurité de l’entreprise pour nos produits.
+Vous effectuez des études techniques, des tests, écrivez des procédures.
+Vous êtes proactif pour l'amélioration continue de la sécurité de nos solutions logicielles pour leur installation, configuration, administration, et mises à niveau dans un environnement client et/ou dans nos environnements de tests.
+Vous êtes amené à animer des réunions transversales au sein de l'organisation.
+Vous fournissez l'expertise technique attendue aux équipes de support dans l'analyse des problèmes terrain.
+Connaissance de la sécurité de l'infrastructure et des outils d'analyse associés
+Certifications de sécurité telles que (ISC) ² CSSLP considéré comme un atout
+Connaissance des environnements Linux, Windows, Cloud, Virtualisation (RHEL, CentOS, Azure, OpenStack, VMWare), conteneurs
+Connaissances en réseau, systèmes
+Bonnes connaissances en gestion des identités et des accès
+Connaissance de la cryptographie.
+Familiarité avec les tests de sécurité des applications statiques et dynamiques
+Développement DevOps : Ansible, Shell, Python, PowerShell
+Expérience en développement logiciel est un atout.
+Aptitudes requises
+Capacités d'analyse et de synthèse
+Flexibilité technologique
+Curieux
+Bonne communication
+Esprit d'équipe
+Exigences
+Expérience pertinente: 3 années d’expérience minimum.
+Exigence linguistique: Bonne maîtrise de l’anglais (parlé et écrit).
+Formation : Bac + 3/5.
+Toute autre combinaison pertinente de formation et d’expérience sera considérée
+Type d'emploi : Temps plein"
+22,https://www.indeed.fr/emplois?q=Cyber%20Securit%C3%A9&l=Nantes&radius=100&limit=100&sort=date&vjk=897ceab5b350789b,"Ingénieur CyberSécurité - Big Data sur Nantes / Freelance
+Almatek - Nantes (44)
+Temps plein, Freelance / Indépendant",[],Ingénieur CyberSécurité - Big Data sur Nantes / Freelance,Almatek,- Nantes (44),null,null,"Freelance-info - il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Cyber Securité,Nantes,"Afin d’accompagner le déploiement d’un projet Big Data sur les infrastructures d’un client un grand compte, nous recherchons un profil Ingénieur Cyber Sécurité.
+
+Date de démarrage : immédiate
+
+Localisation : St-Herblain, déplacement ponctuels sur site client à Angers (peu fréquents, 1 fois par mois/sprint environ)
+
+TJM : en fonction du profil
+
+Durée : 6 mois, renouvelable
+
+Contexte de la mission :
+Vous intégrerez notre Centre de Services BIG DATA dédié à l’accompagnement d’un grand compte du domaine de la protection sociale pour lequel nous travaillons sur des sujets stratégiques et réglementaires. Plus précisément, vous participerez à un projet innovant de mise en place d’une architecture et de cas d’usages BIG DATA.
+
+La mission comprend la participation à 2 projets : POC Détection de la fraude et socle de stockage (équipe client à Angers).
+
+Activités :
+Installation, configuration de produits logiciels liés à la sécurité
+Configuration système pour la mise en place et maintien de la sécurité
+Application des procédures de sécurité définies par l’expert sécurité
+Amélioration des procédures
+Automatisation
+Organisation :
+Les deux projets sont menés en agilité avec le cérémonial SCRUM :
+
+Participation aux cérémonies Agiles (Daily, Démo, Rétro)
+Echanges sur les sujets sécurités (réunion point sécurité) avec les PO Sécurité client
+Affinage, chiffrage, et découpage des US
+Vous serez accompagné par notre expert sécurité (en backup à distance) ainsi que par notre expert intégrateur de solutions logicielles.
+Environnement technologique :
+Linux / Serveur CentOS 7
+Bash
+Stack Hadoop Hortonworks 2.6+. Prévision passage à HDP 3 / HDF 3
+Automatisation : Ansible
+Sécurité : Knox, Ranger, Ranger KMS, Kerberos, Active Directory
+Profil recherché :
+Connaissances générales des systèmes linux et du bash
+Autonomie
+Capacité à appliquer des procédures et prendre du recul sur son activité pour améliorer lesdites procédures / automatiser.
+Bon communiquant. Être capable de travailler avec des personnes à distance (acteurs à Angers & Paris)."
+23,https://www.indeed.fr/emplois?q=Cyber%20Securit%C3%A9&l=Nantes&radius=100&limit=100&sort=date&vjk=77948f542d9c5c19,"CHARGE INFORMATIQUE ET SSI - NANTES F/H
+GROUPE ESPACS / ESPACS - Nantes (44)
+CDI",[],CHARGE INFORMATIQUE ET SSI - NANTES F/H,GROUPE ESPACS / ESPACS,- Nantes (44),null,null,"Apec.fr - il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Cyber Securité,Nantes,"Le groupe ESPACS est un groupe spécialisé dans la sécurisation des sites (Clôtures-Automatisme-Sécurité). Dans le cadre de notre développement à Nantes, nous recherchons pour venir en appuie au Responsable informatique, un Informaticien, Administrateur Réseau. Le poste est basé à Nantes (44) et vous serez rattaché au responsable Informatique et SSI de la holding à châteauneuf-de-Galaure (26330).
+
+Les missions principales seront :
+Aide à la gestion, installation et maintenance des logiciels du système informatique des sociétés du Groupe ESPACS.
+
+Gestion des sauvegardes sur les applications et serveurs internes ;
+
+Sensibilisation des utilisateurs sur la sécurité informatique et sur les règles de bonnes pratiques ;
+
+Participation aux projets informatiques de l’établissement (dématérialisation, archivage etc…).
+
+Installation du matériel informatique (PC, logiciel, messagerie etc), téléphonique de chaque nouveau collaborateur du groupe et présentation des ressources informatiques aux nouveaux utilisateurs ;
+
+Administration et exploitation de serveurs, rédaction de procédures informatiques.
+
+Responsable de la mise en place et de l’application de la « Règlement général sur la protection des données » au sein de l’entreprise.
+
+Application, recherche, devis et formation des nouveaux logiciels pour l’ensemble du groupe.
+
+Gestion des incidents informatique et des achats informatiques.
+
+Garant de la disponibilité, de l’intégralité et de la sécurité des S.I.
+
+Participer aux actions de cyber sécurité (lutte informatique défensive, sécurité des systèmes d'information).
+
+Effectuer une veille et une mise à jour permanente des systèmes pour répondre aux nouveaux besoins et aux avancées technologiques.
+
+Création d’outils automatisés : Excel, zeendoc, base de données etc.
+
+Tableaux de suivi (coordonnées collaborateurs, parc informatique et matériel etc).
+
+Vous souhaitez rejoindre un groupe dans lequel vous pourrez inventer un avenir à taille humaine ? Alors rejoignez-nous ! possibilité d'évolution au sein du groupe.
+
+Profil recherché Profil requis pour le poste :
+Autonomie, rigueur et organisation
+
+Bon sens relationnel
+
+Connaissance générale des systèmes d’exploitation
+
+Notions sur les configurations usuelles, systèmes et outils bureautiques
+
+Connaissances sur les réseaux informatiques et sur la téléphonie sur IP etc.
+
+De formation BAC à bac + 3 dans le milieu informatique, vous êtes rigoureux(se) et méthodique. Vous êtes capable d’acquérir rapidement de l’autonomie dans votre fonction et gérer les priorités.
+
+Expérience minimum de 3 ans sur un poste similaire.
+
+Poste évolutif suivant expérience et compétences
+Entreprise Et si vous sécurisiez votre parcours professionnel ! Rejoignez le Groupe ESPACS, chiffre d’affaires 65 M€, 300 collaborateurs, spécialiste de la sécurité physique et intelligente de sites (installation de clôtures, portails, vidéo, alarmes, automatisme, borne escamotables, barrières levantes, portes sectionnelles, fermetures etc) assurée par nos 4 filiales métiers : ESPACS, ESPACS AUTOMATISME, VOLFEU ALARM, ESPACS FERMETURES et 3 filiales spécialisées ESPACS 3S, ESPACS GRANDS TRAVAUX, CLOPROTECH.
+
+La Holding REB FINANCES anime l'ensemble de ses 7 sociétés avec ses fonctions supports : recrutement, juridique, communication, développement, trésorerie, comptabilité, paie, informatique, achats.
+
+Sur 2019, le Groupe ESPACS présente un plan de recrutement de 75 à 150 postes à pourvoir sur le sud-est (départements 26, 38, 69, 74, 73, 84, 13, 42, 01, 63, 43, 34, 30, 06), et le nord ouest (départements 72, 49, 37, 35, 44, 53, 22, 29, 56, 61, 14, 50) sur les métiers du groupe : ouvriers poseur, chef d'équipe, conducteur de travaux, chargé d'affaires, Chargé Etude chiffrage, assistant(e) administratif(ve), techniciens, sur les prestations de pose et installation de clôtures, portails, automatismes, barrières-levantes, bornes escamotables, contrôle d’accès, vidéo, alarmes, fermetures anti-intrusion, sites sensibles etc…"
+24,https://www.indeed.fr/emplois?q=Cyber%20Securit%C3%A9&l=Nantes&radius=100&limit=100&sort=date&vjk=8d85827e7d03ec00,"Consultant en gestion des risques – @PwC Nantes – CDI - H/F
+PwC6,979 avis - Nantes (44)",[],Consultant en gestion des risques – @PwC Nantes – CDI - H/F,PwC,- Nantes (44),null,null,"il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Cyber Securité,Nantes,"Line of Service
+Assurance
+Industry/Sector
+Not Applicable
+Specialism
+Assurance
+Management Level
+Associate
+Job Description & Summary
+Le département conseil en gestion des risques de PwC Nantes accompagne les entreprises du Grand Ouest dans la revue des risques liés aux SI, opérationnels et financiers.
+Les consultants interviennent dans la compréhension des organisations et des processus, dans l'identification des risques et l’évaluation du dispositif de contrôle. Ils accompagnent également nos clients dans la mise en place ou le renforcement de l’environnement de contrôle contribuant à la maitrise des risques.
+Ce que vous pouvez attendre de la mission :
+Assurer la revue des processus fonctionnels, opérationnels et financiers, incluant la dimension SI, sur des secteurs d’activités variés (industries et services, services financiers),
+Réaliser des audits de systèmes d’information comptable et financier, opérationnel et métier,
+Effectuer des revues de projet de transformation, impactant notamment les SI,
+Evaluer la maturité de la gouvernance des fonctions systèmes d’information, cyber sécurité, et digitales,
+Réaliser des audits / diagnostics de conformité réglementaire (ex. GDPR, Sapin 2, Piste d’audit fiable TVA…),
+Cartographier les risques : diagnostic, recommandations pour l’organisation du contrôle interne, assistance à l’élaboration des plans d’actions,
+Accompagner la mise en place de référentiels de contrôle interne,
+Assistance à la réalisation de missions d’Audit interne,
+Ce que nous attendons de vous :
+Diplômé(e) d’une Ecole de Commerce, d'Ingénieur ou d’une Université ayant, idéalement, un double cursus : comptabilité / contrôles / audit et systèmes d’information,
+Anglais opérationnel afin d’intervenir au sein d’environnements internationaux.
+Education (if blank, degree and/or field of study not specified)
+Degrees/Field of Study required:
+Degrees/Field of Study preferred:
+Certifications (if blank, certifications not specified)
+Desired Languages (If blank, desired languages not specified)
+Travel Requirements
+Not Specified
+Available for Work Visa Sponsorship?
+No
+Government Clearance Required?
+No
+Job Posting End Date"
+25,https://www.indeed.fr/emplois?q=Cyber%20Securit%C3%A9&l=Nantes&radius=100&limit=100&sort=date&vjk=5d4fbb630464f11e,"EXPERT SÉCURITÉ / RSSI (F/H)
+Expectra.fr66 avis - Rennes (35)
+65 000 € par an - CDI",[],EXPERT SÉCURITÉ / RSSI (F/H),Expectra.fr,- Rennes (35),null,null,"il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Cyber Securité,Nantes,"Expectra, leader en France de l'intérim spécialisé et du recrutement en CDI de cadres et agents de maîtrise.
+Les consultants du Département Informatique & Télécoms vous proposent des opportunités de carrière.
+
+Nous recherchons pour le compte de notre client, un groupe international de service, un Responsable Sécurité des Systèmes d'Information (RSSI) H/F en CDI basé en région Parisienne ou Rennes, Blois, Lille
+
+Rattaché(e) à la Direction France de la sécurité des systèmes d'information, vous serez en charge de la mise en œuvre de la sécurité sur des systèmes d'information de grande envergure. Vous serez garant du niveau de couverture des objectifs et exigences fonctionnelles de sécurité tout en l'intégrant dans le SI de l'entreprise. Pour cela, vous serez amené(e) à :
+Piloter les actions de sécurité répondant aux objectifs définis ;
+Participer aux plans de cyber sécurisation de l'entreprise ;
+Apporter vos conseils et votre expertise en support aux équipes opérationnelles ;
+Effectuer des contrôles sur le suivi des processus et vérifie la bonne application des mesures correctrices et préventives liées à la sécurité ;
+Superviser les alarmes et les incidents de sécurité ;
+A rédiger les documentations sécurité (PAS, PSSI) ;
+Assurer au quotidien la sensibilisation du personnel.
+Au sein d'un département constitué de professionnels de la sécurité des systèmes d'information, vous devrez également réaliser un travail de veille technologique et réglementaire dans le domaine de la sécurité et proposer des évolutions que vous jugerez nécessaires pour garantir la sécurité des systèmes d'information.
+
+Diplômé(e) d'une école d'ingénieurs informatique ou d'un équivalent universitaire, vous possédez une expérience d'au moins 10 ans dans le management de la sécurité des systèmes d'information. Vous justifiez d'une bonne connaissance dans le monde des projets informatiques et d'un bon socle technique dans le monde informatique.
+
+La connaissance des normes ISO 2700x est fortement souhaitée. Une expérience dans le monde de la santé, du secteur militaire ou des administrations de l'état sera appréciée.
+
+Fortes qualités relationnelles et aptitudes à communiquer (à l'écrit et à oral).
+
+Anglais courant pour participer à des réunions internationales
+Salaire selon profil
+Poste basé région Parisienne ou Rennes, Blois, Lille avec des déplacement au niveau national"
+26,https://www.indeed.fr/emplois?q=Cyber%20Securit%C3%A9&l=Nantes&radius=100&limit=100&sort=date&vjk=967ac77a3162fed4,"Chef de projet GTC/GTB H/F
+SPIE561 avis - Le Rheu (35)",[],Chef de projet GTC/GTB H/F,SPIE,- Le Rheu (35),null,null,"il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Cyber Securité,Nantes,"Intitulé de la fonction / poste
+Chef de projet GTC/GTB H/F
+Type de contrat
+Durée indéterminée
+Nature de contrat
+Temps plein
+Statut
+Employé / Technicien / Agent de Maîtrise / Maîtrisé (CH)
+Votre mission
+Vous êtes affecté au Service PSR de la division Tertiaire au sein d'une activité dédiée aux bâtiments intelligents (sureté et gestion technique) et rattaché au responsable d'affaire « GTC/GTB ». Vous prenez en charge le suivi technique des projets depuis la prise de commande jusqu'à la réception et assistez le Responsable d'affaires dans le secteur avant-vente.
+
+Référent technique des projets, vous intégrez une équipe de 7 personnes spécialisée en conception, intégration et maintenance de système de GTB dans le secteur tertiaire.
+
+Vos missions principales seront les suivantes :
+Conception et mis en œuvre de solutions techniques
+Interlocuteur technique des clients
+Suivi technique des projets en matière de qualité, coûts et délais
+Coordonner les équipes de réalisation (avancement, planning et cohérence technique des développements)
+
+Des déplacements dans le grand ouest pour les besoins des projets sont à prévoir ainsi qu'une astreinte liée à la maintenance de nos installations
+Votre profil
+De formation Bac+3 à Bac+5 avec une expérience significative en gestion de projet dans le domaine de la Gestion Technique des Bâtiments (GTB) ou de l'automatisme.
+
+Vous maitrisez techniquement les matériels, logiciels et protocole de GTB ; et une connaissance en cyber sécurité serait un plus.
+Vous êtes reconnu pour vos capacités relationnelles et organisationnelles, votre rigueur et votre autonomie dans votre travail.
+Localisation du poste
+Lieu de travail
+LE RHEU"
+27,https://www.indeed.fr/emplois?q=Cyber%20Securit%C3%A9&l=Nantes&radius=100&limit=100&sort=date&vjk=d18e1368488fc2e7,"Expert DNS
+Silkhom - Angers (49)
+CDI",[],Expert DNS,Silkhom,- Angers (49),null,null,"il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Cyber Securité,Nantes,"Au sein de l'équipe Infrastructure composée aujourd'hui de dix collaborateurs (Administrateur Système, Devops, Administrateur Réseaux, etc.), votre poste sera composé pour 70% de projets et 30% de maintien en conditions opérationnelles. Référent sur la partie DNS, voici vos missions principales :
+Analyse des infrastructures Systèmes et réseaux
+Mise en place d'un nouveau réseau BGP
+Gestion de l'ajout de nouveaux opérateurs
+Intégration de nouveaux serveurs DNS et optimisation de ceux déjà en place
+Accompagnement des développeurs sur la partie déploiement
+Administration Système Linux (Debian)
+Gestion des sauvegardes
+Mise à jour des documentations techniques
+Pourquoi rejoindre cette société ?
+Société spécialisée dans la protection des données et la cyber sécurité : sujets en vogue
+Clients prestigieux : L'Oréal, Boehringer, etc.
+Poste de référent technique en système et réseaux : formation et accompagnement des juniors
+Stack technologique extrêmement riche : Automatisation des tâches, intégration continue, processus Devops, etc.
+Profil recherché
+Passionné de nouvelles technologies, le monde de la cyber sécurité ne vous a jamais laissé indifférent.
+– 3 ans d’expériences minimum en Infrastructure Système et réseaux
+– Vous avez déjà fait de l’administration réseau sous linux (routage)
+– Vous avez des compétences avancées sur du DNS
+– L’anglais serait un véritable avantage
+Compléments
+Lieu : Angers
+Contrat : CDI
+Salaire : Selon profil
+Si votre profil correspond, nous reviendrons vers vous dans les 7 jours à compter de la date d'envoi."
+28,https://www.indeed.fr/emplois?q=Cyber%20Securit%C3%A9&l=Nantes&radius=100&limit=100&sort=date&vjk=fc1e1f0effe8d38f,"Analyste Reverse Engineering H/F
+Thales Group1,222 avis - Rennes (35)",[],Analyste Reverse Engineering H/F,Thales Group,- Rennes (35),null,null,"Thales - il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Cyber Securité,Nantes,"QUI SOMMES-NOUS ?
+Thales propose des systèmes d’information et de communication sécurisés et interopérables pour les forces armées, les forces de sécurité et les opérateurs d’importance vitale. Ces activités, qui regroupent radiocommunications, réseaux, systèmes de protection, systèmes d’information critiques et cybersécurité, répondent aux besoins de marchés où l’utilisation des nouvelles technologies numériques est déterminante. Thales intervient tout au long de la chaîne de valeur, des équipements aux systèmes en passant par le soutien logistique et les services associés.
+Nos équipes de l’activité Systèmes d’information critiques et cybersécurité fournissent des services et des solutions globales optimisant la performance, la résilience et la sécurité des systèmes d’information afin de faire face aux ruptures technologiques et aux cybermenaces.
+Face à la montée en puissance de la cybercriminalité, favorisée par la complexité croissante des systèmes et des réseaux, le secteur Sécurité des Technologies de l’Information développe et soutient des solutions de sécurité de haut niveau pour les systèmes d’information et de communication des gouvernements, des opérateurs d’infrastructures critiques, des entreprises.
+A Rennes et au cœur des activités phares dans le domaine de la sécurité des systèmes d’information, nous vous proposons d’intégrer le laboratoire de cybersécurité dédié aux activités de reverse engineering et de lutte informatique.
+Dans le cadre de notre développement, nous recherchons un(e) Analyste Reverse Engineering (H/F) , basé(e) à Rennes – Courrouze (35)
+QUI ÊTES-VOUS ?
+Vous êtes passionné(e) de reverse engineering et aimez décortiquer les binaires de toutes sortes dans les moindres détails pour comprendre leur fonctionnement et identifier leurs vulnérabilités ?
+Vous participez aux challenges de cyber sécurité ?
+Vous lisez la presse spécialisée et assistez aux conférences de sécurité ?
+Vous êtes curieux(se), doté d’une capacité d’apprentissage importante et d’une forte ténacité ?
+Vous aimez travailler en équipe ?
+Vous êtes dynamique, rigoureux(se), autonome, et doté(e) d’une forte capacité de synthèse ainsi que de solides capacités rédactionnelles ?
+Votre anglais est opérationnel et vous permettra d’évoluer vers des missions à l’international ?
+Vous avez déjà entendu parler de :
+Analyse statique et dynamique (IDA, Ghidra, Ollydbg, Windbg, Pydbg, etc.) de binaires ?
+Assembleur Intel x86, x64, (et ARM) ?
+Langages de scripts (Python, …) et de programmation (C, …) ?
+Fonctionnement des codes malveillants (dropper, backdoor, rootkits, botnets…), mécanismes de persistance, techniques d’obfuscation et principaux protocoles de C&C ?
+Analyse comportementale en « sandbox » de codes malveillants ?
+Architectures logicielles ?
+Principales failles de sécurité et développement de codes d’exploitation ?
+Méthodes de protection logicielles et matérielles (ASLR, SMEP, SMAP, …) et méthodes de contournement ?
+Mécanismes de sécurité (cryptographie, protocoles, authentification, chiffrement) ?
+Bonnes pratiques de développement sécurisé ?
+OS Windows, Linux : fonctionnement bas niveau (API, kernel, drivers, modules…) ?
+Réseaux (modèle OSI, TCP/IP, etc) et protocoles applicatifs les plus courants (HTTP, SMTP, DNS, LDAP, SSH, etc.) ?
+CE QUE NOUS POUVONS ACCOMPLIR ENSEMBLE :
+Vous intégrez une équipe pluridisciplinaire d’experts intervenant sur un large spectre d’activités. En relation directe avec nos clients, vous prenez en charge des missions variées, notamment de reverse engineering de binaires et êtes impliqués dans les développements des outils d’analyse de l’équipe (reverse collaboratif, classification de codes malveillants, fuzzing, introspection de machines virtuelles, etc.).
+Enfin vous développez vos compétences en participant aux travaux de R&D, en développant l’outillage de l’équipe, en participant à des formations et des conférences du domaine et contribuez au rayonnement de l’équipe par des publications.
+Vos principales missions :
+Vous étudiez des binaires pour comprendre leur architecture et leur fonctionnement et rechercher leurs vulnérabilités
+Vous analysez les vulnérabilités et développez les preuves de concepts des chaines d’exploitation
+Vous analysez les codes malveillants (fonctionnement, techniques de persistance, obfuscation, protocoles de C&C) avec les différentes méthodes d’analyse (statique, dynamique, comportementale)
+Vous contribuez aux travaux de R&D (développement des outils et méthodologies internes) et publiez vos travaux dans le cadre de conférences spécialisées
+La perspective de rejoindre un Groupe innovant vous motive ? En rejoignant Thales, les experts de la cybersécurité intègrent un Groupe mondial, dont les offres en cybersécurité innervent l’intégralité de ses solutions, dans le domaine de l’Aérospatial, du Transport, de la Défense et de la Sécurité. Plus de 30 grandes entreprises et organisations mondiales s’appuient sur l’expertise de Thales pour protéger leurs systèmes d’information et leurs données critiques.
+Vous souhaitez en savoir plus sur les activités Systèmes d'information et de communication sécurisés ? Cliquez ici et ici.
+Toutes nos offres sur : https://www.thalesgroup.com/fr/homepage/carrieres
+Innovation, passion, ambition : rejoignez Thales et créez le monde de demain, dès aujourd’hui."
+29,https://www.indeed.fr/emplois?q=Cyber%20Securit%C3%A9&l=Nantes&radius=100&limit=100&sort=date&vjk=dc9f1772b9939518,"In-depth analysis of transport mechanisms in microelectronic components under laser irradiation
+Institut d'Electronique et de Télécommunications de Rennes - Rennes (35)",[],In-depth analysis of transport mechanisms in microelectronic components under laser irradiation,Institut d'Electronique et de Télécommunications de Rennes,- Rennes (35),"The institut d’électronique et de télécommunications de Rennes is a public umbrella organization bringing together researchers in the electronics and telecommunications sectors from :
+CNRS (INSIS),
+Université de Rennes1,
+INSA de Rennes
+Supélec campus de Rennes.
+Université de Nantes
+The institute has some 250 lecturer-researchers, engineers, Ph.D students and admin. staff.
+It is located in the Rennes Atalante Science & Technology Park of which it is a partner and associate involved in the organisation of the working breakfasts known as “Les Matinales”.
+The IETR has a large number of technical platforms used to carry out life-sized experiments and it undertakes a large amount of scientific research both nationally and internationally. It also undertakes a significant number of contractual work for and with industrial companies.
+Through its involvement in research topics that are central to the information and communication society.
+Site web :
+https://www.ietr.fr/
+Poste et missions
+Job Description
+The candidate will participate in the implementation and development of activities for the in-depth analysis of transport mechanisms in microelectronic components under nanosecond pulsed laser irradiations. Such laser attacks can be used to simulate fault injections into secure electronics systems. For this purpose, at first the applicant will be in charge to setup the laser injection platform and make reliable measurements on components (resistors, MOS transistors) under attacks, and then analyze and model the related physical phenomena. In a second, his/her mission will be to develop activities through research projects (thesis, etc.) interacting with academic research laboratories and/or industry.
+
+Context
+Cybersecurity is a research topic that has been strongly developed in recent years with the rapid evolution of connected distributed systems, where data protection has become essential. The hardware part of digital security is one of the prop of secure systems (such as the smart card), and is at the heart of their vulnerability. Cybersecurity is a strong political will at national and regional levels and has been identified as a strategic axis for the Brittany Region, both in terms of Research, Training and Innovation.
+In the context of the CPER (Contrat Plan Etat Région 2015-2020) CYBER SSI (Sécurité de Systèmes d’Information), the Institut d’Electronique et Télécommunications de Rennes (IETR - UMR CNRS 6164) is implementing a platform for ""Simulation, detection and vulnerability in secure hardware systems by laser injection faults "" (CYBER-ELEC OPT platform).
+
+Mobilité géographique :
+Nationale
+Profil
+Applicant profile
+The applicant should have PhD degree in Engineering Electronics or Applied Physics with experience in some following topics: physics and technologies of semiconductors devices, optoelectronics, semiconductor and laser interactions, laser fault injection on secure electronic systems, microelectronic technologies, and architectures of integrated electronic circuits, (memories, microprocessors ...).
+Experience in foreign research lab would be appreciated.
+
+Objectifs
+The objective of this new platform is to develop new research activities at IETR, and more widely in the western region of France, based on the measurement/metrology aspects of secure components and systems, at the interface between semiconductors, technology and microelectronics circuits. In particular, the IETR will focus on hardware security issues from the point of view of the semiconductor to the electronic component (approach original), and then towards the circuit and/or integrated systems.",null,"L'Intelli'agence - il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Cyber Securité,Nantes,"The institut d’électronique et de télécommunications de Rennes is a public umbrella organization bringing together researchers in the electronics and telecommunications sectors from :
+CNRS (INSIS),
+Université de Rennes1,
+INSA de Rennes
+Supélec campus de Rennes.
+Université de Nantes
+The institute has some 250 lecturer-researchers, engineers, Ph.D students and admin. staff.
+It is located in the Rennes Atalante Science & Technology Park of which it is a partner and associate involved in the organisation of the working breakfasts known as “Les Matinales”.
+The IETR has a large number of technical platforms used to carry out life-sized experiments and it undertakes a large amount of scientific research both nationally and internationally. It also undertakes a significant number of contractual work for and with industrial companies.
+Through its involvement in research topics that are central to the information and communication society.
+Site web :
+https://www.ietr.fr/
+Poste et missions
+Job Description
+The candidate will participate in the implementation and development of activities for the in-depth analysis of transport mechanisms in microelectronic components under nanosecond pulsed laser irradiations. Such laser attacks can be used to simulate fault injections into secure electronics systems. For this purpose, at first the applicant will be in charge to setup the laser injection platform and make reliable measurements on components (resistors, MOS transistors) under attacks, and then analyze and model the related physical phenomena. In a second, his/her mission will be to develop activities through research projects (thesis, etc.) interacting with academic research laboratories and/or industry.
+
+Context
+Cybersecurity is a research topic that has been strongly developed in recent years with the rapid evolution of connected distributed systems, where data protection has become essential. The hardware part of digital security is one of the prop of secure systems (such as the smart card), and is at the heart of their vulnerability. Cybersecurity is a strong political will at national and regional levels and has been identified as a strategic axis for the Brittany Region, both in terms of Research, Training and Innovation.
+In the context of the CPER (Contrat Plan Etat Région 2015-2020) CYBER SSI (Sécurité de Systèmes d’Information), the Institut d’Electronique et Télécommunications de Rennes (IETR - UMR CNRS 6164) is implementing a platform for ""Simulation, detection and vulnerability in secure hardware systems by laser injection faults "" (CYBER-ELEC OPT platform).
+
+Mobilité géographique :
+Nationale
+Profil
+Applicant profile
+The applicant should have PhD degree in Engineering Electronics or Applied Physics with experience in some following topics: physics and technologies of semiconductors devices, optoelectronics, semiconductor and laser interactions, laser fault injection on secure electronic systems, microelectronic technologies, and architectures of integrated electronic circuits, (memories, microprocessors ...).
+Experience in foreign research lab would be appreciated.
+
+Objectifs
+The objective of this new platform is to develop new research activities at IETR, and more widely in the western region of France, based on the measurement/metrology aspects of secure components and systems, at the interface between semiconductors, technology and microelectronics circuits. In particular, the IETR will focus on hardware security issues from the point of view of the semiconductor to the electronic component (approach original), and then towards the circuit and/or integrated systems."
+30,https://www.indeed.fr/emplois?q=Cyber%20Securit%C3%A9&l=Nantes&radius=100&limit=100&sort=date&vjk=33cfc25bfaee021e,"Consultant systèmes d'information (H/F)
+Adventi Informatique - Beaucouzé (49)",[],Consultant systèmes d'information (H/F),Adventi Informatique,- Beaucouzé (49),null,null,"il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Cyber Securité,Nantes,"900 - CF170619
+MISSIONS ET PROFIL
+Dans le cadre du développement de notre pôle Conseil et expertise, nous recrutons 1 Consultant Système d'Information (H/F) en CDI à temps complet.
+Sous la responsabilité de Florian Barraud, expert en SI et associé du Groupe, vous l'accompagnerez pour les missions suivantes :
+Réalisation d'audit des SI clients (environnement applicatif, infrastructure, sécurité,...)
+Rédaction et restitution des synthèses aux clients
+Elaboration de schémas directeurs
+Aide au choix de solutions
+Assistance à maitrise d'ouvrage
+Mise en place de bonnes pratiques
+Accompagnement des équipes commerciales chez les prospects/clients
+Animation de réunions thématiques (Sensibilisation, RGPD, Cyber Sécurité, ...)
+Veille technologique
+Vos compétences comportementales :
+Aisance relationnelle
+Sens des responsabilités
+Bon esprit d'analyse d'une situation donnée et de synthèse
+Aisance rédactionnelle
+Capacité à être force de proposition
+Bon esprit d'équipe
+Bien plus que de la technique, nous recherchons avant tout une personnalité ! Notamment, vous êtes reconnu pour votre pédagogie, flexibilité et votre aisance relationnelle. Vous justifiez d'une expérience confortable en SI général et avez déjà travaillé avec un public PME en tant que consultant ou RSI.
+Concernant votre intégration, une formation est prévue avec Florian afin de vous faire découvrir l'ensemble de nos métiers et notre fonctionnement interne.
+Des déplacements au niveau national sont à prévoir et pour cela nous vous fournissons un véhicule.
+Si à la lecture de ce projet, vous vous reconnaissez et que vous avez envie de le relever avec nous alors envoyer notre votre CV à rh-recrutement@soregor.f"
+31,https://www.indeed.fr/emplois?q=Cyber%20Securit%C3%A9&l=Nantes&radius=100&limit=100&sort=date&vjk=72d5509aae7b8d35,"Technicien support informatique N1 - Nantes 44 (H/F)
+Manpower15,785 avis - Nantes (44)
+Intérim",[],Technicien support informatique N1 - Nantes 44 (H/F),Manpower,- Nantes (44),null,null,"il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Cyber Securité,Nantes,"L'entreprise
+Manpower NANTES INFORMATIQUE recherche pour son client, un acteur du secteur public, un Technicien Support Informatique N1 - Nantes 44 (H/F).
+Les missions
+Rattaché à la Sous Direction Architecture Technique, le Centre Opérationnel de Sécurité couvre les domaines d’interventions typiques d’un Cyber Security Operations Center : assistance suite aux incidents de sécurité (attaques) sur les réseaux et les systèmes d'informations, établissement et maintenance d'une base de donnée des vulnérabilités, gestion courante des briques de sécurité, surveillance du système d’information de l'entreprise et détection rapide de tout incident de sécurité.
+
+Le Centre Opérationnel de Sécurité couvre aussi des activités historiques plus orientées logistique comme la gestion des composants cryptographiques (tokens et cartes à puces).
+
+Vous serez intégré(e) à une équipe en charge de prévenir, identifier et traiter les Cyber menaces.
+Cette équipe porte un rôle stratégique au sein de la DSI et gère un large portefeuille d’activités et de projets. Vos activités au sein de cette équipe seront les suivantes :
+
+supervision des évènements de sécurité
+traitement des incidents de NIveau 1
+gestion des cartes de sécurité et des certificats IGCN
+participation à la réalisation des tableaux de bord
+Le profil
+De formation BAC + 2 en Informatique, vous disposez d'une expérience significative sur un poste similaire.
+
+Compétences techniques requises:
+
+Maîtrise des environnements suivants : o Windows o Bureautique Office (Word, Excel, ...) o Réseaux TCP/IP o Une connaissance UNIX serait un plus
+Connaissances de base de la Sécurité des Systèmes d’Information (Notions de confidentialité, d’intégrité, de disponibilité, log, etc…).
+Gestion des incidents.
+
+Rejoindre Manpower IT, c’est collaborer avec une équipe experte du secteur de l’informatique, à taille humaine et bénéficier d’avantages :
+Comités d’entreprise
+Compte épargne temps
+CDI-Intérimaire...
+Vous vous reconnaissez dans cette proposition, alors postulez ou contactez nous au 02 51 77 86 20
+Dans le cadre de sa politique diversité, Manpower étudie, à compétences égales, toutes candidatures dont celles de personnes en situation de handicap
+Postuler avec Postuler à cette offre"
+32,https://www.indeed.fr/emplois?q=Cyber%20Securit%C3%A9&l=Nantes&radius=100&limit=100&sort=date&vjk=af038922c467f3bd,"Consultant junior en cybersécurité
+Orange Cyberdefense - Nantes (44)
+CDI",[],Consultant junior en cybersécurité,Orange Cyberdefense,- Nantes (44),null,null,"il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Cyber Securité,Nantes,"votre rôle
+Rattaché(e) à l'équipe Grand-Ouest de la Direction Conseil & Audit et basé(e) sur notre site de Nantes, le(la) consultant(e) junior en cybersécurité réalisera des prestations de cybersécurité tout particulièrement pour nos clients des régions Pays-de-la-Loire et Bretagne : grands comptes mais aussi PME, start-up, collectivités locales, établissements de santé & social.
+Il(elle) viendra renforcer nos quelques 160 consultants en cybersécurité et, en fonction de ses compétences et aspirations, interviendra sur les thématiques suivantes :
+Audit et contrôle de conformité en cybersécurité
+Gestion des risques
+Expertise technologique
+Ingénierie de la cybersécurité
+Formation et sensibilisation
+Droit de la cybersécurité
+Cyber-résilience
+votre profil
+Vous êtes diplômé(e) d'un Bac+4/5 d'une Ecole d'Ingénieur ou d'une Université dans le domaine de l'informatique, des systèmes d'information ou idéalement de la Sécurité des Systèmes d'Information.
+Vous avez de bonnes connaissances sur au moins l'un de nos domaines d'activité. Vous avez l'esprit d'équipe, vous faites preuve d'initiative, vous avez un bon relationnel et le sens des responsabilités. Vous vous exprimez aussi bien à l'oral qu'à l'écrit en français et en anglais.
+entité
+Orange Cyberdefense
+Orange Cyberdéfense regroupe l'ensemble des activités cybersécurité du Groupe Orange dédiées aux entreprises. Avec un CA de 303 M€ en 2018 et une croissance annuelle de plus de 15%, nous nous positionnons comme un des principaux acteurs européens du marché et accompagnons une majorité des entreprises du CAC 40 dans la conception de leurs stratégies de cybersécurité, leur mise en œuvre et leur gestion opérationnelle.
+Notre vocation est de sécuriser les actifs les plus précieux de nos clients à travers le monde.
+Pour mener à bien cette mission, nos experts sont organisés en 3 Business Units :
+Conseil & Audit
+Solutions de Confiance
+Contrôle, Surveillance, Réaction (CSR)
+En 2018, Orange a reçu pour la 3ème année consécutive la certification mondiale « Top Employer Global 2018».
+contrat
+CDI"
+33,https://www.indeed.fr/emplois?q=Cyber%20Securit%C3%A9&l=Nantes&radius=100&limit=100&sort=date&vjk=a8b373b52e2dac9f,"Spécialiste cyber sécurité SOC F/H
+Atos2,178 avis - Rennes (35)",[],Spécialiste cyber sécurité SOC F/H,Atos,- Rennes (35),null,null,"il y a 4 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",Cyber Securité,Nantes,"A propos de Worldline
+Worldline [Euronext: WLN] est le leader du marché européen dans le secteur des services de paiement et de transaction. L’innovation étant au cœur de son ADN, les offres principales de Worldline incluent l’acquisition commerciale paneuropéenne et nationale pour les entreprises physiques ou en ligne, le traitement sécurisé des transactions de paiement pour les banques et les institutions financières, ainsi que des services transactionnels dans la billetterie électronique et pour les organismes publics nationaux. Grâce à une présence dans plus de 30 pays, Worldline est le partenaire de paiement de choix des commerçants, des banques, des opérateurs de transports publics, des agences gouvernementales et des entreprises industrielles, pour la fourniture de services numériques de pointe. Les activités de Worldline sont organisées autour de trois axes : les Services aux commerçants, les Services Financiers délivrés notamment par equensWorldline et la Mobilité & Services Web Transactionnels. Worldline emploie environ 11 000 personnes dans le monde et son chiffre d’affaires pro forma est estimé à environ 2,3 milliards d’euros par an. worldline.com.
+
+Notre équipe Security Operations Center (SOC) est en forte croissance. Vous intégrerez notre équipe d’experts en sécurité de l'information au sein de laquelle règne une ambiance agréable et conviviale. Vous participerez activement au fonctionnement du SOC dont les missions principales sont :
+D’effectuer une veille cyber sécurité
+De surveiller et détecter les menaces ou les tentatives d'intrusion
+De qualifier et suivre les événements / alertes / incidents de sécurité
+De réaliser les analyses des logs et les investigations numériques avancées
+D’implémenter et améliorer en continue les règles de détection
+De proposer des plans d’actions et d’amélioration
+De consolider des rapports et synthèses
+De proposer des évolutions des outils existants ou mettre en place de nouveaux outils pour répondre aux besoins
+De réaliser des tests d’intrusion
+
+De formation supérieure en sécurité de l’information (école d’ingénieur ou université).
+D’un naturel curieux, vous faites preuve d’un attrait pour l’investigation. Vos capacités d’analyse et de veille cyber sécurité vous permettront d’identifier de nouveaux schémas d’attaques et de mettre en place les outils et règles de détections appropriés. Une bonne connaissance des infrastructures IT, de la sécurité de l’information, des schémas d’attaques et des tests d’intrusion est requise.
+Vous avez un bon relationnel et une capacité d’autonomie suffisante pour apporter un premier niveau de réponse aux éléments détectés.
+La maîtrise de l’anglais est souhaitée pour rédiger des documents et travailler avec des équipes internationales.
+
+Valeurs partagées
+Les 8 600 hommes et femmes de Worldline sont tous différents mais partagent les mêmes valeurs. Vous pouvez le voir dans la façon dont nous nous comportons. Nous sommes curieux et humbles - nous apprenons tous les jours, nous simplifions les choses et tout le monde s'engage. Dans notre industrie qui évolue rapidement, nous sommes flexibles et ne cessons d'apprendre tout au long de la vie. Chacun démontre le même dévouement à la qualité et à l'efficacité. Nous avons un esprit d'entreprise et un sens du service. Et surtout, nous ne tournons jamais le dos à un défi. Ces valeurs nourrissent une équipe dynamique et novatrice où chacun peut se développer et grandir
+Votre candidature
+Si vous souhaitez postuler pour ce poste, veuillez cliquer ci-dessous pour remplir notre formulaire de demande en ligne et joindre votre CV en format Word, rtf ou texte. Atos ne fait pas de discrimination fondée sur la race, la religion, la couleur, le sexe, l'âge, le handicap ou l'orientation sexuelle. Toutes les décisions de recrutement sont basées uniquement sur les qualifications, les compétences, les connaissances et l'expérience et les exigences commerciales pertinentes. Nous nous sommes engagés à apporter des ajustements raisonnables au processus de demande des personnes handicapées."
+34,https://www.indeed.fr/emplois?q=Cyber%20Securit%C3%A9&l=Nantes&radius=100&limit=100&sort=date&vjk=2698d83944506c18,null,[],null,Ateme,- Rennes (35),null,null,"il y a 4 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",Cyber Securité,Nantes,"ATEME (PARIS : ATEME), est un leader mondial des solutions de compression et de diffusion vidéo pour la diffusion, le câble, la télévision par satellite, l’IPTV et l’OTT. Nous aidons les principaux fournisseurs de contenu, fournisseurs de services et les services de vidéo à la demande à transformer leurs opérations vidéo. Grâce à un investissement continu en R&D, nous permettons à nos clients de produire des vidéos de haute qualité tout en réduisant les coûts de transmission et en augmentant leurs revenus grâce à de nouveaux services.
+Chez ATEME, nous valorisons l’innovation, la pro-activité et l’enrichissement interculturel grâce à des collaborateurs de 30 nationalités différentes. Nous considérons le globe comme notre terrain de jeu et nous facilitons la mobilité internationale, notamment dans nos bureaux en France, à Sao Paulo, Denver, New York ou Singapour.
+Faites partie de notre équipe et joignez-vous à notre fantastique voyage !
+Dans le cadre de sa très forte croissance, ATEME recherche un(e) Ingénieur systèmes et réseaux.
+Principales missions :
+Administration réseau
+Configuration et administration du cœur de réseau d’ATEME
+Optimisation du réseau par la conduite de projet d’installation ou refonte de certains éléments du réseau de l’entreprise, matériels ou logiciels.
+Définition de la stratégie de gestion du réseau (routage des VLAN, gestion multicasts, trafic inter site).
+Support à la configuration des équipements réseau R&D.
+Administration système
+Administration des comptes utilisateurs Active Directory
+Gestion de l’homogénéité des installations logicielles du parc informatique
+Administration des outils corporate (Messagerie, Base documentaire, Intranet, …)
+Administration partielle des outils R&D (Création/suppression d’utilisateurs)
+Gestion du parc informatique (déploiement de nouvelles machines, garant de l’inventaire, mise à dispo de ressources virtualisées)
+Mise en place d’une politique de stockage de données, sécurisée et performante
+Sécurité
+Garant de la sécurité de l’infrastructure d’ATEME
+Participation à la mise en place de la certification ISO 27001
+Participation aux sujets relatifs à la cyber sécurité, en tant que responsable pour la partie IT et expert pour les projets R&D.
+Assurer une veille technologique afin d’anticiper les évolutions nécessaires à l’optimisation de la sécurité et du réseau.
+Garant du respect par ATEME de la RGPD
+Support
+Niveau 1 pour les utilisateurs de l’infrastructure
+Synchronisation avec l’ensemble du service pour l’approvisionnement et les retours de matériel sur le site de Rennes
+Mise en place de nouveau outils dans les espaces communs (moyens de projection, visio-conf, …)
+
+Localisation: Le poste est basé à Rennes (35).
+Rémunération : Selon profil + prime de vacances + primes de participation & d’intéressement + mutuelle + tickets restaurant + CE…
+Pour postuler : envoyer votre CV et lettre de motivation à jobs@ateme.com sous la référence IT/2019.
+Pour en savoir plus sur notre entreprise, n’hésitez pas à consulter notre site internet : www.ateme.com"
+35,https://www.indeed.fr/emplois?q=Cyber%20Securit%C3%A9&l=Nantes&radius=100&limit=100&sort=date&vjk=1fd1d6b19f4435c9,"Ingénieur Système et réseaux
+Silkhom - Angers (49)
+CDI",[],Ingénieur Système et réseaux,Silkhom,- Angers (49),null,null,"il y a 6 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",Cyber Securité,Nantes,"Au sein de l'équipe Infrastructure composée aujourd'hui de dix collaborateurs (Administrateur Système, Devops, Administrateur Réseaux, etc.), votre poste sera composé pour 70% de projets et 30% de maintien en conditions opérationnelles.
+Vous travaillerez autant sur des projets Systèmes que sur des projets réseaux :
+Analyse des infrastructures Systèmes et réseaux
+Mise en place d'un nouveau réseau BGP
+Gestion de l'ajout de nouveaux opérateurs
+Intégration de nouveaux serveurs DNS et optimisation de ceux déjà en place
+Accompagnement des développeurs sur la partie déploiement
+Administration Système Linux (Debian)
+Gestion des sauvegardes
+Environnement technologique : Linux (Debian), Cisco, BGP, DNS, Bash, Python, Ansible, jenkins
+Pourquoi rejoindre cette société ?
+Société spécialisée dans la protection des données et la cyber sécurité : sujets en vogue
+Clients prestigieux : L'Oréal, Boehringer, etc.
+Poste de référent technique en système et réseaux : formation et accompagnement des juniors
+Stack technologique extrêmement riche : Automatisation des tâches, intégration continue, processus Devops, etc.
+Profil recherché
+Passionné de nouvelles technologies, le monde de la cyber sécurité ne vous a jamais laissé indifférent.
+– 3 ans d’expériences minimum en Infrastructure Système et réseaux
+– Vous avez déjà fait de l’administration réseau sous linux (routage)
+– Vous avez des compétences avancées sur du DNS
+– L’anglais serait un véritable avantage
+Compléments
+Lieu : Angers
+Contrat : CDI
+Salaire : Selon profil"
+36,https://www.indeed.fr/emplois?q=Cyber%20Securit%C3%A9&l=Nantes&radius=100&limit=100&sort=date&vjk=1d906c9096bcee9e,"Junior IT Risk Consulting
+KPMG5,886 avis - Nantes (44)",[],Junior IT Risk Consulting,KPMG,- Nantes (44),null,null,"il y a 6 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",Cyber Securité,Nantes,"Vous souhaitez intégrer une équipe jeune en forte croissance, accéder à un réseau mondial du « savoir », accélérer votre carrière et conseiller les Directions de grandes entreprises.
+
+Les équipes IT Consulting aident les Directions Générales, les Directions Financières, les Directions Informatiques à identifier et maîtriser les risques liés aux nouvelles technologies et à accroître la valeur ajoutée des systèmes d'information des entreprises. Notre expertise couvre les domaines suivants :
+
+IT Strategy & Performance
+
+IT-enabled transformation
+
+ERP advisory
+
+Business Intelligence, data analytics and modeling
+
+Information Protection & Business Continuity
+
+IT Audit and attestation
+
+Dans le cadre de notre développement, nous recherchons des consultants juniors (jeunes diplômés, une à deux années d’expérience) afin de renforcer notre practice IT Risk Consulting, en particulier notre offre de services IT Audit et Data Analytics.
+
+Vos missions
+
+En équipe et à l'aide d'outils, de méthodes et de Best Practice développés au plan international, vous interviendrez sur des missions nationales et internationales que ce soit pour des missions Advisory ou en assistance au CAC.
+
+Vous participez à la réalisation opérationnelle de missions dans le domaine de la gestion des risques liés aux systèmes d’informations. Vous serez amené(e)s à intervenir sur différents secteurs (Media, Web, industrie, Services, Technos, …) et sur des typologies de missions variées.
+
+Au sein de notre practice, vous aurez la possibilité de vous spécialiser, au regard de vos intérêts mais également de vos compétences, en particulier sur certains domaines tels que les ERP (maîtrise des grandes solutions du marché, Oracle, SAP, Dynamics), le Data Analytics (modèles de données, SQL, méthodologies d’analyse type régression, scoring, …) ou encore la Cyber Sécurité.
+
+Votre profil
+Vous êtes diplômé(e), soit d'une grande école d’ingénieur ou d'un équivalent universitaire (MIAGE…), idéalement complété par un troisième cycle en Gestion / Finance; soit d’un diplôme en Gestion / Finance (grande école de commerce, MSG, MSTCF, DESCF…), idéalement complété par un troisième cycle en systèmes d’information
+
+Vous justifiez d'une expérience préalable réussie (stage, alternance) en entreprise ou en cabinet d'audit en système d’information.
+
+Vous êtes dynamique, entreprenant(e), doté(e) d’un bon esprit de synthèse et de qualités rédactionnelles
+
+Vous aimez le travail en équipe et faites preuve d'un excellent relationnel
+
+Vous maîtrisez l’anglais
+
+Vous avez envie de développer une première expertise déjà acquise (ERP, Data Anaytics, Sécurité) ou vous souhaitez garder un profil de Consultant IT Généraliste …
+... alors n'attendez plus pour nous rejoindre et faire vivre vos projets!
+
+Localisation
+
+Vous serez basé(e) à Nantes, avec d’éventuels déplacements à Paris et à l’étranger."
+37,https://www.indeed.fr/emplois?q=Cyber%20Securit%C3%A9&l=Nantes&radius=100&limit=100&sort=date&vjk=0a566ad56581f194,null,[],null,Orange,- Nantes (44),null,null,"il y a 7 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",Cyber Securité,Nantes,"Rattaché(e) à l'équipe Grand-Ouest de la Direction Conseil & Audit et basé(e) sur notre site de Nantes, le(la) consultant(e) junior en cybersécurité réalisera des prestations de cybersécurité tout particulièrement pour nos clients des régions Pays-de-la-Loire et Bretagne : grands comptes mais aussi PME, start-up, collectivités locales, établissements de santé & social.
+Il(elle) viendra renforcer nos quelques 160 consultants en cybersécurité et, en fonction de ses compétences et aspirations, interviendra sur les thématiques suivantes :
+Audit et contrôle de conformité en cybersécurité
+Gestion des risques
+Expertise technologique
+Ingénierie de la cybersécurité
+Formation et sensibilisation
+Sécurité des systèmes industriels et des objets connectés
+Cyber-résilience
+about you
+Vous êtes diplômé(e) d'un Bac+4/5 d'une Ecole d'Ingénieur ou d'une Université dans le domaine de l'informatique, des systèmes d'information ou idéalement de la Sécurité des Systèmes d'Information.
+Vous avez de bonnes connaissances sur au moins l'un de nos domaines d'activité. Vous avez l'esprit d'équipe, vous faites preuve d'initiative, vous avez un bon relationnel et le sens des responsabilités. Vous vous exprimez aussi bien à l'oral qu'à l'écrit en français et en anglais.
+department
+Orange Cyberdefense
+Orange Cyberdéfense regroupe l'ensemble des activités cybersécurité du Groupe Orange dédiées aux entreprises. Avec un CA de 303 M€ en 2018 et une croissance annuelle de plus de 15%, nous nous positionnons comme un des principaux acteurs européens du marché et accompagnons une majorité des entreprises du CAC 40 dans la conception de leurs stratégies de cybersécurité, leur mise en œuvre et leur gestion opérationnelle.
+Notre vocation est de sécuriser les actifs les plus précieux de nos clients à travers le monde.
+Pour mener à bien cette mission, nos experts sont organisés en 3 Business Units :
+Conseil & Audit
+Solutions de Confiance
+Contrôle, Surveillance, Réaction (CSR)
+En 2018, Orange a reçu pour la 3ème année consécutive la certification mondiale « Top Employer Global 2018».
+contract
+Regular"
+38,https://www.indeed.fr/emplois?q=Cyber%20Securit%C3%A9&l=Nantes&radius=100&limit=100&sort=date&vjk=914ff99e9b13b7f9,"Responsable ingénierie systèmes - CDI - NANTES (H/F)
+Manpower15,785 avis - Nantes (44)
+CDI",[],Responsable ingénierie systèmes - CDI - NANTES (H/F),Manpower,- Nantes (44),null,null,"il y a 7 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",Cyber Securité,Nantes,"L'entreprise
+Le cabinet de recrutement Manpower de Nantes recherche pour son client, expert du génie électrique, un responsable ingénierie systèmes (H/F) dans le cadre d’un poste à pourvoir en CDI sur St Aignan de Grandlieu (44) à seulement 40 minutes de la côte.
+Les missions
+Vous évoluez au sein du département R&D où sont réalisés des projets d'intégration numérique pour les sous-stations électrique en France et à l'export.
+
+Vous êtes responsable d‘une équipe de 5 personnes composée d’ingénieurs et de techniciens en charge de proposer les architectures de communication, les équipements numériques et le paramétrage de ces équipements pour répondre au besoin des clients.
+
+Dans ce cadre, vos missions sont les suivantes :
+Piloter les projets et la réalisation technique (chiffrage, analyse, architecture, configuration, support clients, ...)
+Promouvoir les compétences de votre équipe et de vos projets en externe auprès des partenaires, des clients et lors de conférences.
+Manager au quotidien une équipe de 5 personnes : ingénieurs et techniciens spécialisés dans le contrôle commande de postes numérique.
+Interagir avec vos homologues des autres Business Unit en interne en jouant le rôle de chef de projet.
+Le profil
+Issu(e) d’une formation de type ingénieur en électrotechnique et/ou informatique industrielle automatisme, vous justifiez de 10 années d’expérience idéalement acquise chez un gestionnaire de réseau de transport d’électricité ou constructeur d’armoire électrique.
+
+Vous connaissez parfaitement la norme IEC61850 et avez une première expérience significative en gestion d’équipes.
+
+Une connaissance des bonnes pratiques de cyber-sécurité en environnement industriel serait un plus.
+
+Vous êtes autonome, organisé(e) et rigoureu(se)x.
+
+La maîtrise de l’anglais technique est indispensable à la bonne tenue du poste.
+
+Ce poste vous intéresse mais nécessite pour vous de trouver un logement sur place ?
+=> Manpower vous accompagne via un Pack mobilité offert
+
+N'hésitez plus, postulez !
+Dans le cadre de sa politique diversité, Manpower étudie, à compétences égales, toutes candidatures dont celles de personnes en situation de handicap
+Postuler avec
+Postuler à cette offre"
+39,https://www.indeed.fr/emplois?q=Cyber%20Securit%C3%A9&l=Nantes&radius=100&limit=100&sort=date&vjk=3e58d42c6a894b74,"Consulting Audit SI – Expérimenté (H/F)
+Mazars322 avis - Nantes (44)",[],Consulting Audit SI – Expérimenté (H/F),Mazars,- Nantes (44),null,null,"il y a 8 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",Cyber Securité,Nantes,"Détail de l'offre
+Métier
+Digital et Systèmes d'Information
+Contrat
+CDI
+Mazars est un groupe international spécialisé dans l’audit, le conseil ainsi que les services comptables, fiscaux et juridiques, auprès de grands groupes, de PME, de Start-ups et d’organismes publics. Le groupe compte 40 000 collaborateurs répartis dans 89 pays. En France, Mazars regroupe 40 bureaux et fédère les compétences et le professionnalisme de plus de 3 800 collaborateurs.
+Notre groupe intervient, à l’échelle internationale, auprès de 500 sociétés cotées sur plus de 50 marchés.
+Pour accompagner le développement de l’activité « Management des Systèmes d’information », Mazars Bretagne Pays-de-la-Loire recrute un(e) Consultant(e) Expérimenté(e) en Systèmes d’information.
+Au sein d’une équipe en plein essor, pour des clients de toutes tailles et de tous secteurs d’activités, vous serez amené(e) à participer aux types d’interventions suivants :
+1) Missions d’audit et de conseil, en accompagnement des directions générales, financières et des systèmes d’information, en matière de :
+Stratégie et gouvernance des systèmes d’information
+Pilotage/mise en œuvre de projets de transformation du SI Finance
+Mise en place d’un cadre de gestion des risques IT et des activités de contrôle associées
+Mise en conformité réglementaire
+Management des risques cyber-sécurité
+2) Missions de support aux auditeurs financiers (Mazars) ou de départements d’audit interne de grands groupes, dans l’analyse et la revue détaillée :
+des systèmes d’information supportant les processus métiers et financiers
+du niveau de gouvernance et de contrôle interne des processus informatiques supportant les SI
+Du fait de votre expérience, vous bénéficierez d’une bonne autonomie, deviendrez rapidement l’interlocuteur/trice privilégié(e) des clients et serez garant(e) de la qualité des livrables produits.
+Aussi, au sein d’un pôle régional en croissance, vous serez également impliqué(e) dans des actions de développement et de formation des consultant(e)s juniors.
+Enfin, vous aurez l’opportunité de contribuer aux démarches internes en matière de développement commercial (réponse aux appels d’offres, rédaction d’offres, …).
+Diplômé(e) d’une école d’ingénieur, d’une école de commerce ou d’un troisième cycle universitaire, vous disposez idéalement d’une double compétence « gestion / systèmes d’information ».
+Vous bénéficiez d’une expérience de 2 à 3 ans minimum acquise de préférence en cabinet d’audit ou de conseil.
+Vous faites preuve d’excellentes qualités relationnelles et de présentation.
+La maîtrise de l’anglais est impérative.
+Vous êtes passionné(e) par les nouvelles technologies, avez un esprit entrepreneurial et êtes prêt(e) à vous investir dans un projet passionnant !
+Vous justifiez de l’une ou plusieurs des compétences suivantes : audit des systèmes d’information, management des risques IT, connaissance de solutions majeures (SAP, Oracle, Microsoft, Sage), détention de certification(s) professionnelle(s) (CISA, ITIL, SAP, CISM, CISSP, ISO27001, …), approches sécurité des SI (audit de sécurité, revue de configuration/d’architecture, tests d’intrusion, …), connaissance des référentiels IT (COBIT, ITIL, CMMI, …).
+Poste basé à Nantes, Rennes ou Vannes. Déplacements à prévoir.
+Localisation du poste
+Lieu
+Nantes
+Tous nos postes sont ouverts aux personnes reconnues travailleur handicapé"
+40,https://www.indeed.fr/emplois?q=Cyber%20Securit%C3%A9&l=Nantes&radius=100&limit=100&sort=date&vjk=354be9a4ae3cc8f0,"INGENIEUR RESEAU H/F
+Brioche Pasquier76 avis - Les Cerqueux (49)
+CDI",[],INGENIEUR RESEAU H/F,Brioche Pasquier,- Les Cerqueux (49),null,null,"il y a 8 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",Cyber Securité,Nantes,"Créé en 1974, le Groupe Brioche Pasquier compte aujourd’hui 5 Activités, 18 sites de production, 5 filiales européennes (Espagne, Angleterre, Etats Unis) et emploie près de 3500 personnes.
+Leader sur le marché de la viennoiserie pré-emballée, Brioche Pasquier a diversifié son activité en pâtisserie et en panification sèche.
+La place que nous accordons à la proximité, à la valorisation des compétences de chacun et au dynamisme collectif assurera votre épanouissement professionnel.
+
+Notre Direction des Systèmes d’Information est composée d’environ 50 personnes. Le service infrastructure participe activement aux développements des différents projets de la DSI du Groupe.
+
+Nous recherchons pour notre siège social situé aux Cerqueux (49) à 20 minutes de Cholet, un(e) :
+INGENIEUR RESEAU H/F
+
+Votre rôle sera de fiabiliser, pérenniser et développer le réseau actuel et apporter son expertise au déploiement de nouvelles solutions. Vous participerez aux projets stratégiques de l’entreprise : Transformation digitale, usine du futur…
+
+VOS MISSIONS :
+Vous intègrerez une équipe jeune et dynamique et aurez en charge :
+Le maintien en conditions opérationnelles du réseau existant
+L’évolution de l’architecture réseau actuelle en réponse aux besoins de l’entreprise
+La conception et la mise en production de nouvelles solutions
+La sécurisation des éléments actifs (routeurs / switchs / firewalls / AP)
+La participation à l'évolution du réseau industriel
+L'accompagnement / la formation des informaticiens sur nos sites de production
+Le support niveau 2
+La rédaction des procédures et documentations liées aux solutions
+
+VOTRE PROFIL :
+De formation Bac +2 à Bac +5, vous justifiez de 5 ans d'expérience sur un poste similaire. Vous êtes motivé(e) et rigoureux(se). Vous avez une sensibilité à la cyber-sécurité, vous assurez une veille technologique constante et êtes force de proposition.
+Votre capacité d’adaptation et d’intégration, votre rigueur, votre sens du travail en mode projet, sont les atouts nécessaires pour réussir à ce poste.
+
+Vous maîtrisez les technologies :
+LAN (architecture IP, routage, Vlan, 802.1x, DHCP, ACL)
+Wifi (déploiement de réseau sans-fil, authentification par certificat)
+WAN (Gestion du routage, application de QoS, SD-WAN)
+
+Une forte expérience sur le matériel réseau HPE et les langages ComWare et Procurve serait un plus ainsi qu'une première expérience en milieu industriel.
+
+Des astreintes sont à prévoir ainsi que des déplacements ponctuels sur nos sites industriels pour des besoins de mises en production, d’audit et de formation.
+
+Poste à pourvoir en CDI."
+41,https://www.indeed.fr/emplois?q=Cyber%20Securit%C3%A9&l=Nantes&radius=100&limit=100&sort=date&vjk=5aeadb425ab7eec0,null,[],null,null,null,null,null,null,Cyber Securité,Nantes,null
+42,https://www.indeed.fr/emplois?q=Cyber%20Securit%C3%A9&l=Nantes&radius=100&limit=100&sort=date&vjk=32f6ae97c71e4d37,"Expert/Consultant en Cybersécurité (H/F)
+TIBCO SERVICES13 avis - Nantes (44)",[],Expert/Consultant en Cybersécurité (H/F),TIBCO SERVICES,- Nantes (44),null,null,"il y a 11 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",Cyber Securité,Nantes,"Vos attentes :
+
+Vous aimez l’autonomie, la création, la prise d’initiative, l’esprit d’équipe ?
+Vous souhaitez être dans une équipe à taille humaine ?
+Vous souhaitez travailler avec un écosystème partenaire complet ?
+Vous êtes ambitieux, souhaitez progresser et développer votre employabilité ?
+Vous souhaitez entrer dans une société française qui maitrise son destin ?
+
+Et si en plus de tout ça, vous aimez la découverte d’environnements clients, conseiller, transmettre votre savoir et une profonde envie de participer à l’évolution de nos offres en Cyber sécurité …Vous êtes surement notre futur Tib’s !
+Votre Mission:
+
+Vous intégrez notre cellule d’expertise Redteam et conseil Blueteam de notre offre Cyberdéfense
+Vous participez et piloter les projets sécurité de nos clients
+Vous réalisez des analyses de risques
+Vous réalisez des audits d’architectures
+Vous réalisez des audits organisationnels
+Vous accompagnez nos clients sur la mise en conformité RGPD
+Vous sensibilisez les utilisateurs aux bonnes pratiques de Sécurité du SI ou au RGPD
+Vous définissez la stratégie cyber de nos clients
+Vous participez à l’évolution de notre catalogue de services
+Vous assistez nos clients RSSI dans leurs missions de cybersécurité
+
+Votre Profil :
+
+Au-delà d’un CV nous recherchons un homme ou une femme qui nous ressemble. Une personne curieuse par essence, passionnée par les nouvelles technologies, les enjeux humains qui en découlent avec l’envie d’accompagner l’entreprise dans sa croissance et aider nos clients à se protéger.
+De formation Bac + 4/5 diplôme d’ingénierie, Systèmes d’Information Télécom ou domaine connexe;
+Expérience 2 à 5 ans dans le conseil en cybersécurité, réalisée en interne ou en prestations de services;
+Connaissances des référentiels de sécurité : ISO 2700x, EBIOS, PCI-DSS, RGPD, RGS, HDS
+Expertise des processus techniques de sécurité : tests d’intrusion, audit, analyse de vulnérabilités, analyse de risques, chiffrement, authentification forte, gestion des identités, PCA/PRA ;
+Capacité à former et à transmettre sa passion.
+Contrat
+A définir
+
+Localisation
+Nantes"
+43,https://www.indeed.fr/emplois?q=Cyber%20Securit%C3%A9&l=Nantes&radius=100&limit=100&sort=date&vjk=062b39714a1d6ade,"Gestionnaire de Transformation (H/F)
+Thales Group1,222 avis - Castres (44)",[],Gestionnaire de Transformation (H/F),Thales Group,- Castres (44),null,null,"Thales - il y a 11 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",Cyber Securité,Nantes,"QUI SOMMES NOUS
+Rejoignez THALES, leader mondial des technologies de sûreté et de sécurité pour les marchés de l’Aérospatial, du Transport, de la Défense et de la Sécurité. Fort de 65 000 collaborateurs dans 56 pays, le Groupe bénéficie d’une implantation internationale qui lui permet d’agir au plus près de ses clients, partout dans le monde.
+Nos équipes de l’activité Systèmes d’information critiques et cybersécurité fournissent des services et des solutions globales optimisant la performance, la résilience et la sécurité des systèmes d’information afin de faire face aux ruptures technologiques et aux cybers menaces.
+Dans le cadre de l'accroissement de notre activité, nous recherchons
+Un(e) Gestionnaire de transformation (H/F)
+CE QUE NOUS POUVONS ACCOMPLIR ENSEMBLE
+Rattaché au Responsable Opérationnel de la ligne de services « Centre Pilotage Opérationnel» (CPO), le rôle de responsable de la transformation du CPO nécessite de combiner des compétences à réaliser et à piloter la transformation. En outre, vous devrez :
+Contrôler en permanence l’efficience du CPO et l’efficience de ses propres activités
+Assurer un contrôle permanent sur l'ensemble des activités du CPO (suivi de la supervision, de l’efficacité de la supervision, avoir un esprit critique…)
+Proposer au CODIR CPO des KPI sur son activité.
+Intégrer au RUN CPO de nouveaux actes suite aux gains de nouveaux contrats
+Transférer des actes entre le CPO et d’autres organisations d’OIC
+Piloter l'amélioration de la performance
+Piloter l’automatisation
+Piloter l’adaptation du SIP
+QUI ÊTES VOUS
+Vous êtes titulaire d’un BAC+5 (École d’ingénieurs ou université avec spécialisation dans le domaine de l’informatique) et vous justifiez d’un minimum de 5 ans dans le domaine de l’infogérance. Pour ce poste, nous attendons de vous que vous ayez :
+Une expérience dans la fourniture de KPI
+Une expérience dans le management transverse
+Compétences Windows et Linux
+Compétences des outils de scripting Shell ou Powershell
+Compétences des outils de middleware, messagerie, sauvegarde, réseau LAN…
+Si ce poste est fait pour vous, postulez sans plus tarder !"
+44,https://www.indeed.fr/emplois?q=Cyber%20Securit%C3%A9&l=Nantes&radius=100&limit=100&sort=date&vjk=d7e46060fc50e6a7,"Responsable Opérationel Supervision (H/F)
+Thales Group1,222 avis - Castres (44)",[],Responsable Opérationel Supervision (H/F),Thales Group,- Castres (44),null,null,"Thales - il y a 11 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",Cyber Securité,Nantes,"QUI SOMMES NOUS
+Rejoignez THALES, leader mondial des technologies de sûreté et de sécurité pour les marchés de l’Aérospatial, du Transport, de la Défense et de la Sécurité. Fort de 65 000 collaborateurs dans 56 pays, le Groupe bénéficie d’une implantation internationale qui lui permet d’agir au plus près de ses clients, partout dans le monde.
+Nos équipes de l’activité Systèmes d’information critiques et cybersécurité fournissent des services et des solutions globales optimisant la performance, la résilience et la sécurité des systèmes d’information afin de faire face aux ruptures technologiques et aux cybers menaces.
+Dans le cadre de l'accroissement de notre activité, nous recherchons
+Un(e) Responsable Opérationnel Supervision (H/F)
+CE QUE NOUS POUVONS ACCOMPLIR ENSEMBLE
+Rattaché au Responsable Opérationnel de la ligne de services « Centre Pilotage Opérationnel» (CPO), le Responsable Opérationnel de la Supervision assure le management d'une équipe de pilotes de supervision en H24. La Supervision assure 7/7 la surveillance globale du SI de nos clients incluant la partie Datacenter. En outre, vous devrez :
+Gérer la partie Management avec délégation hiérarchique (EDP, EAA, polsal, formation ...).
+Assurer le respect des SLA sur les incidents et demandes.
+Être en interface avec les Service Delivery Managers.
+Participer à l'amélioration continue de la Supervision
+QUI ÊTES VOUS
+Vous êtes titulaire d’un BAC+5 (Ecole d’ingénieurs ou université avec spécialisation dans le domaine de l’informatique) et vous justifiez d’une première expérience réussie dans le domaine de l’infogérance. Pour ce poste, nous attendons de vous que vous ayez :
+Des compétences fortes en Windows et Linux, sur des outils de Scripting Shell ou PowerShell
+Des compétences sur des outils de sauvegarde Netbackup et Avamar. outils de middleware, messagerie (exchange), réseau LAN et WAN, technologies liés à la sécurité du SI (PKI, FireWall ...)
+De bonnes connaissances sur le suivi de plan de production, la mise en place de chaine batch, réalisation de météo du SI.
+Maîtrise de la méthodologie ITIL
+Si ce poste est fait pour vous, postulez sans plus tarder !"
+45,https://www.indeed.fr/emplois?q=Cyber%20Securit%C3%A9&l=Nantes&radius=100&limit=100&sort=date&vjk=1c0d65cd66cfaede,null,[],null,null,null,null,null,"Thales - il y a 12 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",Cyber Securité,Nantes,"QUI SOMMES-NOUS ?
+Thales propose des systèmes d’information et de communication sécurisés et interopérables pour les forces armées, les forces de sécurité et les opérateurs d’importance vitale. Ces activités, qui regroupent radiocommunications, réseaux, systèmes de protection, systèmes d’information critiques et cybersécurité, répondent aux besoins de marchés où l’utilisation des nouvelles technologies numériques est déterminante. Thales intervient tout au long de la chaîne de valeur, des équipements aux systèmes en passant par le soutien logistique et les services associés.
+À Cholet, Thales conçoit, développe, intègre, qualifie, industrialise, produit, déploie et maintient en condition opérationnelle des équipements de radiocommunications et des réseaux tactiques militaires, des équipements et systèmes de guerre électronique ainsi que des solutions de sécurité des systèmes d’informations (cryptage, réseaux, etc). C’est également à Cholet que Thales intègre, industrialise et produit les stations sol des réseaux de communication par satellites.
+Dans le cadre de l'accroissement de notre activité, nous recherchons
+Un(e) Administrateur système Windows (H/F)
+Basé(e) à Cholet (49)
+Au sein du centre de services Systèmes du Centre de Compétences Opérations Informatiques et Cyber sécurité, vous serez intégré dans une équipe qui œuvre chaque jour pour délivrer des services relatifs aux métiers de l’infogérance d’infrastructure et d’exploitation applicative des SI de nos clients.
+CE QUE NOUS POUVONS ACCOMPLIR ENSEMBLE
+Rattaché au Responsable Opérationnel de la ligne de services Systèmes, vous assurerez le Maintien en Conditions Opérationnelles (MCO) des Infrastructures Windows soit :
+Traiter les incidents, demandes, problèmes
+Traiter les changements (Standards, Mineurs, Majeurs...) et Projets
+Coordonner techniquement les Changements et Projets
+Suivre les processus ITIL
+Accompagner les projets d’intégration
+Produire et utiliser les documents d’exploitation et autres documents
+Mettre à jour la Base de Données de Configuration
+Gérer la Capacité, la Disponibilité et la Continuité des Infrastructures dont il a la responsabilité
+Assurer la qualité du service et la satisfaction des clients à chaque instant
+Être force de proposition pour des améliorations
+Garantir l’atteinte des objectifs fixés par la direction
+Effectuer les astreintes sur l’ensemble du périmètre infogéré
+Assurer les interventions en dehors des heures ouvrées si nécessaire
+Assurer la couverture horaire liée au service vendu
+QUI ÊTES VOUS ?
+Diplômé(e) d'une université ou d'une école d'ingénieur, vous souhaitez devenir expert dans le monde de l'informatique et plus précisément sur toute la partie environnement Windows.
+Pour ce poste, vous devez justifier des compétences suivantes:
+une expérience réussie dans l’infogérance de systèmes critiques.
+une expérience réussie dans l’administration Windows Server/AD/VMWare/Nutanix
+un goût pour le travaille d'équipe
+être prêt à assurer les astreintes et le service 24/7.
+Si ce poste est fait pour vous, postulez sans plus tarder !
+Innovation, passion, ambition : rejoignez Thales et créez le monde de demain, dès aujourd’hui."
+46,https://www.indeed.fr/emplois?q=Cyber%20Securit%C3%A9&l=Nantes&radius=100&limit=100&sort=date&vjk=823cf041f21da7a3,"Consultant Senior en Cybersécurité H/F
+Devoteam49 avis - Pays de la Loire
+CDI",[],Consultant Senior en Cybersécurité H/F,Devoteam,- Pays de la Loire,null,null,"il y a 8 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",Cyber Securité,Nantes,"Description du poste
+
+Jérôme et son équipe n'attendent que vous pour faire grandir les activités de conseil en cybersécurité.
+
+Vous participerez au développement notre offre cybersécurité et vous accompagnerez nos clients dans :
+
+Des audits de conformité sur site,
+
+La définition d’une stratégie de cybersécurité des SI Industriels,
+
+La conduite et la mise en œuvre de programmes de cybersécurité industrielle,
+
+Le maintien d’une veille technologique sur les menaces et les vulnérabilités spécifiques aux systèmes industriels,
+
+La mise en œuvre d’analyses de risques de systèmes industriels (standard EBIOS ou ISO 27005),
+
+La définition de cibles de sécurité et des plans d'actions associés,
+
+La formalisation de politiques et procédures opérationnelles de sécurité industrielle,
+
+La sensibilisation et la formation à la cybersécurité industrielle, etc.
+
+Pour réussir ce premier challenge nous vous proposerons des actions de formation, des parrainages, des certifications (CISSP, CISM, ISO Lead Auditor/Implementor, Risk Manager, ITIL, etc.) et un dispositif d’évaluation personnel régulier.
+Qualifications
+
+Diplômé(e) d’une école d’ingénieurs ou de management /d’un Master 2 en informatique ou en Management IT, vous justifiez d’une expérience en Management et Sécurité des Systèmes d’Information. Vous maîtrisez les principaux référentiels et standards de cyber sécurité (normes ISO 27001/27002, NIST, PASSI, SANS, CSA, etc.) ainsi que des connaissances sur le management et l’organisation des SI et sur les méthodes d’analyses de risques (EBIOS, ISO 27005, etc.).
+
+Vous êtes doté(e) d’un excellent relationnel et d’un sens prononcé du service et de la qualité. Vous aimez travailler en équipe, and you are fluent in english !
+
+Vous êtes désireux (se) de vous investir dans des projets challengeant et gagner rapidement en responsabilités.
+
+Alors n’hésitez plus, répondez à l’annonce d'Amandine et rejoignez la tribu des Digital Transformakers !
+
+Le saviez-vous ?
+
+Chaque année, Devoteam University forme plus de 1000 consultants et 300 certifications sont obtenues.
+
+Tous nos postes sont ouverts aux personnes en situation de handicap. Devoteam est engagé dans une politique Diversité.
+Description de l’entreprise
+
+Chez Devoteam, nous sommes des « Digital Transformakers ». Le respect, la franchise et la passion animent chaque jour notre tribu. Ensemble, nous aidons nos clients du CAC40 à remporter la bataille du Digital : du conseil à la mise en œuvre de technologies innovantes, jusqu’à l’adoption des usages.
+
+Nous intervenons principalement dans les secteurs de la banque, de l’énergie et de l’industrie ainsi que dans la santé, les transports et la distribution.
+
+Cloud, Cybersécurité, Digital Workplace ainsi que Big Data et Project Management n’ont aucun secret pour notre tribu ! Nos 6 700+ collaborateurs sont certifiés, formés et accompagnés au quotidien pour relever de nouveaux challenges innovants.
+
+En 2018, nous allons réaliser 650 M€ de chiffre d’affaires. D’ici 2020, nous serons un des leaders européens de la transformation digitale. Es-tu prêt(e) à relever le défi ?"
+47,https://www.indeed.fr/emplois?q=Cyber%20Securit%C3%A9&l=Nantes&radius=100&limit=100&sort=date&vjk=b2386ff981a81221,"Consultant sécurité SI H/F
+Capgemini6,924 avis - Pays de la Loire
+CDI",[],Consultant sécurité SI H/F,Capgemini,- Pays de la Loire,null,null,"il y a 9 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",Cyber Securité,Nantes,"En rejoignant Sogeti, une entreprise du groupe Capgemini, vous ferez partie d’une communauté de près de 6 000 collaborateurs en France et 25 000 dans le monde animés par la volonté d’innover et d’apporter de la plus-value à nos clients. L’ESEC, est le Centre d'expertise en Sécurité des Systèmes d’Information de Sogeti.
+
+Nos équipes sont présentes sur l’ensemble du territoire national et délivrent des prestations dans les domaines du conseil, de l’Audit, des tests d’intrusion, de la sécurité du cloud, de l’IAM et de la Supervision des SI.
+
+L’ESEC est :
+En cours de Labellisation PDIS et PRIS pour ses 2 SOC mutualisés ;
+Dispose d’un CERT accrédité TF-CSIRT.
+
+L’ESEC c’est aussi :
+Une équipe de passionnés, dynamique et conviviale ;
+L’opportunité de développer vos compétences dans des secteurs très diversifiés (aéronautique, spatial, défense, énergie, automobile, pharmaceutique etc…).
+
+Description de la mission
+Afin d'accompagner notre axe de développement dans la région Ouest, nous cherchons à intégrer une personne passionnée, qui pourra mettre à profit ses connaissances tant sur des missions orientées conseil/gouvernance que techniques. Au quotidien, vous serez amené(e) à travailler sur les activités suivantes et dans des environnements variés :
+
+Pour l’aspect conseil / gouvernance :
+– ISO 27k, cyber-résilience, RGS, LPM, GDPR ;
+– Schémas directeurs sécurité et Systèmes de Management de la Sécurité de l'Information ;
+– Gestion des risques Métiers et IT, cartographies et analyses de risques.
+
+Pour l’aspect technique :
+– Audit technique : architecture, configuration, code source, tests d’intrusion ;
+– R&D : reverse engineering, détection d’intrusion, développement d’outils dédiés ;
+– Supervision SSI & Investigation numérique : SOC, SIEM, CERT ;
+– Intégration de solutions de sécurité : sur les phases de design, build et run ;
+– Sécurité système et réseau ;
+– Gestion des accès et des identités (IAM), PKI et annuaires.
+
+Profil
+Vous êtes diplômé(e) d’une école d’ingénieur, spécialisée en Sécurité des Systèmes d’Information et vous souhaitez vous investir dans des projets d'envergure au sein d'une équipe dynamique ? Votre sens du service, votre esprit d'équipe et votre relationnel vous permettent d'être force de proposition ? Vous maîtrisez la langue anglaise à l’écrit et à l’oral ? Alors n’hésitez plus, rejoignez l'ESEC Ouest : une équipe à taille humaine avec une pluridisciplinarité de compétences !"
+48,https://www.indeed.fr/emplois?q=Cyber%20Securit%C3%A9&l=Nantes&radius=100&limit=100&sort=date&vjk=b2386ff981a81221,null,[],null,null,null,null,null,null,Cyber Securité,Nantes,null
+49,https://www.indeed.fr/emplois?q=Cyber%20Securit%C3%A9&l=Nantes&radius=100&limit=100&sort=date&vjk=021121ef195a06c4&advn=8646775723485361,"Pentester et Expert en Tests d'Intrusions (H/F)
+HURRYMAN2 avis - Rennes (35)",[],Pentester et Expert en Tests d'Intrusions (H/F),HURRYMAN,- Rennes (35),,null,"il y a 25 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Cyber Securité,Nantes,"Oeuvrant en expert de la sécurité informatique, notre client accompagne depuis plus de 20 ans ses partenaires dans la protection de leurs métiers : lutte contre la cybercriminalité et la fraude, protection du patrimoine informationnel. Pour répondre à sa croissance, ce véritable leader de la Cybersécurité est aujourd’hui à la recherche de son futur Pentester confirmé.
+Vous rejoindrez une équipe d'experts chargés de rechercher les faiblesses sur des environnements variés et d'accompagner les clients dans leur renforcement : le pôle Evaluation (Activité qualifiée par l'ANSSI depuis 2014). Accompagné par des formations et des outils de pointes, vous collaborez avec les autres activités pour multiplier les échanges et collaborations internes : participation aux états des lieux, réalisation de purple team sur les SOC, sensibilisations et entraînements opérationnels, veille.
+Les Missions :
+Au quotidien participer à l'amélioration de la sécurisation des SI des clients. Vous devrez ainsi :
+Prendre en charge et participer à des prestations de type (par ordre de priorité) :
+tests d'intrusion : externe, interne, redteam,
+audits de sécurité techniques, applicatif et organisationnels
+homologations et certifications
+Collaborer en tant qu'expert ou consultant à d'autres activités :
+de formation et sensibilisation,
+d'état des lieux,
+d'expertise technique,
+réponse aux incidents.
+Contribuer aux activités d'avant-vente
+Participer activement au développement et rayonnement de l'activité :
+amélioration continue,
+communication (articles, retours d'expérience, conférences),
+recrutement (cooptation, recrutements dans les conférences et écoles),
+mentorat (encadrement de stagiaires, juniors)
+Selon votre volonté et nos opportunités, vous aurez la possibilité d'évoluer vers l'ensemble des activités : CERT, SOC, Cyber Threat Intelligence, Conseil et RSSI à temps partagé, Commerce
+Conditions
+Profil recherché :
+Vous disposez d'une formation de niveau Master 2 ou Ingénieur, avec une spécialisation en sécurité des systèmes d'information
+Vous justifiez 3 à 5 ans d'expérience. Ainsi vous avez déjà réalisé en autonomie des TI externes, internes mais aussi des audits de sécurité
+
+Profil recherché : Vous disposez d'une formation de niveau Master 2 ou Ingénieur, avec une spécialisation en sécurité des systèmes d'information Vous justifiez 3 à 5 ans d'expérience. Ainsi vous avez déjà réalisé en autonomie des TI externes, internes mais aussi des audits de sécurité"
+50,https://www.indeed.fr/emplois?q=Cyber%20Securit%C3%A9&l=Nantes&radius=100&limit=100&sort=date&vjk=0af035e564f4418e&advn=3634635316628409,"Chargé d’Étude Systèmes Industriels Cybersécurité H/F
+LGM Group10 avis - France
+CDI",[],Chargé d’Étude Systèmes Industriels Cybersécurité H/F,LGM Group,- France,null,null,"il y a 10 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Cyber Securité,Nantes,"Maintenant que tu as parcouru notre site et bien compris les activités du groupe, voici un focus sur l’entité qui te concerne !
+LGM Digital ou LGMD comme tu préfères, c’est la petite dernière de la grande famille LGM. Elle nous a rejoint en 2012 et nous permet aujourd’hui de nous positionner en tant que spécialistes dans des domaines complémentaires à ceux exercés au sein de LGM (l’ingénierie documentaire et l’ingénierie pédagogique), et de LGMI (les Réseaux & Télécoms).
+Aujourd’hui, LGMD c’est 220 collaborateurs présents en France et à l’international et qui travaillent dans les domaines de la formation, la documentation technique, la médiatisation (Réalité virtuelle/Réalité augmentée) et les Réseaux & Télécoms.
+
+DESCRIPTION DE L’OFFRE
+
+
+Au travers de l’analyse de la documentation existante et d’audits menés auprès des responsables des systèmes, votre tâche sera notamment de rédiger les dossiers de sécurité comprenant :
+la description générale du système,
+les principes d’architecture (matériels et logiciels),
+la liste des équipements du système,
+les principes de protection du système,
+les procédures d’exploitation et de maintenance,
+une analyse préliminaire des écarts sur les règles relatives aux accès,
+une analyse des composants utiles et inutiles au fonctionnement du système.
+
+PROFIL RECHERCHÉ
+Les attendus du poste sont :
+Connaissances principes architecture et fonctionnement systèmes industriels : automate, supervision, bus de terrain
+Connaissance des principes architectures et fonctionnement systèmes informatiques : VLAN
+Connaissance des principes de sécurité informatique : cloisonnement, gestion des Entrées / Sorties, …
+Maitrise des outils informatiques bureautiques et Visio
+Compétences rédactionnelles
+Compétences relationnelles permettant d’échanger avec les divers acteurs du système industriel : utilisateurs, maintenancier, service informatique, …"

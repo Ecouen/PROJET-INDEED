@@ -1,0 +1,1691 @@
+,id,meta1,meta2,titre_poste,entreprise,localisation,contrat,salaire,date_publication,keyword_metier,keyword_localisation,description
+0,https://www.indeed.fr/emplois?q=Data%20Engineer&l=Nantes&radius=100&limit=100&sort=date&vjk=4669cc97416eecb3,"Software Build Engineer
+SMART ADSERVER - Nantes (44)","['Nantes (44)', 'CDD']",Software Build Engineer,SMART ADSERVER,- Nantes (44),CDD,null,"il y a 19 heures
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Engineer,Nantes,"About the team
+Smart’s software engineers develop the next-generation technologies that empower our customers to reach their digital business goals. They grow in a demanding environment that values performance and high-availability: our platform manages over 1 million bid requests per second and our dataset is about 3 petabytes in Hadoop (more than 2TB additional data per day).
+Our innovation team based in Paris, Nantes and Krakow is composed by 70 straightforward and energetic individuals working in an Agile environment and ready to tackle the most complex technical challenges.
+Your mission
+You will work closely with software engineers to ensure our build pipelines deliver our new features seamlessly. You will develop tools and implement automation to help improve the developer experience, the build reliability, stability, and performance. You will challenge existing processes to reinforce the quality of our products.
+Engineer systems and tools to support both build and verification of our products
+Continuous development practice
+Self-hosted and cloud platforms
+Diagnose and troubleshoot build framework problems
+Enforce software development best practices
+Identify, collaborate and implement process improvement opportunities
+Setup and monitor R&D KPIs: Code quality, Bug trends, Software Factory health, ...
+Detect impediments and advocate for their resolution (unreliable testing environments, … )
+Assist and support developers in the use of the software factory
+About you
+Minimum Qualifications
+Master degree in Computer Science or similar technical field of study
+2+ years of configuration management and web application engineering
+Prior experience with agile development methodologies
+Interest in continuous integration and its tools (Teamcity, Jenkins, Azure DevOps ...)
+Scripting and automation skills in one or more of PowerShell, Python, bash, or similar
+Knowledge of SonarCloud, JIRA, package managers, ...
+Programming experience in C# and/or JavaScript/Typescript, HTML5 and CSS3
+Knowledge of cloud base Git hosting providers (Bitbucket, GitHub), branch management and merging
+Must be self-driven and a team player with a solid work ethic
+Extra awesome skills
+Working proficiency and communication skills in verbal and written English
+Passion for writing high quality and maintainable code
+Personal projects with code sharing
+Tech oriented, resourceful and curious
+Why you should apply...
+We are one! At Smart, we care for our people. We are certified Great Place To Work and are constantly improving our working environment. Meet the team: https://youtu.be/BxvmLDyXct0
+Grow with us! You will work in a challenging and fast-paced profitable context with varied projects and get awesome opportunities to develop your skills and grow internally.
+Leave your mark! Smart is a human-size company. Our employees thrive under autonomy and can easily have a strong impact on our business, customers and organization.
+✈️ Live global! You will work across countries & cultures through career path or Backpackers Program, our interoffice exchange program to boost employees’ collaboration.
+We are transparent! We speak with fact and data and have a true culture of feedback. We believe in an open world and show a strong sense of integrity both internally & externally."
+1,https://www.indeed.fr/emplois?q=Data%20Engineer&l=Nantes&radius=100&limit=100&sort=date&vjk=6ad7077ebe028056,"Full Stack Software Engineer
+SMART ADSERVER - Nantes (44)","['Nantes (44)', 'CDI']",Full Stack Software Engineer,SMART ADSERVER,- Nantes (44),CDI,null,"il y a 19 heures
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Engineer,Nantes,"About the team
+Smart’s software engineers develop the next-generation technologies that empower our customers to reach their digital business goals. They grow in a demanding environment that values performance and high-availability: our platform manages over 1 million bid requests per second and our dataset is about 3 petabytes in Hadoop (more than 2TB additional data per day).
+Our innovation team based in Paris and Nantes is composed by 70 straightforward and energetic individuals working in an Agile environment and ready to tackle the most complex technical challenges.
+Your mission
+Work closely with Product Management to gather and translate requirements into technical solutions
+Design, develop, deploy and maintain new customer facing experiences
+Optimize web experience through driving tests sessions and setting-up automated tests
+Develop several new backend capabilities including REST APIs and personalization support
+Analyses users’ needs to design new prototypes
+About you
+Master degree in Computer Sciences or similar technical field of study
+3+ years of web software development experience with ASP.Net, ASP.NET Core, REST Web APIs, C#, SQL and Front-End technologies (JavaScript, AngularJS/7, HTML5, CSS3, SASS, Gulp, NPM)
+New technologies (Redis, RabbitMQ, Aerospike, Elasticsearch) and large-scale technical stakes
+Entrepreneurial spirit and know-how to identify opportunities of improvement
+Working proficiency and communication skills in verbal and written English
+Passion for writing high quality and maintainable code following Software Craftsmanship or Continuous Delivery
+Personal projects with code sharing
+Why you should apply...
+We are one! At Smart, we care for our people. We are certified Great Place To Work and are constantly improving our working environment. Meet the team: https://youtu.be/BxvmLDyXct0
+Grow with us! You will work in a challenging and fast-paced profitable context with varied projects and get awesome opportunities to develop your skills and grow internally.
+Leave your mark! Smart is a human-size company. Our employees thrive under autonomy and can easily have a strong impact on our business, customers and organization.
+✈️ Live global! You will work across countries & cultures through career path or Backpackers Program, our interoffice exchange program to boost employees’ collaboration.
+We are transparent! We speak with fact and data and have a true culture of feedback. We believe in an open world and show a strong sense of integrity both internally & externally."
+2,https://www.indeed.fr/emplois?q=Data%20Engineer&l=Nantes&radius=100&limit=100&sort=date&vjk=9716adbe98e3ad17,"Ingénieur Microsoft BI H/F NANTES
+Umanis35 avis - Saint-Herblain (44)",['Saint-Herblain (44)'],Ingénieur Microsoft BI H/F NANTES,Umanis,- Saint-Herblain (44),null,null,"il y a 1 jour
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Engineer,Nantes,"THE FRENCH LEADER OF THE DATA RECRUITS.
+Joining Umanis is to participate in a formidable adventure, that of a French company in continuous growth, recognized for its capacity for innovation and its dynamism.
+Umanis is more than 2700 enthusiasts of new technologies who share the same values as excellence, responsibility, respect and conviviality.
+Umanis, it is a community with an average age of 35 years that intervenes in advanced engineering on the strategic projects of the largest customers of order or on behalf of companies for whom data is transformation vector.
+Umanis, it is a management and an organization closest to its collaborators to accompany you in your career. Training, certifications, MOOC, CPEC; We are committed to making you evolve continuously.
+The engineering engineer is responsible for coordinating studies related to the development of new tools / products while respecting the specifications defined in the specifications.
+YOUR MISSIONS:
+Venez rejoindre notre communauté d’expert sur MSBI certifiés Microsoft sur des projets ambitieux qui vous feront gagner en compétences.
+Afin de développer nos équipes, nous recherchons donc un :
+Consultant Microsoft BI (H/F) NANTES .
+Vous interviendrez en collaboration avec l'équipe de développeurs, sur les missions suivantes :
+La rédaction des livrables projets ;
+La définition des architectures applicative et technique ;
+La participation et le suivi des développements sur Microsoft BI ;
+La validation technique ;
+Le suivi des évolutions et les améliorations,
+La maintenance et le support.
+De formation Bac+3/5 (Ecole d’ingénieurs ou Université) vous êtes spécialisé en informatique et vous justifiez d’au moins un an d’expérience en développement sur Microsoft BI (MSBI), Power BI
+Vous maîtrisez la suite décisionnelle Microsoft BI (SSIS, SSAS et SSRS), les langages de requêtes MDX, SQL et T-SQL.
+Les compétences suivantes : Cloud Azure, Data Factory seront appréciées :
+Vous avez été amené à intervenir sur les phases de rédaction de spécifications, de modélisation de Datawarehouse et de développement de procédures stockées.
+Votre capacité d’adaptation, votre sens du service, votre autonomie, vos qualités relationnelles seront des atouts certains pour votre développement dans notre société.
+Aimant le travail en équipe et maitrisant la langue anglaise, vous vous décrivez volontiers comme quelqu’un de polyvalent, créatif et plein d’humour !
+Pourquoi Umanis ?
+Un suivi régulier et personnalisé par votre manager et votre référent RH.
+Une écoute constante pour accompagner votre montée en compétences et vous proposer les projets les plus en phase avec vos attentes.
+Des moments de partage : soirées d’agence et afterworks, rencontres sportives…
+L’intégration d’une communauté DATA nationale active.
+La possibilité, en fonction de vos aspirations, de devenir l’un des référents techniques de notre équipe.
+Ceux qui, grâce à leur expertise, nous accompagnent dans le recrutement des futurs collaborateurs.
+En 2019, Umanis recrute 1000 nouveaux talents sur l'ensemble du territoire français. Et si c'était vous?
+REQUIRED COMPETENCIES:
+Complex problem solving (Confirmed), Design of works, products or events (Confirmed), English (Intermediate), Product or event development (Confirmed), Project management (Confirmed), Putting into operation / Production and maintenance (Confirmed), Risk management (Confirmed), Software mastery (Confirmed), Technical Architecture SI (Advanced)
+In 2018, Umanis recruited 900 new talents throughout the French territory. What if it was you?"
+3,https://www.indeed.fr/emplois?q=Data%20Engineer&l=Nantes&radius=100&limit=100&sort=date&vjk=3e6ed6754959bf8c,"Data Engineer h/f
+AdenSourcing - Rennes (35)","['Rennes (35)', 'CDI']",Data Engineer h/f,AdenSourcing,- Rennes (35),CDI,null,"Viadeo - il y a 4 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Engineer,Nantes,"Notre Direction des Systèmes d’Information, pense et construit actuellement le modèle informatique de demain en intégrant les enjeux numériques, de traitement des données, et surtout de cybersécurité. Dans le cadre de notre modernisation, notre DSI est engagée dans la démarche Big Data et a pour volonté la maitrise en interne de ce sujet majeur. C’est dans ce cadre que nous mettons aujourd’hui en place une équipe autour de notre système décisionnel et Big Data et créons le poste de
+Data Engineer H/F
+Poste en CDI, basé à Rennes (35)
+Rattaché au service « Architecture et Développement Restitutions » et intégré au sein d’une équipe composée de 8 collaborateurs (3 architectes, 1 chef de projet et 4 développeurs), vous participez activement à la mise en place du projet de transformation de notre système décisionnel aidé par des technologies de pointe.
+Au quotidien vos missions sont les suivantes :
+Participer activement avec votre équipe à la transformation de notre système Décisionnel et à la mise en place opérationnelle des systèmes BI et Big data de l’institution, (notamment dans le choix des technologies à adopter)
+Construire des solutions dans un environnement Big Data sur des technologies telles que Spark, R, Python, HDFS,
+S’assurer de la collecte, du stockage et de l’exploitation fluide des données en développant des solutions qui peuvent traiter un gros volume de data dans un temps limité,
+Participer à la réalisation de cas d’usage Big Data définis en collaboration avec les Data Scientists
+S’imposer peu à peu en tant que référent sur ces technologies vis-à-vis de la population utilisatrice dans nos centres."
+4,https://www.indeed.fr/emplois?q=Data%20Engineer&l=Nantes&radius=100&limit=100&sort=date&vjk=cbbf43ddae8abdab,"Data scientist (h/f) - Nantes
+Maisons du Monde376 avis - Vertou (44)",['Vertou (44)'],Data scientist (h/f) - Nantes,Maisons du Monde,- Vertou (44),null,null,"il y a 5 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Engineer,Nantes,"Le programme data du groupe Maisons du Monde a presque deux ans déjà, et se compose d’une vingtaine de personnes (data scientists, data analysts, data engineers, web analysts). Poussée par une forte ambition, l’équipe data est amenée à accueillir plusieurs nouveaux profils dans les douze prochains mois. Les cas d’usages à développer vont du marketing digital (CRM, acquisition trafic, personnalisation/recommandation) à la supply chain, avec une activité R&D sanctuarisée. L’infrastructure data, développée dans l’équipe, est basée sur Google Cloud Platform. Les résultats sont là : nous sommes mis en avant par les équipes Google quant à l’usage de leurs outils cloud !
+Dans une ambiance jeune et dynamique, où le travail d’équipe est mis en valeur, nous recherchons un(e) Data Scientist pour rejoindre cette belle aventure Maisons du Monde !
+Vous participez activement à la vie de l’équipe : vous collaborez étroitement avec les Data Scientists et Data Engineers. Les missions seront variées (structuration de la chaîne Big Data, Dashboarding, Analyse Ad Hoc, R&D sur le Machine Learning) et demandent un niveau de rigueur certain.
+
+MISSIONS
+Vous êtes impliqué(e) dans l’engagement de l’équipe au quotidien et faites tout pour l’aider pour délivrer des fonctionnalités en continue ;
+Vous travaillez en étroite relation avec notre Lead Data scientist pour aider à la création des algorithmes nécessaires pour les cas d’usages développés pour les équipes métier ;
+Vous mettez en place les nouveaux flux d’entrée et de sortie au sein de la plateforme data, et irez jusqu’au modeling et à l’activation de la donnée ;
+Vous assurez le delivery, et êtes constamment en veille sur les nouvelles technos.
+VOTRE ENVIRONNEMENT TECHNIQUE
+Google Cloud Platform ;
+Big Query, SQL-like, Dataflow, Dataproc ;
+Python ;
+ML & DL, Tensorflow ;
+Qlik Sense ;
+Et tout autre outil que vous jugerez pertinent !
+
+Poste basé à Vertou.
+
+De formation supérieure en école d’ingénieur/université (niveau Bac+5 ou plus), vous possédez au minimum une première expérience professionnelle (stage/alternance acceptés) dans un programme data.
+
+SAVOIR-FAIRE
+Vous avez déjà appliqué les technologies Big Data en production sur de fortes volumétries de données. Vous maitrisez le développement en Python ;
+Vous avez la capacité à maintenir la chaîne Big Data, de la récupération de la donnée jusqu’à son exploitation finale ;
+Une bonne culture du web et du marketing digital est un plus (web analytics, DMP, CRM, SEO, SEA, etc.).
+SAVOIR-ETRE
+Vous avez l’esprit d’équipe et êtes impliqué(e) dans votre travail au quotidien ;
+Vous êtes curieux (se), rigoureux (se), structuré(e) ;
+Vous avez hâte de proposer des améliorations, les partager et les prioriser avec vos collègues ;
+A l’externe, vous participez à des évènements de l’univers Big Data (meetups, conférence, etc.)."
+5,https://www.indeed.fr/emplois?q=Data%20Engineer&l=Nantes&radius=100&limit=100&sort=date&vjk=2812f1ae6288d0ce,"Data Engineer / Freelance
+Phaidon International (UK) Ltd - Nantes (44)","['Nantes (44)', 'Temps plein, Freelance / Indépendant']",Data Engineer / Freelance,Phaidon International (UK) Ltd,- Nantes (44),"Temps plein, Freelance / Indépendant",null,"Freelance-info - il y a 5 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Engineer,Nantes,"Les compétences clés comprennent :
+Spark
+Scala
+HIVE
+Mon client met en place son propre environnement et reçoit des données jour après jour. Votre mission est d’aider à protéger ces données, d’élaborer une matrice de données et de trouver des moyens de protéger cette matrice de données. Il s’agira également d’analyser les données actuelles."
+6,https://www.indeed.fr/emplois?q=Data%20Engineer&l=Nantes&radius=100&limit=100&sort=date&vjk=42ac0d18e28e658c,"R&D engineer in high-performance computing and Big Data analytics - Damaris project
+Inria46 avis - Rennes (35)",['Rennes (35)'],R&D engineer in high-performance computing and Big Data analytics - Damaris project,Inria,- Rennes (35),null,null,"il y a 5 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Engineer,Nantes,"Le descriptif de l’offre ci-dessous est en Anglais
+Niveau de diplôme exigé : Thèse ou équivalent
+Fonction : Ingénieur scientifique contractuel
+A propos du centre ou de la direction fonctionnelle
+Inria, the French national research institute for the digital sciences, promotes scientific excellence and technology transfer to maximise its impact.
+It employs 2,400 people. Its 200 agile project teams, generally with academic partners, involve more than 3,000 scientists in meeting the challenges of computer science and mathematics, often at the interface of other disciplines.
+Inria works with many companies and has assisted in the creation of over 160 startups.
+It strives to meet the challenges of the digital transformation of science, society and the economy.
+Contexte et atouts du poste
+About Inria, the team and the position
+Inria is the only French public research body fully dedicated to computational sciences. Inria's missions are to produce outstanding research in the computing and mathematical fields of digital sciences and to ensure its impact on the economy and society through technology transfer and innovation. Throughout its 8 research centres and its approximately 200 project teams, Inria has a workforce of 3 400 scientists with an annual budget of 265 million euros, 29% of which coming from its own resources. Inria Rennes Bretagne-Atlantique is one of the eight sites of Inria. This publicly funded research center has a workforce of about 620 people, including full-time research scientists, faculty staff, engineers and support staff, distributed in 33 teams and support services.
+The hired engineer will be a member of the KerData Inria team (https://team.inria.fr/kerdata/) led by Gabriel Antoniu. KerData is a joint research team of Inria Rennes - Bretagne Atlantique, ENS Rennes and INSA Rennes, and also a team of the IRISA lab. KerData's main research activities address the area of distributed data management at challenging scales, with a particular focus on clouds and petascale HPC architectures. We address the needs of data-oriented high-performance applications that must handle massive non structured data. Developed by the KerData research team in collaboration with JLESC (Joint INRIA-ANL-UIUC-BSC Lab for Extreme Scale Computing: http://publish.illinois.edu/jointlab-esc/), Damaris is a middleware for managing I/O and in situ processing of Big Data on HPC infrastructures.
+Mission confiée
+Mission overview
+By joining our team you will participate in a dynamic work environment with exceptionally talented and friendly coworkers who are committed to high-quality research and development practices. You will collaborate with esteemed researchers from around the world by taking the technical responsibility for the development of the Damaris software, with the following global missions:
+(1) maintain Damaris a distributable, professional-quality software (technical support, documentation, management of the web site);
+(2) contribute to the design of a unified, scalable data processing framework where Damaris will be enhanced with innovative functionalities including Big Data storage and analytics features based on the KerA approach developed by KerData, with the goal to favor the adoption of this framework by the HPC and Big Data community, in the context of the HPC-Big Data convergence; this activity will be performed in close collaboration with our collaborators from ZettaFlow (a project aiming a startup creation focusing on these aspects).
+(3) contribute to dissemination actions by interacting with potential users and by promoting Damaris and the future derived software through demonstrations at major HPC and Big Data events, such as the Supercomputing or IEEE BigData conferences.
+(4) explore and lead exploitation plans, including the possibility to create a start-up company, based on Damaris, KerA and the derived software.
+Principales activités
+Detailed missions
+Improve and extend the Damaris code, perform robustness and performance tests, maintain a continuous code integration process;
+Create a unified data processing framework combining Damaris (as in situ/in transit data processing framework) with Big Data analytics plugins to support batch-based or stream-based data processing (e.g., based on components from the Spark, Flink ecosystem); this task includes refactoring, testing and integration with the KerA technology developed by the KerData team for low-latency stream storage and processing;
+Adapt Damaris to use recent advanced communication and multithreading technologies (Mercury, Argobots);
+Develop and maintain software connectors allowing Damaris to be used by state-of-the-art visualization tools such as VisIt and ParaView;
+Facilite the dissemination of Damaris and of the unified data processing framework through the following means:
+Maintain a complete and up-to-date documentation (reference manual, user manual);
+Write example codes to facilitate learning of the interface by new users;
+Design and maintain a profesional-quality web site facilitating the distribution of the code and of its documentation;
+Design and implementation of software demonstrators:
+Make demos at forums such as the Supercomputing conference, main international forum of the HPC community, BDEC (https://www.exascale.org/bdec/), the European Big Data Value Forum and Teratec;
+Create and animate a user community around the (maintain a mailing list, a mechanism for bug report and solving, user support, etc.).
+Compétences
+Required qualifications
+Excellent, demonstrated programming skills in C, C++, Python;
+Very good knowledge of hardware and software technologies in the area of HPC (including MPI, which is a must, and knowledge about networking protocols like Intel DPDK/Infiniband)) and Big Data;
+Very good knowledge of methodologies for managing software projects;
+Ability to analyze and synthesize user requirements;
+Ability to communicate and work in collaboration with experts in the same area and in other areas, in English;
+Autonomy in leading and performing the tasks;
+Sense of partnership and team spirit;
+Taste for transmitting and sharing knowledge, results, progress;
+Facility to present the results in written and oral form.
+Avantages
+Subsidised catering service
+Partially-reimbursed public transport
+Rémunération
+monthly gross salary from 2562 euros according to diploma and experience"
+7,https://www.indeed.fr/emplois?q=Data%20Engineer&l=Nantes&radius=100&limit=100&sort=date&vjk=85d3b3e29770c18d,"QA Test Engineer
+SMART ADSERVER - Nantes (44)","['Nantes (44)', 'CDI']",QA Test Engineer,SMART ADSERVER,- Nantes (44),CDI,null,"il y a 5 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Engineer,Nantes,"About the team
+Smart’s software engineers develop the next-generation technologies that empower our customers to reach their digital business goals. They grow in a demanding environment that values performance and high-availability: our platform manages over 1 million bid requests per second and our dataset is about 3 petabytes in Hadoop (more than 2TB additional data per day).
+Our innovation team based in Paris, Nantes and Krakow is composed by 70 straightforward and energetic individuals working in an Agile environment and ready to tackle the most complex technical challenges.
+Your mission
+QA Engineers work closely with software engineers to ensure the continuous integration of our new features.
+Actively participate in agile meetings with product and DEV
+Provide expertise in all aspects of Software Quality Assurance and automation projects (best practices)
+Design and develop automation tests with the collaboration of the DEV and QA
+Design and execute end to end test campaigns
+Maintain the existing test automation framework
+Execute a variety of tests that ensure the highest quality delivery
+Participate in the improvement of the quality: process, tooling and methods
+Guarantee the quality of our short cycle releases through advanced unit testing / code analysis
+About you
+Minimum Qualifications
+Master degree in Computer Science or similar technical field of study
+4+ years of web or mobile software quality experience and familiar with test automation
+Prior experience in functional and technical (automation) testing
+Good programming skills in JavaScript/Typescript, HTML5 and CSS3.
+Passionate about QA. Previous QA experience is a big plus
+Interest in continuous integration and tools (Teamcity, Jenkins, MSBuild, Gradle, etc)
+Entrepreneurial spirit and know-how to identify opportunities of improvement
+Working proficiency and communication skills in verbal and written English
+Autonomous and well organized
+Extra Awesome Skills
+Working proficiency and communication skills in verbal and written English
+Passion for writing high quality and maintainable code following Software Craftsmanship or Continuous Delivery
+Personal projects with code sharing
+Prior experience with agile development methodologies
+Knowledge of tools such Bitbucket (GIT), Jira, Confluence, Selenium, Test Cafe, etc.
+Experience writing test cases
+Basic programming skills in any modern OO languages (JAVA, .NET, etc.)
+Tech oriented, resourceful and curious
+Why you should apply...
+We are one! At Smart, we care for our people. We are certified Great Place To Work and are constantly improving our working environment. Meet the team: https://youtu.be/BxvmLDyXct0
+Grow with us! You will work in a challenging and fast-paced profitable context with varied projects and get awesome opportunities to develop your skills and grow internally.
+Leave your mark! Smart is a human-size company. Our employees thrive under autonomy and can easily have a strong impact on our business, customers and organization.
+✈️ Live global! You will work across countries & cultures through career path or Backpackers Program, our interoffice exchange program to boost employees’ collaboration.
+We are transparent! We speak with fact and data and have a true culture of feedback. We believe in an open world and show a strong sense of integrity both internally & externally."
+8,https://www.indeed.fr/emplois?q=Data%20Engineer&l=Nantes&radius=100&limit=100&sort=date&vjk=82d8e8c0c2b9d533,"Data Engineer / Freelance
+CS Group Solutions - Nantes (44)","['Nantes (44)', 'Temps plein, Freelance / Indépendant']",Data Engineer / Freelance,CS Group Solutions,- Nantes (44),"Temps plein, Freelance / Indépendant",null,"Freelance-info - il y a 6 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Engineer,Nantes,"Nous recherchons un consultant Data Engineer pour la mission suivante:
+
+Mettre en uvre les traitements Big Data d’ingestion de données dans le datalake et d’alimentation de la base de données selon le modèle pré défini.
+Créer le modèle de données dans la base de données Elastic.
+Assurer la cohérence et la mise en qualité des données ingérées.
+Respecter les normes de développement et documenter les travaux réalisés.
+Réaliser les user stories demandées par le Product Owner.
+Savoir échanger et questionner sur les fonctionnalités à développer lors des cérémonies agiles.
+Travailler avec le data scientist.
+
+Compétences
+Développement confirmé en langage Python Spark + Git.
+Une première expérience sur le cloud Azure : Databricks, Azure data factory.
+Expérience sur la Stack Elastic ou une autre base de données orientée moteur de recherche.
+Environnement de travail agile : Jira, Confluence.
+Idéalement utilisation d’un outil de gouvernance de données.
+
+Vanille LACOSTE
+Ingénieur d’affaires
+
+CS GROUP SOLUTIONS
+Tel : 05 67 16 15 97
+Mob : 06 87 38 86 76
+vlacoste@groupcs.com"
+9,https://www.indeed.fr/emplois?q=Data%20Engineer&l=Nantes&radius=100&limit=100&sort=date&vjk=de95585040f304ae,"SR PPE - Stage gestion de projet adhérence aux équilibrages (H/F)
+Airbus1,455 avis - Saint-Nazaire (44)","['Saint-Nazaire (44)', 'Temps plein, Stage']",SR PPE - Stage gestion de projet adhérence aux équilibrages (H/F),Airbus,- Saint-Nazaire (44),"Temps plein, Stage",null,"il y a 6 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Engineer,Nantes,"Airbus Operations SAS
+Airbus is a global leader in aeronautics, space and related services. In 2018 it generated revenues of € 64 billion and employed a workforce of around 134,000. Airbus offers the most comprehensive range of passenger airliners. Airbus is also a European leader providing tanker, combat, transport and mission aircraft, as well as one of the world's leading space companies. In helicopters, Airbus provides the most efficient civil and military rotorcraft solutions worldwide.
+
+Our people work with passion and determination to make the world a more connected, safer and smarter place. Taking pride in our work, we draw on each other's expertise and experience to achieve excellence. Our diversity and teamwork culture propel us to accomplish the extraordinary - on the ground, in the sky and in space.
+Job Description
+N° JOB REQUISITION : 10004828
+Ingénieur projet (h/f)
+Descriptif du poste:
+Et si VOTRE aventure commençait avec NOUS !
+Dans le cadre d'un cursus scolaire en formation initiale, vous recherchez un stage obligatoire ou intégré dans une année de césure, d'une durée allant de 4 à 6 mois maximum, vous permettant de valider votre année.
+Nous vous proposons de travailler dans une entreprise leader mondial dans son domaine, tournée vers le digital, à la pointe de la recherche et de l’innovation.
+Une offre de stage en gestion de projet - Process Performance Engineer (h/f) vient de s'ouvrir au sein d’Airbus sur notre site de Montoir de Bretagne !
+Ce stage est à pourvoir à partir du 02/01/2020 (date sujette à une certaine flexibilité)
+Vous rejoindrez le département « Production System Efficiency » en charge de fournir les séquences opératoires d’assemblage des fuselages Airbus Commercial Aircraft.
+Le stage aura pour objet la mesure et l’établissement d’un plan de surveillance sur l’utilisation de nos livrables Process Performances Engineer dans l’atelier.
+Tâches et responsabilités :
+Vous serez sous la responsabilité d’un manager qui vous aidera à identifier vos objectifs professionnels et vous soutiendra dans le développement de vos compétences.
+L'objectif du stage consiste à comprendre les freins, établir un état des lieux, mesurer les écarts par rapport au standard et proposer un plan de rattrapage, intégrant entre autre l'élaboration d'indicateurs de suivi.
+Dans ce contexte, vos principales activités seront les suivantes :
+Effectuer une analyse en immersion au sein de la production :
+Compréhension et état des lieux du suivi des équilibrages dans l’atelier
+Mesure des écarts par rapport aux standards
+Echanges réguliers avec la communauté PPE
+Réaliser un plan de convergence incluant la définition et la mise en place d’indicateurs
+Suivant l'avancement de la mission, il sera envisageable d'étendre l'étude à d'autres livrables de notre secteur d'activité vers les unités de production.
+Profil recherché et Compétences requises:
+Vous préparez un diplôme de niveau Bac +5 en Ingénierie généraliste, avec une spécialisation en gestion de projet / data analyste et vous avez les compétences suivantes :
+Anglais : lu parlé écrit (INTERMEDIAIRE)
+Français : NEGOCIATION
+Une première expérience de gestion de projet
+Un vif intérêt pour la production / l’industrie
+Une maitrise des outils tels que Excel, ppt
+Des compétences de base en développement informatique (data analyst, big data, ...) seront des atouts non négligeables. La pratique de l'anglais sera un atout supplémentaire dans la mesure où la mission nécessitera certainement une collaboration directe avec des projets transnationaux.
+Savoir-être :
+De nature rigoureux (se), curieux (se) et autonome
+Doté (e) d’un sens relationnel et de la communication
+Reconnu(e) pour vos qualités d’organisation et votre aptitude d’analyse et de synthèse
+et pourvu(e) d’un esprit d’équipe, d’une facilité d’adaptation et d’intégration.
+Vous pourrez, selon les offres proposées, être amené(e) à vous déplacer.
+Si votre profil retient notre attention, vous serez invité à réaliser un entretien vidéo au cours duquel vous aurez quelques minutes pour nous convaincre. Par la suite, votre candidature pourra être proposée aux managers.
+Si la perspective de rejoindre notre Groupe innovant vous motive ?
+N’hésitez pas ! Postulez en ligne ! www.airbus.com/careers
+
+This job requires an awareness of any potential compliance risks and a commitment to act with integrity, as the foundation for the Company’s success, reputation and sustainable growth.
+
+By submitting your CV or application you are consenting to Airbus using and storing information about you for monitoring purposes relating to your application or future employment. This information will only be used by Airbus.
+Airbus is committed to achieving workforce diversity and creating an inclusive working environment. We welcome all applications irrespective of social and cultural background, age, gender, disability, sexual orientation or religious belief."
+10,https://www.indeed.fr/emplois?q=Data%20Engineer&l=Nantes&radius=100&limit=100&sort=date&vjk=95f233338df49744,"CDI - Leader Ingénierie Support client H/F
+GE Renewable Energy56 avis - Nantes (44)",['Nantes (44)'],CDI - Leader Ingénierie Support client H/F,GE Renewable Energy,- Nantes (44),null,null,"General Electric - il y a 6 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Engineer,Nantes,"Role Summary:
+Le/La Leader Ingénierie support client pilote l'organisation d'ingénierie de la phase offre à la phase exécution du projet avec le management de la relation client tout au long du cycle de vie des projets.
+The Customer Support Engineering Leader leads the Engineering Organization that directly faces the customer from ITO to OTR and continued support during the life of the project.
+
+Essential Responsibilities:
+Le/la leader Ingénierie Support client est garant des délais de livraison de l'ingénierie pour les projets commerciaux et de la satisfaction client pour les livrables.
+
+Voici les principales responsabilités de ce rôle :
+Piloter les équipes d'ingénierie, achat dédiée à l’ingénierie ainsi que l'équipe service.
+Développe les ressources dédiées au support client et l'organisation support dans les régions ciblées commercialement par GE.
+Développe une relation avec les personnes influentes des organisations clientes et peut faire des présentations techniques de façon constructive.
+Tient à jour un tableau de bord des KPIs centrés sur le client qui permet de prévoir avec précision les produits livrables de l'ingénierie. Exécute des plans d'amélioration continue sur ces indicateurs clés de performance clés.
+Participe aux budgets du plan à 3 ans et s'assure que ces budgets liés notamment aux ressources soient cohérents en interne aussi bien en engineering qu’avec les autres services en fonction de l’actualité du business.
+Développe et fédère des équipes autour d'objectifs, de stratégies, d’actions et de mécanismes opérationnels pour obtenir des résultats opérationnels.
+Développe un processus de gestion de configuration solide de la phase d’offre à la phase exécution du projet et de support pour les personnalisations. Ceci inclut un processus d'approbation dans la phase offre, un rythme d'exécution dans la phase de demande d'achat ainsi que des nomenclatures conformes à l'exécution/maintenues pendant la phase Service.
+Maintient un haut niveau d’automatisation et de digitalisation pour l’ensemble des activités.
+Communique régulièrement avec les intervenants internes et externes comme les projets, la chaîne d'approvisionnement et les services et s'assure que les plannings sont respectés.
+Encourage une culture de la simplification.
+Examples of critical activities in this role include, but are not limited to the following:
+Leads the Engineering Application team, Requisition team as well as Fleet Support team.
+Develops Customer Support resources and supporting infrastructure in the regions that GE targets commercially.
+Maintains close relationship with the Customer Support Product Manager. The Product Manager manages coordination of cross-functional programs and deliverable whereas the Customer Support Manager is accountable for the Engineering deliverable of those programs.
+Develops a relationship with key individuals in Customer organizations and can credibly present technology related items.
+Maintains a dashboard of customer centric KPIs that allow for accurate forecasts of Engineering deliverable. Runs continuous improvement plans on those key KPIs.
+Provides inputs during GPB, S2 and OP and ensures budget and resource estimates tie off with stakeholders inside and outside of Engineering. Actively sizes the organization with the industry dynamics for all pieces of the organization.
+Develop and inspire teams around objectives, tactics, measurements, and operating mechanisms to deliver business results.
+Develops a process for strong configuration management from ITO to OTR and Fleet Support for customizations. This includes amongst others an approval process in the ITO phase, execution rhythm in the requisition phase as well as accurate as-built/maintained BOMs during the Service phase.
+Drives for a high degree of automation and digital thread for all activities.
+Communicates with internal and external stakeholders like Projects, Supply Chain and Services on a regular basis and ensures schedules are tied out.
+Promote a culture of simplification.
+
+Qualifications/Requirements:
+Le/la candidat(e) idéal(e) doit être un(e) cadre expérimenté(e) en ingénierie ayant fait ses preuves dans la gestion de projets et de services d'ingénierie dans le domaine de l'énergie. Il/elle possède à la fois un bon bagage technique et un très bon relationnel avec des expériences réussies tout au long de sa carrière.
+Diplômé(e) en ingénierie avec expérience exigée dans une organisation d'ingénierie ou de projets ou expérience équivalente. Expérience approfondie en gestion des programmes et de management d’équipes.
+Expérience solide en ingénierie dans le développement de produits, le démarrage de nouvelles activités dans des régions comme les Etats-Unis et la Chine et interactions quotidiennes avec des équipes d’ingénierie d’organisations clientes.
+Solides compétences analytiques orienté données.
+Disponible pour des déplacements internationaux occasionnels.
+The ideal candidate must be an experienced Engineering Executive with a proven track record in managing the Engineering scope for Projects and Services in the Energy space. He/She possesses both technical depth and great interpersonal skills along with a track record of success throughout his/her career.
+A master’s degree in Engineering, or equivalent experience/knowledge is required. Significant experience as Executive in an Engineering or Projects organization.
+In-depth experience in program and people management.
+Strong Engineering background with a track record in product development or requisition engineering.
+Experience in starting new activities in regions like the USA and China.
+A proven track record of interacting on a regular basis with Engineering teams in Customer organizations.
+Strong analytical skills and data driven mindset
+Very energetic and passionate about making a difference.
+Available for occasional international travel.
+
+Desired Characteristics:
+Solide expérience en gestion de la configuration et en outils numériques, y compris les systèmes ERP.
+Expérience technique significative dans la conception d'éoliennes.
+Orienté résultats plutôt que processus.
+Strong background with Configuration Management and Digital tools, including ERP systems.
+Significant technical experience in wind turbine design.
+Oriented to outcomes over processes.
+
+About Us:
+GE est le groupe industriel numérique mondial, qui transforme l’industrie grâce à des machines contrôlées par logiciel et des solutions connectées, adaptées et prédictives. GE s’organise autour d’un échange mondial de connaissance, le « GE Store » (offre de produits GE), au sein duquel chaque activité partage et a accès aux mêmes technologies, marchés, structures et intelligences. Chaque invention nourrit les innovations et les applications dans tous nos secteurs industriels. Fort de ses collaborateurs, ses services, sa technologie et sa taille, GE produit de meilleurs résultats pour ses clients en parlant le langage de l’industrie. www.ge.com
+Les candidatures des personnes dont l’embauche est subordonnée à une autorisation pour travailler en France sont les bienvenues et seront prises en compte au même titre que les autres candidatures. Dans ce cadre et conformément à la règlementation pour certaines catégories d’emploi, les candidats étrangers des pays tiers ne peuvent pas être retenus si un ressortissant de l'Union européenne ou d'un autre Etat partie à l'EEE et de la Confédération suisse postule et dispose d’un profil correspondant au poste à pourvoir. Pour plus d’information concernant la règlementation relative à l’immigration professionnelle et les conditions pour obtenir la délivrance par les autorités françaises de l’autorisation de travail, nous vous invitons à consulter le site : http://www.immigration-professionnelle.gouv.fr/
+
+GE Renewable Energy harnesses the earth’s most abundant resources – the strength of the wind, the heat of the sun and the force of water – to power the world’s biggest economies and the most remote communities.
+With an innovative spirit and an entrepreneurial mindset, we engineer energy products and digital services that create industry-leading value for our customers around the world.
+We see the promise of renewable energy everywhere we look. Our team has the courage, scale, passion, diversity and resourcefulness needed to deliver that promise wherever and however the world needs it
+.
+Together with our customers, we’re proving that no one ever has to choose between affordable, reliable, or sustainable energy.
+We are unleashing limitless energy.
+Follow us at www.ge.com/renewableenergy or on twitter @GErenewables.
+GE is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, and according with all local laws protecting different status.
+Follow us on Twitter, join our LinkedIn Group or become a fan of our Facebook page. Receive job and event notifications by becoming a member of the GE Talent Community. Stay up to date on what’s happening at GE around the globe by checking out the GE Careers Blog.
+Additional Locations:
+France;Nantes;"
+11,https://www.indeed.fr/emplois?q=Data%20Engineer&l=Nantes&radius=100&limit=100&sort=date&vjk=46919d84a2e7bdaf,"Product Manager
+Procsea3 avis - Rennes (35)",['Rennes (35)'],Product Manager,Procsea,- Rennes (35),null,null,"il y a 6 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Engineer,Nantes,"PRODUCT MANAGER H/F
+
+ProcSea is the online seafood marketplace dedicated to professional buyers and sellers. Since 2016, we've been disrupting this $200bn market by connecting directly fishermen & producers with restaurants, grocery stores & fishmongers, all in just a few clicks.
+Our ship is speeding up and has an international reach.
+To accompany us in this rapid growth, our Product sailors team is looking for a Product Manager. This role is located in Rennes and is a CDI.
+The mission :
+The product/team team grows in a logic of squad in which each Product Manager has the ownership. As a product manager you will be responsible for one of these squads to deliver the maximum value for business and users.
+You’ll join the product Team and report directly to the CPO.
+Understand customer needs through user interviews, data analysis, and usability sessions
+Work on creative solutions, in collaboration with product designer and developers
+Participate in the creation and prioritization of the roadmap
+Communicate regularly with people across the business, both to obtain input for the product roadmap and to share progress and plans
+Challenge requests for product changes that may come from outside as well as internally
+Write user stories and participate in the development of wireframes
+Review tickets, following the development of new features.
+The ideal sailor :
+You have graduated with a Master or Bachelor degree in Engineering or Business
+3+ years of experience as a Product Manager, ideally in a B2B environment
+Experience working with a team of engineers to build and maintain software in production
+Knowledge of JIRA, lean UX & Agile Methodologies
+You love solving big & complex problems and understanding end-customer needs
+Execution and data oriented, you’re highly organized and you can manage many work streams
+Natural self-starter, you are able to take initiative and take an entrepreneurial approach to everyday tasks
+Comfortable to interact with techs (techno, API, microservice architecture)
+You have great communication skills (both written and oral)
+Fluent in English
+An experience in a fast paced environment or a startup is a great plus
+The perks :
+Stock options: all the sailors can take part of the future success of ProcSea
+Training and development: we will give you all the necessary keys to attain your objectives and grow!
+Frequent social events to take a part of: afterworks, barbecue, raclette, poker, laser game, badminton…
+At lunch, we eat all together and relax by playing chess, pétanque (yes, we have a dedicated pétanque field), palet, foosball, Mölkky or just by taking a stroll (or running) along the Vilaine
+Everything close by for lunch or to access work with various buses and a free parking
+We work in a sunny and modern open space, in Rennes, frequently called one of the best cities to live and work in.
+Why jump aboard:
+Challenge: Nothing stops us! Commited to make ProcSea a recognized worldwide leader, we are always looking for ways to improve and grow.
+Ambition: You will be part of a fast growing and international startup. ProcSea has been created with the ambition to disrupt the old practices of the fish trade and build an innovative and worldwide company.
+Team spirit: You will grow in an engaged and happy crew. All aboard the same ship, we share our knowledge, experiences and passions. Our day to day? Humility, conviviality and fun!
+
+Sail and grow with us!"
+12,https://www.indeed.fr/emplois?q=Data%20Engineer&l=Nantes&radius=100&limit=100&sort=date&vjk=5ff8a688fdf066b1,"Back End Engineer Scala (H/F)
+iAdvize2 avis - Nantes (44)",['Nantes (44)'],Back End Engineer Scala (H/F),iAdvize,- Nantes (44),null,null,"il y a 11 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Engineer,Nantes,"Job Description
+
+En qualité de Back End Engineer (H/F), vous avez pour mission de spécifier, architecturer, implémenter, tester, livrer, monitorer. En bref, vous serez en charge de concevoir et développer le produit.
+Notre vision chez iAdvize, c’est que vous soyez le plus autonome possible sur votre poste. Cependant, autonomie ne doit pas signifier isolement, nous apportons une grande importance à la collaboration, la communication et le partage.
+Intégré dans des ""swarms"", de petites équipes travaillant en Scrum, chacune dédiée à une thématique du produit, chacun est amené à réfléchir et à contribuer à l’amélioration et l’innovation du produit et de son socle technique.
+
+Qualifications
+
+Compétences attendues :
+Maîtrise de Scala et de son écosystème
+Maîtrise du développement en architecture micro-services (via Docker)
+Un minimum de 4 ans d’expérience professionnelle en développement
+Profil recherché :
+Pragmatique, vous produisez un code de qualité, simple, scalable, et performant
+Critique mais constructif, vous êtes créatif, et aimez les challenges
+Bon communiquant, vous aimez collaborer en équipe, et adhérez aux principes Agile
+Humble, vous aimez les échanges simples et bienveillants
+Passionné par votre métier, vous êtes moteur et force de proposition
+Nice to have :
+Expérience dans une boite SaaS
+Expérience avec des technologies Big Data telles que Elasticsearch, Kafka, ou Spark
+Contributions open-source
+
+Additional Information
+
+Date de démarrage : A définir
+Salaire : En fonction de votre profil
+Localisation : Nantes
+Nous sommes bien entendu attachés à la diversité de nos équipes, nous pratiquons une politique de non-discrimination."
+13,https://www.indeed.fr/emplois?q=Data%20Engineer&l=Nantes&radius=100&limit=100&sort=date&vjk=f2e8ed2d57e32a51,"Un développeur python spark + Git sur Nantes / Freelance
+Almatek - Nantes (44)","['Nantes (44)', 'Temps plein, Freelance / Indépendant']",Un développeur python spark + Git sur Nantes / Freelance,Almatek,- Nantes (44),"Temps plein, Freelance / Indépendant",null,"Freelance-info - il y a 8 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Engineer,Nantes,"Je recherche pour l’un de mes clients, grand compte, un développeur python/ spark sur Nantes
+
+Data engineer
+Rôle
+Mettre en uvre les traitements Big Data d’ingestion de données dans le datalake et d’alimentation de la base de données selon le modèle pré défini.
+Créer le modèle de données dans la base de données Elastic.
+Assurer la cohérence et la mise en qualité des données ingérées.
+Respecter les normes de développement et documenter les travaux réalisés.
+Réaliser les user stories demandées par le Product Owner.
+Savoir échanger et questionner sur les fonctionnalités à développer lors des cérémonies agiles.
+Travailler avec le data scientist.
+
+Compétences
+Développement confirmé en langage Python Spark + Git.
+Une première expérience sur le cloud Azure : Databricks, Azure data factory.
+Expérience sur la Stack Elastic ou une autre base de données orientée moteur de recherche.
+Environnement de travail agile : Jira, Confluence.
+Idéalement utilisation d’un outil de gouvernance de données.
+
+Compétences techniques
+Python Spark + Git. - Confirmé - Impératif
+Stack Elastic - Confirmé - Impératif
+Jira, Confluence - Confirmé - Impératif
+cloud Azure : Databricks, Azure data factory - Confirmé - Important
+
+Démarrage 14/10/209
+Durée : 6 mois renouvelables."
+14,https://www.indeed.fr/emplois?q=Data%20Engineer&l=Nantes&radius=100&limit=100&sort=date&vjk=583960da44c15b0e,"Un développeur Web React JS sur NANTES / Freelance
+Almatek - Nantes (44)","['Nantes (44)', 'Temps plein, Freelance / Indépendant']",Un développeur Web React JS sur NANTES / Freelance,Almatek,- Nantes (44),"Temps plein, Freelance / Indépendant",null,"Freelance-info - il y a 8 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Engineer,Nantes,"Je recherche pour l’un de mes clients, grand compte, un développeur web react.js
+Démarrage : ASAP
+Durée : Longue
+
+Rôle
+Développer les IHMs de requêtage de la base de données Elastic.
+Respecter les normes de développement et documenter les travaux réalisés.
+Réaliser les user stories demandées par le Product Owner.
+Savoir échanger et questionner sur les fonctionnalités à développer lors des cérémonies agiles.
+Travailler avec le data engineer.
+
+Compétences
+Expérience significative en langage de développement : React.js + framework react-search + Git.
+Bonne connaissance de la Stack Elastic.
+Environnement de travail agile : Jira, Confluence.
+
+Compétences techniques
+React.js + framework react-search + Git - Confirmé - Impératif
+Jira, Confluence - Confirmé - Impératif
+Stack Elastic - Confirmé - Important"
+15,https://www.indeed.fr/emplois?q=Data%20Engineer&l=Nantes&radius=100&limit=100&sort=date&vjk=a39eb635d5916d88,"Développeur Big Data - Bank - CDI
+montreal - Nantes (44)","['Nantes (44)', 'CDI']",Développeur Big Data - Bank - CDI,montreal,- Nantes (44),CDI,null,"il y a 20 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Engineer,Nantes,"Big Data
+Cloud AWS
+Java Spark
+L'entreprise est une banque digitale indépendante basée à Nantes.
+Vous interviendrez dans un contexte technologique riche en méthode agile dans un environnement dynamique.
+
+Au sein de la direction informatique, vous aurez un poste de Développeur Big Data/Data Engineer.
+
+Votre rôle:
+Développement des jobs Spark
+Développement des outils DevOps
+Amélioration des outils de testing et de déploiement
+Mise en place et exploitation plateforme Big Data
+
+Qui êtes-vous?
+Vous maitrisez le développement en Java,Scala ou Spark
+Vous êtes en veille technologique
+La connaissance Cloud (AWS) est un plus
+Vous êtes curieux et avez envie d'apprendre
+
+Avantages:
+45 jours de congés
+CE
+Formation
+
+Cerise sur le gâteau:
+Abondement
+
+Montreal Associates is acting as an Employment Agency in relation to this vacancy.
+Montreal Associates is acting as an Employment Agency in relation to this vacancy.
+
+JN -072019-50466_156879122306931"
+16,https://www.indeed.fr/emplois?q=Data%20Engineer&l=Nantes&radius=100&limit=100&sort=date&vjk=7f76a62284422d2d,"System Security Engineer
+FAMOCO - Rennes (35)",['Rennes (35)'],System Security Engineer,FAMOCO,- Rennes (35),null,null,"il y a 19 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Engineer,Nantes,"FAMOCO has developed the world’s first Android transactional solution to help companies meet their digital transformation goals. We provide a fully integrated, mobile, business-centric and secure end-to-end solution. We target several markets including cashless payment, service management, transportation and access control markets.
+We have designed three components that help us change the world:
+Our hardware: a secure and affordable NFC mobile device
+Our OS and apps: a secure enterprise-ready Android OS
+Our cloud service: an online service to manage devices remotely
+
+In 3 years, we have deployed +250,000 devices in over 35 countries, and we work with international groups like Orange, Vodacom, AliPay, WFP, AccorHotels, Keolis. We have offices in Paris, Brussels, Rennes and Abidjan.
+We believe that adventures are a team effort that draw on the unique strengths of each member and we strive to reveal and enhance the potential of our colleagues every day.
+
+As part of Famoco engineering team, the candidate will have the responsibility of the design and implementation of all solutions involving hardware security, for instance around Secure access module and smartcards, for customers like governmental and non-governmental organization (eg: World Food Program)
+As a Security Engineer, the candidate will
+Identify and define system security prerequisites
+Design high quality and cost-effective solutions to meet business requirements
+Implement those solutions and be accountable for the deliverables
+Provide technical study about data privacy and risks in hardware and software solutions
+Provide internal and external documentation about his/her work
+Follow best practices and drive innovation in technology
+Requirements
+Profile
+Engineering degree
++3 years experience in similar field
+The candidate has expertise in
+Multiple programming languages (Mainly Python, Java/kotlin, bash, ...)
+Linux, Docker
+Advanced Security concepts (asymmetric / symmetric cryptography, signatures, security criteria)
+Continuous Integration / Continuous Delivery
+Backend system development
+Database systems
+Knowledge on smartcards is a plus
+Joining our team means:
+Working in a stimulating and dynamic environment with great challenges every day and a real opportunity to witness the impact of your work on Famoco’s development
+Take part in a real human adventure with passionate, talented colleagues
+The unique opportunity to work on state-of-the-art technology with multiple applications across countless markets and customers
+Benefits
+Joining our team means:
+Working in a stimulating and dynamic environment with great challenges every day and a real opportunity to witness the impact of your work on Famoco’s development
+Take part in a real human adventure with passionate, talented colleagues
+The unique opportunity to work on state-of-the-art technology with multiple applications across countless markets and customers
+The possibility to reveal your skills, enhance them and fulfill yourself greatly
+Be among a multicultural community always in search of new ways to enhance each individual’s potential
+Working in a beautiful place in the center of Paris
+If you want to join a fun team and learn to work in an international start-up company facing an extremely rapid growth, send us your application!"
+17,https://www.indeed.fr/emplois?q=Data%20Engineer&l=Nantes&radius=100&limit=100&sort=date&vjk=dc9acf5b0c9fb167,"NFV Software Engineer / Ingenieur(e) logiciel
+EXFO - Rennes (35)",['Rennes (35)'],NFV Software Engineer / Ingenieur(e) logiciel,EXFO,- Rennes (35),null,null,"il y a 19 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Engineer,Nantes,"Job title: NFV Software Engineer / Ingenieur(e) logiciel
+Division/function: Research & Development (DF0007)
+Business unit / department: Monitor Wireless Prot &NFV (BU0064)
+Country: France
+State: BRETAGNE
+City(ies): Rennes
+EXFO develops smarter network test, monitoring and analytics solutions for the world’s leading telecommunications service providers, network equipment manufacturers and webscale companies—and we love what we do! With nearly 1,900 employees in more than 25 countries, EXFO is no. 1 worldwide in fiber optic test solutions and has the largest active assurance deployment. Our broad portfolio of intelligent hardware and software solutions enable our customer’s network transformations related to fiber, 5G, virtualization and big data analytics. We’re always looking for top talent to help us lead the way in a thriving industry with boundless opportunities.
+We are the telecom network test, monitoring and analytics experts—and we love what we do. With over 2,000 employees in more than 25 countries, we help the world’s leading communications service providers, network equipment manufacturers and webscale companies make sure their networks deliver. With the acquisition of Astellia, EXFO has emerged as a leading provider of network and subscriber intelligence, enabling mobile operators to drive service quality, maximize operational efficiency, reduce churn and develop revenues. Our real-time monitoring and troubleshooting solutions optimize networks end-to-end, from radio to core. We’re always looking for top talent to help us lead the way in a thriving industry with boundless opportunities.
+Job summary
+Located in Rennes, integrated into the R&D team, you will develop and deliver the NFV infrastructure integration for probing solution. You provide the technical support, and find solution to complex issues by gathering stakeholders such as architects, experts…
+If you enjoy developing high performance, high available and highly scalable NFV infrastructure that is a great opportunity.
+What you’ll do
+You are responsible of the quality of the delivered software components by providing the right level of specifications, tests cover and run of tests
+You contribute to specifications and risks analysis
+You share expertise and knowhow by publishing documentation and by capitalizing on reuse of software components
+You are in charge of developments, tests, documentation.
+You provide the expected technical expertise to Support teams in field issues analysis.
+In the context of Agile/Scrum methodology, you actively participate to daily meeting, sprint planning, grooming, demonstration, retrospectives…). As a scrum team player, you respect Agile/Scrum rules and good practices such as Continuous Integration.
+What we’re looking for
+Technical
+Software development:
+Linux: RHEL or CentOS
+Languages : Python, script Ansible, HEAT, YANG, TOSCA
+Tools : SVN, Git, JIRA
+CI/CD : Jenkins, Robot framework, Nexus
+MicroServices, Docker containers
+Open Source solutions
+Virtualization & Automation:
+Modern cloud : OpenStack, vCloud, compute, storage, networking
+Orchestration platforms: MANO, ONAP, VNF, kubernetes
+Networking
+SDN: controllers, OVS, VMware NSX , Juniper contrail, OpenDayLight
+Tunneling and Encapsulation: MPLS, VXLAN, GRE, UDP
+DPDK, SRIOV, Direct-IO
+Continuous Integration, CI/CD, DevOps
+Professional experience of agile working methods
+Required aptitudes
+Excellent communication and interpersonal skills
+Self-starter with strong analytical and problem-solving skills
+Ability to work in an innovation and team-oriented environment
+Eager to learn
+Your analytics and synthetic capabilities, your customer-oriented mind, your innovation, your focus on results and your ability to work in a team and communicate skills will be key assets to succeed in this position.
+Experience
+As a graduated computer science engineer, you have minimum 4 years of expertise in software development with at least 2 years of experience in OpenStack ecosystem.
+Must have
+Pertinent experience: a minimum of 4 years of experience in software development with at least 2 years of experience in OpenStack ecosystem
+Language requirements: Fluent in English.
+Education: BS/MS Degree level in Computer Science, or equivalent
+Local work permit mandatory
+EXFO is an equal opportunity employer.
+Thanks for your interest in EXFO.
+If you have questions, please write us at careers@EXFO.com
+We look forward to hearing from you soon."
+18,https://www.indeed.fr/emplois?q=Data%20Engineer&l=Nantes&radius=100&limit=100&sort=date&vjk=c09a89538a4fae87,"DevOps Engineer
+EXFO - Rennes (35)",['Rennes (35)'],DevOps Engineer,EXFO,- Rennes (35),null,null,"il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Engineer,Nantes,"Job title: DevOps Engineer
+Division/function: Research & Development (DF0007)
+Business unit / department: Transport Protocol BigData HW Platform&OS (BU0063)
+Country: France
+State: Bretagne
+City(ies): Rennes
+EXFO develops smarter network test, monitoring and analytics solutions for the world’s leading telecommunications service providers, network equipment manufacturers and webscale companies—and we love what we do! With nearly 1,900 employees in more than 25 countries, EXFO is no. 1 worldwide in fiber optic test solutions and has the largest active assurance deployment. Our broad portfolio of intelligent hardware and software solutions enable our customer’s network transformations related to fiber, 5G, virtualization and big data analytics. We’re always looking for top talent to help us lead the way in a thriving industry with boundless opportunities.
+Résumé du poste:
+Au sein d'une équipe agile, vous participerez à mettre en place une approche CI/CD du Framework de traitement de données sur nos plateformes BigData.
+Contexte :
+Nous sommes basés à Rennes et travaillons en collaboration avec une équipe de Montréal.
+L'équipe est pluridisciplinaire et est composée de développeurs Java, d'ingénieurs QA et d'administrateurs système.
+Les 2 équipes de Rennes et Montréal constituent un Centre d’excellence technique Big Data. Notre mission est de fournir un Framework aux équipes Produits en charge de livrer nos solutions d’analyse, de surveillance et d’optimisation de réseau à nos clients qui sont de grands opérateurs Telecom.
+Le Framework est un composant Backend regroupant des fonctions comme:
+la production des données dans Kafka
+le traitement des données via Spark
+l’insertion dans diverses bases de données (Hive, HBase,…)
+la mise à disposition d'API de requêtage pour les composants FrontEnd
+la compatibilité avec différentes plateformes
+Votre rôle:
+Vous participerez aux travaux de Continuous Integration et Continuous Delivery sur nos plateformes BigData et sur les composants de notre Framework, tout en veillant au maintien en conditions opérationnelles de nos clusters.
+Les principales activités du poste seront les suivantes :
+Participer aux travaux de CI/CD pour nos plateformes BigData et pour nos composants Framework
+Participer au maintien en condition opérationnel des clusters de l'équipe
+Participer à l'industrialisation de notre plateforme BigData (déploiements, documentations, administration, supervision)
+Participer au Support et aux corrections des incidents
+Les outils utilisés sont : Jira, Spirateam, GitLab, SVN, Ansible, Robot Framework, Jenkins, VMWare.
+Plateformes : HortonWorks, Cloudera et Azure (HDInsight)
+Ce que nous recherchons:
+Nous recherchons une personne impliquée, et ayant une bonne expérience DevOps sur des environnements systèmes complexes. Une expérience sur des infrastructures Big Data serait appréciée.
+Vous devrez également savoir vous intégrer dans une équipe agile pluridisciplinaire, dont les valeurs sont : l’esprit d’équipe, la compétence, l’engagement, la curiosité et la rigueur.
+Compétences techniques:
+Maitrise des principes et des pratiques de CI/CD
+Maitrise de langages de scripts de type Ansible, Shell, Python
+Expérience des environnements techniques complexes
+Connaissances systèmes et réseaux (Linux)
+Des compétences en Administration de cluster BigData seraient un plus
+Aptitudes requises:
+Autonome et curieux avec un bon esprit d’équipe
+Adaptabilité dans un contexte technique complexe et évolutif
+Exigences:
+Une expérience minimum de 2 ans en DevOps
+La connaissance des environnements Big Data est un plus.
+L’anglais est nécessaire pour travailler à distance avec une partie de l’équipe de Montréal.
+Formation supérieure (Bac +2 à 5)
+Toute combinaison études/expériences pertinentes sera considérée.
+EXFO is an equal opportunity employer.
+Thanks for your interest in EXFO.
+If you have questions, please write us at careers@EXFO.com
+We look forward to hearing from you soon."
+19,https://www.indeed.fr/emplois?q=Data%20Engineer&l=Nantes&radius=100&limit=100&sort=date&vjk=f90fb6b681c29401,"Product Designer - Nantes
+Side16 avis - Nantes (44)",['Nantes (44)'],Product Designer - Nantes,Side,- Nantes (44),null,null,"il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Engineer,Nantes,"Side is currently working on opening another product offices outside of Paris.
+So, this job offer is open in 3 different french cities as well (Nantes, Montpellier and Strasbourg).
+Our main goal is to find a talented and ambitious individual to join the team.
+We deeply think that working at Side, with the processes and the tools we are using, should be as flexible as possible as long as we are able to reach our objectives and communicate properly.
+While applying, please keep in mind that this job could be remote in the end, depending on the city Side will be choosing.
+-
+Founded in June 2015, Side is the first “on-demand” online platform that offers a brand-new temp work experience. More personalized, more reliable and more scalable. This experience has been made possible by establishing the community spirit of Siders and by developing the obsession of our team to provide an excellent operational and technological service.
+At the beginning of the adventure, Pierre, Hugo, Gaspard and David were teaming up as freelancers to help companies on different digital projects. At this point, a question came up: How only a small part of students could get access to those kinds of opportunities when companies struggle to find help? Side was born.
+Today, thousands of people (mostly between 18 and 30 years old) enjoy the coaching and expertise from Side, and work in the best companies in retail, logistics, in startups ... before finding even bigger opportunities.
+Side offers more than 3000 jobs every month in 7 cities in France (Paris, Lyon, Lille, Marseille, Aix-en-Provence, Bordeaux and Nantes). And more to come!
+
+Make sure you offer the simplest user experience possible, supporting the business and the long-term vision of the product. As a product designer, you will be fully involved in the problem-solving process, you take development complexities into account and you are able to design product solutions quickly as well as work on the long term vision of the product/solution.
+In the short term
+Discover and understand Side user journeys
+Discover the tools we use internally for design and discovery
+Understand Side’s challenges and of our users’ pains
+Understand what we want to build on the long run product-wise
+In the medium term
+Collaborate with product and operations to tackle problems.
+Master each phase of the Product Design Process.
+Sketch and prototype ideas and test them for feedback.
+Present and perform user testing with internal and external stakeholders.
+Follow developments with engineers.
+Ship a first product with your squad, from conception to release.
+In the long term
+Identify future challenges to be tackled by design.
+Support the Product Design team in improving process.
+Own and improve the vision of our product design.
+Use quantitative and qualitative data to learn, refine and iterate on designs.
+Propose solutions on your own.
+Requirements
+Must have
+Experience in designing digital products and systems, not just websites.
+You love taking part in the entire product development process, from problem solving through to visual design and prototyping.
+You know your way around Sketch, and dabble in Invision, Framer, HTML/CSS/JS, etc.
+You're a good communicator.
+you pro-actively speak with engineers, PMs and other teams in the company to understand their constraints.
+You are highly user-centric, empathic like crazy.
+You make the complex simple and for you, details aren't details, they are the product.
+Bonus skills
+Knowledge of user interviews.
+Knowledge of prototyping for user testings.
+Knowledge of data tools: Looker, amplitude.
+Benefits
+Attractive package
+High level of responsibility / autonomy
+Ambitious journey within a close and unified team
+Offsites & team building moments with the team"
+20,https://www.indeed.fr/emplois?q=Data%20Engineer&l=Nantes&radius=100&limit=100&sort=date&vjk=66306a9fc4acd15d,"Architecte Data H/F
+EXTERNATIC4 avis - Nantes (44)","['Nantes (44)', 'CDI']",Architecte Data H/F,EXTERNATIC,- Nantes (44),CDI,null,"il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Engineer,Nantes,"DESCRIPTION DE L'OFFRE
+Externatic, c'est le premier cabinet de recrutement IT de l'ouest, mais surtout un accès privilégier à des opportunités cachées au sein de pépites (+300 postes ouverts HORS ESN / SSII #evil).
+Notre moteur : trouver l'opportunité (en CDI) qui vous correspond
+Notre approche : on parle un peu, on vous écoute, on vous écoute, on parle un peu
+=> Rencontrons-nous !
+
+L'ENTREPRISE
+Entreprise internationale basée à Nantes, la société édite des solutions marketing pour le monde du e-commerce notamment.
+HUMAINE : l'investissement sur le bien être des équipes est important. Tout est fait pour que les salariés soient heureux et fiers de leur entreprise.
+INNOVATION : les ingénieurs ont pu développer une expertise sur les métiers de l'intelligence artificielle, de la big data, mais également de l'UX.
+Dans un contexte de croissance, vous devenez Architecte data H/F pour les produits et le SI de l'entreprise.
+LE POSTE
+En tant qu'Architecte, vous êtes en lien avec les équipes produit, tech, marketing, sales.
+L'équipe data c'est 1 data engineer, 2 data scientists et plus largement toute l'équipe devops et backend avec qui vous interagissez au quotidien.
+Vos principales missions :
+Définir la stratégie data en fonction des besoins internes (SI) et externes (intégration dans les lignes produits)
+Concevoir, construire et mettre en oeuvre la plateforme data et les outils nécessaires
+Etre expert et référent sur Kafka, messaging, event sourcing, analytics, etc. dans le cloud
+Trouver comment communiquer au mieux sur les nouvelles fonctionnalités auprès des clients de l'entreprise
+Assurer une veille technologique extensive
+
+Conditions : centre de Nantes, salaire attractif, RTT, TR, Sport, etc.
+En plus, c'est vrai, il y a plein d'avantages dans cette société.
+
+Benjamin Casseron, votre interlocuteur chez Externatic
+Chaque année, j'accompagne des candidats, comme vous, dans la définition de leur projet professionnel et la recherche d'un nouveau job.
+N'hésitez pas à me contacter pour échanger sur ce poste et plus généralement sur votre carrière (contacts direct disponibles dans la rubrique ""qui sommes nous"" sur le site d'Externatic).
+PROFIL REQUIS
+VOUS
+
+Expertise sur Kafka.
+Expertise sur broker de messages (rabbitMQ, etc.)
+Expertise sur Java ou Scala
+Expérience avec le cloud public (AWS, GCP, etc.)
+Compétences en architecture data
+Excellentes compétences en anglais (oral et écrit)
+Au delà de cette ""liste de courses"", vous aimez le travail en équipe. Vous aimez remettre en question l'établi, vous êtes en veille quotidienne sur la sphère data.
+Vous avez le sens du service client."
+21,https://www.indeed.fr/emplois?q=Data%20Engineer&l=Nantes&radius=100&limit=100&sort=date&vjk=e517ef4a21813631,"Senior Data Engineer (M/F)
+iAdvize2 avis - Nantes (44)",['Nantes (44)'],Senior Data Engineer (M/F),iAdvize,- Nantes (44),null,null,"il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Engineer,Nantes,"Job Description
+
+You will ensure the building and evolution of the data platform at iAdvize, with a wide spectrum of responsibilities, from monitoring the data infrastructure to identifying data business needs. Collaboration with other engineers is key, as you will have to expand and improve the usage of data across teams and projects. You’ll work with another data engineer, data scientists and ML engineers.
+Responsibilities
+Lead the technical vision of data engineering and architecture at iAdvize
+Design, build, scale, and evolve our data platform, services and tooling
+Provide guidance, and contribute with engineering teams in building features improving access to new or existing data
+Mentor and evangelise developers about Apache Kafka, Stream processing, Event sourcing, reactive architecture and analytics
+Help Data Scientist / ML Engineer / Developers on data platform usage
+Examples
+Build and scale an engagement pipe to evaluate visitors on our clients sites
+Collect data and metadata on conversation to build insights on subjects, feelings and different sorts of analysis
+Introduce Avro to P&E, explain how it will improve message exchange and help to use it on concrete swarm project
+
+Qualifications
+
+1st significative experience on cloud distributed data platform.
+Must have
+Master Apache Kafka, usage and configuration / Brokers de messages
+Must know Java and the JVM
+Must have worked on Cloud (AWS, GCP, Azure, …)
+Nice to have
+knowledge on Scala and/or Python
+knowledge on Event-driven architecture or good knowledge on data system architecture (data platform, data intensive application)
+knowledge on Docker et micro-services
+Soft skills
+Good communication skills, able to evangelise about Apache Kafka, Stream processing, Event sourcing
+Make decisions based on business needs
+Technical watch très bonne connaissance de l’écosystème big data
+You are a strong team player who is proactive in collaborating with other software engineers
+
+Additional Information
+
+Start Date: Asap, obviously :)
+Office: Nantes
+Salary : Depending on your profile
+iAdvize is committed to promoting diversity among teams and follows a strict non-discrimination recruitment policy"
+22,https://www.indeed.fr/emplois?q=Data%20Engineer&l=Nantes&radius=100&limit=100&sort=date&vjk=883ef290a9de9577,"Software Engineer
+amdocs - Rennes (35)",['Rennes (35)'],Software Engineer,amdocs,- Rennes (35),null,null,"il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Engineer,Nantes,"If you’re a smartphone user then you are part of an ever more connected and digital world. At Amdocs, we are leading the digital revolution into the future. From virtualized telecommunications networks, Big Data and Internet of Things to mobile financial services, billing and operational support systems, we are continually evolving our business to help you become more connected. We make sure that when you watch a video on YouTube, message friends on SnapChat or send your images on Instagram, you get a great service anytime, anywhere, and on any device. We are at the heart of the telecommunications industry working with giants such as AT&T, Vodafone, Telstra and Telefonica, helping them create an amazing new world for you where technology is being used in amazing new ways every single day.
+In one sentence
+Responsible for design, develop, modify, debug and/or maintain software systems.
+Responsible for one or more specific modules within a large software system scope
+What will your job look like?
+You will design, develop, modify, debug and/or maintain software code according to functional, non-functional and technical design specifications.
+You will follow Amdocs software engineering standards, applicable software development methodology and release processes, to ensure code is maintainable, scalable , supportable and demo the software products to stakeholders
+You will investigate issues by reviewing/debugging code, provides fixes and workarounds, and reviews changes for operability to maintain existing software solutions.
+You will work within a team, collaborate and add value through participation in peer code reviews, provide comments and suggestions, work with cross functional teams to achieve goals.
+You will assume technical accountability for your specific work products within an application and provide technical support during solution design for new requirements.
+You will be encourage to actively look for innovation and continuous improvement, efficiency in all assigned tasks.
+All you need is...
+Bachelor's degree in Science/IT/Computing or equivalent
+2-3 years of experience in writing software code in at least one programming language
+2-3 years of knowledge in Unix/Linux
+Good knowledge in Object Oriented Design and development
+Why you will love this job:
+You will be challenged with design and develop new software applications
+You will have the opportunity to work in a growing organization, with ever growing opportunities for personal growth
+You will have the opportunity to work with the industry most advanced technologies"
+23,https://www.indeed.fr/emplois?q=Data%20Engineer&l=Nantes&radius=100&limit=100&sort=date&vjk=d60710bbf797d073,null,['Nantes (44)'],Site Reliability Engineer (SRE)/ DevOps,Talend,- Nantes (44),null,null,"il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Engineer,Nantes,"WHO WE ARE:
+
+Talend is a leader in cloud data integration and data integrity.
+We are a global company with offices in Redwood City, Paris, London, Bonn, Beijing, Tokyo, Singapore, Sydney, and Bangalore. Our customers are pioneers/innovative leaders in their market when it comes to data and cloud projects. We are proud to count Domino’s, the world’s largest pizza company, Euronext, the #1 stock exchange in Europe, and HP Inc., a leading IT company, as Talend customers.
+We enable companies to transform their business by delivering trusted data at the speed of business. Talend offers a suite of apps for data integration and integrity that brings data, people and technology together by generating end-to-end data pipelines.
+Customers can collect data; transform it to power analytics; govern it from end-to-end; and share it across internal and external stakeholders. They can work across systems and across environments: in the cloud and on-premises.
+
+Talend is looking for a Site Reliability Engineer to join our growing team in our Nantes Office. In this role, you’ll be responsible for the security, stability, and scalability of our Talend Cloud service. You’ll get to work hands-on with plenty of exciting technology and scale challenges as we grow to support millions of transactions across hundreds of servers in our Talend Cloud environment. We are seeking candidates with expertise on both development and system administration.
+
+As a member of SRE team, you will have the following responsibilities:
+
+Maintain and automate technical operations for our SaaS cloud infrastructure, including deployment and configuration.
+Ensure high availability and reliability for production systems, including upgrade and release processes as well as incident handling and troubleshooting
+Manage and deploy internal and external monitoring and alerting solutions
+Define and evangelize cloud-related optimizations and best practices to improve reliability and performance
+Abilities in troubleshooting cloud infrastructure, systems, network, and application stacks
+Perform on-call duty as part of a team maintaining the availability and performance of our cloud-hosted production infrastructure (optional)
+Required Skills
+
+Bachelors’ in Computer Science or a relevant field
+1 year or more of cloud engineering experience with infrastructure as code: AWS and/or Azure, GCP
+Scripting (Python, Shell, …)
+Problem solving capacity, Ability to read and understand logs from applications (mostly Java) and investigate.
+Strong working knowledge of Linux (Centos) systems and Docker (container) usage
+Knowledge of at least two of the following (usage, administration, configuration, tuning):
+o Kubernetes, Helm Charts
+o Jenkins automation
+o Jenkins 2, Jenkinsfiles
+o PostgreSQL
+o ZooKeeper
+o ElasticSearch, Kibana, Logstash
+o Prometheus, Grafana
+o ActiveMQ
+o Kafka
+o MongoDB
+Ability to work in a distributed team - strong interpersonal and communications skills
+Good English, both written and verbal
+Well aware of security and data protection methods
+A plus: Strong knowledge in infrastructure as code: Ansible (preferred), Terraform, Puppet
+What we offer you:
+Join a passionate team and work with the latest technologies
+Collaborate and support colleagues from all over the world
+A challenging but rewarding environment
+Top modern offices with ideal locations
+Regular team events and company celebrations
+AND NOW, A LITTLE ABOUT US:
+
+Talend has received some pretty impressive accolades along the way:
+""2018 Best Public Cloud Computing Companies To Work For"" by Glassdoor
+Named a Leader for Data Integration Tools in the Gartner Magic Quadrant
+Named a Leader in Big Data Fabric for the Forrester Wave
+Ranked in the DBTA “100 Companies that Matter Most in Data”
+Listed in the CRN Big Data 100 Companies
+
+We are passionate about helping companies become more data driven; and, if we can be honest, we are all geeks at heart who pride ourselves on the vibrant company culture that we have built.
+
+As a global employer, at Talend, we believe our success depends on diversity, inclusion and mutual respect among our team members. We seek to recruit, develop and retain the most talented people from a diverse candidate pool. We are committed to making all employment decisions on the basis of business need, merit, capability and equality of opportunity. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, or national origin."
+24,https://www.indeed.fr/emplois?q=Data%20Engineer&l=Nantes&radius=100&limit=100&sort=date&vjk=fb3c9b0c0ef008b7,"Product Manager (H/F)
+iAdvize2 avis - Nantes (44)",['Nantes (44)'],Product Manager (H/F),iAdvize,- Nantes (44),null,null,"il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Engineer,Nantes,"Job Description
+
+As a Product Manager, your role is to bring impactful evolutions to the iAdvize product, so that both companies, their customers and experts get more value through conversations.
+You will guide a multidisciplinary team made up of designers and engineers towards this common goal, empowering them to achieve great results.
+Responsibilities
+Collaborate with the engineering, design & data science teams to ship innovative & impactful features: you will create functional specifications, coordinate development activities and share the progress of your team with the whole company
+Analyze and document user feedback, usage insights, market trends & competitive forces in order to define priorities and a roadmap with your team
+Embody the iAdvize product strategy and share it with your colleagues and our customers
+
+Qualifications
+
+3+ years of experience as a Product Manager
+A great sense of empathy towards users
+Excellent communication & collaboration skills
+A natural ability to unite a pluridisciplinary team around a common goal
+A data-driven approach to problem-solving
+A strong understanding of the competitive SAAS industry
+
+Additional Information
+
+Location: Nantes
+Type of contract: permanent
+Start date: As soon as possible
+iAdvize is committed to promoting diversity among teams and follows a strict non-discrimination recruitment policy"
+25,https://www.indeed.fr/emplois?q=Data%20Engineer&l=Nantes&radius=100&limit=100&sort=date&vjk=c4f2543e8655ffbb,"CDI Responsable Achat- Logistique industrielle H/F
+GE Renewable Energy56 avis - Montoir-de-Bretagne (44)",['Montoir-de-Bretagne (44)'],CDI Responsable Achat- Logistique industrielle H/F,GE Renewable Energy,- Montoir-de-Bretagne (44),null,null,"General Electric - il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Engineer,Nantes,"Role Summary:
+Responsible for managing and executing the process related to International shipments coming into Offshore factories & projects site and Warehousing sourcing strategy. Gérer et exécuter le processus relatif aux expéditions internationales arrivant sur le site des usines et projets offshore et la stratégie d’achat des services d’entreposage
+Essential Responsibilities:
+Ensure adherence to all international export laws and regulations as it relates to the importation and exportation of goods and technology.
+Work out Productivity Opportunities while driving cycle time down for shipments coming into EU or other future offshore factories/projects. Work with the GE selected Carriers and Warehouses to drive cost down and best cost-effective usage of GE International Transportation Agreements through defined process implementation.
+Drive the process rigor & support for the execution of daily import / export operations in the regions, including trouble-shooting and root cause analysis for any issues impacting the efficient movement of goods across international borders.
+Create/Optimize process for the best execution on International Transportation into Europe.
+Manage vendor relationship with Warehouses responsible for storage, staging and distribution of materials required for assembly/manufacturing.
+Lead operating mechanisms with Carrier and Transportation Team that drive full compliance with Fulfillment requirements.
+Support Customs operational processes (classification, import/export; special programs etc.) compliantly and in an efficient fashion.
+Overcome road blocks to ensure delivery is made in line with internal and external customer requirements, ensure quality and timeliness.
+Lead Variable Cost Productivity initiatives / targets; specifically, for International Inbound to Europe.
+Analyze metrics on Int’l Transportation spend and drive actions for reduction and control.
+Working cross-functionally with Logistics COE, sourcing, operations, supply chain, finance, freight forwarders and brokerage teams to identify improvement and productivity opportunities and implement successful changes.
+Resolve issues that can cause shipments that come into the US to be on hold (i.e. FDA holds).
+Analyze data from multiple sources to verify FDA information.
+Work with teams to resolve trade compliance and regulatory issues that come up with shipments into the region.
+Support the transportation claim process; ensure claims are getting resolved timely.
+Select and manage the customs process implementation with Customs Brokers and Ensure the accuracy and integrity of data.
+Audit shipping documents for compliance with regulations, GE Enterprise Standards and Policies and contractual documents. Perform document retention to support compliance with government agencies and international trade regulations.
+Assess shipment and clearance issues and propose correction and improvement measures when applicable. Resolve transactional issues relating to the clearance of shipped goods by working daily with brokers and other related logistics providers.
+Work closely with global product classification team as it relates to the request & receipt Harmonized System codes, Harmonized Tariff Schedule codes, Schedule B codes, ECCN or other codes and schedules applicable.
+Provide general guidance, assistance and advice to the businesses in support of their customs operational processes.
+Act as primary point of contact for internal stakeholders, customers and vendor queries.
+Communicate and escalate any process or compliance concerns in a timely manner. Escalate issues as required by Customs Enterprise Standards and implement processes.
+Support programs and projects that take advantage of Free Trade Agreements (including management of certificates of origin) and other duty-savings opportunities.
+Participate on applicable GE Customs Council Communities.
+Perform analysis, as needed, for global and regional trade analytics and reporting (INTRASTAT and others that may be applicable.
+
+Qualifications/Requirements:
+Gérer et exécuter le processus relatif aux expéditions internationales arrivant sur le site des usines et projets offshore et la stratégie d’achat des services d’entreposage
+Promouvoir et soutenir la rigueur des processus dans le cadre des activités d’importation/exportation quotidiennes au sein des régions, dont notamment le dépannage et l’analyse des causes premières de tous les problèmes rencontrés entravant la circulation efficace des marchandises à l’étranger
+Créer/optimiser les processus pour une meilleure exécution du transport international en Europe
+Gérer les relations avec les fournisseurs et les entrepôts chargés du stockage, de l’affectation physique et de la distribution du matériel nécessaire à l’assemblage/la fabrication
+Superviser les mécanismes opérationnels avec le transporteur et l’équipe chargée du transport afin de veiller à ce que les exigences en matière d’exécution soient complètement respectées
+Soutenir de manière conforme et efficace les processus opérationnels douaniers (classification, importation/exportation, programmes spéciaux, etc.)
+Gérer les formalités douanières en ce qui concerne l’entrée directe de matériel offshore : Intrastat, DEB, documents CE, processus de transitaires internationaux
+
+Bachelor’s degree in Logistics, Supply Chain or Engineering or equivalent experience.
+Significant experience working in logistics, trade compliance, engineering, or supply chain management.
+Understands trade and compliance regulations in relation to moving freight into the region.
+Proven business/financial acumen, including demonstrated ability to motivate, influence, solve complex problems, and drive change at all levels of the organization..
+Proven ability to meet deadline in a fast pace changing environment.
+Must be computer literate (Word, Excel, and Power Point) and experienced in ERP systems.
+Excellent communications skills.
+
+BAC+3 en logistique, en chaîne d’approvisionnement ou en ingénierie, ou expérience équivalente
+Expérience significative en logistique, conformité de commerce, ingénierie ou gestion de la chaîne d'approvisionnement
+Compréhension des réglementations commerciales et de conformité concernant l’acheminement de marchandises dans la région
+Réel sens des affaires et de la finance ; capable de motiver et d'influencer les autres, de résoudre des problèmes complexes et de mener à bien le changement à tous les niveaux de l'organisation
+Capacité reconnue à respecter les délais dans un environnement en constante et rapide évolution
+Maîtrise des outils informatiques (Word, Excel et Power Point) et expérience des systèmes ERP
+Excellentes compétences de communication
+
+Desired Characteristics:
+MBA or MS in Logistics, Engineering or Supply Chain.
+Demonstrated logistics leadership of multiple facilities in a similar industry.
+Proven ability to work on cross-functional, multi-cultural teams.
+Excellent project management, communication and analytical skills.
+Ability to energize, develop and influence at all levels within an organization.
+
+MBA ou BAC+4 en logistique, ingénierie ou dans le domaine de la chaîne d'approvisionnement
+Capacité avérée à superviser la logistique de nombreux sites au sein d’un secteur similaire
+Capacité avérée à travailler au sein d'équipes interfonctionnelles et multiculturelles
+Excellentes capacités de gestion de projets, de communication et d’analyse
+Capacité à dynamiser ses collaborateurs, à développer leurs compétences et à les influencer à tous les niveaux d'une organisation
+
+About Us:
+GE Renewable Energy harnesses the earth’s most abundant resources – the strength of the wind, the heat of the sun and the force of water – to power the world’s biggest economies and the most remote communities.
+With an innovative spirit and an entrepreneurial mindset, we engineer energy products and digital services that create industry-leading value for our customers around the world.
+We see the promise of renewable energy everywhere we look. Our team has the courage, scale, passion, diversity and resourcefulness needed to deliver that promise wherever and however the world needs it
+.
+Together with our customers, we’re proving that no one ever has to choose between affordable, reliable, or sustainable energy.
+We are unleashing limitless energy.
+Follow us at www.ge.com/renewableenergy or on twitter @GErenewables.
+GE is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, and according with all local laws protecting different status.
+Follow us on Twitter, join our LinkedIn Group or become a fan of our Facebook page. Receive job and event notifications by becoming a member of the GE Talent Community. Stay up to date on what’s happening at GE around the globe by checking out the GE Careers Blog.
+GE est le groupe industriel numérique mondial, qui transforme l’industrie grâce à des machines contrôlées par logiciel et des solutions connectées, adaptées et prédictives. GE s’organise autour d’un échange mondial de connaissance, le « GE Store » (offre de produits GE), au sein duquel chaque activité partage et a accès aux mêmes technologies, marchés, structures et intelligences. Chaque invention nourrit les innovations et les applications dans tous nos secteurs industriels. Fort de ses collaborateurs, ses services, sa technologie et sa taille, GE produit de meilleurs résultats pour ses clients en parlant le langage de l’industrie. www.ge.com
+Les candidatures des personnes dont l’embauche est subordonnée à une autorisation pour travailler en France sont les bienvenues et seront prises en compte au même titre que les autres candidatures. Dans ce cadre et conformément à la règlementation pour certaines catégories d’emploi, les candidats étrangers des pays tiers ne peuvent pas être retenus si un ressortissant de l'Union européenne ou d'un autre Etat partie à l'EEE et de la Confédération suisse postule et dispose d’un profil correspondant au poste à pourvoir. Pour plus d’information concernant la règlementation relative à l’immigration professionnelle et les conditions pour obtenir la délivrance par les autorités françaises de l’autorisation de travail, nous vous invitons à consulter le site : http://www.immigration-professionnelle.gouv.fr/
+
+Additional Locations:
+France;Montoir-de-Bretagne, Nantes;"
+26,https://www.indeed.fr/emplois?q=Data%20Engineer&l=Nantes&radius=100&limit=100&sort=date&vjk=322c5a3bf6d7b9b7,"Data Engineer Scala H/F
+Solocal Group51 avis - Rennes (35)","['Rennes (35)', 'Temps plein, CDI']",Data Engineer Scala H/F,Solocal Group,- Rennes (35),"Temps plein, CDI",null,"il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Engineer,Nantes,"Au sein d'un équipe BI de la direction technique du groupe, la mission s'inscrit dans le cadre de projets de collecte d'audience sur les différents media Solocal (sites web et applications mobiles) du formatage et du stockage de ces données dans le data lake du groupe.
+
+Le projet dispose :
+d'une partie back office d'ingestion de flux de données, contrôles, intégration, consolidation des flux, agréations de données, indexations
+d'une partie front de supervision et d'alerting
+
+Objectifs de la mission et tâches
+La mission consiste en :
+développement des US de la backlog
+migration des flux sur cloud Google (GCP)
+support technique sur la qualité des développements
+amélioration de la supervision des flux
+développement du contrôle qualité des données
+développement d'alertes sur la qualité des flux de données
+Profil
+De formation bac+5 en école d'ingénieur ou équivalent, vous justifiez d'une expérience d'au moins 2 ans au sein d'une équipe de développement avec une expérience réussie, idéalement sur des projets de Data.
+Formé aux méthodes agiles (rituels, outils – Trello, Jira…), vous possédez un bon relationnel, une bonne écoute et vous saurez démontrer une réelle curiosité et ’une appétence pour les technologies. Sachant travailler en équipe, vous savez également faire preuve d’une véritable autonomie dans les missions qui vous sont confiées.
+Compétences attendues
+Développement : Scala/Spark – ElasticSearch – GraphQL
+- CI/CD : Git – Jenkins - Azkaban - Docker
+Agile : Scrum/Kanban
+Cloud : GCP (pub/sub, BigQuery, DataFlow, DataProc, BigTable)"
+27,https://www.indeed.fr/emplois?q=Data%20Engineer&l=Nantes&radius=100&limit=100&sort=date&vjk=dc9f1772b9939518,"In-depth analysis of transport mechanisms in microelectronic components under laser irradiation
+Institut d'Electronique et de Télécommunications de Rennes - Rennes (35)",['Rennes (35)'],In-depth analysis of transport mechanisms in microelectronic components under laser irradiation,Institut d'Electronique et de Télécommunications de Rennes,- Rennes (35),null,null,"L'Intelli'agence - il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Engineer,Nantes,"The institut d’électronique et de télécommunications de Rennes is a public umbrella organization bringing together researchers in the electronics and telecommunications sectors from :
+CNRS (INSIS),
+Université de Rennes1,
+INSA de Rennes
+Supélec campus de Rennes.
+Université de Nantes
+The institute has some 250 lecturer-researchers, engineers, Ph.D students and admin. staff.
+It is located in the Rennes Atalante Science & Technology Park of which it is a partner and associate involved in the organisation of the working breakfasts known as “Les Matinales”.
+The IETR has a large number of technical platforms used to carry out life-sized experiments and it undertakes a large amount of scientific research both nationally and internationally. It also undertakes a significant number of contractual work for and with industrial companies.
+Through its involvement in research topics that are central to the information and communication society.
+Site web :
+https://www.ietr.fr/
+Poste et missions
+
+Context
+Cybersecurity is a research topic that has been strongly developed in recent years with the rapid evolution of connected distributed systems, where data protection has become essential. The hardware part of digital security is one of the prop of secure systems (such as the smart card), and is at the heart of their vulnerability. Cybersecurity is a strong political will at national and regional levels and has been identified as a strategic axis for the Brittany Region, both in terms of Research, Training and Innovation.
+In the context of the CPER (Contrat Plan Etat Région 2015-2020) CYBER SSI (Sécurité de Systèmes d’Information), the Institut d’Electronique et Télécommunications de Rennes (IETR - UMR CNRS 6164) is implementing a platform for ""Simulation, detection and vulnerability in secure hardware systems by laser injection faults "" (CYBER-ELEC OPT platform).
+
+Mobilité géographique :
+Nationale
+Profil
+Applicant profile
+The applicant should have PhD degree in Engineering Electronics or Applied Physics with experience in some following topics: physics and technologies of semiconductors devices, optoelectronics, semiconductor and laser interactions, laser fault injection on secure electronic systems, microelectronic technologies, and architectures of integrated electronic circuits, (memories, microprocessors ...).
+Experience in foreign research lab would be appreciated.
+
+Objectifs
+The objective of this new platform is to develop new research activities at IETR, and more widely in the western region of France, based on the measurement/metrology aspects of secure components and systems, at the interface between semiconductors, technology and microelectronics circuits. In particular, the IETR will focus on hardware security issues from the point of view of the semiconductor to the electronic component (approach original), and then towards the circuit and/or integrated systems."
+28,https://www.indeed.fr/emplois?q=Data%20Engineer&l=Nantes&radius=100&limit=100&sort=date&vjk=2b818b861c3204c7,"Post-doctorat « Multivariate Sensors Integration for Wind turbines »
+IFSTTAR13 avis - Nantes (44)",['Nantes (44)'],Post-doctorat « Multivariate Sensors Integration for Wind turbines »,IFSTTAR,- Nantes (44),null,null,"il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Engineer,Nantes,"Title
+Multivariate Sensors Integration for Wind turbines
+Information
+Duration : 12 months
+Framework : MUSIWIND Projet funded by WISE program (Pays de la Loire Region)
+Starting date : 2nd half of 2019
+Location : IFSTTAR Nantes
+Contacts
+Applications are welcomed until the end of August 2019. The interested candidates should contact rapidly either Dr. X. Chapeleau or V. Le Cam or Dr. Laurent Mevel with a full CV and a reference letter.
+Xavier Chapeleau xavier.chapeleau(at)ifsttar.fr
+Vincent Le Cam vincent.lecam(at)ifsttar.fr
+Laurent Mevel laurent.mevel(at)inria.fr
+Context
+To achieve a competitive price per kilowatt hour, the maximization of the energy production and the reduction of maintenance costs are two key issues for the operators of wind turbines. Structural Health Monitoring (SHM) is known as a promising solution to detect early damage and therefore to able to reduce maintenance costs [1]. By having damage indicators obtained by continuous monitoring throughout the lifetime of a wind turbine, operators could indeed anticipate and space maintenance operations. Today one of the challenges, especially for offshore wind turbine where the economic stakes are high, is to develop a reliable and cost-efficient SHM monitoring system that can make an efficient structural check of the wind turbine, in particularly of the foundation and the transition zone between the mast and the foundation, which are critical areas that are very difficult to inspect.
+Objectives
+In the context described above, the project MusiWind aims at the development of a new system for monitoring the structural integrity of wind turbines and its qualification in real conditions (on-shore site test). The hardware and software developments will integrate a new low-noise accelerometer (developed by SERCEL) with a generic wireless platform PEGASE3 [2] (developed by IFSTTAR) on which innovative data analysis [3, 4, 5, 6].developed by the Ifsttar / Inria I4S joint research team should be embedded. These algorithms are based on statistical inference approach to extract structural information under ambient excitation. The originality of the project will be to implement and to develop identification methods as well as multi-varied damage indicators that merge data from sensors of different types and qualities, as well as the fusion of complementary physical characteristics.
+
+In the framework of MUSIWIND project, the team i4S of IFSTTAR (http://www.sii.ifsttar.fr) and Inria (http://team.inria.fr/i4s/) is seeking for a talented postdoctoral research fellow. The hosting laboratory possesses strong expertise on the development of structural health monitoring system (from the sensors to the data processing). The candidate will both implement the new system proposed and investigate the relevance and the efficiency of a multi-varied approach.
+The Postdoc student will be in charge of
+Electronic (hardware and software) integration and test of the new system monitoring in close collaboration of the electronic engineers of Ifsttar-Sii and Sercel teams.
+Implementation of SII (Stochastic Subspace Identification) algorithm for modal analysis.
+Post-processing of data already collected by a previous monitoring system and comparison with those obtained by the new system for modal analysis under ambient excitation.
+Development of a monitoring algorithm based on the fusion of multi-varied data.
+Study of the relevance and the efficiency in real conditions of the multi-varied approach.
+Candidates profile
+Doctor in embedded system electronics, informatics or similar.
+Strong background in embedded-system and data processing.
+Skills in instrumentation, applied mathematics, numerical computation (C, Python) are preferred.
+Applicants must be self-driven, higly motivated and able to work autonomously towards the objectives of the project.
+Excellent interpersonal and communication skills.
+Bibliography
+[1] MathewL.Wymorea, JeremyE.VanDam, HalilCeylan, DajiQiao, A survey of health monitoring systems for wind turbines. Renewable and Sustainable Energy Reviews, 2015, 52, pp. 976–990.
+[2] Vincent Le Cam, Michael Döhler, Mathieu Le Pen, Ivan Guéguen, Laurent Mevel. Embedded subspace-based modal analysis and uncertainty quantification on wireless sensor platform PEGASE. EWSHM – 8th European Workshop on Structural Health Monitoring, Jul 2016, Bilbao, Spain.
+[3] Michael Döhler, Falk Hille, Laurent Mevel. Vibration-based monitoring of civil structures with subspace-based damage detection. Erika Ottaviano, Assunta Pelliccio, Vincenzo Gattulli. Mechatronics for Cultural Heritage and Civil Engineering, 92, Springer, pp.307-326 2018, Intelligent Systems, Control and Automation: Science and Engineering.
+[4] Guillaume Gautier, Laurent Mevel, Jean-Mathieu Mencik, Roger Serra, Michael Döhler. Variance analysis for model updating with a finite element based subspace fitting approach. Mechanical Systems and Signal Processing, Elsevier, 2017, 91, pp.142 – 156.
+[5] Philippe Mellinger, Michael Döhler, Laurent Mevel. Variance estimation of modal parameters from output-only and input/output subspace-based system identification. Journal of Sound and Vibration, Elsevier, 2016, 379, pp.1-27.
+[6] Michael Döhler, Palle Andersen, Laurent Mevel. Variance computation of modal parameter estimates from UPC subspace identification. IOMAC – 7th International Operational Modal Analysis Conference, May 2017, Ingolstadt, Germany. (Best innovative paper)"
+29,https://www.indeed.fr/emplois?q=Data%20Engineer&l=Nantes&radius=100&limit=100&sort=date&vjk=92152943d8f116eb,"Software Developer in Automation - Pipeline Designer
+Talend18 avis - Nantes (44)",['Nantes (44)'],Software Developer in Automation - Pipeline Designer,Talend,- Nantes (44),null,null,"il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Engineer,Nantes,"WHO WE ARE:
+
+Talend is a leader in cloud data integration and data integrity.
+We are a global company with offices in Redwood City, Paris, London, Bonn, Beijing, Tokyo, Singapore, Sydney, and Bangalore. Our customers are pioneers/innovative leaders in their market when it comes to data and cloud projects. We are proud to count Domino’s, the world’s largest pizza company, Euronext, the #1 stock exchange in Europe, and HP Inc., a leading IT company, as Talend customers.
+We enable companies to transform their business by delivering trusted data at the speed of business. Talend offers a suite of apps for data integration and integrity that brings data, people and technology together by generating end-to-end data pipelines.
+Customers can collect data; transform it to power analytics; govern it from end-to-end; and share it across internal and external stakeholders. They can work across systems and across environments: in the cloud and on-premises.
+
+Talend is hiring a QA Engineer for its Pipeline Designer team based in Nantes, France.
+
+Pipeline Designer is the new data integration Cloud application developed at Talend. It brings a rich Web application where users can interactively design, manage and run their data integration pipelines at scale. Pipeline execution is managed by the next generation Talend runtime, leveraging Apache Beam, Apache Spark and Talend components kit providing a full Cloud / on-premise hybrid solution. Pipeline Designer is developed in Scala (play, akka), JavaScript React and Java. It uses Docker, Kubernetes and modern CI / CD technology.
+Key responsibilities:
+Ensure the end-to-end tests can be run in a continuous integration pipeline, from environments provisioning to the test results report
+Design and execution of manual tests
+Report and track defects
+Required Skills:
+BS or MS in Computer Science or equivalent
+2 to 5 years of practical experience in the role of QA Engineer or Java Software Developer
+Good knowledge on test Tools and frameworks like JBehave, Selenium, CypressJS, RestAssured
+In-depth knowledge and practical experience in testing techniques
+Good knowledge and understanding of REST based services, Messaging / Streaming
+Experience in working within a distributed agile team environment
+Passionate about software quality to provide the best experience to our customers
+Strong willing to learn new things including the latest technology
+Fluent professional English (spoken and written)
+Fluent French desirable
+Optional, but desirable:_
+Experience in load and performance testing methodology and framework (Gatling)
+Container and Container Orchestration (Docker / K8S)
+Cloud Environments / Deployments (AWS, Azure)
+Good understanding of big data technologies (EMR, CDH, Hadoop, Spark, HDFS, Kinesis, Kafka)
+#LI-PB1
+
+AND NOW, A LITTLE ABOUT US:
+
+Talend has received some pretty impressive accolades along the way:
+""2018 Best Public Cloud Computing Companies To Work For"" by Glassdoor
+Named a Leader for Data Integration Tools in the Gartner Magic Quadrant
+Named a Leader in Big Data Fabric for the Forrester Wave
+Ranked in the DBTA “100 Companies that Matter Most in Data”
+Listed in the CRN Big Data 100 Companies
+
+We are passionate about helping companies become more data driven; and, if we can be honest, we are all geeks at heart who pride ourselves on the vibrant company culture that we have built.
+
+As a global employer, at Talend, we believe our success depends on diversity, inclusion and mutual respect among our team members. We seek to recruit, develop and retain the most talented people from a diverse candidate pool. We are committed to making all employment decisions on the basis of business need, merit, capability and equality of opportunity. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, or national origin."
+30,https://www.indeed.fr/emplois?q=Data%20Engineer&l=Nantes&radius=100&limit=100&sort=date&vjk=b7ac6995d78f630e,"Technical Support Engineer
+MediaKind - Rennes (35)","['Rennes (35)', 'CDD']",Technical Support Engineer,MediaKind,- Rennes (35),CDD,null,"il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Engineer,Nantes,"Permanent position
+Rennes, France
+
+Are you an experienced technical support engineer with exposure to resolving issues with MPEG, OTT and DVB systems?
+Would you like to be a part of a media revolution and join us as we embark on a journey to create truly innovative and immersive media experiences for consumers across the globe?
+
+If so, we want to hear from you.
+
+Who we are
+MediaKind is the new identity for Ericsson’s Media Solutions business.
+
+Backed by Ericsson’s pioneering heritage and strong foundations – all fueled by deep innovation, we have a single goal in mind: to enable our customers to create and deliver immersive media experiences that enrich life.
+
+We provide end-to-end video products for our customers, ranging from market-leading TV platforms, to cloud DVR and pioneering video decoding. Our 1600+ employees are based in 29 locations all over the world such as France, the UK, India, China, Israel, United States and more.
+
+We welcome pioneers and entrepreneurs who want to be heard. Your individual voice will be amplified; after all, we are media kind of people.
+
+The role
+To investigate, diagnose and provide technical solutions to Incidents reported by customers or MediaKind support organizations with Digital Broadcast (TV) systems. The position includes investigation of complex technical problems, trouble-shooting of systems that are in operation and, if requested, participation in the remedy of critical systems situations.
+The role will be located in Rennes, France and is required to support one of MediaKind’s broadcasting customers and reports directly to the Regional Service Delivery Support Manager.
+
+Key Responsibilities:
+Work with assigned Incidents, using support tools and according to global support processes and procedures.
+Through contact with external customers and internal support functions gather data and information about any specific problem that has been reported to MediaKind.
+Take ownership of the customer communication on assigned Incidents.
+Analyse problems and identify suitable solutions to these problems.
+Undertake customer visits to resolve significant or complex faults, after other interventions have failed.
+Participate in a 24x7 standby roster to support Contract customers.
+When required, provide basic product and system training to internal and external customers.
+Report on faults and failures, including recommendations on remedial steps and improvements, for feedback to the development and production functions.
+About you
+To be a MediaKind Support Engineer, you will have a classic Engineering mindset and can think logically to resolve issues and constantly strive to improve your way of working.
+You will strive to deliver good results and meeting customers’ expectations, working in close, direct collaboration with the customer.
+
+Educated to a degree level in Electronic/Electrical Engineering, Communications Engineering or a related discipline OR have 3 years technical experience in a related industry.
+A flexible approach to the working environment – both internally and customer focused.
+
+In-depth knowledge of MPEG, OTT and DVB systems with a technical knowledge/experience covering but not limited to: Networks and Communications using IP Ethernet and routers, an understanding of Broadcast and IP protocols including use of associated analysis tools, Windows Server, Linux OS and virtual machine environments.
+
+We are MediaKind
+
+Visit www.mediakind.com for more information.
+
+What MediaKind offers
+Pension
+Healthcare
+10 extra holiday days
+Restaurant + Meal Card"
+31,https://www.indeed.fr/emplois?q=Data%20Engineer&l=Nantes&radius=100&limit=100&sort=date&vjk=7aa6c9650c201cdc,"Analytics System Engineer / DevOps
+EXFO - Rennes (35)",['Rennes (35)'],Analytics System Engineer / DevOps,EXFO,- Rennes (35),null,null,"il y a 4 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Engineer,Nantes,"Job title: Analytics System Engineer / DevOps
+Division/function: Research & Development (DF0007)
+Business unit / department: Applications Analytics Market Solutions & SSI (BU0061)
+Country: France
+State: Rennes
+City(ies): Rennes
+EXFO propose des solutions intelligentes de test, de monitoring et d’analyse de réseaux aux plus grands fournisseurs de service de télécommunications, fabricants d’équipements de réseau et de services Web, et cette mission nous passionne ! Avec au-delà de 1900 employés dans plus de 25 pays, EXFO est le no.1 mondial des tests de fibre optique et possède le plus imposant déploiement d’assurance de services actifs.
+Notre vaste gamme de solutions matérielles et logicielles permet à nos clients de suivre les transformations technologiques en lien avec la fibre optique, la 5G, la virtualisation, l’internet des objets et le Big Data. Si vous aimez partager votre expertise et apporter votre valeur ajoutée dans un contexte de transformation, ce poste est fait pour vous !
+Votre rôle
+Au sein de l'équipe Analytics, votre rôle consiste à :
+Maintenir en condition opérationnel les clusters de l'équipe
+Développer le CI/CD pour les composants Analytics sur nos plateformes BigData
+Participer à l'industrialisation de notre solution Analytics (déploiements, documentation, administration, supervision)
+Participer au support et aux actions correctives
+Développer l'automatisation des tests (RobotFramework, Microstrategy)
+Ce que nous recherchons
+Compétences techniques
+Développement DevOps : Ansible, Shell, Python
+Connaissance des environnements Linux, Cloud, Virtualisation (RHEL, CentOS, Azure, OpenStack, VMWare)
+Connaissances des infrastructures BigData (Apache spark/hadoop, Hortonworks, Cloudera)
+Connaissance Hardware et OS configuration
+Aptitudes requises
+Autonome avec un bon esprit d’équipe, travail en mode Agile
+Adaptabilité dans un contexte technique complexe et évolutif
+Exigences
+Une expérience minimum de 3 ans sur des plateformes Big Data.
+L’anglais technique est nécessaire.
+Formation supérieure (Bac + 5) ou équivalent
+Toute combinaison d’études et d’expérience jugée équivalente sera considérée.
+EXFO is an equal opportunity employer.
+Thanks for your interest in EXFO.
+If you have questions, please write us at careers@EXFO.com
+We look forward to hearing from you soon."
+32,https://www.indeed.fr/emplois?q=Data%20Engineer&l=Nantes&radius=100&limit=100&sort=date&vjk=82e19fd9b8097e4e,"Software Engineer - F/M
+My Script - Nantes (44)","['Nantes (44)', 'CDI']",Software Engineer - F/M,My Script,- Nantes (44),CDI,null,"il y a 4 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Engineer,Nantes,"As part of the R&D department ""MyScript Labs"", you will be closely working with the Natural Language Processing team and help leverage their technology by revamping prototypes to create production-ready algorithms and data flows. You will be required to offer an engineering perspective on a wide range of subjects such:
+Design and create scalable data processing workflows which must support large amount of multilingual datasets.
+Enhance tools for analyzing and visualizing the different metrics to qualify our engine.
+Optimize the creation, maintenance and upgrade of the linguistic resources for the languages covered by our recognizer.
+Profile
+You have at least 3 years of experience in developing scalable processes.
+You have strong software programming skills, ideally in C/C++ and Python.
+You feel at ease in Linux/Unix.
+You are aware of aspects related to large data and continuous integration.
+You have a good command of spoken and written English.
+Autonomous, rigorous, dynamic and a real team-player.
+The following skills will also be appreciated: proficiency in NLP toolkits, machine learning knowledge, web development.
+Send your application : job@myscript.com"
+33,https://www.indeed.fr/emplois?q=Data%20Engineer&l=Nantes&radius=100&limit=100&sort=date&vjk=eeaffc6b09a93a52,"Software Development Lead - Backend
+Talend18 avis - Nantes (44)",['Nantes (44)'],Software Development Lead - Backend,Talend,- Nantes (44),null,null,"il y a 5 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Engineer,Nantes,"WHO WE ARE:
+
+Talend is a leader in cloud data integration and data integrity.
+We are a global company with offices in Redwood City, Paris, London, Bonn, Beijing, Tokyo, Singapore, Sydney, and Bangalore. Our customers are pioneers/innovative leaders in their market when it comes to data and cloud projects. We are proud to count Domino’s, the world’s largest pizza company, Euronext, the #1 stock exchange in Europe, and HP Inc., a leading IT company, as Talend customers.
+We enable companies to transform their business by delivering trusted data at the speed of business. Talend offers a suite of apps for data integration and integrity that brings data, people and technology together by generating end-to-end data pipelines.
+Customers can collect data; transform it to power analytics; govern it from end-to-end; and share it across internal and external stakeholders. They can work across systems and across environments: in the cloud and on-premises.
+
+To support our growth, we are recruiting a Software Development Lead - Backend for our Cloud Platform Services team in Bonn.
+
+Talend Platform is a project where we develop micro services eg. Identity & Access Management, Logging, Security, Metrics collection services etc. which can be consumed by all Talend applications and products. This project does not only provide the services but also the user interface related to the services. Additionally we develop runtime environment/server which can execute Talend Data pipelines eg. Data integration, BigData, Data preparation jobs.
+Architecture & Development
+Develop prototypes quickly to drive platform innovation
+Recommend technical strategy and direction in area(s) of expertise
+Build services that support large, complex applications.
+Conduct complex analysis and provide recommendations on the utilization of emerging and existing technologies
+Build new high level designs as required
+Mentoring & Leadership
+Take initiative and share innovative design patterns and frameworks, balancing implications of these choices on application usability, performance and maintainability
+Lead a group of software engineers responsible for delivering scalable and performant platform
+Lead by example, care for your team and always be there for them
+Coach, guide, inspire and motivate team members
+DevOps & Testing
+Analyze and improve efficiency, stability and scalability of services
+Build 360-Degree monitoring dashboards of your Microservices
+Strong Java/Scala skills
+Feel comfortable with our current tech stack: NoSQL, RDMS, Spring, Docker, Kubernetes, microservices, various cloud technologies
+You like most of our methods: Agile, continuous integration, automation, Iterative delivery
+About you:
+Graduated in Computer Science or Computer Engineering, or equivalent experience;
+Experience in delivering results in rapid release cycles;
+Professional Java programming experience with RESTful, Message-/Event-Driven technologies, distributed applications;
+For you, it does matter whether an API call takes 1200ms or 200ms
+Experience with OAuth and other IAM related technologies would be a plus.
+Experience with Kubernetes would be a plus.
+An understanding of distributed and cloud computing, incl. deployment related experience (ideally including Docker, AWS);
+Experience working in Agile/Iterative/Scrum development experience;
+Experience with Test-driven development/Unit Testing and automation;
+Ability to communicate effectively and clearly in English, both verbally and in writing;
+Self-motivated with strong organizational/prioritization skills and ability to multi-task with close attention to detail.
+What we offer you
+Join a passionate team and work with the latest technologies (Hadoop, K8s, Terraform, AWS, GCP to name a few)
+A challenging but rewarding environment with international scope
+Top modern offices with ideal locations
+Regular team events and company celebrations, as well as free drinks
+#LI-HW1
+
+AND NOW, A LITTLE ABOUT US:
+
+Talend has received some pretty impressive accolades along the way:
+""2018 Best Public Cloud Computing Companies To Work For"" by Glassdoor
+Named a Leader for Data Integration Tools in the Gartner Magic Quadrant
+Named a Leader in Big Data Fabric for the Forrester Wave
+Ranked in the DBTA “100 Companies that Matter Most in Data”
+Listed in the CRN Big Data 100 Companies
+
+We are passionate about helping companies become more data driven; and, if we can be honest, we are all geeks at heart who pride ourselves on the vibrant company culture that we have built.
+
+As a global employer, at Talend, we believe our success depends on diversity, inclusion and mutual respect among our team members. We seek to recruit, develop and retain the most talented people from a diverse candidate pool. We are committed to making all employment decisions on the basis of business need, merit, capability and equality of opportunity. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, or national origin."
+34,https://www.indeed.fr/emplois?q=Data%20Engineer&l=Nantes&radius=100&limit=100&sort=date&vjk=5f02d25f6e5096fc,"QA Engineer Big Data
+EXFO - Rennes (35)",['Rennes (35)'],QA Engineer Big Data,EXFO,- Rennes (35),null,null,"il y a 5 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Engineer,Nantes,"Job title: QA Engineer Big Data
+Division/function: Research & Development (DF0007)
+Business unit / department: Transport Protocol BigData HW Platform&OS (BU0063)
+Country: France
+State: Bretagne
+City(ies): Rennes
+EXFO propose des solutions intelligentes de test, de monitoring et d’analyse de réseaux aux plus grands fournisseurs de service de télécommunications, fabricants d’équipements de réseau et de services Web, et cette mission nous passionne! Avec près de 1900 employés dans plus de 25 pays, EXFO est le no.1 mondial des tests de fibre optique et possède le plus imposant déploiement d’assurance de services actifs. Notre vaste gamme de solutions matérielles et logicielles permet à nos clients de suivre les transformations technologiques en lien avec la fibre optique, la 5G, la virtualisation, l’internet des objets et l’analytique des mégadonnées. Toujours à la recherche des meilleurs talents, joignez-vous à nous et participez à l’avancement d’une industrie en pleine expansion.
+Résumé du poste:
+Au sein d'une équipe agile, vous participerez aux tests du Framework de traitement de données sur nos plateformes BigData.
+Contexte :
+Nous sommes basés à Rennes et travaillons en collaboration avec une équipe de Montréal.
+L'équipe est pluridisciplinaire et est composée de développeurs Java, d'ingénieurs QA et d'administrateurs système.
+Les 2 équipes de Rennes et Montréal constituent un Centre d’excellence technique Big Data. Notre mission est de fournir un Framework aux équipes Produits en charge de livrer nos solutions d’analyse, de surveillance et d’optimisation de réseau à nos clients qui sont de grands opérateurs Telecom.
+Le Framework est un composant Backend regroupant des fonctions comme:
+la production des données dans Kafka
+le traitement des données via Spark
+l’insertion dans diverses bases de données (Hive, HBase,…)
+la mise à disposition d'API de requêtage pour les composants FrontEnd
+la compatibilité avec différentes plateformes
+Votre rôle
+Vous participerez à l'analyse des fonctionnalités au côté des développeurs et participerez à la rédaction d'une stratégie de tests et à son exécution en vous impliquant sur la qualité du livrable et sur les performances du système.
+Les principales activités du poste seront les suivantes :
+Analyse des features rédigées par le Technical Product Owner et définition des users stories en équipe
+Définition de la stratégie de tests et rédaction des tests
+Rédaction/Exécution de Tests manuels et/ou automatiques
+Participation à la Validation de la qualité des packages et de la documentation
+Suivi des anomalies et vérifications de corrections
+Participation au maintien opérationnel des bancs de tests
+Participation aux mesures de performances et analyse système.
+Les outils utilisés sont : Jira, Spirateam, GitLab, SVN, JUnit, Robot Framework, Jenkins, VMWare.
+Plateformes : HortonWorks, Cloudera et Azure (HDInsight)
+Ce que nous recherchons:
+Nous recherchons une personne impliquée, et ayant une bonne expérience de validation dans des environnements systèmes complexes. Une expérience sur des infrastructures Big Data serait appréciée.
+Vous devrez également savoir vous intégrer dans une équipe agile pluridisciplinaire, dont les valeurs sont : l’esprit d’équipe, la compétence, l’engagement, la curiosité et la rigueur.
+Compétences techniques:
+Maitrise des principes et des pratiques de Tests (catégories de tests, intégration continue, …)
+Expérience des environnements techniques complexes
+Connaissances systèmes et réseaux (Linux)
+Connaissances dans les indicateurs de suivi de performance (core, ram, iops)
+Maitrise de langages de scripts de type Shell, Python
+Des compétences en Administration de cluster BigData seraient un plus
+Aptitudes requises:
+Autonome et curieux avec un bon esprit d’équipe
+Adaptabilité dans un contexte technique complexe et évolutif
+Exigences:
+Une expérience minimum de 5 ans de tests et validation de systèmes complexes
+La connaissance des environnements Big Data est un plus.
+L’anglais est nécessaire pour travailler à distance avec une partie de l’équipe de Montréal.
+Formation supérieure (Bac +2 à 5)
+Toute combinaison études/expériences pertinentes sera considérée.
+EXFO adhère aux principes d’équité en matière d’emploi.
+Merci de votre intérêt.
+Pour toute question, n’hésitez pas à nous écrire à carrieres@EXFO.com .
+Nous sommes impatients d’avoir de vos nouvelles!"
+35,https://www.indeed.fr/emplois?q=Data%20Engineer&l=Nantes&radius=100&limit=100&sort=date&vjk=cba3eb70741df83e,"Site Reliability Engineer - Cloud
+Talend18 avis - Nantes (44)",['Nantes (44)'],Site Reliability Engineer - Cloud,Talend,- Nantes (44),null,null,"il y a 5 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Engineer,Nantes,"WHO WE ARE:
+
+Talend is a leader in cloud data integration and data integrity.
+We are a global company with offices in Redwood City, Paris, London, Bonn, Beijing, Tokyo, Singapore, Sydney, and Bangalore. Our customers are pioneers/innovative leaders in their market when it comes to data and cloud projects. We are proud to count Domino’s, the world’s largest pizza company, Euronext, the #1 stock exchange in Europe, and HP Inc., a leading IT company, as Talend customers.
+We enable companies to transform their business by delivering trusted data at the speed of business. Talend offers a suite of apps for data integration and integrity that brings data, people and technology together by generating end-to-end data pipelines.
+Customers can collect data; transform it to power analytics; govern it from end-to-end; and share it across internal and external stakeholders. They can work across systems and across environments: in the cloud and on-premises.
+
+Talend is looking for a Site Reliability Engineer to join our growing team in our Nantes Office. In this role, you’ll be responsible for the security, stability, and scalability of our Talend Cloud service. You’ll get to work hands-on with plenty of exciting technology and scale challenges as we grow to support millions of transactions across hundreds of servers in our Talend Cloud environment. We are seeking candidates with expertise on both development and system administration.
+
+Responsabilities:
+Maintain technical operations for our iPaaS cloud infrastructure; administer Linux systems, including configuration, troubleshooting, and automation, and some limited Windows system administration duties
+Ensure high reliability and availability for production systems, including upgrade and release processes and incident handling
+Manage and deploy internal and external monitoring solutions for maintaining high availability for production systems
+Develop effective tooling, alerts, and response to both identify and address reliability risks
+Scripting abilities in python, or JVM-based languages
+Define and evangelize cloud-related optimizations and best practices to improve reliability and performance
+Responsible for troubleshooting cloud infrastructure, systems, network, and application stacks
+Work with fellow operations engineers and development teams on complex problems, and make decisions and recommendations about systems improvements after analyzing possible courses of action
+Perform on-call duty as part of a team maintaining the availability and performance of our cloud infrastructure as well as the various internal services and systems that these core services depend on.
+Required Skills:
+5-7 years of cloud engineering experience
+Bachelors in Computer Science or a relevant field
+Strong working knowledge of Linux (Centos) systems and applications including Tomcat, Java, Apache, ElasticSearch, ActiveMQ, Ngnix Proxy;
+Experience with administering AWS or other IaaS/PaaS Infrastructures;
+Experience with configuration management / systems automation tools at scale (e.g. Puppet, Chef);
+Experience with big data systems and/or database administration (e.g. MySQL, Mongo DB, PostGresSQL, NoSQL, and SQL) a plus;
+Proficiency with scripting languages;
+Experience with network management systems and network monitoring tools such as Nagios, Icinga, Kibana, LogStash, Cacti;
+Ability to work independently, strong interpersonal and communications skills
+AND NOW, A LITTLE ABOUT US:
+
+Talend has received some pretty impressive accolades along the way:
+""2018 Best Public Cloud Computing Companies To Work For"" by Glassdoor
+Named a Leader for Data Integration Tools in the Gartner Magic Quadrant
+Named a Leader in Big Data Fabric for the Forrester Wave
+Ranked in the DBTA “100 Companies that Matter Most in Data”
+Listed in the CRN Big Data 100 Companies
+
+We are passionate about helping companies become more data driven; and, if we can be honest, we are all geeks at heart who pride ourselves on the vibrant company culture that we have built.
+
+As a global employer, at Talend, we believe our success depends on diversity, inclusion and mutual respect among our team members. We seek to recruit, develop and retain the most talented people from a diverse candidate pool. We are committed to making all employment decisions on the basis of business need, merit, capability and equality of opportunity. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, or national origin."
+36,https://www.indeed.fr/emplois?q=Data%20Engineer&l=Nantes&radius=100&limit=100&sort=date&vjk=ef6a73f2886cddde,"Maintenance Engineer (m/f)
+Corning526 avis - Pontchâteau (44)",['Pontchâteau (44)'],Maintenance Engineer (m/f),Corning,- Pontchâteau (44),null,null,"il y a 6 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Engineer,Nantes,"Location: Pontchateau, France, FR
+Company: Corning
+Requisition Number: 36411
+
+Corning is one of the world’s leading innovators in materials science. For more than 160 years, Corning has applied its unparalleled expertise in specialty glass, ceramics, and optical physics to develop products that have created new industries and transformed people’s lives.
+
+Corning succeeds through sustained investment in R&D, a unique combination of material and process innovation, and close collaboration with customers to solve tough technology challenges.
+
+Our Optical Communications segment has recently evolved from being a manufacturer of optical fiber and cable, hardware and equipment to being a comprehensive provider of industry-leading optical solutions across the broader communications industry.This segment is classified into two main product groupings – carrier network and enterprise network. The carrier network product group consists primarily of products and solutions for optical-based communications infrastructure for services such as video, data and voice communications. The enterprise network product group consists primarily of optical-based communication networks sold to businesses, governments and individuals for their own use.
+Scope of the position: We are looking for a Maintenance Engineer for our plant based in Pontchateau (France). The Maintenance Engineer will be responsible for maintaining and optimizing machines and site equipment, keeping them available, reliable, and safe. He will also lead continuous improvement projects and engineering projects, define specifications of projects and track budget. Act as Maintenance Engineer including supervision to the team as needed.
+Responsibilities:
+Analyse of defects and breakdowns
+Leading of preventive and corrective maintenance
+Definition of specifications for external service companies
+Request and analyse of quotations
+Purchase requests and approval
+Dealing with external companies, writing and signing prevention plans, hot work permits, etc
+Ensuring work is performed in adequation with technical requirements and safety regulations
+Internal communications on ongoing works and projects
+Keeping records of external companies work reports
+Leading improvement projects and engineering projects (including the definition of project scope and project specifications)
+Analyse regulatory controls reports and trigger of corrective actions
+There is no direct management involved as the team is managed by the maintenance manager. The Maintenance Engineer will act as a back up of the plant maintenance manager.
+Required skills:
+Bachelor or Master Degree in Maintenance / Engineering
+5 - 8 years experience in maintenance and engineering project management
+Electricity, mechanics, pneumatics, hydraulics, PLC, HVAC, fire protection, building structure
+Experience in team management
+Good communication and team work skills
+Good analysis skills
+Good spoken and written French
+Good spoken and written English
+Good knowledge of MS Office (word/excel/power point/outlook)
+Beneficial skills:
+Good knowledge of SAP ERP"
+37,https://www.indeed.fr/emplois?q=Data%20Engineer&l=Nantes&radius=100&limit=100&sort=date&vjk=bf1f9bef973d6320,"Cloud Devops Engineer
+PeopleDoc - Nantes - Nantes (44)",['Nantes (44)'],Cloud Devops Engineer,PeopleDoc - Nantes,- Nantes (44),null,null,"il y a 11 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Engineer,Nantes,"PeopleDoc is on a mission to revolutionize how every HR function provide services to their employees.
+
+Our unique ""state of the art"" HR Service Delivery platform provides HR teams with the tools they need to provide great services while considerably decreasing the manual work behind the scenes and allowing companies to go paperless in their administration.
+
+The PeopleDoc HR Service Delivery platform helps HR teams more easily answer employee requests on demand, automate employee processes, across multiple locations.
+PeopleDoc serves more than 1000 clients with employees in 180 countries in 12 languages with a 100% customer retention rate. PeopleDoc is now a part of Ultimate Software. Ultimate Software is a Leader for Cloud HCM Applications.
+
+More information is available at www.people-doc.com. ( http://www.people-doc.com. )
+
+Job Description/ Job Summary:
+The mission of a SRE at PeopleDoc is to secure, administrate and maintain the production infrastructure as it were a software, you will contribute in building our fault tolerant, highly scalable and low latency services on virtual and bare-metal servers over data centers in different regions of the globe . The profile needed is so a combination of sysadmin knowledge and strong skills in software development. Remote workers are welcome too !
+
+The successful candidate will be required to:
+Design and maintain the cloud infrastructure hosting PeopleDoc services
+Collect and monitor KPIs (availability, response time, time to deploy) and ensure that they meet our SLAs
+Lead the scalability & capacity planning strategy
+Work with other teams to identify, troubleshoot, and resolve high impact issues
+Team player with good communication skills
+Competencies required:
+Experience in automation tools (Ansible, Salt, Puppet or Chef) and CI/CD principles
+Experience with Cloud services (AWS or Openstack) and its APIs
+Good Linux system administration skills (DNS, RabbitMQ, Redis, HAProxy)
+Experience with one programming language (Python, Java, Go) and Shell scripting
+Good Networking knowledge (TCP/IP, Linux routing and firewall)"
+38,https://www.indeed.fr/emplois?q=Data%20Engineer&l=Nantes&radius=100&limit=100&sort=date&vjk=4a97810af85aa6e7,"field service Engineer Hard Ware.
+Varian Medical Systems - Pays de la Loire",['Pays de la Loire'],field service Engineer Hard Ware.,Varian Medical Systems,- Pays de la Loire,null,null,"il y a 7 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Engineer,Nantes,"When you join Varian, you’re joining an organization with nearly $3 billion in annual revenue, and more than 6,500 team members across more than 30 countries. You’ll be backed by a culture that is centered on fostering your creative potential, and experience the full support of an organization and leadership committed to inspiring you to do your best work. Bring your talent to a place where your work will help fight cancer. Join Varian’s Oncology Systems team, and the work you do can make a difference by helping to create a world without fear of cancer. We develop and manufacture products and solutions that innovate, support and streamline cancer-fighting solutions worldwide. Our teams have a common drive to help others, and a passion for excellence. Join Varian and add your talent to the fight against cancer.
+Job Description
+Performs client-site servicing, repair and/or installation of company product(s).
+This job may include any aspect of product field support, including system hardware and software, medical or laboratory devices and equipment, and systems networking.
+Provides technical support to customers on operational or maintenance aspects of system equipment.
+Serves as customer contact on technical and service related problems.
+Diagnoses mechanical, hardware, software and systems failures using established procedures.
+Determines most cost effective repair/resolution to minimize customer downtime. Prepares reports for analysis of product failure trends and service ability issues.
+Provides basic and routine servicing, testing, and maintenance of Varian Medical Systems (VMS) equipment according to instructions and company guidelines to ensure that customers’ equipment operates efficiently at all times.
+Works under limited direct supervision.
+Applicable to the Oncology Systems business only: Position must have full access to VMS client sites to perform the essential functions of this position. Many VMS clients require VMS employees and representatives to meet certain “Vendor Credentialing” requirements before they will be allowed to have access to their sites. Unless prohibited by law, position must meet all Vendor Credentialing requirements necessary to have full client access, and must continue to meet those requirements during the course of VMS employment in this position.
+Provide phone support/remote assistance to customers and to Field Service Representatives as required to achieve resolution of service need in a timely manner.
+Order spare parts for assigned customers including replenishing spare parts kits for warranty and contract customers, to ensure they can operate their VMS equipment according to technical and safety guidelines with the highest level of satisfaction.
+Input detailed records of service visits into company information systems, including technical problems, actions taken and parts employed to correct these problems, to ensure accurate updated customer maintenance information is available to other VMS parties.
+Maintain up-to-date technical documentation, in order to permanently keep informed regarding all operating characteristics, design factors, technical performance and developments of VMS products.
+Maintain a high degree of professional knowledge and safety consciousness according to VMS guidelines in order to perform activities under the safest working conditions.
+Report by means of FSR’s, time sheets, expense reports, etc. regularly to ensure accurate company statistical data on customer-oriented activities is available.
+Job Requirements
+Minimum Required Skills and Knowledge:
+Knowledge of and professional experience with electronic and electro-mechanical engineering, testing equipment used for verification, checkout and calibration of electronic equipment.
+Knowledge of and professional technical experience with micro-computers/PC based systems
+Customer focused attitude
+Articulate and skilled in interpersonal communication
+Fluency in the local language and in English, both written and spoken
+Other Desired Skills and Knowledge
+Basic computer usage and debugging skills
+Fundamental knowledge of networks and networking techniques
+Basic understanding of imaging systems
+Required Certifications and Training:
+Obtains and completes LMS training plan specific to assigned responsibility.
+Applicable to the Oncology Systems business only:
+Meets all Vendor Credentialing requirements necessary to gain VMS client site access, unless prohibited by law. These requirements vary by client and may include, but are not limited to:
+Proof of valid identification (photo, driver’s license, SSN)
+Criminal background checks
+Drug screens
+Immunizations (Hep B, MMR, Varicella, Influenza, Tetanus)
+Annual TB testing
+Healthcare trainings Experience Level with Business Tools
+Familiar with business tools such as: E-mail, Microsoft Word, Excel, and PowerPoint.
+Experience with SAP or equivalent ERP product and productivity software desired.
+Typical Education and Experience:
+High School Degree or equivalent
+0 – 1 year of experience
+Become part of our team
+At Varian, our culture is centered on fostering the creative potential of every employee through teamwork and collaboration. Our technologies touch millions of lives every day, and this inspires us to do our best work – every day. By using your talent, ambition and creativity, you can build a career that allows you to make a real difference in people’s lives. You’re just one click away from the most impactful work you’ll ever do. Apply now and join our mission to help save lives. Someone, somewhere, will be glad you did.
+Business Unit Name
+Customer Support Services (OCSS)
+Auto req ID
+15175BR
+Job Type
+Regular Full-Time"
+39,https://www.indeed.fr/emplois?q=Data%20Engineer&l=Nantes&radius=100&limit=100&sort=date&vjk=0b8ffc1e4b29833e&advn=760911243417165,"Ingénieur Junior Developpement Software (Relocalisation BE ou DE)
+The AKKAdemy5 avis - France","['France', 'Temps plein, Autre, CDI']",Ingénieur Junior Developpement Software (Relocalisation BE ou DE),The AKKAdemy,- France,"Temps plein, Autre, CDI",null,"il y a 30+ jours
+Signaler cette offre d'emploi",Data Engineer,Nantes,"Please note that we can only consider candidates with EU citizenship.
+With more than 21’000 skilled engineers and a solid presence in Europe, Asia and America, the AKKA Technologies Group is one of the leaders among European consulting engineering companies, always eager to meet the highest quality standards.
+Our Mission
+To keep pace with this fast-changing world, AKKA Technologies set up an
+International Graduate Engineering Program, providing young talents with the opportunity to build a successful career and acquire a lifelong set of consulting skills
+Must-Have
+EU citizenship
+Master’s Degree or PhD
+Proficient in English. French and/or German are a big plus
+What is your benefit to participate in this Program?
+A permanent contract from day one
+A career path inside The AKKA Technologies Group with highly diversified sectors
+You will be challenged in order to solve, create and innovate
+Unlimited Access to Online training (Udemy Business, Rosetta Stone online language courses)
+A competitive salary and compensation package (International Health Insurance and much more)
+Our International Graduate Program addresses those who have a genuine passion for technologies. As a part of a digital transformation program, we created The AKKAdemy. Bringing together high-potential engineers from all over Europe and train them to become the next generation of top engineering consultants – capable of meeting our clients' most difficult innovation & business challenges.
+Roadmap of this Program
+The AKKAdemy: 1 month in Geneva (Switzerland)
+Hands-On-Project: 12 months in France, Belgium, Netherlands or Germany
+Graduation and next step in the Group
+Types of roles you can expect:
+Information Technologies:
+Software Engineers / Test Engineers / Computer Engineers /
+AI Engineers / Big Data Engineers / Data Scientists /
+Electronic Engineers / Embedded Software Engineers /
+UX-UI Designers / App Developers / Junior Software Developer /
+Cyber Security Engineers
+With one or more of the following skills(non-exhaustive list):
+Programming languages: Java, C/C++, C#, .NET, JavaScript or Python, etc.
+Advanced knowledge in: Object-Oriented Design Principles, Data Structures, Algorithms, SQL/NoSQL, Operating Systems, and Software Engineering, etc.
+Engineering
+Automotive Engineers / Aeronautic-space Engineers /
+Mechatronic Engineers / Electrical Engineers /
+Electronic Engineers / Hardware Engineers /
+Embedded Systems Engineers or similar.
+With one or more of the following skills (non-exhaustive list):
+Simulators: Matlab, Simulink, PSpice, GT Power, Dymola, etc.
+CAD/CAM/CAE-Tools: CATIA V5, Siemens NX, Creo, etc.
+Testing-Tools: CANoe / CANape, CANalyzer, INCA, DiagRA, etc.
+Looking forward for your application!
+Job Types: Full-time, New-Grad, Permanent
+Education:
+Master's (Preferred)
+License:
+EU Citizenship (Required)
+Language:
+English (Required)
+French (Preferred)
+German (Preferred)"
+40,https://www.indeed.fr/emplois?q=Data%20Engineer&l=Nantes&radius=100&limit=100&sort=date&vjk=afbb751310a2f887&advn=5311716251122245,"Solutions Engineer EMEA (f/m/x) (relocated to Germany)
+Avira Operations GmbH & Co. KG - France",['France'],Solutions Engineer EMEA (f/m/x) (relocated to Germany),Avira Operations GmbH & Co. KG,- France,null,null,"il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Engineer,Nantes,"Solutions Engineer EMEA (f/m/x)
+
+Position Summary:
+Founded in 1987, with headquarters in Germany, Avira has been protecting people for 30 years. Avira is a pioneer in detection technology, being recognized by independent labs for being the top in detecting both mobile and PC based threats; scoring top-of-class in all categories.
+
+Avira maintains a global infrastructure of services and solutions, ranging from device-based security solutions and SDKs to web-based service API’s. More than 100 million people depend on Avira’s own products. In addition, more than 500 million people are protected through partners who have integrated Avira’s technology into their products.
+
+Avira’s partners range from medium business to companies that serve mission-critical Fortune 100 clients.
+
+We’re looking for a Solutions Architect to support the Sales Team by helping clients and prospects integrate Avira’s technologies, platforms and SDKs into their own products and services.
+
+Responsibilities:
+Work closely with the Sales team to identify, qualify and validate prospective partners and opportunities, conduct technical discovery, identify customer’s pain points, create and document business and technical requirements
+Architect solutions, create and document “as-is” and “to-be” states
+Use industry experience and technical expertise to determine if Avira OEM SDKs, technologies and platforms are a fit for the partner
+Work hands-on with the prospective partner from managing Proof-of-Concepts to overseeing implementation/integration of the Avira OEM technology into the partner’s product or platform
+Take part in preparing and disseminating product messaging for the Avira OEM value proposition (which would include whitepapers, datasheets, solution briefs)
+Work with Product Management to identify market trends, initiate customer surveys, identify product gaps and work to improve Avira’s OEM offerings
+
+Your Profile:
+Bachelors or Masters in Computer Science or a related discipline.
+7-10 years cyber security pre-sales
+OEM and technology integration experience preferable
+Experience in common development languages such as C, C++, C# and/or scripting languages/environments such as Python
+Good presentation abilities, including the ability to explain complex technical issues in plain and simple English
+Ability to articulate & disseminate ideas clearly and unambiguously as well as understand and document complex technical architectures
+Travel up to approximate 30% time, within Europe and Middle East
+You can be located in any major city in Germany or UK with close proximity to an international airport
+
+Preferred Qualifications:
+Consulting experience (e.g., working with Big 5)
+Knowledge of networks & networking architecture
+Knowledge of end point security and anti-virus techniques
+Working knowledge of Big Data, Machine Learning, Scalable architectures etc.
+Fluent in English
+
+Our Offer:
+Unique working environment.
+Flat hierarchies, open door policies and fast decision-making
+Sharp, motivated co-workers in a fun office environment
+Professional challenges to match your interests and skills
+Working in a diverse team
+Newest technologies and modern working environment
+Opportunity to extend your experience in the security industry with EMEA development teams
+
+Avira Operations GmbH & Co. KG
+Martin Vennemann
+Kaplaneiweg 1
+88069 Tettnang
+D: +49 7542-500 2214
+T: +49 7542-500 0
+martin.vennemann(at)avira.com"
+41,https://www.indeed.fr/emplois?q=Data%20Engineer&l=Nantes&radius=100&limit=100&sort=date&vjk=95679dcef14a01da&advn=4190676325902957,"Data Engineer - H/F
+CNAF3 avis - Rennes (35)","['Rennes (35)', 'CDI', '35 € par heure']",Data Engineer - H/F,CNAF,- Rennes (35),CDI,35 € par heure,"ChooseYourBoss - il y a 1 jour
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Engineer,Nantes,"Javascript / Scala / R / Python / Hadoop / Innovation / Analytics / Architecture logicielle / Gestion de projet
+Big Data Developer, Data Analyst, Data Engineer / CDI / Environ 35k€ / 0 - 2 ans / Rennes
+
+Le poste
+Notre Direction des Systèmes d’Information, pense et construit actuellement le modèle informatique de demain en intégrant les enjeux numériques, de traitement des données, et surtout de cybersécurité. Dans le cadre de notre modernisation, notre DSI est engagée dans la démarche Big Data et a pour volonté la maitrise en interne de ce sujet majeur. C’est dans ce cadre que nous mettons aujourd’hui en place une équipe autour de notre système décisionnel et Big Data et créons le poste de Data Engineer, Poste en CDI, basé à Rennes (35). Rattaché au service « Architecture et Développement Restitutions » et intégré au sein d’une équipe composée de 8 collaborateurs (3 architectes, 1 chef de projet et 4 développeurs), vous participez activement à la mise en place du projet de transformation de notre système décisionnel aidé par des technologies de pointe.
+Les responsabilités
+Participer à la transformation de notre système décisionnel et à la mise en place opérationnelle des systèmes BI et Big Data
+Construire des solutions dans un environnement Big Data sur des technologies telles que Spark, R, Python, HDFS
+S'assurer de la collecte, du stockage et de l'exploitation fluide des données
+Participer à la réalisation de cas d'usage Big Data
+S'imposer en tant que référent sur ces technologies
+Pourquoi venir chez nous?
+Si : - Vous avez l’envie de travailler au sein d’une équipe hyper mobilisée et hyper motivée par un projet porteur - Vous avez à cœur de vous investir dans une structure offrant de vraies perspectives d’évolution vers un poste de Chef de Projet ou Architecte Applicatif - Vous souhaitez évoluer dans un environnement utilisant des technologies de pointe - Vous êtes sensible à un cadre de travail mixant horaires flexibles et télétravail - Vous êtes attiré par la dynamique de la ville de Rennes (ville étudiante, festive et traditionnelle à la fois, ville d’art et d’histoire, bassin d’emploi dynamique, classement en tête dans les Palmarès des villes de France où il fait bon vivre) - Sans oublier que vous avez la possibilité de faire une mobilité au sein d’une structure de plus de 150 000 collaborateurs. Alors ce poste semble fait pour vous, Poste en CDI basé à Rennes - Rémunération selon profil + 5 semaines CP et 4 semaines de RTT + Horaires flexibles + Télétravail + Comité d’entreprise."

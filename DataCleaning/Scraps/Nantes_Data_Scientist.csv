@@ -1,0 +1,1189 @@
+,id,meta1,meta2,titre_poste,entreprise,localisation,contrat,salaire,date_publication,keyword_metier,keyword_localisation,description
+0,https://www.indeed.fr/emplois?q=Data%20Scientist&l=Nantes&radius=100&limit=100&sort=date&vjk=17c98204c974c7db,"Lead technique back end Python / Go et Node.JS H/F
+EXTERNATIC4 avis - Nantes (44)","['Nantes (44)', 'CDI', '50 000 € - 70 000 € par an']",Lead technique back end Python / Go et Node.JS H/F,EXTERNATIC,- Nantes (44),CDI,50 000 € - 70 000 € par an,"il y a 18 heures
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Scientist,Nantes,"DESCRIPTION DE L'OFFRE
+Externatic, le hub d’opportunités web, mobile, informatique et électronique dans l’ouest.
+Cabinet de recrutement technologique nous vous trouvons des postes chez des clients finaux (startup, éditeur, DSI, agences digitales, etc. => pas de SSII) depuis 2010. Chaque offre d’emploi correspond à un poste réel.
+Notre mission : vous trouver le job de vos rêves !
+
+Pourquoi ce poste ?
+La société crée un nouveau produit dédié au support client se basant sur les technologies d'intelligence artificielle. La grande entreprise finance cette innovation. On parle au quotidien de knowledge management, chatbot et API.
+
+Vos missions
+En lien avec le CTO, le PM et les data scientists, vous créez un nouveau produit from scratch, innovant, robuste et évolutif. En contexte agile, vous êtes amené à :
+lead équipe de développement d'un produit hébergé dans le cloud comprenant chat bot + api + services de prédiction Machine Learning
+développement multi langages
+coaching dev équipe
+mise en place qualité du code avec tests automatisés
+déploiement et suivi de prod
+responsable du delivery scrum
+Technologies : Google Cloud Platform / microservices Node.Js Es6, Python, Golang / Postgresql
+
+Salaire fonction du profil : 50 à 70 k€
+
+Les plus
+nouveau produit / projet = build
+projet financé
+ambiance startup / échange et partage
+centre ville de Nantes
+Benjamin Casseron, votre interlocuteur chez Externatic
+Chaque année, j'accompagne des candidats, comme vous, dans la définition de leur projet professionnel et la recherche du job idéal (ou tout du moins du plus idéal possible).
+N'hésitez pas à me contacter pour échanger sur ce poste et plus généralement sur votre carrière (contacts disponibles dans la rubrique ""qui sommes nous"" sur le site d'Externatic)
+PROFIL REQUIS
+Lead developer reconnu, vous avez des compétences en architecture et en gestion d'équipe.
+Vous avez travaillé en environnement cloud et maitrisez au moins un des langages employés (Python, Go ou Node.JS).
+Vous aimez partager, faire monter vos équipes."
+1,https://www.indeed.fr/emplois?q=Data%20Scientist&l=Nantes&radius=100&limit=100&sort=date&vjk=3e6ed6754959bf8c,"Data Engineer h/f
+AdenSourcing - Rennes (35)","['Rennes (35)', 'CDI']",Data Engineer h/f,AdenSourcing,- Rennes (35),CDI,null,"Viadeo - il y a 3 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Scientist,Nantes,"Notre Direction des Systèmes d’Information, pense et construit actuellement le modèle informatique de demain en intégrant les enjeux numériques, de traitement des données, et surtout de cybersécurité. Dans le cadre de notre modernisation, notre DSI est engagée dans la démarche Big Data et a pour volonté la maitrise en interne de ce sujet majeur. C’est dans ce cadre que nous mettons aujourd’hui en place une équipe autour de notre système décisionnel et Big Data et créons le poste de
+Data Engineer H/F
+Poste en CDI, basé à Rennes (35)
+Rattaché au service « Architecture et Développement Restitutions » et intégré au sein d’une équipe composée de 8 collaborateurs (3 architectes, 1 chef de projet et 4 développeurs), vous participez activement à la mise en place du projet de transformation de notre système décisionnel aidé par des technologies de pointe.
+Au quotidien vos missions sont les suivantes :
+Participer activement avec votre équipe à la transformation de notre système Décisionnel et à la mise en place opérationnelle des systèmes BI et Big data de l’institution, (notamment dans le choix des technologies à adopter)
+Construire des solutions dans un environnement Big Data sur des technologies telles que Spark, R, Python, HDFS,
+S’assurer de la collecte, du stockage et de l’exploitation fluide des données en développant des solutions qui peuvent traiter un gros volume de data dans un temps limité,
+Participer à la réalisation de cas d’usage Big Data définis en collaboration avec les Data Scientists
+S’imposer peu à peu en tant que référent sur ces technologies vis-à-vis de la population utilisatrice dans nos centres."
+2,https://www.indeed.fr/emplois?q=Data%20Scientist&l=Nantes&radius=100&limit=100&sort=date&vjk=cbbf43ddae8abdab,"Data scientist (h/f) - Nantes
+Maisons du Monde376 avis - Vertou (44)",['Vertou (44)'],Data scientist (h/f) - Nantes,Maisons du Monde,- Vertou (44),null,null,"il y a 5 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Scientist,Nantes,"Le programme data du groupe Maisons du Monde a presque deux ans déjà, et se compose d’une vingtaine de personnes (data scientists, data analysts, data engineers, web analysts). Poussée par une forte ambition, l’équipe data est amenée à accueillir plusieurs nouveaux profils dans les douze prochains mois. Les cas d’usages à développer vont du marketing digital (CRM, acquisition trafic, personnalisation/recommandation) à la supply chain, avec une activité R&D sanctuarisée. L’infrastructure data, développée dans l’équipe, est basée sur Google Cloud Platform. Les résultats sont là : nous sommes mis en avant par les équipes Google quant à l’usage de leurs outils cloud !
+Dans une ambiance jeune et dynamique, où le travail d’équipe est mis en valeur, nous recherchons un(e) Data Scientist pour rejoindre cette belle aventure Maisons du Monde !
+Vous participez activement à la vie de l’équipe : vous collaborez étroitement avec les Data Scientists et Data Engineers. Les missions seront variées (structuration de la chaîne Big Data, Dashboarding, Analyse Ad Hoc, R&D sur le Machine Learning) et demandent un niveau de rigueur certain.
+
+MISSIONS
+Vous êtes impliqué(e) dans l’engagement de l’équipe au quotidien et faites tout pour l’aider pour délivrer des fonctionnalités en continue ;
+Vous travaillez en étroite relation avec notre Lead Data scientist pour aider à la création des algorithmes nécessaires pour les cas d’usages développés pour les équipes métier ;
+Vous mettez en place les nouveaux flux d’entrée et de sortie au sein de la plateforme data, et irez jusqu’au modeling et à l’activation de la donnée ;
+Vous assurez le delivery, et êtes constamment en veille sur les nouvelles technos.
+VOTRE ENVIRONNEMENT TECHNIQUE
+Google Cloud Platform ;
+Big Query, SQL-like, Dataflow, Dataproc ;
+Python ;
+ML & DL, Tensorflow ;
+Qlik Sense ;
+Et tout autre outil que vous jugerez pertinent !
+
+Poste basé à Vertou.
+
+De formation supérieure en école d’ingénieur/université (niveau Bac+5 ou plus), vous possédez au minimum une première expérience professionnelle (stage/alternance acceptés) dans un programme data.
+
+SAVOIR-FAIRE
+Vous avez déjà appliqué les technologies Big Data en production sur de fortes volumétries de données. Vous maitrisez le développement en Python ;
+Vous avez la capacité à maintenir la chaîne Big Data, de la récupération de la donnée jusqu’à son exploitation finale ;
+Une bonne culture du web et du marketing digital est un plus (web analytics, DMP, CRM, SEO, SEA, etc.).
+SAVOIR-ETRE
+Vous avez l’esprit d’équipe et êtes impliqué(e) dans votre travail au quotidien ;
+Vous êtes curieux (se), rigoureux (se), structuré(e) ;
+Vous avez hâte de proposer des améliorations, les partager et les prioriser avec vos collègues ;
+A l’externe, vous participez à des évènements de l’univers Big Data (meetups, conférence, etc.)."
+3,https://www.indeed.fr/emplois?q=Data%20Scientist&l=Nantes&radius=100&limit=100&sort=date&vjk=b208ac967777f261,"DATA SCIENTIST H/F
+STEF334 avis - Theix (56)","['Theix (56)', 'Temps plein, CDI']",DATA SCIENTIST H/F,STEF,- Theix (56),"Temps plein, CDI",null,"il y a 5 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Scientist,Nantes,"Prêt à vivre une expérience passionnante ? Chez STEF, leader européen du transport et de la logistique alimentaire, vous agissez au cœur d’un monde en pleine évolution.
+Votre défi ? Apporter chaque jour à des millions de consommateurs des produits essentiels pour se nourrir, en toute sécurité.
+
+Prêt à vivre une expérience passionnante ? Chez STEF, leader européen du transport et de la logistique alimentaire, vous agissez au cœur d’un monde en pleine évolution.
+Votre défi ? Apporter chaque jour à des millions de consommateurs des produits essentiels pour se nourrir, en toute sécurité.
+
+Au sein du Pôle Digital de STEF IT (filiale systèmes d’information du groupe STEF), basé à Vannes, vous intervenez sur des projets de Data Science couvrant l’ensemble des métiers du groupe : exploitation transport et logistique, commerce, contrôle de gestion, immobilier, ressources humaines…..
+Votre rôle ?
+Valoriser vos compétences en analyse de données et modélisation statistique pour accompagner les clients internes dans des tâches comme :
+Aider à l'identification de leurs besoins spécifiques, et de leurs problématiques d'exploitation des données.
+Intervenir à toutes les étapes des projets, de la récupération des données à l’implémentation des modèles dans les systèmes.
+Organiser son raisonnement et savoir vulgariser les méthodes choisies (machine learning, régressions, classifications…), pour faciliter leur utilisation par les équipes métier et la prise de décision.
+Garantir l’adéquation de la solution apportée aux besoins métier du client.
+Participer au développement de la cellule Data Science au sein du pôle Digital.
+
+Votre profil ?
+Ecole d’ingénieur (ENSAI, ENSAE…) ou diplômé d’un Master en Data Science/modélisation statistique, vous disposez idéalement d’une expérience professionnelle d’au moins 2 ans dans l’analyse et la modélisation de données.
+Vous maitrisez Python et/ou R et les librairies Data Science associées.
+Vous avez une très forte appétence pour les chiffres, un bon esprit de synthèse et d’analyse, de la curiosité et des qualités pédagogiques. Vous avez d’excellentes capacités d’adaptation, qui vous permettent de passer facilement d’un sujet à un autre.
+
+Rejoindre notre pôle Digital, c’est participer à la transformation d’un groupe solide en constante évolution, contribuer à la mise en œuvre des nouvelles technologies au sein d’un leader de son domaine."
+4,https://www.indeed.fr/emplois?q=Data%20Scientist&l=Nantes&radius=100&limit=100&sort=date&vjk=42ac0d18e28e658c,"R&D engineer in high-performance computing and Big Data analytics - Damaris project
+Inria46 avis - Rennes (35)",['Rennes (35)'],R&D engineer in high-performance computing and Big Data analytics - Damaris project,Inria,- Rennes (35),null,null,"il y a 5 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Scientist,Nantes,"Le descriptif de l’offre ci-dessous est en Anglais
+Niveau de diplôme exigé : Thèse ou équivalent
+Fonction : Ingénieur scientifique contractuel
+A propos du centre ou de la direction fonctionnelle
+Inria, the French national research institute for the digital sciences, promotes scientific excellence and technology transfer to maximise its impact.
+It employs 2,400 people. Its 200 agile project teams, generally with academic partners, involve more than 3,000 scientists in meeting the challenges of computer science and mathematics, often at the interface of other disciplines.
+Inria works with many companies and has assisted in the creation of over 160 startups.
+It strives to meet the challenges of the digital transformation of science, society and the economy.
+Contexte et atouts du poste
+About Inria, the team and the position
+Inria is the only French public research body fully dedicated to computational sciences. Inria's missions are to produce outstanding research in the computing and mathematical fields of digital sciences and to ensure its impact on the economy and society through technology transfer and innovation. Throughout its 8 research centres and its approximately 200 project teams, Inria has a workforce of 3 400 scientists with an annual budget of 265 million euros, 29% of which coming from its own resources. Inria Rennes Bretagne-Atlantique is one of the eight sites of Inria. This publicly funded research center has a workforce of about 620 people, including full-time research scientists, faculty staff, engineers and support staff, distributed in 33 teams and support services.
+The hired engineer will be a member of the KerData Inria team (https://team.inria.fr/kerdata/) led by Gabriel Antoniu. KerData is a joint research team of Inria Rennes - Bretagne Atlantique, ENS Rennes and INSA Rennes, and also a team of the IRISA lab. KerData's main research activities address the area of distributed data management at challenging scales, with a particular focus on clouds and petascale HPC architectures. We address the needs of data-oriented high-performance applications that must handle massive non structured data. Developed by the KerData research team in collaboration with JLESC (Joint INRIA-ANL-UIUC-BSC Lab for Extreme Scale Computing: http://publish.illinois.edu/jointlab-esc/), Damaris is a middleware for managing I/O and in situ processing of Big Data on HPC infrastructures.
+Mission confiée
+Mission overview
+By joining our team you will participate in a dynamic work environment with exceptionally talented and friendly coworkers who are committed to high-quality research and development practices. You will collaborate with esteemed researchers from around the world by taking the technical responsibility for the development of the Damaris software, with the following global missions:
+(1) maintain Damaris a distributable, professional-quality software (technical support, documentation, management of the web site);
+(2) contribute to the design of a unified, scalable data processing framework where Damaris will be enhanced with innovative functionalities including Big Data storage and analytics features based on the KerA approach developed by KerData, with the goal to favor the adoption of this framework by the HPC and Big Data community, in the context of the HPC-Big Data convergence; this activity will be performed in close collaboration with our collaborators from ZettaFlow (a project aiming a startup creation focusing on these aspects).
+(3) contribute to dissemination actions by interacting with potential users and by promoting Damaris and the future derived software through demonstrations at major HPC and Big Data events, such as the Supercomputing or IEEE BigData conferences.
+(4) explore and lead exploitation plans, including the possibility to create a start-up company, based on Damaris, KerA and the derived software.
+Principales activités
+Detailed missions
+Improve and extend the Damaris code, perform robustness and performance tests, maintain a continuous code integration process;
+Create a unified data processing framework combining Damaris (as in situ/in transit data processing framework) with Big Data analytics plugins to support batch-based or stream-based data processing (e.g., based on components from the Spark, Flink ecosystem); this task includes refactoring, testing and integration with the KerA technology developed by the KerData team for low-latency stream storage and processing;
+Adapt Damaris to use recent advanced communication and multithreading technologies (Mercury, Argobots);
+Develop and maintain software connectors allowing Damaris to be used by state-of-the-art visualization tools such as VisIt and ParaView;
+Facilite the dissemination of Damaris and of the unified data processing framework through the following means:
+Maintain a complete and up-to-date documentation (reference manual, user manual);
+Write example codes to facilitate learning of the interface by new users;
+Design and maintain a profesional-quality web site facilitating the distribution of the code and of its documentation;
+Design and implementation of software demonstrators:
+Make demos at forums such as the Supercomputing conference, main international forum of the HPC community, BDEC (https://www.exascale.org/bdec/), the European Big Data Value Forum and Teratec;
+Create and animate a user community around the (maintain a mailing list, a mechanism for bug report and solving, user support, etc.).
+Compétences
+Required qualifications
+Excellent, demonstrated programming skills in C, C++, Python;
+Very good knowledge of hardware and software technologies in the area of HPC (including MPI, which is a must, and knowledge about networking protocols like Intel DPDK/Infiniband)) and Big Data;
+Very good knowledge of methodologies for managing software projects;
+Ability to analyze and synthesize user requirements;
+Ability to communicate and work in collaboration with experts in the same area and in other areas, in English;
+Autonomy in leading and performing the tasks;
+Sense of partnership and team spirit;
+Taste for transmitting and sharing knowledge, results, progress;
+Facility to present the results in written and oral form.
+Avantages
+Subsidised catering service
+Partially-reimbursed public transport
+Rémunération
+monthly gross salary from 2562 euros according to diploma and experience"
+5,https://www.indeed.fr/emplois?q=Data%20Scientist&l=Nantes&radius=100&limit=100&sort=date&vjk=91c9751ece3ba76a,"Développeur Java/Apex (H/F)
+iAdvize2 avis - Nantes (44)",['Nantes (44)'],Développeur Java/Apex (H/F),iAdvize,- Nantes (44),null,null,"il y a 5 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Scientist,Nantes,"Job Description
+
+Au sein du pôle Operations, vous êtes amenés à développer en collaboration avec les équipes métiers, des solutions techniques pour améliorer l’efficience de notre organisation et de notre relation client/prospect.
+Dans le cadre de ces missions, vous serez un acteur majeur de la transformation de notre système d’informations au sein d’une équipe pluridisciplinaire (Chef de projet, data Scientist, développeur, architecte,…) en connectant les outils de notre patrimoine applicatif (Salesforce, Sage, Google Suite, Dropbox, Workplace..)
+Missions
+Concevoir et développer des applications métiers spécifiques au service de l’entreprise
+Vous êtes autonome et arbitrez les choix techniques pour la mise en place de ces applications
+Vous êtes garant du cycle de production sur les différentes plateformes, du développement jusqu'à la mise en production.
+Vous êtes force de proposition sur les solutions préconisées dans le cadre des nouveaux projets.
+Vous participez aux réflexions internes en termes d'optimisation des développements et de la maintenance évolutive de la plateforme Salesforce
+
+Qualifications
+
+Vous disposez d'une solide expérience en développement et vous avez pu avoir une première expérience de développement avec Salesforce en auto-formation ou dans un contexte professionnel (Vos badges trailhead sont appréciés !)
+Compétences techniques requises :
+Java
+Apex (SOQL)
+Visualforce
+Vous serez aussi amené à créer des outils qui communiquent entre Salesforce et des outils tiers avec d'autres languages (Node.JS, PHP, ...) dans un environnement Google Cloud.
+Profil recherché :
+Vous êtes doté d’un bon sens du relationnel et d’un esprit d’équipe
+Vous êtes rigoureux et méthodique dans votre approche
+Vous avez un bon niveau d'anglais oral et écrit.
+
+Additional Information
+
+Date de démarrage : Asap
+Lieu de Travail : Nantes centre ville
+Rémunération : A convenir
+Nous sommes bien entendu attachés à la diversité de nos équipes, nous pratiquons une politique de non-discrimination."
+6,https://www.indeed.fr/emplois?q=Data%20Scientist&l=Nantes&radius=100&limit=100&sort=date&vjk=c265b893c2b41e7a,"Data Scientist en Pistage H/F
+Naval Group170 avis - Nantes (44)","['Nantes (44)', 'CDI']",Data Scientist en Pistage H/F,Naval Group,- Nantes (44),CDI,null,"il y a 6 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Scientist,Nantes,"Naval Group, leader européen du naval de défense est l'un des rares industriels dans le monde capable de concevoir, réaliser et entretenir des systèmes aussi pointus qu'un sous-marin, un porte-avions ou un navire. Les projets complexes vous attirent et l'innovation est votre moteur ? Rejoignez nos équipes et participez à la grande aventure du naval de défense !
+
+Intégré(e) à la Direction Innovation et Technologie et plus particulièrement au Département Algorithme et Architecture Avancée, vous travaillez sur la mise en place et l'évolution de chaînes de pistage au sein d'une équipe de 4 personnes.
+
+A ce titre, vos principales missions seront les suivantes:
+
+Etudier et réaliser une architecture des modules de pistage existants puis réaliser des algorithmes en pistage et en trajectographie nouvelle génération,
+Réaliser la veille technologique au niveau R&D (participation à des salons, conférences),
+Proposer et réaliser des sujets et études de R&D (en lien avec les entités opérationnelles),
+Assurer la réalisation d'études et d'expertise dans son domaine (sur sollicitation, sur réponse à ETO DGA,...)
+Participer à la rédaction des réponses sur projets DGA (ASTRID, PST,...), européens (H2020)…
+Profil
+Vous êtes diplômé(e) idéalement d'un bac+5 spécialisé en mathématiques appliquées ou en statistiques et vous possédez une expérience dans le domaine industriel en tant que Data Scientist.
+La maîtrise de méthodes/langages/outils de traitement des données scientifiques sont des prérequis au poste (Matlab, Python). Des connaissances quant à la méthode des moindres carrés ainsi que l'utilisation du filtre de Kalman sont nécessaires. La notion des langages C, C++; Java serait un plus afin de faciliter l'intégration sur des systèmes complexes de nos algorithmes.
+
+Vous êtes une personne possédant un bon relationnel, et faites preuve de pugnacité et de proactivité.
+Vous êtes rigoureux et appréciez le travail en équipe, et la curiosité vous caractérisent.
+Ce poste est ouvert aux sites d'Indret et d'Ollioules.
+Type de contrat standard
+Durée indéterminée
+Date prévue de prise de fonction
+01/10/2019
+Catégorie Professionnelle
+Ingénieurs et Cadres
+Salaire min. annuel brut de base (en euros)
+nc
+Salaire max. annuel brut de base (en euros)
+nc"
+7,https://www.indeed.fr/emplois?q=Data%20Scientist&l=Nantes&radius=100&limit=100&sort=date&vjk=82d8e8c0c2b9d533,"Data Engineer / Freelance
+CS Group Solutions - Nantes (44)","['Nantes (44)', 'Temps plein, Freelance / Indépendant']",Data Engineer / Freelance,CS Group Solutions,- Nantes (44),"Temps plein, Freelance / Indépendant",null,"Freelance-info - il y a 6 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Scientist,Nantes,"Nous recherchons un consultant Data Engineer pour la mission suivante:
+
+Mettre en uvre les traitements Big Data d’ingestion de données dans le datalake et d’alimentation de la base de données selon le modèle pré défini.
+Créer le modèle de données dans la base de données Elastic.
+Assurer la cohérence et la mise en qualité des données ingérées.
+Respecter les normes de développement et documenter les travaux réalisés.
+Réaliser les user stories demandées par le Product Owner.
+Savoir échanger et questionner sur les fonctionnalités à développer lors des cérémonies agiles.
+Travailler avec le data scientist.
+
+Compétences
+Développement confirmé en langage Python Spark + Git.
+Une première expérience sur le cloud Azure : Databricks, Azure data factory.
+Expérience sur la Stack Elastic ou une autre base de données orientée moteur de recherche.
+Environnement de travail agile : Jira, Confluence.
+Idéalement utilisation d’un outil de gouvernance de données.
+
+Vanille LACOSTE
+Ingénieur d’affaires
+
+CS GROUP SOLUTIONS
+Tel : 05 67 16 15 97
+Mob : 06 87 38 86 76
+vlacoste@groupcs.com"
+8,https://www.indeed.fr/emplois?q=Data%20Scientist&l=Nantes&radius=100&limit=100&sort=date&vjk=1a78abfa8a32837d,"Data Scientist en Pistage H/F - Naval Group, leader mondial du naval de défense
+Page Personnel FR202 avis - Nantes (44)",['Nantes (44)'],"Data Scientist en Pistage H/F - Naval Group, leader mondial du naval de défense",Page Personnel FR,- Nantes (44),null,null,"il y a 10 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Scientist,Nantes,"A ce titre, vos principales missions sont les suivantes :
+Etudier et réaliser une architecture des modules de pistage existants, puis réaliser des algorithmes en pistage et en trajectographie nouvelle génération,
+Réaliser la veille technologique au niveau R&D (participation à des salons, conférences),
+Proposer et réaliser des sujets et études de R&D (en lien avec les entités opérationnelles),
+Assurer la réalisation d'études et d'expertise dans votre domaine (sur sollicitation, sur réponse à ETO DGA...),j
+Participer à la rédaction des réponses sur projets DGA (ASTRID, PST...), européens (H2020).
+
+Naval Group, leader mondial du naval de défense
+
+Vous travaillez sur la mise en place et l'évolution de chaînes de pistage
+
+Vous êtes diplômé idéalement d'un Bac +5 minimum spécialisé en mathématiques appliquées et vous possédez au moins une expérience dans le domaine industriel en tant que Data Scientist.
+
+La maîtrise de méthodes/langages/d'outils de traitement des données scientifiques sont requis au poste (Matlab, Python). Des connaissances quant à la méthode des moindres carrés, ainsi que l'utilisation du filtre de Kalman sont nécessaires. La notion des langages C, C++; Java est un plus. Ce poste est ouvert aux sites d'Indret et d'Ollioules."
+9,https://www.indeed.fr/emplois?q=Data%20Scientist&l=Nantes&radius=100&limit=100&sort=date&vjk=f2e8ed2d57e32a51,"Un développeur python spark + Git sur Nantes / Freelance
+Almatek - Nantes (44)","['Nantes (44)', 'Temps plein, Freelance / Indépendant']",Un développeur python spark + Git sur Nantes / Freelance,Almatek,- Nantes (44),"Temps plein, Freelance / Indépendant",null,"Freelance-info - il y a 7 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Scientist,Nantes,"Je recherche pour l’un de mes clients, grand compte, un développeur python/ spark sur Nantes
+
+Data engineer
+Rôle
+Mettre en uvre les traitements Big Data d’ingestion de données dans le datalake et d’alimentation de la base de données selon le modèle pré défini.
+Créer le modèle de données dans la base de données Elastic.
+Assurer la cohérence et la mise en qualité des données ingérées.
+Respecter les normes de développement et documenter les travaux réalisés.
+Réaliser les user stories demandées par le Product Owner.
+Savoir échanger et questionner sur les fonctionnalités à développer lors des cérémonies agiles.
+Travailler avec le data scientist.
+
+Compétences
+Développement confirmé en langage Python Spark + Git.
+Une première expérience sur le cloud Azure : Databricks, Azure data factory.
+Expérience sur la Stack Elastic ou une autre base de données orientée moteur de recherche.
+Environnement de travail agile : Jira, Confluence.
+Idéalement utilisation d’un outil de gouvernance de données.
+
+Compétences techniques
+Python Spark + Git. - Confirmé - Impératif
+Stack Elastic - Confirmé - Impératif
+Jira, Confluence - Confirmé - Impératif
+cloud Azure : Databricks, Azure data factory - Confirmé - Important
+
+Démarrage 14/10/209
+Durée : 6 mois renouvelables."
+10,https://www.indeed.fr/emplois?q=Data%20Scientist&l=Nantes&radius=100&limit=100&sort=date&vjk=ff8fd90f1d8a79ab,"Project Manager H/F
+Advalo - Rennes (35)","['Rennes (35)', 'Temps plein, CDI']",Project Manager H/F,Advalo,- Rennes (35),"Temps plein, CDI",null,"il y a 8 jours
+Signaler cette offre d'emploi",Data Scientist,Nantes,"*
+Advalo est une société en hyper-croissance créée en 2014, avec pour mission d'accompagner les enseignes dans leur transformation d'un marketing de masse polluant et intrusif vers un marketing individualisé, fondé sur la connaissance et le respect des envies de chaque client. Pour cela, nous avons développé une plateforme saas innovante permettant aux enseignes du retail et de l'automobile de comprendre et accompagner chaque consommateur de façon individualisée tout au long de son parcours client.*
+*
+**
+Nos clients sont des enseignes majeures, parmi lesquelles Cache Cache, Seat, Morgan, Skoda et Devred, avec qui nous aimons entretenir une relation de proximité.
+Afin d'accélérer notre développement en France et à l'international, nous avons finalisé une levée de fonds de 5m€ fin 2017, avec un objectif: devenir la plateforme leader permettant de construire une relation organique, unique et durable entre une marque et un individu, grâce aux possibilités infinies de l'IA.
+Basé à Rennes, Paris et prochainement aux Etats-Unis, nous avons une équipe formidable, un environnement unique et des valeurs fortes, une atmosphère détendue, des opportunités de carrière multiples, une culture et un projet excitants !
+*
+*
+Présentation du poste:
+Advalo recherche un Project Manager passionné pour renforcer son équipe française. Basé à Rennes et reportant au responsable de l'équipe Customer Delivery, vous serez responsable de l’implémentation de la plateforme auprès de nos clients grands comptes pendant tout le cycle projet (environ 3 mois).
+A la fois chef d’orchestre, interface technique, facilitateur, le rôle du Project Manager est de s'assurer que la plateforme Advalo est correctement déployée chez nos clients dans les temps impartis pour atteindre rapidement leurs objectifs business et tirer profit de l'usage de l’outil. Vous aurez à construire et maintenir des relations fortes avec les différents contacts parmi vos clients, incluant les rôles exécutifs.
+Le Project Manager sera responsable de l’implémentation de la plateforme chez ses clients en termes de livrables et planning.
+Pour cela, vous devrez notamment travailler dans un environnement collaboratif et interactif interne (Customer Success Manager, Data Scientist, Production, R&D, etc..). Vous aurez également à construire et maintenir des bonnes relations de travail avec chacun de ces équipes. Par ailleurs, le Technical Project Manager travaillera également en collaboration rapprochée avec l'équipe commerciale lors des passations pre et post projet.
+*
+*
+Missions:
+⁃ Conduire en véritable chef d’orchestre les différents services qui participent au projet en setup ou en run (client, partenaires, services interne)
+⁃ Gérer la relation client tout au long du projet en étant le garant du planning et du respect des jalons (gestion des échéances techniques mais aussi marketing)
+⁃ Conduire les différents ateliers de cadrage en amont (fonctionnel, migration et sécurité des données, fonctionnalités déployées…)
+⁃ Assurer le reporting sur l’avancement du projet, les problèmes rencontrés et les arbitrages à prendre
+⁃ Gérer la recette fonctionnelle et les demandes des clients en production
+⁃ Etre force de proposition pour optimiser les performances et les usages des clients en production
+*
+*
+Profil recherché:
+⁃ Formation supérieure avec une expérience concrète dans la gestion de projets, idéalement dans le déploiement de solutions SaaS.
+⁃ Très bon niveau d'anglais
+⁃ Sans être développeur, vous avez une appétence forte et une bonne compréhension des sujets autour de la data, des flux, des outils de BI et de marketing automation vous permettant d’échanger et challenger les propositions
+⁃ Vous avez une sensibilité aux usages et réflexions autour du marketing relationnel qui vous assurent une compréhension des enjeux des équipes métiers
+⁃ Votre sens relationnel et votre capacité à convaincre vous permettront d’engager vos clients dans les bonnes pratiques.
+⁃ Vous êtes autonome, pragmatique, agile tout en étant organisé et engagé pour gérer de front plusieurs projets à la fois et les mener à terme en respectant les contraintes initiales.
+⁃ Vous êtes ambitieux et aimez le mode de fonctionnement et l’ambiance start-up.
+*
+Avantages :
+RTT
+Participation au transport
+Type d'emploi : Temps plein, CDI"
+11,https://www.indeed.fr/emplois?q=Data%20Scientist&l=Nantes&radius=100&limit=100&sort=date&vjk=350545a2e4850147,"Consultant Technique Confirmé - Digital Marketing (H/F)
+Forum Emploi-Formation-Alternance: Talents Handicap - Rennes (35)","['Rennes (35)', 'CDI']",Consultant Technique Confirmé - Digital Marketing (H/F),Forum Emploi-Formation-Alternance: Talents Handicap,- Rennes (35),CDI,null,"handicap-job.com - il y a 7 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Scientist,Nantes,"Au sein de DCX, rejoignez notre pôle d'expertise «Digital Marketing»
+
+Une entité dynamique et en croissance
+Une volonté de pluridisciplinarité : data scientist, consultant marketing, consultant fonctionnel, consultant technique, architecte, directeur de projet
+Une équipe basée à Paris & Rennes
+Notre mission, vous l'avez compris : être au plus proche de nos clients afin de les accompagner dans la transformation des processus marketing. Nous accompagnons des entreprises de tous secteurs d'activité (Télécom, Médias, Energie, Banque, Assurance, Grande distribution, Services,...) et dans des projets de toutes envergures. Nous nous appuyons sur les solutions des éditeurs leaders du marché (IBM, Adobe, Salesforce, Pega, Oracle).
+
+Description du poste
+En tant que Consultant(e) technique confirmé(e) au sein d'une équipe projet pluridisciplinaire vous aurez pour missions principales :
+La participation au recueil, le cadrage, l'analyse des besoins exprimés par nos clients et la définition de la solution répondant à leurs enjeux techniques et business
+La planification et le suivi des activités de développement (réalisation et revues de conception, code, configuration…), en mode Agile ou Cycle en V
+L'apport d'expertise à l'équipe technique côté client et à l'équipe projet dans les phases de conception / réalisation (rôle de référent / point de contact privilégié)"
+12,https://www.indeed.fr/emplois?q=Data%20Scientist&l=Nantes&radius=100&limit=100&sort=date&vjk=2c0c707d8fd61ac1,"Post-Doctoral Research Visit F/M Data Repurposing: compression of large scale image and video databases
+Inria46 avis - Rennes (35)",['Rennes (35)'],Post-Doctoral Research Visit F/M Data Repurposing: compression of large scale image and video databases,Inria,- Rennes (35),null,null,"il y a 17 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Scientist,Nantes,"Le descriptif de l’offre ci-dessous est en Anglais
+Type de contrat : CDD de la fonction publique
+Niveau de diplôme exigé : Thèse ou équivalent
+Fonction : Post-Doctorant
+A propos du centre ou de la direction fonctionnelle
+Inria, the French national research institute for the digital sciences, promotes scientific excellence and technology transfer to maximise its impact.
+It employs 2,400 people. Its 200 agile project teams, generally with academic partners, involve more than 3,000 scientists in meeting the challenges of computer science and mathematics, often at the interface of other disciplines.
+Inria works with many companies and has assisted in the creation of over 160 startups.
+It strives to meet the challenges of the digital transformation of science, society and the economy.
+Mission confiée
+Context: Free upload of multimedia data on the social networks and cloud storage services makes consumers think that the storage cost is zero. This assertion is wrong twice. The cost is not only pecuniary (funded thanks to the advertisement or data selling) but more importantly also ecological. In 2012, the number of data centers in the world was estimated at about 500.000, consuming roughly the equivalent of 30 nuclear power stations. During the past years, the number of data centers has literally exploded, reaching more than 8 millions nowadays.
+All the compression algorithms, including the most powerful ones, are overwhelmed by such an explosion. Their limitation resides in the they are optimizing. Indeed, the goal of a traditional compression algorithm is to describe the data with the minimum bits and witha minimum error compared to the original data. When the data itself is expanding exponentially, even reaching a good compression ratio will only slow down the volume growing instead of stopping it. It now becomes critical to change paradigm and put compression problem in another perspective.
+Motivations: This is the promise of Data Repurposing tackled during the postdoctoral project. The core principle is to replace a large input data collection by a data of another format (more compact and ergonomic), giving the opportunity to reach drastic compression ratio. Fidelity is replaced by subjective exhaustiveness. Basically, a repurposed data is supposed to replace the input data collection. The success of such an approach depends on its ability to restitute to the user the information contained in the initial data. The information here, is no longer the information defined in Shanon's theory, but corresponds to what a user retains/learns/feels from a data collection. We call it the perceived information. The subjective exhaustiveness refers to the fact no perceived information of the input collection is lost in the repurposed data.
+Objectives: i) to define this new compression scenario called Data Repurposing, suited for massive collections of image and video data ii) to evaluate the theoretical performance of such a paradigm and iii) to propose innovative coding approaches targeting unprecedented compression ratios for both image and video collections.
+Principales activités
+The post-doctoral researcher will focus on the following activities:
+Learn features from the images and videos: this will be based on dictionaries learned from data or auto-encoder derived from CNN [1].
+Define new metrics to evaluate the amount of information spanned by a image/video data collection [2]
+Develop compression algorithms (e.g., sampling) for these metrics [3,4]
+References:
+[1] Charte, D., Charte, F., García, S., del Jesus, M. J., & Herrera, F. (2018). A practical tutorial on autoencoders for nonlinear feature fusion: Taxonomy, models, software and guidelines. Information Fusion, 44, 78-96.
+[2] Kuhnel, L., Fletcher, T., Joshi, S., & Sommer, S. (2018). Latent Space Non-Linear Statistics. arXiv preprint arXiv:1805.07632.
+[3] Belhadji, A., Bardenet, R., & Chainais, P. (2018). A determinantal point process for column subset selection. arXiv preprint arXiv:1812.09771.
+[4] Puy, G., Tremblay, N., Gribonval, R., & Vandergheynst, P. (2018). Random sampling of bandlimited signals on graphs. Applied and Computational Harmonic Analysis, 44(2), 446-475.
+Compétences
+The candidate should have
+strong background in signal/image processing, machine learning
+notions of deep learning and information theory would be appreciated,
+Avantages
+Subsidized meals
+Partial reimbursement of public transport costs
+Leave: 7 weeks of annual leave + 10 extra days off due to RTT
+Social, cultural and sports events and activities
+Access to vocational training
+Rémunération
+Monthly gross salary amounting to 2653 euros."
+13,https://www.indeed.fr/emplois?q=Data%20Scientist&l=Nantes&radius=100&limit=100&sort=date&vjk=0c7967edfa845dfc,"CONSULTANT DATA SCIENCE H/F RENNES
+Umanis35 avis - Saint-Herblain (44)",['Saint-Herblain (44)'],CONSULTANT DATA SCIENCE H/F RENNES,Umanis,- Saint-Herblain (44),null,null,"il y a 19 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Scientist,Nantes,"THE FRENCH LEADER OF THE DATA RECRUITS.
+Joining Umanis is to participate in a formidable adventure, that of a French company in continuous growth, recognized for its capacity for innovation and its dynamism.
+Umanis is more than 2700 enthusiasts of new technologies who share the same values as excellence, responsibility, respect and conviviality.
+Umanis, it is a community with an average age of 35 years that intervenes in advanced engineering on the strategic projects of the largest customers of order or on behalf of companies for whom data is transformation vector.
+Umanis, it is a management and an organization closest to its collaborators to accompany you in your career. Training, certifications, MOOC, CPEC; We are committed to making you evolve continuously.
+The data scientist is an expert in the management and sharp analysis of massive data (""big data""). He determines from multiple and dispersed data sources, indicators allowing the implementation of a strategy answering a problematic. He is therefore specialized in statistics, computer science and knows perfectly the sector or the application function of the analyzed data.
+YOUR MISSIONS:
+Les tâches principales du data scientist sont :
+Identifier les besoins et la problématique des directions métiers
+Définir une modélisation statistique qui permette de répondre à la problématique
+Construire des outils d'analyse pour collecter les données de l'entreprise
+Sourcer et rassembler l'ensemble des sources de données structurées ou non structurées nécessaires à l'analyse et pertinentes
+Modéliser les comportements et en extraire de nouveaux usages utilisateurs
+Proposer des modes de collecte et traitements
+Participer à la proposition de stratégies ou préconisations client
+Mettre en valeur, diffuser et vulgariser la donnée pour le client et son équipe
+REQUIRED COMPETENCIES:
+Complex problem solving (Beginner), Design of works, products or events (Beginner), English (Intermediate), Monitoring, analysis and document management (Intermediate), Product or event development (Beginner), Qualitative and quantitative analyzes (Intermediate), Software mastery (Intermediate)
+In 2018, Umanis recruited 900 new talents throughout the French territory. What if it was you?"
+14,https://www.indeed.fr/emplois?q=Data%20Scientist&l=Nantes&radius=100&limit=100&sort=date&vjk=4052a5d030e4c296,"Ingénieur Data Scientist H/F
+EPSILON-ALCEN - Nantes (44)
+A répondu à 75 % ou plus des candidatures sur les 30 derniers jours, généralement en 1 jour.","['Nantes (44)', 'CDI', '30 000 € - 50 000 € par an']",Ingénieur Data Scientist H/F,EPSILON-ALCEN,- Nantes (44),CDI,30 000 € - 50 000 € par an,"il y a 25 jours
+Signaler cette offre d'emploi",Data Scientist,Nantes,"A compétences égales, le poste est ouvert aux personnes en situation de handicap
+EPSILON est une société du groupe ALCEN qui répond à différents besoins de conception et d’optimisation de systèmes pour les grands secteurs industriels (énergie, aéronautique, spatial). EPSILON mène des études pour le perfectionnement des produits de ses clients ou pour ses propres technologies et s’engage sur des projets complexes de conception-réalisation avec le support et la puissance industrielle du groupe ALCEN.
+Epsilon se développe dans les domaines de la physique, de l’informatique scientifique et enfin de la Performance Opérationnelle. Ainsi, en alliant sa capacité de modélisation / simulation multi-physiques et sa vision système, EPSILON permet de raccourcir les délais entre les phases amont des projets et les essais de validations.
+EPSILON a fait le choix de l’expertise en cultivant certaines spécialités depuis de nombreuses années tout en ayant la performance opérationnelle d’un groupe industriel et de haute technologie comme ALCEN. Son positionnement à la fois « services » et « produits » est unique dans le domaine de l’ingénierie et permet à ses ingénieurs d’exprimer tous leurs talents.
+La société est maintenant organisée en trois centres de compétences :
+EPSILON PHYSICS : dédié aux calculs scientifiques notamment la
+Thermique, Mécanique et Fluidique,
+EPSILON DIGITAL : dédié à la transformation digitale de l’industrie et
+EPSILON SYSTEM : dédié aux essais, à la conception et intégration de
+systèmes.
+Ainsi, pour développer son activité en région Pays de la Loire, nous recherchons un(e) Ingénieur(e) passionné(e) par la data science pour nous aider sur des sujets liés aux secteurs du transport, de l'énergie et du naval.
+http://www.epsilon-alcen.com/fr
+http://www.alcen.com/fr
+https://www.linkedin.com/company/epsilon-ing-nierie/
+Pour contribuer au développement de notre offre Data Science, vous aurez l'opportunité de travailler sur des sujets variés à forte valeur ajoutée : des projets majeurs d'innovation et d'ingénierie technologiques pour le compte de grands groupes industriels et de leur R&D (secteur naval, transport, énergie).
+Vous intégrez une équipe en forte croissance pour prendre en charge les missions suivantes :
+MISSIONS :
+Travailler sur un grand nombre de problèmes variés;
+Identifier les besoins et apporter des méthodes rigoureuses et innovantes en utilisant les données disponibles ;
+Travailler dans un cadre Big Data sur des ensembles de données volumineux et complexes ;
+Analyse exploratoire de problématiques complexes,
+Collecte et manipulation de données structurées et/ou non structurées
+S'appuyer sur vos compétences mathématiques et statistiques pour caractériser, modéliser et prédire des phénomènes complexes,
+Développer des logiciels spécifiques pour analyser des données massives issues du monde industriel ou de travaux de R&D,
+Réaliser des études en coopération avec des équipes pluridisciplinaires ;
+Communiquer avec des experts métiers issus de domaines variés,
+Déploiement de solutions opérationnelles,
+Participer à la montée en compétences de l'équipe Data Science ;
+PROFIL :
+Vous êtes issu(e) d'une formation en mathématique/informatique de niveau Bac+5 (Ecole d’ingénieur ou Master) ;
+Vous justifiez d’une première expérience professionnelle d’au moins 2 ans sur des aspects de Data Science (modélisation statistique, machine learning, analyses variées, etc.) idéalement sur de gros volumes de données qui vous a permis de développer les compétences suivantes :
+Développement d’algorithmes et de modèles de traitement des données.
+Mise en place de solutions techniques pour répondre à un besoin précis.
+Capacité d’analyse et de résolution de problématiques.
+Rigueur et autonomie.
+Force de proposition.
+Curiosité intellectuelle.
+Apprentissage et partage de nouvelles techniques.
+Bon niveau d'anglais à l'écrit comme à l'oral.
+CONNAISSANCES & COMPÉTENCES REQUISES (LOGICIELS) :
+Maîtrise d’un ou plusieurs langage de programmation : Python / C++ / R
+Web : HTML, CSS, Javascript.
+Base de données : SQL.
+Outil BigData : Spark, Hadoop, Pandas…
+Connaissances en Machine Learning: SVM, CRF, Random Forest, Neural Network (RNN, CNN, LSTM, …) etc.
+Environnement : UNIX, Windows.
+Outils : git, svn.
+Des connaissances en HPC seraient un plus.
+Type d'emploi : CDI
+Salaire : 30 000,00€ à 50 000,00€ /an
+Expérience:
+ingénieur data scientist ou similaire: 2 ans (Souhaité)"
+15,https://www.indeed.fr/emplois?q=Data%20Scientist&l=Nantes&radius=100&limit=100&sort=date&vjk=6221ee6c15ba62ad,"Data Scientist H/F
+KANDY28 avis - Treillières (44)","['Treillières (44)', 'CDD, CDI', '30 000 € - 40 000 € par an']",Data Scientist H/F,KANDY,- Treillières (44),"CDD, CDI",30 000 € - 40 000 € par an,"il y a 29 jours
+Signaler cette offre d'emploi",Data Scientist,Nantes,"KANDY, basée à Treillières, près de Nantes (44), est une société d’ingénierie, de conseil et d’édition de logiciels spécialisée dans les technologies innovantes.
+Lancer dans un programme de R&D sur une technologie de rupture d’optimisation des ventes et du recrutement pour le secteur de la Vente Directe et du Marketing de Réseau, KANDY fait avancer ses technologies par l’apport de l’intelligence artificielle et plus spécifiquement du marchine learning. Notre vision est en effet de nous engager pour contribuer à une meilleure efficacité des résultats de nos partenaires du secteur visé.
+KANDY est installée en France et s’attache à développer sa technologie et les services associés dans un premier temps pour le marché français avec des objectifs de développement à l’international rapidement et plus spécifiquement en Afrique.
+KANDY propose un poste de Data Scientist au sein de notre équipe de R&D.
+Vous souhaitez intégrer une équipe dynamique sur un marché porteur ? Postulez!
+Dans le cadre de notre développement, nous recherchons donc notre nouveau talent !
+Vos principales missions :
+Participation active à nos projets de R&D internes
+Veille bibliographique, analyse et modélisation de données selon l’état de l’art en intelligence artificielle et en data science.
+Développement, intégration et mise en oeuvre des algorithmes de machine learning.
+Optimisation des workflows d’analyses statistiques et de visualisations.
+Collaboration active avec les développeurs de l’application et des spécialistes en UX/UI.
+Participation à la rédaction de publications scientifiques
+Profil recherché :
+Vous êtes diplômé(e) d'une formation de niveau Bac+5 orienté mathématiques et statistiques ou impérativement en informatique avec une spécialisation en Data Science.
+Vous disposez idéalement d'une première expérience dans le développement et le déploiement de modèles quantitatifs (modélisation statistique, machine learning, analyse multivariée, méthodes d'échantillonnage, modèles stochastiques) sur de grandes quantités de données qui vous a permis de développer les compétences techniques suivantes :
+- Utiliser des données statistiques pour traduire les informations, les organiser et les synthétiser en vue de faciliter la prise de décision ;
+- Développer des algorithmes et modèles de traitement des données ;
+- Mettre en place des solutions techniques (plateforme, infrastructures) répondant aux besoins de performance (vitesse, volume, conformité)
+- Assurer un suivi Coûts, Qualité, Délais et appliquer les processus définis.
+- Excellente capacité d'analyse et de résolution de problèmes;
+- La volonté d'enseigner aux autres et d'apprendre de nouvelles techniques.
+Vous maîtrisez parfaitement :
+- Python (NLTK, Numpy, Matplotlib, Pandas, Scikit Learn, SeaBorn ...)
+- Mathématiques et statistiques
+- Machine Learning (Neural network, Régression, Classification, KNN, Random Forest ...)
+- Data Mining
+- Text et Web Mining (Traitement de langage naturel, traitement des données des réseaux sociaux)
+- Base de données (SQL et No-SQL)
+Vous avez des connaissances approfondies en:
+- R (ggplot, dplyr, readr, tidyr ...)
+- Informatique décisionnelle (Pentaho)
+- Big Data (framework Hadoop)
+- Recherche Opérationnelle
+- Traitement d'Image
+Vous avez des connaissances de base en:
+- Cloud Computing, l'informatique en nuage (Openstack)
+- Programmation Web (React, JQuery ...)
+- Sécurité des données
+Avantages proposés :
+Société à taille humaine et tournée vers l’innovation
+Acteur d’un secteur d’activité en pleine croissance ; le marché de la vente directe et du MLM
+Autonomie
+Equipe dynamique et engagée
+Expérience :
+Data Science, Machine Learning : plus de 6 mois (Obligatoire)
+Analyse et modélisation de données (Obligatoire)
+Programmation statistique: plus de 6 mois (Obligatoire)
+Mathématiques (Obligatoire)
+Formation :
+Bac +4/5 (Master en Data Science) (Obligatoire)
+Langues :
+Anglais (Obligatoire)
+Type d'emploi : CDD, CDI
+Salaire : 30 000,00€ à 40 000,00€ /an
+Formation:
+Bac +5 (Master / MBA) (Requis)
+Lieu:
+Treillières (44) (Souhaité)
+Langue:
+Anglais (Requis)"
+16,https://www.indeed.fr/emplois?q=Data%20Scientist&l=Nantes&radius=100&limit=100&sort=date&vjk=8ad713cd2137f8c8,"Data Analyst H/F
+Cenisis - Nantes (44)",['Nantes (44)'],Data Analyst H/F,Cenisis,- Nantes (44),null,null,"il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Scientist,Nantes,"Postuler
+Nom*
+Prénom*
+Email*
+N° de téléphone*
+Région*
+Comment avez-vous connu Cenisis Groupe?
+Si autre, pouvez vous préciser ?
+Poste*
+Vos motivations*
+Votre CV*
+
+Adèle Sold
+Passionnée, j’aime travailler dans le monde de la Data en accompagnant au mieux chacun des collaborateurs dans leur projet professionnel.
+J’ai rejoint CENISIS en 2018 en tant que Data Recruiter afin de participer au développement de chacun, du recrutement jusqu’à l’objectif fixé, et bien plus loin encore.
+Articles Liés
+Data Analyst H/F
+Lille
+Data Architect H/F
+Rennes
+Data Scientist H/F
+Niort
+
+CONTACT
+CENISIS Lille
+21 Avenue de la Créativité
+59650 Villeneuve-d'Ascq
+tel. : 03 20 19 12 40
+
+CENISIS Nantes
+Bâtiment D, Parc de l’Angevinière
+15 Bd Marcel Paul
+44800 Saint-Herblain
+tel. : 06 49 40 94 57
+
+CENISIS Lyon
+129 rue Servient
+69326 Lyon Cedex 03
+tel. : 04 78 14 36 22"
+17,https://www.indeed.fr/emplois?q=Data%20Scientist&l=Nantes&radius=100&limit=100&sort=date&vjk=21664de0daddcd40,"DATA SCIENTIST confirmé H/F NANTES
+Umanis35 avis - Saint-Herblain (44)",['Saint-Herblain (44)'],DATA SCIENTIST confirmé H/F NANTES,Umanis,- Saint-Herblain (44),null,null,"il y a 28 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Scientist,Nantes,"THE FRENCH LEADER OF THE DATA RECRUITS.
+Joining Umanis is to participate in a formidable adventure, that of a French company in continuous growth, recognized for its capacity for innovation and its dynamism.
+Umanis is more than 2700 enthusiasts of new technologies who share the same values as excellence, responsibility, respect and conviviality.
+Umanis, it is a community with an average age of 35 years that intervenes in advanced engineering on the strategic projects of the largest customers of order or on behalf of companies for whom data is transformation vector.
+Umanis, it is a management and an organization closest to its collaborators to accompany you in your career. Training, certifications, MOOC, CPEC; We are committed to making you evolve continuously.
+The data scientist is an expert in the management and sharp analysis of massive data (""big data""). He determines from multiple and dispersed data sources, indicators allowing the implementation of a strategy answering a problematic. He is therefore specialized in statistics, computer science and knows perfectly the sector or the application function of the analyzed data.
+YOUR MISSIONS:
+Vous êtes expert de la gestion et de l'analyse des données massives (""big data""). Vous déterminez, à partir de sources de données multiples et dispersées, des indicateurs permettant la mise en place d'une stratégie répondant à une problématique. Vous êtes spécialisé en statistique, informatique et connaissez parfaitement le secteur ou la fonction d'application des données analysées
+Vos tâches principales sont :
+Identification les besoins et la problématique des directions métiers
+Définition de la modélisation statistique qui permette de répondre à la problématique
+Construction des outils d'analyse pour collecter les données de l'entreprise
+Sourcing de l'ensemble des sources de données structurées ou non structurées nécessaires à l'analyse et pertinentes
+Organisation, étudie et synthèse des sources de données sous forme de résultats exploitables
+Modélisation les comportements et en extraire de nouveaux usages utilisateurs
+Proposition des modes de collecte et traitements
+Participation à la proposition de stratégies ou préconisations client
+Mise en valeur, diffuser et vulgariser la donnée pour le client et son équipe
+De formation supérieure en informatique avec une spécialisation en data science, Ecoles d’Ingénieurs ou Universités, vous justifiez d’une ou plusieurs compétences techniques :
+Très bonnes compétences en Data Science, Machine Learning (ML), IA
+Maîtrise de la chaîne de préparation de la donnée (data wrangling)
+Solide maîtrise d’au moins un des langages Python (et des bibliothèques de ML dont scikit-learn), pySpark, R, Scala
+Capacité de vulgariser les concepts de Data Science pour les non-initiés
+Expérience d’industrialisation d’une solution de Data Science
+Des Compétences complémentaires seraient souhaitables :
+Expérience de ciblage publicitaire sur site web (web recommandation)
+Expérience en analyse textuelle (text mining) et traitement du langage (NLP)
+Expérience en calcul d’attrition (churn rate)
+La connaissance d’un secteur métier est un plus
+Aimant le travail en équipe et maitrisant la langue anglaise, vous vous décrivez volontiers comme quelqu’un de polyvalent, créatif et plein d’humour !
+Pourquoi Umanis ?
+Un suivi régulier et personnalisé par votre manager et votre référente RH.
+Une écoute constante pour accompagner votre montée en compétences et vous proposer les projets les plus en phase avec vos attentes.
+Des moments de partage : soirées d’agence et afterworks, rencontres sportives…
+L’intégration d’une communauté DATA nationale active.
+La possibilité, en fonction de vos aspirations, de devenir l’un des référents techniques de notre équipe.
+Ceux qui, grâce à leur expertise, nous accompagnent dans le recrutement des futurs collaborateurs.
+En 2019, Umanis recrute 1000 nouveaux talents sur l'ensemble du territoire français. Et si c'était vous?
+REQUIRED COMPETENCIES:
+Complex problem solving (Beginner), Design of works, products or events (Beginner), English (Intermediate), Monitoring, analysis and document management (Intermediate), Product or event development (Beginner), Qualitative and quantitative analyzes (Intermediate), Software mastery (Intermediate)
+In 2018, Umanis recruited 900 new talents throughout the French territory. What if it was you?"
+18,https://www.indeed.fr/emplois?q=Data%20Scientist&l=Nantes&radius=100&limit=100&sort=date&vjk=bcf1e84a3d1eb636,"Ingénieur de production F/H
+INTM8 avis - Nantes (44)","['Nantes (44)', 'CDI']",Ingénieur de production F/H,INTM,- Nantes (44),CDI,null,"Apec.fr - il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Scientist,Nantes,"Pour notre client du secteur bancaire, nous recherchons un Ingénieur intégrateur d'applications pour l' homologation des versions applicatives sur un environnement hors production avant mise en production.
+
+Vos activités seront les suivantes :
+Prendre connaissance du changement, de son contexte technique et de la stratégie de tests définie
+Compléter et détailler le plan de tests techniques, de performance, de robustesse, d'exploitabilité
+Préparer les infrastructures de tests
+Valider les documents et les procédures à destination de la production
+Industrialiser les tests techniques récurrents (automatisation, outillage...).
+Réaliser les différents tests techniques de recette technique / d'homologation
+Analyser les résultats
+Diagnostiquer en cas de dysfonctionnement et proposer les pistes de solutions
+Rédiger les rapports détaillés qui aideront à la décision du GO/NOGO pour la mise en production
+Constituer ou mettre à jour le patrimoine de tests réutilisable pour les intégrations ultérieures
+En avant vers le DevOps
+Connaissance recherchée sur la plateforme de test NeoLoad
+
+Opportunité à pourvoir à Nantes et Rennes
+Profil recherché Vous avez une approche DevOps et recherchez une nouvelle expérience dans le domaine de l'intégration ?
+
+Vous disposez impérativement d'une première expérience d'utilisation de
+
+NeoLoad
+
+Votre curiosité, votre autonomie et votre rigueur seront des qualités attendues pour ce poste.
+
+Ce poste est à pourvoir à Nantes et à Rennes
+Entreprise Crée en 2004, le Groupe INTM, spécialiste en conseil et en services numériques, s’inscrit dans une volonté de proximité et de performances opérationnelles.
+
+Le Groupe est rejoint en 2016 par NSIS, qui complète les offres de services avec son expertise et son centre de formation agréé.
+
+Aujourd'hui le Groupe INTM, c'est plus de 1800 collaborateurs avec qui nous cultivons une proximité étroite, valeur même de notre ADN.
+
+Grâce à cette confiance mutuelle entre INTM et ses collaborateurs, le Groupe connaît une forte croissance appuyée par des référencements durables avec de grands groupes dans toute la France, en Belgique et au Maroc.
+
+Le Groupe INTM est présent dans les secteurs de l’industrie, des transports, de l’assurance, de la banque, des télécoms, de l’énergie, etc…
+
+INTM est multi-spécialiste, avec un positionnement sur l'ensemble du cycle de vie du système d'information :
+
+Les métiers du conseil et de l'assistance à maitrise d'ouvrage (AMOA)
+
+Les métiers dits techniques (MOE) : avec l'infrastructure et l'architecture technique
+
+INTM accompagne ses clients sur des problématiques à fortes valeurs ajoutées autour de :
+
+La transformation digitale
+
+BI Consulting et big Data
+
+L'intelligence artificielle
+
+La cyber sécurité
+
+Le DevOps
+
+La formation de nouveaux talents (via notre centre de formation agréé)
+
+….
+
+Le Groupe INTM recrute aujourd'hui ses collaborateurs de demain !
+
+Nous recherchons tous types de talents, de débutant à expert, et ce, du niveau Bac à Bac +5 etc... sur les métiers suivants :
+
+Développeur
+
+Ingénieur sécurité
+
+Ingénieur système
+
+Ingénieur de production
+
+Chef de projet infrastructure
+
+Architecte technique
+
+PMO
+
+Coach Agile
+
+AMOA
+
+Business Analyste
+
+DATA scientist
+
+..."
+19,https://www.indeed.fr/emplois?q=Data%20Scientist&l=Nantes&radius=100&limit=100&sort=date&vjk=977adbb8bc149fb4,"Post-Doctoral Research Visit F/M Post-doc position Pattern mining for Neural Networks debugging: application to speech recognition
+Inria46 avis - Rennes (35)",['Rennes (35)'],Post-Doctoral Research Visit F/M Post-doc position Pattern mining for Neural Networks debugging: application to speech recognition,Inria,- Rennes (35),null,null,"il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Scientist,Nantes,"Le descriptif de l’offre ci-dessous est en Anglais
+Type de contrat : CDD de la fonction publique
+Niveau de diplôme exigé : Thèse ou équivalent
+Fonction : Post-Doctorant
+Niveau d'expérience souhaité : Jeune diplômé
+A propos du centre ou de la direction fonctionnelle
+Inria, the French national research institute for the digital sciences, promotes scientific excellence and technology transfer to maximise its impact.
+It employs 2,400 people. Its 200 agile project teams, generally with academic partners, involve more than 3,000 scientists in meeting the challenges of computer science and mathematics, often at the interface of other disciplines.
+Inria works with many companies and has assisted in the creation of over 160 startups.
+It strives to meet the challenges of the digital transformation of science, society and the economy.
+Contexte et atouts du poste
+Context: Understanding the inner working of deep neural networks (DNN) has attracted a lot of attention in the past years [1, 2] and most problems were detected and analyzed using visualization techniques [3, 4]. Those techniques help to understand what an individual neuron or a layer of neurons are computing. We would like to go beyond this by focusing on groups of neurons which are commonly highly activated when a network is making wrong predictions on a set of examples. In the same line as [1], where the authors theoretically link how a training example affects the predictions for a test example using the so called “influence functions”, we would like to design a tool to “debug” neural networks by identifying, using symbolic data mining methods, (connected) parts of the neural network architecture associated with erroneous or uncertain outputs.
+In the context of speech recognition, this is especially important. A speech recognition system contains two main parts: an acoustic model and a language model. Nowadays models are trained with deep neural networks-based algorithms (DNN) and use very large learning corpora to train an important number of DNN hyperparameters. There are many works to automatically tune these hyperparameters. However, this induces a huge computational cost, and does not empower the human designers. It would be much more efficient to provide human designers with understandable clues about the reasons for the bad performance of the system, in order to benefit from their creativity to quickly reach more promising regions of the hyperparameter search space.
+Mission confiée
+Description of the position: This position is funded in the context of the HyAIAI “Hybrid Approaches for Interpretable AI” INRIA project lab (https://www.inria.fr/en/research/researchteams/inria-project-labs). With this position, we would like to go beyond the current common visualization techniques that help to understand what an individual neuron or a layer of neurons is computing, by focusing on groups of neurons that are commonly highly activated when a network is making wrong predictions on a set of examples. Tools such as activation maximization [8] can be used to identify such neurons. We propose to use discriminative pattern mining, and, to begin with, the DiffNorm algorithm [6] in conjunction with the LCM one [7] to identify the discriminative activation patterns among the identified neurons.
+The data will be provided by the MULTISPEECH team and will consist of two deep architectures as representatives of acoustic and language models [9, 10]. Furthermore, the training data will be provided, where the model parameters ultimately derive from. We will also extend our results by performing experiments with supervised and unsupervised learning to compare the features learned by these networks and to perform qualitative comparisons of the solutions learned by various deep architectures. Identifying “faulty” groups of neurons could lead to the decomposition of the DL network into “blocks” encompassing several layers. “Faulty” blocks may be the first to be modified in the search for a better design.
+The recruited person will benefit from the expertise of the LACODAM team in pattern mining and deep learning (https://team.inria.fr/lacodam/) and of the expertise of the MULTISPEECH team (https://team.inria.fr/multispeech/) in speech analysis, language processing and deep learning.
+Bibliography:
+[1] Pang Wei Koh, Percy Liang: Understanding Black-box Predictions via Influence Functions. ICML 2017: pp 1885-1894 (best paper).
+[2] Chiyuan Zhang, Samy Bengio, Moritz Hardt, Benjamin Recht, Oriol Vinyals: Understanding deep learning requires rethinking generalization. ICLR 2017.
+[3] Anh Mai Nguyen, Jason Yosinski, Jeff Clune: Deep neural networks are easily fooled: High confidence predictions for unrecognizable images. CVPR 2015: pp 427-436.
+[4] Christian Szegedy, Wojciech Zaremba, Ilya Sutskever, Joan Bruna, Dumitru Erhan, Ian Goodfellow, Rob Fergus: Intriguing properties of neural networks. ICLR 2014.
+[5] Bin Liang, Hongcheng Li, Miaoqiang Su, Pan Bian, Xirong Li, Wenchang Shi: Deep Text Classification Can be Fooled. IJCAI 2018: pp 4208-4215.
+[6] Kailash Budhathoki and Jilles Vreeken. The difference and the norm—characterising similarities and differences between databases. In Joint European Conference on Machine Learning and Knowledge Discovery in Databases, pages 206–223. Springer, 2015.
+[7] Takeaki Uno, Tatsuya Asai, Yuzo Uchida, and Hiroki Arimura. Lcm: An efficient algorithm for enumerating frequent closed item sets. In Fimi, volume 90. Citeseer, 2003.
+[8] Dumitru Erhan, Yoshua Bengio, Aaron Courville, and Pascal Vincent. Visualizing higher-layer features of a deep network. University of Montreal, 1341(3):1, 2009.
+[9] G. Saon, H.-K. J. Kuo, S. Rennie, M. Picheny: The IBM 2015 English conversational telephone speech recognition system"", Proc. Interspeech, pp. 3140-3144, 2015.
+[10] W. Xiong, L. Wu, F. Alleva, J. Droppo, X. Huang, A. Stolcke : The Microsoft 2017 Conversational Speech Recognition System, IEEE ICASSP, 2018.
+Principales activités
+The recruited person will benefit from the expertise of the LACODAM team in pattern mining and deep learning (https://team.inria.fr/lacodam/) and of the expertise of the MULTISPEECH team (https://team.inria.fr/multispeech/) in speech analysis, language processing and deep learning.
+Compétences
+We would ideally like to recruit a 1 year (with possibly one additional year) post-doc with the following preferred skills:
+Some knowledge (interest) about speech recognition
+Knowledgeable in pattern mining (discriminative pattern mining is a plus)
+Knowledgeable in machine learning in general and deep learning particular
+Good programming skills in Python (for Keras and/or Tensor Flow)
+Very good English (understanding and writing)
+The position will be funded by INRIA (https://www.inria.fr/en/). See the INRIA web site for the post-doc and PhD wages.
+Avantages
+Subsidized meals
+Partial reimbursement of public transport costs
+Rémunération
+PhD student : monthly gross salary amounting to 1982 euros for the first and second years and 2085 euros for the third year
+Post-doc : monthly gross salary amounting to 2653 euros"
+20,https://www.indeed.fr/emplois?q=Data%20Scientist&l=Nantes&radius=100&limit=100&sort=date&vjk=66306a9fc4acd15d,"Architecte Data H/F
+EXTERNATIC4 avis - Nantes (44)","['Nantes (44)', 'CDI']",Architecte Data H/F,EXTERNATIC,- Nantes (44),CDI,null,"il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Scientist,Nantes,"DESCRIPTION DE L'OFFRE
+Externatic, c'est le premier cabinet de recrutement IT de l'ouest, mais surtout un accès privilégier à des opportunités cachées au sein de pépites (+300 postes ouverts HORS ESN / SSII #evil).
+Notre moteur : trouver l'opportunité (en CDI) qui vous correspond
+Notre approche : on parle un peu, on vous écoute, on vous écoute, on parle un peu
+=> Rencontrons-nous !
+
+L'ENTREPRISE
+Entreprise internationale basée à Nantes, la société édite des solutions marketing pour le monde du e-commerce notamment.
+HUMAINE : l'investissement sur le bien être des équipes est important. Tout est fait pour que les salariés soient heureux et fiers de leur entreprise.
+INNOVATION : les ingénieurs ont pu développer une expertise sur les métiers de l'intelligence artificielle, de la big data, mais également de l'UX.
+Dans un contexte de croissance, vous devenez Architecte data H/F pour les produits et le SI de l'entreprise.
+LE POSTE
+En tant qu'Architecte, vous êtes en lien avec les équipes produit, tech, marketing, sales.
+L'équipe data c'est 1 data engineer, 2 data scientists et plus largement toute l'équipe devops et backend avec qui vous interagissez au quotidien.
+Vos principales missions :
+Définir la stratégie data en fonction des besoins internes (SI) et externes (intégration dans les lignes produits)
+Concevoir, construire et mettre en oeuvre la plateforme data et les outils nécessaires
+Etre expert et référent sur Kafka, messaging, event sourcing, analytics, etc. dans le cloud
+Trouver comment communiquer au mieux sur les nouvelles fonctionnalités auprès des clients de l'entreprise
+Assurer une veille technologique extensive
+
+Conditions : centre de Nantes, salaire attractif, RTT, TR, Sport, etc.
+En plus, c'est vrai, il y a plein d'avantages dans cette société.
+
+Benjamin Casseron, votre interlocuteur chez Externatic
+Chaque année, j'accompagne des candidats, comme vous, dans la définition de leur projet professionnel et la recherche d'un nouveau job.
+N'hésitez pas à me contacter pour échanger sur ce poste et plus généralement sur votre carrière (contacts direct disponibles dans la rubrique ""qui sommes nous"" sur le site d'Externatic).
+PROFIL REQUIS
+VOUS
+
+Expertise sur Kafka.
+Expertise sur broker de messages (rabbitMQ, etc.)
+Expertise sur Java ou Scala
+Expérience avec le cloud public (AWS, GCP, etc.)
+Compétences en architecture data
+Excellentes compétences en anglais (oral et écrit)
+Au delà de cette ""liste de courses"", vous aimez le travail en équipe. Vous aimez remettre en question l'établi, vous êtes en veille quotidienne sur la sphère data.
+Vous avez le sens du service client."
+21,https://www.indeed.fr/emplois?q=Data%20Scientist&l=Nantes&radius=100&limit=100&sort=date&vjk=e517ef4a21813631,"Senior Data Engineer (M/F)
+iAdvize2 avis - Nantes (44)",['Nantes (44)'],Senior Data Engineer (M/F),iAdvize,- Nantes (44),null,null,"il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Scientist,Nantes,"Job Description
+
+You will ensure the building and evolution of the data platform at iAdvize, with a wide spectrum of responsibilities, from monitoring the data infrastructure to identifying data business needs. Collaboration with other engineers is key, as you will have to expand and improve the usage of data across teams and projects. You’ll work with another data engineer, data scientists and ML engineers.
+Responsibilities
+Lead the technical vision of data engineering and architecture at iAdvize
+Design, build, scale, and evolve our data platform, services and tooling
+Provide guidance, and contribute with engineering teams in building features improving access to new or existing data
+Mentor and evangelise developers about Apache Kafka, Stream processing, Event sourcing, reactive architecture and analytics
+Help Data Scientist / ML Engineer / Developers on data platform usage
+Examples
+Build and scale an engagement pipe to evaluate visitors on our clients sites
+Collect data and metadata on conversation to build insights on subjects, feelings and different sorts of analysis
+Introduce Avro to P&E, explain how it will improve message exchange and help to use it on concrete swarm project
+
+Qualifications
+
+1st significative experience on cloud distributed data platform.
+Must have
+Master Apache Kafka, usage and configuration / Brokers de messages
+Must know Java and the JVM
+Must have worked on Cloud (AWS, GCP, Azure, …)
+Nice to have
+knowledge on Scala and/or Python
+knowledge on Event-driven architecture or good knowledge on data system architecture (data platform, data intensive application)
+knowledge on Docker et micro-services
+Soft skills
+Good communication skills, able to evangelise about Apache Kafka, Stream processing, Event sourcing
+Make decisions based on business needs
+Technical watch très bonne connaissance de l’écosystème big data
+You are a strong team player who is proactive in collaborating with other software engineers
+
+Additional Information
+
+Start Date: Asap, obviously :)
+Office: Nantes
+Salary : Depending on your profile
+iAdvize is committed to promoting diversity among teams and follows a strict non-discrimination recruitment policy"
+22,https://www.indeed.fr/emplois?q=Data%20Scientist&l=Nantes&radius=100&limit=100&sort=date&vjk=ce2639c763876596,"Ingénieur R&D NLP - F/H
+Case Law Analytics - Nantes (44)","['Nantes (44)', 'Temps plein, CDI']",Ingénieur R&D NLP - F/H,Case Law Analytics,- Nantes (44),"Temps plein, CDI",null,"il y a 30+ jours
+Signaler cette offre d'emploi",Data Scientist,Nantes,"Case Law Analytics, startup nantaise spécialisée en intelligence artificielle, est un acteur majeur de la Legaltech. En alliant expertise au plus haut niveau en mathématiques et en droit, nous développons des outils fondés sur le machine learning qui permettent aux professionnels de quantifier leurs risques juridiques.
+Vos missions :
+En lien avec le CEO et notre équipe de data scientists, création de nouveaux produits en collaboration avec nos chercheurs juristes et nos développeurs.
+Développement de nouvelles techniques de NLP pour l’extraction d’informations dans des documents juridiques.
+Conception et implémentation des pipelines scalables de traitement de données.
+Identification du besoin.
+Veille technique et scientifique / bibliographie.
+Identification des hypothèses de recherche.
+Description du profil recherché :
+Familier avec le langage de programmation Python.
+Des connaissances en NLP (part-of-speech tagging, dependency parsing, entity recognition, semantic similarities and propagation, text generation, question answering system, deep learning).
+Des connaissances en statistiques/probabilités, notion d’apprentissage automatique.
+Une thèse en NLP serait un plus.
+Rigueur, éthique, humilité, agilité, créativité, curiosité, organisation.
+Pro-activité, autonomie.
+Débutant accepté.
+Les plus dont vous bénéficierez :
+Une équipe de 12 personnes riche de profils variés et d’une culture d’entraide permanente.
+Univers et esprit startup : une grande liberté et autonomie dans votre organisation.
+25 jours de congés payés + 10 jours de RTT par an.
+Mutuelle Alan.eu.
+Rémunération :
+Selon expérience.
+Type d'emploi : Temps plein, CDI"
+23,https://www.indeed.fr/emplois?q=Data%20Scientist&l=Nantes&radius=100&limit=100&sort=date&vjk=9c605025d9520e2a,"Data Scientist junior (mission client final) (h/f) / Freelance
+emagine - Boulogne (85)","['Boulogne (85)', 'Temps plein, Freelance / Indépendant']",Data Scientist junior (mission client final) (h/f) / Freelance,emagine,- Boulogne (85),"Temps plein, Freelance / Indépendant",null,"Freelance-info - il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Scientist,Nantes,"emagine recherche pour un de ses clients un Data Scientist Junior afin de réaliser un PoC dans le domaine de la maintenance prédictive
+
+Vos missions au sein du projet seront:
+Prédire des pannes
+Proposer des diagnostics de résolution d’incidents à partir de données de log, de données textuelles, et de données techniques
+A l’issue du PoC, la mission pourra se poursuivre pour assurer l’industrialisation, puis la vie de série du produit
+
+Intégration de l’équipe data science
+Participation aux activités de l’équipes ( présentation de projets, de nouvelles méthodologies, etc.)
+Vos compétences minimales :
+Python
+Machine learning
+
+Vos compétences appréciées :
+Pyspark
+Natural language processing
+Streaming
+
+Vous possédez une bonne capacité d'analyse, un esprit de synthèse et un bon relationnel
+
+Si vous êtes intéressés, envoyez moi un curriculum vitae avec vos attentes tarifaires à syntiche.boussou@emagine.org , 01 81 93 90 93"
+24,https://www.indeed.fr/emplois?q=Data%20Scientist&l=Nantes&radius=100&limit=100&sort=date&vjk=3dd7b21007db946e,"Data Scientist Senior H/F
+Solocal Group51 avis - Rennes (35)","['Rennes (35)', 'Temps plein, CDI']",Data Scientist Senior H/F,Solocal Group,- Rennes (35),"Temps plein, CDI",null,"il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Scientist,Nantes,"Poste à pourvoir à RENNES ou PARIS
+Dans l'équipe data science, notre but est d'optimiser l'efficacité des campagnes
+publicitaires en ligne et de piloter notre approche commerciale. Notre quotidien est
+divers : parfois nous sommes amenés à concevoir un algorithme de pointe qui
+identifie les publicités les plus pertinentes pour nos utilisateurs, d'autres fois à détecter
+les clients avec les plus à risque de churn. Avec chaque nouveau projet, nous
+adoptons une approche réfléchie ; nous collaborons ensemble pour identifier les
+meilleures solutions et traitons intelligemment de grands volumes de données.
+
+Nous cherchons un data scientist senior pour rejoindre notre équipe de 10 data
+scientists. Nous apprécions la curiosité et la capacité à porter une idée avec tact. Nous
+construisons une équipe de collaborateurs fiers de leur travail qui focalisent leurs
+efforts sur les actions les plus efficaces pour faire avancer notre entreprise.
+
+En tant que data scientist senior, vous serez amené(e) à :
+
+• Assumer un rôle de leader dans la data science appliquée à nos sujets divers. • Elaborer des algorithmes tout en intégrant les enjeux business. • Travailler dans un environnement agile et collaborer avec des data scientists, des
+développeurs et des product owners pour identifier les projets les plus pertinents
+sur lesquels contribuer. • Appliquer et déployer des méthodes d'apprentissage statistique en production. • Promouvoir les best practices dans notre équipe. • Défendre vos idées en suivant la maxime : « strong opinions, weakly held ».
+Profil
+Masters, thèse ou équivalent en informatique dans les mathématiques ou statistiques
+Au minimum 3 ans d’expérience dans la data science
+Être fier(e) de son travail (qu’il s’agisse de code, d’un modèle, ou d’une visualisation).
+Communiquer efficacement avec le reste de l’équipe, peu importe le niveau d’ancienneté et compétence technique de chacun.
+S’exprimer de manière claire en anglais, notamment à l’écrit. Une partie de notre équipe est d’origine anglophone.
+Rédaction de documents en anglais
+Habituer à travailler en équipe
+Curieux
+Capable de porter une idée avec tact
+Compétences attendues
+Python
+Machine learning
+GIT"
+25,https://www.indeed.fr/emplois?q=Data%20Scientist&l=Nantes&radius=100&limit=100&sort=date&vjk=5ec8f851ed1d63ca,"Data Architect H/F
+Cenisis - Rennes (35)",['Rennes (35)'],Data Architect H/F,Cenisis,- Rennes (35),null,null,"il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Scientist,Nantes,"Postuler
+Nom*
+Prénom*
+Email*
+N° de téléphone*
+Région*
+Comment avez-vous connu Cenisis Groupe?
+Si autre, pouvez vous préciser ?
+Poste*
+Vos motivations*
+Votre CV*
+
+Adèle Sold
+Passionnée, j’aime travailler dans le monde de la Data en accompagnant au mieux chacun des collaborateurs dans leur projet professionnel.
+J’ai rejoint CENISIS en 2018 en tant que Data Recruiter afin de participer au développement de chacun, du recrutement jusqu’à l’objectif fixé, et bien plus loin encore.
+Articles Liés
+Data Analyst H/F
+Lille
+Data Scientist H/F
+Niort
+Data Analyst H/F
+Nantes
+
+CONTACT
+CENISIS Lille
+21 Avenue de la Créativité
+59650 Villeneuve-d'Ascq
+tel. : 03 20 19 12 40
+
+CENISIS Nantes
+Bâtiment D, Parc de l’Angevinière
+15 Bd Marcel Paul
+44800 Saint-Herblain
+tel. : 06 49 40 94 57
+
+CENISIS Lyon
+129 rue Servient
+69326 Lyon Cedex 03
+tel. : 04 78 14 36 22"
+26,https://www.indeed.fr/emplois?q=Data%20Scientist&l=Nantes&radius=100&limit=100&sort=date&vjk=297193b1146a6139,"Consultant Data (h/f)
+ippon - Nantes (44)",['Nantes (44)'],Consultant Data (h/f),ippon,- Nantes (44),null,null,"il y a 7 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Scientist,Nantes,"Contexte du poste :
+La donnée vous inspire ? Le Big Data est plus qu’un buzzword pour vous ? Si oui, les portes d’Ippon sont grandes ouvertes pour vous accueillir sur le tatami de l’innovation technique et des projets à haute valeur ajoutée.
+. . .
+Profil :
+Vous savez concevoir, mettre en place et optimiser une architecture adaptée aux volumes et aux enjeux. Vous savez mettre en production un projet de Data Science. Vous êtes à l’aise pour échanger avec les différents profils Data (Architectes, Data Scientists, …). Vous êtes curieux et conservez un regard attentif mais mesuré sur les nouvelles technologies et savez détecter celles porteuses de potentiel.
+. . .
+Si vous rejoignez IPPON :
+Votre bonne élocution vous permet de communiquer aussi bien avec les profils Techniques que les interlocuteurs Métier,
+Vous développerez principalement des jobs d’intégration de données, de transformation (nettoyage, enrichissement) et les stocker au bon format dans un espace commun #datalake.
+Vous pouvez être amené à travailler avec le data scientist de 2 manières :
+En réalisant les pipelines qui alimenteront le datalake avec les données attendues par le data scientist
+En industrialisant (gestion d’erreurs, gestion de logs, voire même réécriture) le code du data scientist
+Vous êtes curieux et aimez partager votre veille technique avec la communauté worldwide #Data
+. . .
+Votre plus :
+Compétences sur la supervision et connaissance des indicateurs clés des plateformes,
+Bonne connaissance d’un ou plusieurs outils et langages de développement adaptés au traitement de la donnée : Spark, Hadoop, Hive, Kafka, ElasticSearch, Cassandra, Scala, Python,
+Bases en mathématiques et statistiques pour communiquer avec Data Scientists,
+Connaisannces d’ Amazon Cloud ou Google Cloud PLatform."
+27,https://www.indeed.fr/emplois?q=Data%20Scientist&l=Nantes&radius=100&limit=100&sort=date&vjk=e081aef9bdca371e,"Consultant Innovation ( data, IA, …)_ Nantes H/F
+Capgemini6,924 avis - Pays de la Loire","['Pays de la Loire', 'CDI']","Consultant Innovation ( data, IA, …)_ Nantes H/F",Capgemini,- Pays de la Loire,CDI,null,"il y a 9 mois
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Scientist,Nantes,"Description de l’entreprise
+Capgemini à Nantes, le sais-tu ?
+– Est au coeur de la ville, à 5mn à pied de la gare
+– C'est 80% de projets délivrés sur place, en équipe agile
+– Ce sont des espaces dédiés à l’open innovation
+Il y a eu plus de données créées ces 3 dernières années que dans le reste de l’ensemble de l’histoire de l’humanité. Aujourd’hui c’est plus de 5 Zeta octets de données qui nous entourent !
+Chez Capgemini nous avons à cœur d’anticiper cette évolution majeure, en donnant du sens à la donnée !
+Description de la mission
+Tes missions :
+– Collecter, déstructurer, explorer, intégrer, analyser, comprendre et visualiser les données
+– Industrialiser, automatiser les étapes de récupération des données ainsi que les modèles de machine Learning.
+– Développer des prototypes efficients et scalables en utilisant des méthodologies de Machine Learning : moteurs de recommandation, traitement du langage naturel, modèles de fraude, prédiction de la faillite de composants, etc.
+– Visualiser, expliquer les résultats de l'analyse auprès des clients ou d'autres collaborateurs
+Tu utiliseras ces stacks techniques :
+– Datascience : Python, Scala, Java, R, SAS
+– Big Data : tout comme Spark, Hive, Pig, SQL et son copain ; NoSQL, Power BI, Talend
+– DevOps : Docker, Cloud
+– IoT : Mqtt, LoraWan
+Profil
+En collaboration avec un Data Scientist expérimenté, tu pourras
+– manipuler les données
+– faire des mathématiques et des stats
+– lier les chiffres à l'informatique
+– faire de la prédictibilité
+– participer à l'élaboration de POC innovants autour de l'intelligence artificielle
+Voilà ce que nous te proposons :
+– d'intégrer l'IA Factory
+– d'évoluer dans un environnement Agile et Devops
+– d'avoir un accompagnement pour ton projet professionnel
+– d'être un Ambassadeur de Capgemini"
+28,https://www.indeed.fr/emplois?q=Data%20Scientist&l=Nantes&radius=100&limit=100&sort=date&vjk=b97a45363505494a&advn=7885602348150590,"Data Scientist H/F - BIOFORTIS - CDI - Saint-Herblain (44)
+SILLIKER - MERIEUX NUTRISCIENCES FRANCE5 avis - Saint-Herblain (44)","['Saint-Herblain (44)', 'CDI', '40 000 € par an']",Data Scientist H/F - BIOFORTIS - CDI - Saint-Herblain (44),SILLIKER - MERIEUX NUTRISCIENCES FRANCE,- Saint-Herblain (44),CDI,40 000 € par an,"il y a 30+ jours
+Signaler cette offre d'emploi",Data Scientist,Nantes,"#JobAlert #Stats #DataScientist #Nantes #MérieuxNutriSciences
+BIOFORTIS, basée à Saint-Herblain, près de Nantes (44), est la filiale du groupe MERIEUX-NUTRISCIENCES depuis 2002.
+Présent dans 24 pays et à travers plus de 100 laboratoires, MERIEUX NUTRISCIENCES fait avancer la science en proposant des solutions pour la qualité et sécurité alimentaire. Notre vision est en effet d’améliorer la santé grâce à des aliments plus sûrs et une nutrition plus saine. Cette vision se concrétise chaque jour, grâce à nos 7000 collaborateurs animés par nos 4 valeurs : l’excellence, l’intégrité, le sens de l’initiative et le sens des responsabilités.
+MERIEUX NUTRISCIENCES FRANCE, basée à Cergy (95) regroupe l’ensemble des fonctions support à l’activité de nos 7 laboratoires de chimie et de microbiologie. Par leur expertise scientifique, réglementaire et technique, MERIEUX NUTRISCIENCES fournit aux entreprises nationales et internationales non seulement des prestations de qualité, mais surtout des solutions pratiques et adaptées à leurs problématiques.
+BIOFORTIS est la CRO du groupe, dédiée à l’innovation dans les secteurs de l'agroalimentaire, de la nutrition, de la santé, de la cosmétique et des biens de consommation. Elle accompagne le développement des produits de ses clients en offrant des services originaux et innovants tels que des preuves pré-cliniques et cliniques, des analyses du microbiote et leur interprétation scientifique, des évaluations sensorielles et des tests consommateurs.
+Les compétences cliniques et Sensorielles & Consommateurs des deux business units de font de notre société une CRO unique. Selon les demandes des clients, nos différentes équipes peuvent être impliquées du développement scientifique de produits nouveaux jusqu’à la mesure et l’appréciation des consommateurs finaux.
+Présente en Europe, aux Etats-Unis, en passant par la Chine jusqu'au Brésil, BIOFORTIS emploie à ce jour près de 200 salariés sur ses différents sites.
+Une opportunité à pourvoir pour dès que possible, envie de tenter l'expérience Mérieux ? Postulez!
+Dans le cadre de notre développement, nous recherchons donc notre nouveau talent !
+Vos principales missions :
+Conduite de projets R&D internes
+Veille bibliographique, synthèse et recommandations sur les méthodes d’analyses statistiques de données de métagénomique ciblée ou shotgun
+Développement/Optimisation de workflows d’analyses statistiques et de visualisations
+Mise en place d’approches d’intégration de données en utilisant notamment des approches de machine learning
+Participation à la rédaction de publications scientifiques
+Gestion de projets clients
+Elaboration des hypothèses statistiques en collaboration avec les équipes scientifiques et le client
+Définition des approches méthodologiques
+Conduite des analyses et rédaction de rapports d’études
+Profil recherché :
+Vous avez une formation supérieure en statistiques/data science, dès Bac+4/5 .
+Connaissances en NGS, génomiques et/ou métagénomiques . Expérience démontrée en programmation statistique, notamment R (Shiny serait apprécié) et Python. Vous avez de larges compétences en modélisation statistique (analyse différentielle, lasso, …), machine learning (random forest, PLS, SVM, …) et intégration/analyse de données hétérogènes et grandes dimensions . Connaissances en analyses de réseaux seraient un plus . Bon niveau d’anglais scientifique . Capacité à interagir dans un environnement pluridisciplinaire . Autonomie, rigueur, très bon relationnel, esprit de synthèse et d’initiative
+Avantages proposés :
+Filiale appartenant à un groupe reconnu dans le monde
+Excellente image de marque dans son domaine d’activité
+Polyvalence dans les missions
+Autonomie
+Equipe dynamique
+Conditions d’emploi :
+Poste à pouvoir ASAP
+Salaire 40 K € brut annuel + partie variable + avantages groupe (TR, mutuelle, etc.)
+Si vous vous reconnaissez dans ces compétences, que vous souhaitez mettre en avant votre relationnel, vos idées, que vous aimez le travail d'équipe... alors notre offre est faite pour vous ! merci d’envoyer votre CV et lettre de motivation – Réf.DATA-44-2019 à l’attention de M. BILLAUD
+Type d'emploi : CDI
+Expérience:
+data scientist: 1 an (Souhaité)
+programmation statistique: 1 an (Souhaité)
+conduite de projets: 1 an (Souhaité)
+Formation:
+Bac +4 (Maîtrise) (Souhaité)
+Lieu:
+Saint-Herblain (44) (Souhaité)
+Certificats et autres accréditations:
+Permis B (Souhaité)
+Langue:
+anglais (Souhaité)"
+29,https://www.indeed.fr/emplois?q=Data%20Scientist&l=Nantes&radius=100&limit=100&sort=date&vjk=0b8ffc1e4b29833e&advn=760911243417165,"Ingénieur Junior Developpement Software (Relocalisation BE ou DE)
+The AKKAdemy5 avis - France","['France', 'Temps plein, Autre, CDI']",Ingénieur Junior Developpement Software (Relocalisation BE ou DE),The AKKAdemy,- France,"Temps plein, Autre, CDI",null,"il y a 30+ jours
+Signaler cette offre d'emploi",Data Scientist,Nantes,"Please note that we can only consider candidates with EU citizenship.
+With more than 21’000 skilled engineers and a solid presence in Europe, Asia and America, the AKKA Technologies Group is one of the leaders among European consulting engineering companies, always eager to meet the highest quality standards.
+Our Mission
+To keep pace with this fast-changing world, AKKA Technologies set up an
+International Graduate Engineering Program, providing young talents with the opportunity to build a successful career and acquire a lifelong set of consulting skills
+Must-Have
+EU citizenship
+Master’s Degree or PhD
+Proficient in English. French and/or German are a big plus
+What is your benefit to participate in this Program?
+A permanent contract from day one
+A career path inside The AKKA Technologies Group with highly diversified sectors
+You will be challenged in order to solve, create and innovate
+Unlimited Access to Online training (Udemy Business, Rosetta Stone online language courses)
+A competitive salary and compensation package (International Health Insurance and much more)
+Our International Graduate Program addresses those who have a genuine passion for technologies. As a part of a digital transformation program, we created The AKKAdemy. Bringing together high-potential engineers from all over Europe and train them to become the next generation of top engineering consultants – capable of meeting our clients' most difficult innovation & business challenges.
+Roadmap of this Program
+The AKKAdemy: 1 month in Geneva (Switzerland)
+Hands-On-Project: 12 months in France, Belgium, Netherlands or Germany
+Graduation and next step in the Group
+Types of roles you can expect:
+Information Technologies:
+Software Engineers / Test Engineers / Computer Engineers /
+AI Engineers / Big Data Engineers / Data Scientists /
+Electronic Engineers / Embedded Software Engineers /
+UX-UI Designers / App Developers / Junior Software Developer /
+Cyber Security Engineers
+With one or more of the following skills(non-exhaustive list):
+Programming languages: Java, C/C++, C#, .NET, JavaScript or Python, etc.
+Advanced knowledge in: Object-Oriented Design Principles, Data Structures, Algorithms, SQL/NoSQL, Operating Systems, and Software Engineering, etc.
+Engineering
+Automotive Engineers / Aeronautic-space Engineers /
+Mechatronic Engineers / Electrical Engineers /
+Electronic Engineers / Hardware Engineers /
+Embedded Systems Engineers or similar.
+With one or more of the following skills (non-exhaustive list):
+Simulators: Matlab, Simulink, PSpice, GT Power, Dymola, etc.
+CAD/CAM/CAE-Tools: CATIA V5, Siemens NX, Creo, etc.
+Testing-Tools: CANoe / CANape, CANalyzer, INCA, DiagRA, etc.
+Looking forward for your application!
+Job Types: Full-time, New-Grad, Permanent
+Education:
+Master's (Preferred)
+License:
+EU Citizenship (Required)
+Language:
+English (Required)
+French (Preferred)
+German (Preferred)"
+30,https://www.indeed.fr/emplois?q=Data%20Scientist&l=Nantes&radius=100&limit=100&sort=date&vjk=279db3e527318963&advn=6679598084157165,"Data Scientist en Pistage H/F
+Page Personnel202 avis - Nantes (44)","['Nantes (44)', 'CDI']",Data Scientist en Pistage H/F,Page Personnel,- Nantes (44),CDI,null,"ouestfrance-emploi.com - il y a 9 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Scientist,Nantes,"A ce titre, vos principales missions sont les suivantes :
+Etudier et réaliser une architecture des modules de pistage existants, puis réaliser des algorithmes en pistage et en trajectographie nouvelle génération,
+Réaliser la veille technologique au niveau R&D (participation à des salons, conférences),
+Proposer et réaliser des sujets et études de R&D (en lien avec les entités opérationnelles),
+Assurer la réalisation d'études et d'expertise dans votre domaine (sur sollicitation, sur réponse à ETO DGA...),j
+Participer à la rédaction des réponses sur projets DGA (ASTRID, PST...), européens (H2020).
+Profil : Vous êtes diplômé idéalement d'un Bac +5 minimum spécialisé en mathématiques appliquées et vous possédez au moins une expérience dans le domaine industriel en tant que Data Scientist.
+La maîtrise de méthodes/langages/d'outils de traitement des données scientifiques sont requis au poste (Matlab, Python). Des connaissances quant à la méthode des moindres carrés, ainsi que l'utilisation du filtre de Kalman sont nécessaires. La notion des langages C, C++; Java est un plus. Ce poste est ouvert aux sites d'Indret et d'Ollioules.
+
+Conditions et Avantages
+
+N/C
+
+Entreprise : Page Personnel
+Naval Group, leader européen du naval de défense est l'un des rares industriels dans le monde capable de concevoir, réaliser et entretenir des systèmes aussi pointus qu'un sous-marin, un porte-avions ou un navire. Les projets complexes vous attirent et l'innovation est votre moteur ? Rejoignez nos équipes et participez à la grande aventure du naval de défense.
+
+Métier : Études et prospectives socio-économiques - Organisation et études - Support à l'entreprise - Data scientist"
+31,https://www.indeed.fr/emplois?q=Data%20Scientist&l=Nantes&radius=100&limit=100&sort=date&vjk=f6d61e9a595fbf39&advn=7203674760985397,"DATA SCIENTIST JUNIOR H/F NANTES
+Umanis35 avis - Loire-Atlantique",['Loire-Atlantique'],DATA SCIENTIST JUNIOR H/F NANTES,Umanis,- Loire-Atlantique,null,null,"Handi-it.fr - il y a 18 jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Scientist,Nantes,"LE LEADER FRANCAIS DE LA DATA RECRUTE.Rejoindre Umanis, c'est participer à une formidable aventure, celle d'une entreprise française en croissance continue, reconnue pour sa capacité d'innovation et son dynamisme.Umanis, c'est plus de 2700 passionnés de nouvelles technologies qui partagent les mêmes valeurs qu sont l'excellence, la responsabilité, le respect et la convivialité.Umanis, c'est une communauté avec une moyenne d'âge de 35 ans qui intervient en ingénierie de pointe sur les projets stratégiques des plus grands donneurs d'ordre ou pour le compte d'entreprises pour qui la data est vecteur de transformation.Umanis, c'est un management et une organisation au plus proche de ses collaborateurs pour vous accompagner dans votre parcours professionnel. Formation, certifications, MOOC, CPEC ; nous avons à coeur de vous faire évoluer en continu.Le data scientist est un expert de la gestion et de l'analyse pointue de données massives (""big data""). Il détermine à partir de sources de données multiples et dispersées, des indicateurs permettant la mise en place d'une stratégie répondant à une problématique. Il est donc spécialisé en statistique, informatique et connait parfaitement le secteur ou la fonction d'application des données analyséesVOS MISSIONS:Les tâches principales du data scientist sont :
+Identifier les besoins et la problématique des directions métiers
+Définir une modélisation statistique qui permette de répondre à la problématique
+Construire des outils d'analyse pour collecter les données de l'entreprise
+Sourcer et rassembler l'ensemble des sources de données structurées ou non structurées nécessaires à l'analyse et pertinentes
+Organiser, étudier et synthétiser ces sources de données sour forme de résultats exploitables
+Modéliser les comportements et en extraire de nouveaux usages utilisateurs
+Proposer des modes de collecte et traitements
+Participer à la proposition de stratégies ou préconisations client
+Mettre en valeur, diffuser et vulgariser la donnée pour le client et son équipeCompétences souhaités: Python, JavaScript, Pl/sqlCOMPETENCES REQUISES:Analyses qualitatives et quantitatives (Intermédiaire), Anglais (Intermédiaire), Conception d'ouvrages, produits ou événements (Débutant), Développement d'ouvrages, produits ou événements (Débutant), Maîtrise des logiciels (Intermédiaire), Résolution de problèmes complexes (Débutant), Veille, analyse et gestion documentaire (Intermédiaire)En 2019, Umanis recrute 1000 nouveaux talents sur l'ensemble du territoire français. Et si c'était vous ?"
+32,https://www.indeed.fr/emplois?q=Data%20Scientist&l=Nantes&radius=100&limit=100&sort=date&vjk=136ff66586687a70&advn=7203674760985397,"Stage_Consultant Data Scientist (H/F)
+CGI2,509 avis - France","['France', 'Stage']",Stage_Consultant Data Scientist (H/F),CGI,- France,Stage,null,"Handi-it.fr - il y a 30+ jours
+- Continuer pour postuler
+Signaler cette offre d'emploi",Data Scientist,Nantes,"Stage_Consultant Data Scientist (H/F)
+
+Description de poste
+En rejoignant CGI, entreprise canadienne et leader mondial du conseil et des services numériques, vous serez au cœur de la transformation digitale des entreprises et de la société.
+Intelligence artificielle, blockchain, cybersecurité, transformation des modèles économiques, autant d’enjeux qui rythmeront votre quotidien aux côtés de nos professionnels. Cette année, nous proposons 900 stages pré-embauche.
+
+Pour assister le développement de nouvelles activités liées à l’analyse de données, nous recherchons un Data Scientist. Le Data Scientist valorise l’ensemble des données pour en faire un levier de création de valeurs pour l’entreprise. Il analyse des masses de données hétérogènes, éventuellement non structurées, pour en extraire de la connaissance utile à l’optimisation des offres et services de l’entreprise et développer des algorithmes prédictifs.
+
+Fonctions et responsabilités
+Extraction, uniformisation et structuration des données pour les analyser.
+Définir les outils et méthodes d’acquisition, les solutions de stockage et la structuration des données.
+Mettre en œuvre et garantir la modélisation statistique des données.
+Développer des algorithmes d’apprentissage et scénarios prédictifs
+Étudier et mettre en place les meilleures solutions techniques pour gérer les grands volumes de données.
+Tester, contrôler la qualité et la cohérence des bases de données.
+Réalisation de PoC (Proof of Concept) pour le client et présentation des résultats devant les interlocuteurs
+
+Technologies utilisées : SQL, R, Python (Scikit learn, Pandas)
+
+Qualités requises pour réussir dans ce rôle
+Diplôme universitaire Bac +5 (Master en statistiques et marketing, informatique, statistique et informatique décisionnelle, économétrie) ou école d’ingénieurs ou Master spécialisé Big data, Data Science, analyse, ou Doctorat en informatique, en mathématiques, en statistiques ou en modélisation des données
+
+A compétence égale, ce stage est ouvert aux personnes en situation de handicap.
+
+Donnez un élan à votre carrière.
+
+Le secteur des technologies de l’information (TI) connaît une période extraordinaire. La transformation numérique des organisations continue de s’accélérer, et CGI est au premier plan de ce changement. Nous accompagnons nos clients dans leur démarche numérique et offrons à nos professionnels des opportunités de carrière stimulantes.
+
+La réussite de CGI repose sur le talent et l’engagement de nos professionnels. Ensemble, nous relevons les défis et partageons les bénéfices issus de la croissance de notre entreprise. Cette approche renforce notre culture d’actionnaire-propriétaire ainsi, tous nos professionnels bénéficient de la valeur que nous créons collectivement.
+
+Joignez-vous à nous pour prendre part à la croissance de l’une des plus importantes entreprises indépendantes de services en technologies de l’information (TI) et en gestion des processus d’affaires au monde.
+
+Pour en savoir davantage à propos de CGI : www.cgi.com.
+
+Les candidatures non sollicitées provenant de cabinets de recrutement ne seront pas retenues.
+
+CGI favorise l’équité en matière d’emploi.
+
+Pandas Python Scikit-Learn SQL
+
+Pour CGI, entreprise handi-accueillante, les personnes en situation de handicap sont des priorités essentielles de la politique de ressources humaines. Nos offres d’emploi sont ainsi accessibles aux personnes disposant d’une RQTH."
