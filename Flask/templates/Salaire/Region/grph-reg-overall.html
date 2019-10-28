@@ -1,0 +1,16 @@
+{% extends "./header.html" %}
+{% block body %}
+
+
+<div class="bloc-duo-1">
+    <div class="graph-1"> 
+      <embed type="image/svg+xml" src={{main_data6|safe}} style='min-width:850px'/>
+    </div>
+    <div class = "graph-2">
+      <embed type="image/svg+xml" src={{main_data7|safe}} style='min-width:850px;'/>
+    </div>
+</div>
+
+<button class="goback" onclick="goBack()">Go Back</button>
+
+  {% endblock %}

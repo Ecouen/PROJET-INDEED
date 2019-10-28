@@ -5,21 +5,22 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Python's dashboard</title>
+    <link href="https://fonts.googleapis.com/css?family=Liu+Jian+Mao+Cao&display=swap" rel="stylesheet"> 
+    <link href="https://fonts.googleapis.com/css?family=Crimson+Text&display=swap" rel="stylesheet"> 
     <link rel="stylesheet" href="{{ url_for('static', filename ='css/bootstrap.min.css') }}">
+    <link rel="stylesheet" href="http://cdn.pydata.org/bokeh/release/bokeh-1.3.4.min.css" type="text/css" />
     <link rel="stylesheet" href="{{ url_for('static', filename ='css/style.css') }}">
     <link rel="shortcut icon" href="{{ url_for('static', filename ='favicon.ico') }}">
+      {{ script|safe }}
 </head>
 <body>
 
 <header>
   <nav class="navbar navbar-expand-lg navbar-light">
-  <a class="navbar-brand" href="/" style="color: black;"> <img src="{{ url_for('static', filename ='images/logo_stats.png') }}" alt=""> PROJECT INDEED</a>
+  <a class="navbar-brand" href="/" style="color: black;"> <img src="{{ url_for('static', filename ='images/logo_stats.png') }}" alt=""> <span id = "logo"> PROJECT INDEED </span></a>
   <ul class="nav nav-pills">
       <li class="nav-item">
-        <a class="nav-link active" href="#">Home</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Link</a>
+        <a class="nav-link active" id = "button-hom" href="/">Home</a>
       </li>
     </ul>
 
@@ -28,9 +29,7 @@
       Les graphs
     </button>
     <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-      <a class="dropdown-item" href="#">1er graph</a>
-      <a class="dropdown-item" href="#">2nd graph</a>
-      <a class="dropdown-item" href="#">3eme graph</a>
+      <a class="dropdown-item" href="Salaires">Salaires</a>
     </div>
 </div>
   </nav>
@@ -40,17 +39,43 @@
 </header>
 
 <body>
+  <div class="bloc-1">
+    <div class="card-1">
+      <div class="bg-stats">
+        <h1> {{ test  }}</h1>
+        <p> Annonces dans la BDD. </p>    
+      </div>
+      <div class="bg-stats"> 
+          <h1>{{ moyenne }} €</h1>
+          <p> Salaire moyen des annonces. </p>   
+      </div>
+      <div class="bg-stats">
+          <h1>5</h1>   
+          <p> Nombres de villes étudiées </p> 
+      </div>
+    </div>
+      
+    <div class="bloc-solo-1">
+      <div class="graph-center"> 
+        <embed type="image/svg+xml" src={{main_data|safe}} style='max-width:900px; margin-left: 120px'/>
+        
+      </div>
+    </div>
+  </div>
+
+  <footer>
+    <div class="logos-footer">
+    <a href="https://simplon.co/"><img src="{{ url_for('static', filename ='images/Simplon.png') }}" id="Simplon-logo" alt="Logo Simplon"></a>
+    <a href="https://www.avanade.com/fr-fr"><img src="{{ url_for('static', filename ='images/avanade.png') }}" id="Avanade-logo" alt="Logo Avanade"></a>
+    </div>
+  </footer>
+
   <script
-  src="http://code.jquery.com/jquery-3.4.1.js"
-  integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU="
-  crossorigin="anonymous"></script>
-	<script type="text/javascript" src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
-</body>
-
-<p>Hey there ! Voici notre Dashboard Flask !</p> 
-
-
-
+src="http://code.jquery.com/jquery-3.4.1.js"
+integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU="
+crossorigin="anonymous"></script>
+<script type="text/javascript" src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
+<script type="text/javascript" src="http://cdn.pydata.org/bokeh/release/bokeh-1.3.4.min.js"></script>
 </body>
 </html>
 
