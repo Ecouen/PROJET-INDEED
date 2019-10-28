@@ -180,8 +180,8 @@ def Graphs_reg():
     graph_data6 = chart6.render_data_uri()
 
     chart7 = pygal.Bar(style = custom_style)
-    chart7.title = 'Médianne des salaires par région'
-    chart7.x_labels = ['Médianne']
+    chart7.title = 'Médiane des salaires par région'
+    chart7.x_labels = ['Médiane']
     chart7.add("Toulouse", Sal_median_region[0])
     chart7.add("Bordeaux", Sal_median_region[1])
     chart7.add("Nantes", Sal_median_region[2])
@@ -197,7 +197,7 @@ def Graphs_reg():
 def Graphs_ovrl_reg():
 
     chart4 = pygal.Bar(style = custom_style)
-    chart4.title = 'Médianne des salaires correspondant a chaque catégorie de métier'
+    chart4.title = 'Médiane des salaires correspondant a chaque catégorie de métier'
     chart4.x_labels = loc
     chart4.add("Salaire data", sal_data_med)
     chart4.add("Salaire dev", sal_dev_med)
@@ -215,14 +215,14 @@ def Graphs_ovrl_reg():
 @app.route('/Salaires/SalExp')
 def Sal_per_exp():
 
-    chart10 = pygal.Bar(style = custom_style)
+    chart10 = pygal.Bar(style = custom_style, show_legend=False)
     chart10.title = "Moyenne des salaires en fonction de l'éxperience"
     chart10.x_labels = ["-3 ans", "3 à 5 ans", "+5 ans"]
     chart10.add("Salaire Moyen", mean_salary_xp)
     graph_data10 = chart10.render_data_uri()
 
 
-    chart9 = pygal.Bar(style = custom_style)
+    chart9 = pygal.Bar(style = custom_style, show_legend=False)
     chart9.title = "Médiane des salaires en fonction de l'éxperience"
     chart9.x_labels = ["-3 ans", "3 à 5 ans", "+5 ans"]
     chart9.add("Salaire median", med_salary_xp)
